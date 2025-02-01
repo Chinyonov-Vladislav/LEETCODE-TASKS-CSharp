@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CD4CBC41-A54A-4AFC-9368-475825984C82}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>LeetCode</RootNamespace>
+    <AssemblyName>LeetCode</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="xunit.abstractions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=8d05b1bb7a6fdb6c, processorArchitecture=MSIL">
+      <HintPath>..\packages\xunit.abstractions.2.0.3\lib\net35\xunit.abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="xunit.assert, Version=2.9.3.0, Culture=neutral, PublicKeyToken=8d05b1bb7a6fdb6c, processorArchitecture=MSIL">
+      <HintPath>..\packages\xunit.assert.2.9.3\lib\netstandard1.1\xunit.assert.dll</HintPath>
+    </Reference>
+    <Reference Include="xunit.core, Version=2.9.3.0, Culture=neutral, PublicKeyToken=8d05b1bb7a6fdb6c, processorArchitecture=MSIL">
+      <HintPath>..\packages\xunit.extensibility.core.2.9.3\lib\net452\xunit.core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Basic\ActionOnTask.cs" />
+    <Compile Include="Basic\Difficult.cs" />
+    <Compile Include="Basic\InfoBasicTask.cs" />
+    <Compile Include="Basic\ListNode.cs" />
+    <Compile Include="Basic\Node.cs" />
+    <Compile Include="Basic\TaskWithTimer.cs" />
+    <Compile Include="Basic\TreeNode.cs" />
+    <Compile Include="Main.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tasks\task1002\Task1002.cs" />
+    <Compile Include="Tasks\task1005\Task1005.cs" />
+    <Compile Include="Tasks\task100\Task100.cs" />
+    <Compile Include="Tasks\task101\Task101.cs" />
+    <Compile Include="Tasks\task1022\Task1022.cs" />
+    <Compile Include="Tasks\task1046\Task1046.cs" />
+    <Compile Include="Tasks\task104\Task104.cs" />
+    <Compile Include="Tasks\task1051\Task1051.cs" />
+    <Compile Include="Tasks\task1071\Task1071.cs" />
+    <Compile Include="Tasks\task1089\Task1089.cs" />
+    <Compile Include="Tasks\task108\Task108.cs" />
+    <Compile Include="Tasks\task1009\Task1009.cs" />
+    <Compile Include="Tasks\task111\Task111.cs" />
+    <Compile Include="Tasks\task112\Task112.cs" />
+    <Compile Include="Tasks\task1154\Task1154.cs" />
+    <Compile Include="Tasks\task1160\Task1160.cs" />
+    <Compile Include="Tasks\task1189\Task1189.cs" />
+    <Compile Include="Tasks\task118\Task118.cs" />
+    <Compile Include="Tasks\task119\Task119.cs" />
+    <Compile Include="Tasks\task11\Task11.cs" />
+    <Compile Include="Tasks\task1207\Task1207.cs" />
+    <Compile Include="Tasks\task121\Task121.cs" />
+    <Compile Include="Tasks\task1221\Task1221.cs" />
+    <Compile Include="Tasks\task125\Task125.cs" />
+    <Compile Include="Tasks\task12\Task12.cs" />
+    <Compile Include="Tasks\task136\Task136.cs" />
+    <Compile Include="Tasks\task13\Task13.cs" />
+    <Compile Include="Tasks\task141\Task141.cs" />
+    <Compile Include="Tasks\task144\Task144.cs" />
+    <Compile Include="Tasks\task145\Task145.cs" />
+    <Compile Include="Tasks\task14\Task14.cs" />
+    <Compile Include="Tasks\task160\Task160.cs" />
+    <Compile Include="Tasks\task168\Task168.cs" />
+    <Compile Include="Tasks\task169\Task169.cs" />
+    <Compile Include="Tasks\task190\Task190.cs" />
+    <Compile Include="Tasks\task191\Task191.cs" />
+    <Compile Include="Tasks\task19\Task19.cs" />
+    <Compile Include="Tasks\task1\Task1.cs" />
+    <Compile Include="Tasks\task1\Task1WithTimer.cs" />
+    <Compile Include="Tasks\task202\Task202.cs" />
+    <Compile Include="Tasks\task203\Task203.cs" />
+    <Compile Include="Tasks\task205\Task205.cs" />
+    <Compile Include="Tasks\task206\Task206.cs" />
+    <Compile Include="Tasks\task20\Task20.cs" />
+    <Compile Include="Tasks\task217\Task217.cs" />
+    <Compile Include="Tasks\task219\Task219.cs" />
+    <Compile Include="Tasks\task21\Task21.cs" />
+    <Compile Include="Tasks\task226\Task226.cs" />
+    <Compile Include="Tasks\task228\Task228.cs" />
+    <Compile Include="Tasks\task231\Task231.cs" />
+    <Compile Include="Tasks\task234\Task234.cs" />
+    <Compile Include="Tasks\task23\Task23.cs" />
+    <Compile Include="Tasks\task242\Task242.cs" />
+    <Compile Include="Tasks\task257\Task257.cs" />
+    <Compile Include="Tasks\task258\Task258.cs" />
+    <Compile Include="Tasks\task263\Task263.cs" />
+    <Compile Include="Tasks\task268\Task268.cs" />
+    <Compile Include="Tasks\task26\Task26.cs" />
+    <Compile Include="Tasks\task2788\Task2788.cs" />
+    <Compile Include="Tasks\task27\Task27.cs" />
+    <Compile Include="Tasks\task283\Task283.cs" />
+    <Compile Include="Tasks\task28\Task28.cs" />
+    <Compile Include="Tasks\task290\Task290.cs" />
+    <Compile Include="Tasks\task292\Task292.cs" />
+    <Compile Include="Tasks\task29\Task29.cs" />
+    <Compile Include="Tasks\task2\Task2.cs" />
+    <Compile Include="Tasks\task30%28not working%29\task30.cs" />
+    <Compile Include="Tasks\task303\NumArray.cs" />
+    <Compile Include="Tasks\task303\Task303.cs" />
+    <Compile Include="Tasks\task326\Task326.cs" />
+    <Compile Include="Tasks\task338\Task338.cs" />
+    <Compile Include="Tasks\task342\Task342.cs" />
+    <Compile Include="Tasks\task344\Task344.cs" />
+    <Compile Include="Tasks\task345\Task345.cs" />
+    <Compile Include="Tasks\task349\Task349.cs" />
+    <Compile Include="Tasks\task34\Task34.cs" />
+    <Compile Include="Tasks\task350\Task350.cs" />
+    <Compile Include="Tasks\task35\Task35.cs" />
+    <Compile Include="Tasks\task367\Task367.cs" />
+    <Compile Include="Tasks\task36\Task36.cs" />
+    <Compile Include="Tasks\task383\Task383.cs" />
+    <Compile Include="Tasks\task387\Task387.cs" />
+    <Compile Include="Tasks\task389\Task389.cs" />
+    <Compile Include="Tasks\task392\Task392.cs" />
+    <Compile Include="Tasks\task3\Task3.cs" />
+    <Compile Include="Tasks\task401\Task401.cs" />
+    <Compile Include="Tasks\task404\Task404.cs" />
+    <Compile Include="Tasks\task414\Task414.cs" />
+    <Compile Include="Tasks\task415\Task415.cs" />
+    <Compile Include="Tasks\task409\Task409.cs" />
+    <Compile Include="Tasks\task412\Task412.cs" />
+    <Compile Include="Tasks\task434\Task434.cs" />
+    <Compile Include="Tasks\task441\Task441.cs" />
+    <Compile Include="Tasks\task448\Task448.cs" />
+    <Compile Include="Tasks\task455\Task455.cs" />
+    <Compile Include="Tasks\task459\Task459.cs" />
+    <Compile Include="Tasks\task461\Task461.cs" />
+    <Compile Include="Tasks\task463\Task463.cs" />
+    <Compile Include="Tasks\task476\Task476.cs" />
+    <Compile Include="Tasks\task482\Task482.cs" />
+    <Compile Include="Tasks\task485\Task485.cs" />
+    <Compile Include="Tasks\task495\Task495.cs" />
+    <Compile Include="Tasks\task500\Task500.cs" />
+    <Compile Include="Tasks\task501\Task501.cs" />
+    <Compile Include="Tasks\task506\Task506.cs" />
+    <Compile Include="Tasks\task507\Task507.cs" />
+    <Compile Include="Tasks\task509\Task509.cs" />
+    <Compile Include="Tasks\task520\Task520.cs" />
+    <Compile Include="Tasks\task521\Task521.cs" />
+    <Compile Include="Tasks\task541\Task541.cs" />
+    <Compile Include="Tasks\task543\Task543.cs" />
+    <Compile Include="Tasks\task551\Task551.cs" />
+    <Compile Include="Tasks\task557\Task557.cs" />
+    <Compile Include="Tasks\task559\Task559.cs" />
+    <Compile Include="Tasks\task561\Task561.cs" />
+    <Compile Include="Tasks\task566\Task566.cs" />
+    <Compile Include="Tasks\task572\Task572.cs" />
+    <Compile Include="Tasks\task575\Task575.cs" />
+    <Compile Include="Tasks\task589\Task589.cs" />
+    <Compile Include="Tasks\task58\Task58.cs" />
+    <Compile Include="Tasks\task594\Task594.cs" />
+    <Compile Include="Tasks\task598\Task598.cs" />
+    <Compile Include="Tasks\task599\Task599.cs" />
+    <Compile Include="Tasks\task5\Task5.cs" />
+    <Compile Include="Tasks\task605\Task605.cs" />
+    <Compile Include="Tasks\task617\Task617.cs" />
+    <Compile Include="Tasks\task628\Task628.cs" />
+    <Compile Include="Tasks\task643\Task643.cs" />
+    <Compile Include="Tasks\task645\Task645.cs" />
+    <Compile Include="Tasks\task653\Task653.cs" />
+    <Compile Include="Tasks\task657\Task657.cs" />
+    <Compile Include="Tasks\task661\Task661.cs" />
+    <Compile Include="Tasks\task66\Task66.cs" />
+    <Compile Include="Tasks\task671\Task671.cs" />
+    <Compile Include="Tasks\task674\Task674.cs" />
+    <Compile Include="Tasks\task67\Task67.cs" />
+    <Compile Include="Tasks\task680\Task680.cs" />
+    <Compile Include="Tasks\task682\Task682.cs" />
+    <Compile Include="Tasks\task693\Task693.cs" />
+    <Compile Include="Tasks\task697\Task697.cs" />
+    <Compile Include="Tasks\task69\Task69.cs" />
+    <Compile Include="Tasks\task700\Task700.cs" />
+    <Compile Include="Tasks\task703\KthLargest.cs" />
+    <Compile Include="Tasks\task703\Task703.cs" />
+    <Compile Include="Tasks\task704\Task704.cs" />
+    <Compile Include="Tasks\task705\MyHashSet.cs" />
+    <Compile Include="Tasks\task705\Task705.cs" />
+    <Compile Include="Tasks\task724\Task724.cs" />
+    <Compile Include="Tasks\task728\Task728.cs" />
+    <Compile Include="Tasks\task733\Task733.cs" />
+    <Compile Include="Tasks\task744\Task744.cs" />
+    <Compile Include="Tasks\task747\Task747.cs" />
+    <Compile Include="Tasks\task748\Task748.cs" />
+    <Compile Include="Tasks\task762\Task762.cs" />
+    <Compile Include="Tasks\task766\Task766.cs" />
+    <Compile Include="Tasks\task771\Task771.cs" />
+    <Compile Include="Tasks\task796\Task796.cs" />
+    <Compile Include="Tasks\task7\Task7.cs" />
+    <Compile Include="Tasks\task804\Task804.cs" />
+    <Compile Include="Tasks\task806\Task806.cs" />
+    <Compile Include="Tasks\task812\Task812.cs" />
+    <Compile Include="Tasks\task819\Task819.cs" />
+    <Compile Include="Tasks\task821\Task821.cs" />
+    <Compile Include="Tasks\task824\Task824.cs" />
+    <Compile Include="Tasks\task830\Task830.cs" />
+    <Compile Include="Tasks\task832\Task832.cs" />
+    <Compile Include="Tasks\task836\Task836.cs" />
+    <Compile Include="Tasks\task83\Task83.cs" />
+    <Compile Include="Tasks\task844\Task844.cs" />
+    <Compile Include="Tasks\task860\Task860.cs" />
+    <Compile Include="Tasks\task867\Task867.cs" />
+    <Compile Include="Tasks\task868\Task868.cs" />
+    <Compile Include="Tasks\task872\Task872.cs" />
+    <Compile Include="Tasks\task876\Task876.cs" />
+    <Compile Include="Tasks\task884\Task884.cs" />
+    <Compile Include="Tasks\task88\Task88.cs" />
+    <Compile Include="Tasks\task896\Task896.cs" />
+    <Compile Include="Tasks\task897\Task897.cs" />
+    <Compile Include="Tasks\task8\Task8.cs" />
+    <Compile Include="Tasks\task905\Task905.cs" />
+    <Compile Include="Tasks\task917\Task917.cs" />
+    <Compile Include="Tasks\task922\Task922.cs" />
+    <Compile Include="Tasks\task925\Task925.cs" />
+    <Compile Include="Tasks\task929\Task929.cs" />
+    <Compile Include="Tasks\task938\Task938.cs" />
+    <Compile Include="Tasks\task941\Task941.cs" />
+    <Compile Include="Tasks\task944\Task944.cs" />
+    <Compile Include="Tasks\task94\Task94.cs" />
+    <Compile Include="Tasks\task961\Task961.cs" />
+    <Compile Include="Tasks\task965\Task965.cs" />
+    <Compile Include="Tasks\task976\Task976.cs" />
+    <Compile Include="Tasks\task977\Task977.cs" />
+    <Compile Include="Tasks\task989\Task989.cs" />
+    <Compile Include="Tasks\task993\Task993.cs" />
+    <Compile Include="Tasks\task997\Task997.cs" />
+    <Compile Include="Tasks\task9\Task9.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Tasks\task459\info.txt" />
+    <Content Include="Tasks\task543\info.txt" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
