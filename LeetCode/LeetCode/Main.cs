@@ -193,6 +193,7 @@ using LeetCode.Tasks.task1154;
 using LeetCode.Tasks.task1221;
 using LeetCode.Tasks.task2788;
 using LeetCode.Tasks.task1071;
+using LeetCode.Tasks.task1128;
 
 namespace LeetCode
 {
@@ -396,7 +397,8 @@ namespace LeetCode
                 new Task1154(1154,"День в году","",Difficult.easy),
                 new Task1221(1221,"Разделите строку на сбалансированные строки","", Difficult.easy),
                 new Task2788(2788,"Разделение строк с помощью разделителя","",Difficult.easy),
-                new Task1071(1071,"Наибольший общий делитель строк","",Difficult.easy)
+                new Task1071(1071,"Наибольший общий делитель строк","",Difficult.easy),
+                new Task1128(1128,"Количество эквивалентных пар домино","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
