@@ -1,389 +1,389 @@
 Проект (консольное приложение .NET Framework) решения задач с сайта leetcode.com на языке программирования C#  
 Чинёнов Владислав Евгеньевич  
 ---Наименование задач---  
-✅ Задача 1 - "Two Sum (Сумма двух)"  
+✅ [Задача 1](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1/Task1.cs) - "Two Sum (Сумма двух)"  
 Ссылка: [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)  
-✅ Задача 100 - "Same Tree"  
+✅ [Задача 100](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task100/Task100.cs) - "Same Tree"  
 Ссылка: [https://leetcode.com/problems/same-tree/](https://leetcode.com/problems/same-tree/)  
-✅ Задача 1002 - "Find Common Characters"  
+✅ [Задача 1002](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1002/Task1002.cs) - "Find Common Characters"  
 Ссылка: [https://leetcode.com/problems/find-common-characters/](https://leetcode.com/problems/find-common-characters/)  
-✅ Задача 1005 - "Maximize Sum Of Array After K Negations"  
+✅ [Задача 1005](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1005/Task1005.cs) - "Maximize Sum Of Array After K Negations"  
 Ссылка: [https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)   
-✅ Задача 1009 - "Complement of Base 10 Integer"  
+✅ [Задача 1009](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1009/Task1009.cs) - "Complement of Base 10 Integer"  
 Ссылка: [https://leetcode.com/problems/complement-of-base-10-integer/](https://leetcode.com/problems/complement-of-base-10-integer/)   
-✅ Задача 101 - "Symmetric Tree"  
+✅ [Задача 101](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task101/Task101.cs) - "Symmetric Tree"  
 Ссылка: [https://leetcode.com/problems/symmetric-tree/](https://leetcode.com/problems/symmetric-tree/)  
-✅ Задача 1022 - "Sum of Root To Leaf Binary Numbers"  
+✅ [Задача 1022](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1022/Task1022.cs) - "Sum of Root To Leaf Binary Numbers"  
 Ссылка: [https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)  
-✅ Задача 104 - "Maximum Depth of Binary Tree"  
+✅ [Задача 104](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task104/Task104.cs) - "Maximum Depth of Binary Tree"  
 Ссылка: [https://leetcode.com/problems/maximum-depth-of-binary-tree/](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  
-✅ Задача 1046 - "Last Stone Weight"  
+✅ [Задача 1046](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1046/Task1046.cs) - "Last Stone Weight"  
 Ссылка: [https://leetcode.com/problems/last-stone-weight/](https://leetcode.com/problems/last-stone-weight/)  
-✅ Задача 1051 - "Height Checker"  
+✅ [Задача 1051](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1051/Task1051.cs) - "Height Checker"  
 Ссылка: [https://leetcode.com/problems/height-checker/](https://leetcode.com/problems/height-checker/)  
-✅ Задача 1071 - "Greatest Common Divisor of Strings"  
+✅ [Задача 1071](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1071/Task1071.cs) - "Greatest Common Divisor of Strings"  
 Ссылка: [https://leetcode.com/problems/greatest-common-divisor-of-strings/](https://leetcode.com/problems/greatest-common-divisor-of-strings/)  
-✅ Задача 108 - "Convert Sorted Array to Binary Search Tree"  
+✅ [Задача 108](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task108/Task108.cs) - "Convert Sorted Array to Binary Search Tree"  
 Ссылка: [https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)  
-✅ Задача 1089 - "Duplicate Zeros"  
+✅ [Задача 1089](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1089/Task1089.cs) - "Duplicate Zeros"  
 Ссылка: [https://leetcode.com/problems/duplicate-zeros/](https://leetcode.com/problems/duplicate-zeros/)  
-✅ Задача 11 - "Container With Most Water"  
+✅ [Задача 11](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task11/Task11.cs) - "Container With Most Water"  
 Ссылка: [https://leetcode.com/problems/container-with-most-water/](https://leetcode.com/problems/container-with-most-water/)  
-✅ Задача 111 - "Minimum Depth of Binary Tree"  
+✅ [Задача 111](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task111/Task111.cs) - "Minimum Depth of Binary Tree"  
 Ссылка: [https://leetcode.com/problems/minimum-depth-of-binary-tree/](https://leetcode.com/problems/minimum-depth-of-binary-tree/)  
-✅ Задача 112 - "Path Sum"  
+✅ [Задача 112](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task112/Task112.cs) - "Path Sum"  
 Ссылка: [https://leetcode.com/problems/path-sum/](https://leetcode.com/problems/path-sum/)  
-✅ Задача 1154 - "Day of the Year"  
+✅ [Задача 1154](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1154/Task1154.cs) - "Day of the Year"  
 Ссылка: [https://leetcode.com/problems/day-of-the-year/](https://leetcode.com/problems/day-of-the-year/)  
-✅ Задача 1160 - "Find Words That Can Be Formed by Characters"  
+✅ [Задача 1160](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1160/Task1160.cs) - "Find Words That Can Be Formed by Characters"  
 Ссылка: [https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)  
-✅ Задача 118 - "Pascal's Triangle"  
+✅ [Задача 118](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task118/Task118.cs) - "Pascal's Triangle"  
 Ссылка: [https://leetcode.com/problems/pascals-triangle/](https://leetcode.com/problems/pascals-triangle/)  
-✅ Задача 1189 - "Maximum Number of Balloons"  
+✅ [Задача 1189](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1189/Task1189.cs) - "Maximum Number of Balloons"  
 Ссылка: [https://leetcode.com/problems/maximum-number-of-balloons/](https://leetcode.com/problems/maximum-number-of-balloons/)  
-✅ Задача 119 - "Pascal's Triangle II"  
+✅ [Задача 119](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task119/Task119.cs) - "Pascal's Triangle II"  
 Ссылка: [https://leetcode.com/problems/pascals-triangle-ii/](https://leetcode.com/problems/pascals-triangle-ii/)  
-✅ Задача 12 - "Integer to Roman"  
+✅ [Задача 12](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task12/Task12.cs) - "Integer to Roman"  
 Ссылка: [https://leetcode.com/problems/integer-to-roman/](https://leetcode.com/problems/integer-to-roman/)  
-✅ Задача 1207 - "Unique Number of Occurrences"  
+✅ [Задача 1207](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1207/Task1207.cs) - "Unique Number of Occurrences"  
 Ссылка: [https://leetcode.com/problems/unique-number-of-occurrences/](https://leetcode.com/problems/unique-number-of-occurrences/)  
-✅ Задача 121 - "Best Time to Buy and Sell Stock"  
+✅ [Задача 121](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task121/Task121.cs) - "Best Time to Buy and Sell Stock"  
 Ссылка: [https://leetcode.com/problems/best-time-to-buy-and-sell-stock/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
-✅ Задача 1221 - "Split a String in Balanced Strings"  
+✅ [Задача 1221](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1221/Task1221.cs) - "Split a String in Balanced Strings"  
 Ссылка: [https://leetcode.com/problems/split-a-string-in-balanced-strings/](https://leetcode.com/problems/split-a-string-in-balanced-strings/)  
-✅ Задача 125 - "Valid Palindrome"  
+✅ [Задача 125](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task125/Task125.cs) - "Valid Palindrome"  
 Ссылка: [https://leetcode.com/problems/valid-palindrome/](https://leetcode.com/problems/valid-palindrome/)  
-✅ Задача 13 - "Roman to Integer"  
+✅ [Задача 13](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task13/Task13.cs) - "Roman to Integer"  
 Ссылка: [https://leetcode.com/problems/roman-to-integer/](https://leetcode.com/problems/roman-to-integer/)  
-✅ Задача 136 - "Single Number"  
+✅ [Задача 136](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task136/Task136.cs) - "Single Number"  
 Ссылка: [https://leetcode.com/problems/single-number/](https://leetcode.com/problems/single-number/)  
-✅ Задача 14 - "Longest Common Prefix"  
+✅ [Задача 14](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task14/Task14.cs) - "Longest Common Prefix"  
 Ссылка: [https://leetcode.com/problems/longest-common-prefix/](https://leetcode.com/problems/longest-common-prefix/)  
-✅ Задача 141 - "Linked List Cycle"  
+✅ [Задача 141](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task141/Task141.cs) - "Linked List Cycle"  
 Ссылка: [https://leetcode.com/problems/linked-list-cycle/](https://leetcode.com/problems/linked-list-cycle/)  
-✅ Задача 144 - "Binary Tree Preorder Traversal"  
+✅ [Задача 144](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task144/Task144.cs) - "Binary Tree Preorder Traversal"  
 Ссылка: [https://leetcode.com/problems/binary-tree-preorder-traversal/](https://leetcode.com/problems/binary-tree-preorder-traversal/)  
-✅ Задача 145 - "Binary Tree Postorder Traversal"  
+✅ [Задача 145](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task145/Task145.cs) - "Binary Tree Postorder Traversal"  
 Ссылка: [https://leetcode.com/problems/binary-tree-postorder-traversal/](https://leetcode.com/problems/binary-tree-postorder-traversal/)  
-✅ Задача 160 - "Intersection of Two Linked Lists"  
+✅ [Задача 160](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task160/Task160.cs) - "Intersection of Two Linked Lists"  
 Ссылка: [https://leetcode.com/problems/intersection-of-two-linked-lists/](https://leetcode.com/problems/intersection-of-two-linked-lists/)  
-✅ Задача 168 - "Excel Sheet Column Title"  
+✅ [Задача 168](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task168/Task168.cs) - "Excel Sheet Column Title"  
 Ссылка: [https://leetcode.com/problems/excel-sheet-column-title/](https://leetcode.com/problems/excel-sheet-column-title/)  
-✅ Задача 169 - "Majority Element"  
+✅ [Задача 169](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task169/Task169.cs) - "Majority Element"  
 Ссылка: [https://leetcode.com/problems/majority-element/](https://leetcode.com/problems/majority-element/)  
-✅ Задача 19 - "Remove Nth Node From End of List"  
+✅ [Задача 19](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task19/Task19.cs) - "Remove Nth Node From End of List"  
 Ссылка: [https://leetcode.com/problems/remove-nth-node-from-end-of-list/](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  
-✅ Задача 190 - "Reverse Bits"  
+✅ [Задача 190](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task190/Task190.cs) - "Reverse Bits"  
 Ссылка: [https://leetcode.com/problems/reverse-bits/](https://leetcode.com/problems/reverse-bits/)  
-✅ Задача 191 - "Number of 1 Bits"  
+✅ [Задача 191](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task191/Task191.cs) - "Number of 1 Bits"  
 Ссылка: [https://leetcode.com/problems/number-of-1-bits/](https://leetcode.com/problems/number-of-1-bits/)  
-✅ Задача 2 - "Add Two Numbers"  
+✅ [Задача 2](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2/Task2.cs) - "Add Two Numbers"  
 Ссылка: [https://leetcode.com/problems/add-two-numbers/](https://leetcode.com/problems/add-two-numbers/)  
-✅ Задача 20 - "Valid Parentheses"  
+✅ [Задача 20](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task20/Task20.cs) - "Valid Parentheses"  
 Ссылка: [https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/valid-parentheses/)  
-✅ Задача 202 - "Happy Number"  
+✅ [Задача 202](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task202/Task202.cs) - "Happy Number"  
 Ссылка: [https://leetcode.com/problems/happy-number/](https://leetcode.com/problems/happy-number/)  
-✅ Задача 203 - "Remove Linked List Elements"  
+✅ [Задача 203](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task203/Task203.cs) - "Remove Linked List Elements"  
 Ссылка: [https://leetcode.com/problems/remove-linked-list-elements/](https://leetcode.com/problems/remove-linked-list-elements/)  
-✅ Задача 205 - "Isomorphic Strings"  
+✅ [Задача 205](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task205/Task205.cs) - "Isomorphic Strings"  
 Ссылка: [https://leetcode.com/problems/isomorphic-strings/](https://leetcode.com/problems/isomorphic-strings/)  
-✅ Задача 206 - "Reverse Linked List"  
+✅ [Задача 206](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task206/Task206.cs) - "Reverse Linked List"  
 Ссылка: [https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/)  
-✅ Задача 21 - "Merge Two Sorted Lists"  
+✅ [Задача 21](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task21/Task21.cs) - "Merge Two Sorted Lists"  
 Ссылка: [https://leetcode.com/problems/merge-two-sorted-lists/](https://leetcode.com/problems/merge-two-sorted-lists/)  
-✅ Задача 217 - "Contains Duplicate"  
+✅ [Задача 217](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task217/Task217.cs) - "Contains Duplicate"  
 Ссылка: [https://leetcode.com/problems/contains-duplicate/](https://leetcode.com/problems/contains-duplicate/)  
-✅ Задача 219 - "Contains Duplicate II"  
+✅ [Задача 219](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task219/Task219.cs) - "Contains Duplicate II"  
 Ссылка: [https://leetcode.com/problems/contains-duplicate-ii/](https://leetcode.com/problems/contains-duplicate-ii/)  
-✅ Задача 226 - "Invert Binary Tree"  
+✅ [Задача 226](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task226/Task226.cs) - "Invert Binary Tree"  
 Ссылка: [https://leetcode.com/problems/invert-binary-tree/](https://leetcode.com/problems/invert-binary-tree/)  
-✅ Задача 228 - "Summary Ranges"  
+✅ [Задача 228](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task228/Task228.cs) - "Summary Ranges"  
 Ссылка: [https://leetcode.com/problems/summary-ranges/](https://leetcode.com/problems/summary-ranges/)  
-✅ Задача 23 - "Merge k Sorted Lists"  
+✅ [Задача 23](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task23/Task23.cs) - "Merge k Sorted Lists"  
 Ссылка: [https://leetcode.com/problems/merge-k-sorted-lists/](https://leetcode.com/problems/merge-k-sorted-lists/)  
-✅ Задача 231 - "Power of Two"  
+✅ [Задача 231](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task231/Task231.cs) - "Power of Two"  
 Ссылка: [https://leetcode.com/problems/power-of-two/](https://leetcode.com/problems/power-of-two/)  
-✅ Задача 234 - "Palindrome Linked List"  
+✅ [Задача 234](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task234/Task234.cs) - "Palindrome Linked List"  
 Ссылка: [https://leetcode.com/problems/palindrome-linked-list/](https://leetcode.com/problems/palindrome-linked-list/)  
-✅ Задача 242 - "Valid Anagram"  
+✅ [Задача 242](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task242/Task242.cs) - "Valid Anagram"  
 Ссылка: [https://leetcode.com/problems/valid-anagram/](https://leetcode.com/problems/valid-anagram/)  
-✅ Задача 257 - "Binary Tree Paths"  
+✅ [Задача 257](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task257/Task257.cs) - "Binary Tree Paths"  
 Ссылка: [https://leetcode.com/problems/binary-tree-paths/](https://leetcode.com/problems/binary-tree-paths/)  
-✅ Задача 258 - "Add Digits"  
+✅ [Задача 258](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task258/Task258.cs) - "Add Digits"  
 Ссылка: [https://leetcode.com/problems/add-digits/](https://leetcode.com/problems/add-digits/)  
-✅ Задача 26 - "Remove Duplicates from Sorted Array"  
+✅ [Задача 26](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task26/Task26.cs) - "Remove Duplicates from Sorted Array"  
 Ссылка: [https://leetcode.com/problems/remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  
-✅ Задача 263 - "Ugly Number"  
+✅ [Задача 263](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task263/Task263.cs) - "Ugly Number"  
 Ссылка: [https://leetcode.com/problems/ugly-number/](https://leetcode.com/problems/ugly-number/)  
-✅ Задача 268 - "Missing Number"  
+✅ [Задача 268](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task268/Task268.cs) - "Missing Number"  
 Ссылка: [https://leetcode.com/problems/missing-number/](https://leetcode.com/problems/missing-number/)  
-✅ Задача 27 - "Remove Element"  
+✅ [Задача 27](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task27/Task27.cs) - "Remove Element"  
 Ссылка: [https://leetcode.com/problems/remove-element/](https://leetcode.com/problems/remove-element/)  
-✅ Задача 2788 - "Split Strings by Separator"  
+✅ [Задача 2788](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2788/Task2788.cs) - "Split Strings by Separator"  
 Ссылка: [https://leetcode.com/problems/split-strings-by-separator/](https://leetcode.com/problems/split-strings-by-separator/)  
-✅ Задача 28 - "Find the Index of the First Occurrence in a String"  
+✅ [Задача 28](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task28/Task28.cs) - "Find the Index of the First Occurrence in a String"  
 Ссылка: [https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)  
-✅ Задача 283 - "Move Zeroes"  
+✅ [Задача 283](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task283/Task283.cs) - "Move Zeroes"  
 Ссылка: [https://leetcode.com/problems/move-zeroes/](https://leetcode.com/problems/move-zeroes/)  
-✅ Задача 29 - "Divide Two Integers"  
+✅ [Задача 29](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task29/Task29.cs) - "Divide Two Integers"  
 Ссылка: [https://leetcode.com/problems/divide-two-integers/](https://leetcode.com/problems/divide-two-integers/)  
-✅ Задача 290 - "Word Pattern"  
+✅ [Задача 290](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task290/Task290.cs) - "Word Pattern"  
 Ссылка: [https://leetcode.com/problems/word-pattern/](https://leetcode.com/problems/word-pattern/)  
-✅ Задача 292 - "Nim Game"  
+✅ [Задача 292](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task292/Task292.cs) - "Nim Game"  
 Ссылка: [https://leetcode.com/problems/nim-game/](https://leetcode.com/problems/nim-game/)  
-✅ Задача 3 - "Longest Substring Without Repeating Characters"  
+✅ [Задача 3](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3/Task3.cs) - "Longest Substring Without Repeating Characters"  
 Ссылка: [https://leetcode.com/problems/longest-substring-without-repeating-characters/](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
-❌ Задача 30 (not working) - "Substring with Concatenation of All Words"  
+❌ [Задача 30](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task30/Task30.cs) (not working) - "Substring with Concatenation of All Words"  
 Ссылка: [https://leetcode.com/problems/substring-with-concatenation-of-all-words/](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)  
-✅ Задача 303 - "Range Sum Query - Immutable"  
+✅ [Задача 303](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task303/Task303.cs) - "Range Sum Query - Immutable"  
 Ссылка: [https://leetcode.com/problems/range-sum-query-immutable/](https://leetcode.com/problems/range-sum-query-immutable/)  
-✅ Задача 326 - "Power of Three"  
+✅ [Задача 326](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task326/Task326.cs) - "Power of Three"  
 Ссылка: [https://leetcode.com/problems/power-of-three/](https://leetcode.com/problems/power-of-three/)  
-✅ Задача 338 - "Counting Bits"  
+✅ [Задача 338](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task338/Task338.cs) - "Counting Bits"  
 Ссылка: [https://leetcode.com/problems/counting-bits/](https://leetcode.com/problems/counting-bits/)  
-✅ Задача 34 - "Find First and Last Position of Element in Sorted Array"  
+✅ [Задача 34](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task34/Task34.cs) - "Find First and Last Position of Element in Sorted Array"  
 Ссылка: [https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  
-✅ Задача 342 - "Power of Four"  
+✅ [Задача 342](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task342/Task342.cs) - "Power of Four"  
 Ссылка: [https://leetcode.com/problems/power-of-four/](https://leetcode.com/problems/power-of-four/)  
-✅ Задача 344 - "Reverse String"  
+✅ [Задача 344](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task344/Task344.cs) - "Reverse String"  
 Ссылка: [https://leetcode.com/problems/reverse-string/](https://leetcode.com/problems/reverse-string/)  
-✅ Задача 345 - "Reverse Vowels of a String"  
+✅ [Задача 345](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task345/Task345.cs) - "Reverse Vowels of a String"  
 Ссылка: [https://leetcode.com/problems/reverse-vowels-of-a-string/](https://leetcode.com/problems/reverse-vowels-of-a-string/)  
-✅ Задача 349 - "Intersection of Two Arrays"  
+✅ [Задача 349](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task349/Task349.cs) - "Intersection of Two Arrays"  
 Ссылка: [https://leetcode.com/problems/intersection-of-two-arrays/](https://leetcode.com/problems/intersection-of-two-arrays/)  
-✅ Задача 35 - "Search Insert Position"  
+✅ [Задача 35](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task35/Task35.cs) - "Search Insert Position"  
 Ссылка: [https://leetcode.com/problems/search-insert-position/](https://leetcode.com/problems/search-insert-position/)  
-✅ Задача 350 - "Intersection of Two Arrays II"  
+✅ [Задача 350](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task350/Task350.cs) - "Intersection of Two Arrays II"  
 Ссылка: [https://leetcode.com/problems/intersection-of-two-arrays-ii/](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  
-✅ Задача 36 - "Valid Sudoku"  
+✅ [Задача 36](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task36/Task36.cs) - "Valid Sudoku"  
 Ссылка: [https://leetcode.com/problems/valid-sudoku/](https://leetcode.com/problems/valid-sudoku/)  
-✅ Задача 367 - "Valid Perfect Square"  
+✅ [Задача 367](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task367/Task367.cs) - "Valid Perfect Square"  
 Ссылка: [https://leetcode.com/problems/valid-perfect-square/](https://leetcode.com/problems/valid-perfect-square/)  
-✅ Задача 383 - "Ransom Note"  
+✅ [Задача 383](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task383/Task383.cs) - "Ransom Note"  
 Ссылка: [https://leetcode.com/problems/ransom-note/](https://leetcode.com/problems/ransom-note/)  
-✅ Задача 387 - "First Unique Character in a String"  
+✅ [Задача 387](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task387/Task387.cs) - "First Unique Character in a String"  
 Ссылка: [https://leetcode.com/problems/first-unique-character-in-a-string/](https://leetcode.com/problems/first-unique-character-in-a-string/)  
-✅ Задача 389 - "Find the Difference"  
+✅ [Задача 389](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task389/Task389.cs) - "Find the Difference"  
 Ссылка: [https://leetcode.com/problems/find-the-difference/](https://leetcode.com/problems/find-the-difference/)  
-✅ Задача 392 - "Is Subsequence"  
+✅ [Задача 392](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task392/Task392.cs) - "Is Subsequence"  
 Ссылка: [https://leetcode.com/problems/is-subsequence/](https://leetcode.com/problems/is-subsequence/)  
-✅ Задача 401 - "Binary Watch"  
+✅ [Задача 401](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task401/Task401.cs) - "Binary Watch"  
 Ссылка: [https://leetcode.com/problems/binary-watch/](https://leetcode.com/problems/binary-watch/)  
-✅ Задача 404 - "Sum of Left Leaves"  
+✅ [Задача 404](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task404/Task404.cs) - "Sum of Left Leaves"  
 Ссылка: [https://leetcode.com/problems/sum-of-left-leaves/](https://leetcode.com/problems/sum-of-left-leaves/)  
-✅ Задача 409 - "Longest Palindrome"  
+✅ [Задача 409](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task409/Task409.cs) - "Longest Palindrome"  
 Ссылка: [https://leetcode.com/problems/longest-palindrome/](https://leetcode.com/problems/longest-palindrome/)  
-✅ Задача 412 - "Fizz Buzz"  
+✅ [Задача 412](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task412/Task412.cs) - "Fizz Buzz"  
 Ссылка: [https://leetcode.com/problems/fizz-buzz/](https://leetcode.com/problems/fizz-buzz/)  
-✅ Задача 414 - "Third Maximum Number"  
+✅ [Задача 414](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task414/Task414.cs) - "Third Maximum Number"  
 Ссылка: [https://leetcode.com/problems/third-maximum-number/](https://leetcode.com/problems/third-maximum-number/)  
-✅ Задача 415 - "Add Strings"  
+✅ [Задача 415](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task415/Task415.cs) - "Add Strings"  
 Ссылка: [https://leetcode.com/problems/add-strings/](https://leetcode.com/problems/add-strings/)  
-✅ Задача 434 - "Number of Segments in a String"  
+✅ [Задача 434](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task434/Task434.cs) - "Number of Segments in a String"  
 Ссылка: [https://leetcode.com/problems/number-of-segments-in-a-string/](https://leetcode.com/problems/number-of-segments-in-a-string/)  
-✅ Задача 441 - "Arranging Coins"  
+✅ [Задача 441](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task441/Task441.cs) - "Arranging Coins"  
 Ссылка: [https://leetcode.com/problems/arranging-coins/](https://leetcode.com/problems/arranging-coins/)  
-✅ Задача 448 - "Find All Numbers Disappeared in an Array"  
+✅ [Задача 448](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task448/Task448.cs) - "Find All Numbers Disappeared in an Array"  
 Ссылка: [https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)  
-✅ Задача 455 - "Assign Cookies"  
+✅ [Задача 455](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task455/Task455.cs) - "Assign Cookies"  
 Ссылка: [https://leetcode.com/problems/assign-cookies/](https://leetcode.com/problems/assign-cookies/)  
-✅ Задача 459 - "Repeated Substring Pattern"  
+✅ [Задача 459](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task459/Task459.cs) - "Repeated Substring Pattern"  
 Ссылка: [https://leetcode.com/problems/repeated-substring-pattern/](https://leetcode.com/problems/repeated-substring-pattern/)  
-✅ Задача 461 - "Hamming Distance"  
+✅ [Задача 461](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task461/Task461.cs) - "Hamming Distance"  
 Ссылка: [https://leetcode.com/problems/hamming-distance/](https://leetcode.com/problems/hamming-distance/)  
-✅ Задача 463 - "Island Perimeter"  
+✅ [Задача 463](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task463/Task463.cs) - "Island Perimeter"  
 Ссылка: [https://leetcode.com/problems/island-perimeter/](https://leetcode.com/problems/island-perimeter/)  
-✅ Задача 476 - "Number Complement"  
+✅ [Задача 476](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task476/Task476.cs) - "Number Complement"  
 Ссылка: [https://leetcode.com/problems/number-complement/](https://leetcode.com/problems/number-complement/)  
-✅ Задача 482 - "License Key Formatting"  
+✅ [Задача 482](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task482/Task482.cs) - "License Key Formatting"  
 Ссылка: [https://leetcode.com/problems/license-key-formatting/](https://leetcode.com/problems/license-key-formatting/)  
-✅ Задача 485 - "Max Consecutive Ones"  
+✅ [Задача 485](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task485/Task485.cs) - "Max Consecutive Ones"  
 Ссылка: [https://leetcode.com/problems/max-consecutive-ones/](https://leetcode.com/problems/max-consecutive-ones/)  
-✅ Задача 495 - "Teemo Attacking"  
+✅ [Задача 495](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task495/Task495.cs) - "Teemo Attacking"  
 Ссылка: [https://leetcode.com/problems/teemo-attacking/](https://leetcode.com/problems/teemo-attacking/)  
-✅ Задача 5 - "Longest Palindromic Substring"  
+✅ [Задача 5](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task5/Task5.cs) - "Longest Palindromic Substring"  
 Ссылка: [https://leetcode.com/problems/longest-palindromic-substring/](https://leetcode.com/problems/longest-palindromic-substring/)  
-✅ Задача 500 - "Keyboard Row"  
+✅ [Задача 500](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task500/Task500.cs) - "Keyboard Row"  
 Ссылка: [https://leetcode.com/problems/keyboard-row/](https://leetcode.com/problems/keyboard-row/)  
-✅ Задача 501 - "Find Mode in Binary Search Tree"  
+✅ [Задача 501](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task501/Task501.cs) - "Find Mode in Binary Search Tree"  
 Ссылка: [https://leetcode.com/problems/find-mode-in-binary-search-tree/](https://leetcode.com/problems/find-mode-in-binary-search-tree/)  
-✅ Задача 506 - "Relative Ranks"  
+✅ [Задача 506](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task506/Task506.cs) - "Relative Ranks"  
 Ссылка: [https://leetcode.com/problems/relative-ranks/](https://leetcode.com/problems/relative-ranks/)  
-✅ Задача 507 - "Perfect Number"  
+✅ [Задача 507](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task507/Task507.cs) - "Perfect Number"  
 Ссылка: [https://leetcode.com/problems/perfect-number/](https://leetcode.com/problems/perfect-number/)  
-✅ Задача 509 - "Fibonacci Number"  
+✅ [Задача 509](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task509/Task509.cs) - "Fibonacci Number"  
 Ссылка: [https://leetcode.com/problems/fibonacci-number/](https://leetcode.com/problems/fibonacci-number/)  
-✅ Задача 520 - "Detect Capital"  
+✅ [Задача 520](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task520/Task520.cs) - "Detect Capital"  
 Ссылка: [https://leetcode.com/problems/detect-capital/](https://leetcode.com/problems/detect-capital/)  
-✅ Задача 521 - "Longest Uncommon Subsequence I"  
+✅ [Задача 521](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task521/Task521.cs) - "Longest Uncommon Subsequence I"  
 Ссылка: [https://leetcode.com/problems/longest-uncommon-subsequence-i/](https://leetcode.com/problems/longest-uncommon-subsequence-i/)  
-✅ Задача 541 - "Reverse String II"  
+✅ [Задача 541](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task541/Task541.cs) - "Reverse String II"  
 Ссылка: [https://leetcode.com/problems/reverse-string-ii/](https://leetcode.com/problems/reverse-string-ii/)  
-✅ Задача 543 - "Diameter of Binary Tree"  
+✅ [Задача 543](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task543/Task543.cs) - "Diameter of Binary Tree"  
 Ссылка: [https://leetcode.com/problems/diameter-of-binary-tree/](https://leetcode.com/problems/diameter-of-binary-tree/)  
-✅ Задача 551 - "Student Attendance Record I"  
+✅ [Задача 551](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task551/Task551.cs) - "Student Attendance Record I"  
 Ссылка: [https://leetcode.com/problems/student-attendance-record-i/](https://leetcode.com/problems/student-attendance-record-i/)  
-✅ Задача 557 - "Reverse Words in a String III"  
+✅ [Задача 557](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task557/Task557.cs) - "Reverse Words in a String III"  
 Ссылка: [https://leetcode.com/problems/reverse-words-in-a-string-iii/](https://leetcode.com/problems/reverse-words-in-a-string-iii/)  
-✅ Задача 559 - "Maximum Depth of N-ary Tree"  
+✅ [Задача 559](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task559/Task559.cs) - "Maximum Depth of N-ary Tree"  
 Ссылка: [https://leetcode.com/problems/maximum-depth-of-n-ary-tree/](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)  
-✅ Задача 561 - "Array Partition"  
+✅ [Задача 561](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task561/Task561.cs) - "Array Partition"  
 Ссылка: [https://leetcode.com/problems/array-partition/](https://leetcode.com/problems/array-partition/)  
-✅ Задача 566 - "Reshape the Matrix"  
+✅ [Задача 566](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task566/Task566.cs) - "Reshape the Matrix"  
 Ссылка: [https://leetcode.com/problems/reshape-the-matrix/](https://leetcode.com/problems/reshape-the-matrix/)  
-✅ Задача 572 - "Subtree of Another Tree"  
+✅ [Задача 572](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task572/Task572.cs) - "Subtree of Another Tree"  
 Ссылка: [https://leetcode.com/problems/subtree-of-another-tree/](https://leetcode.com/problems/subtree-of-another-tree/)  
-✅ Задача 575 - "Distribute Candies"  
+✅ [Задача 575](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task575/Task575.cs) - "Distribute Candies"  
 Ссылка: [https://leetcode.com/problems/distribute-candies/](https://leetcode.com/problems/distribute-candies/)  
-✅ Задача 58 - "Length of Last Word"  
+✅ [Задача 58](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task58/Task58.cs) - "Length of Last Word"  
 Ссылка: [https://leetcode.com/problems/length-of-last-word/](https://leetcode.com/problems/length-of-last-word/)  
-✅ Задача 589 - "N-ary Tree Preorder Traversal"  
+✅ [Задача 589](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task589/Task589.cs) - "N-ary Tree Preorder Traversal"  
 Ссылка: [https://leetcode.com/problems/n-ary-tree-preorder-traversal/](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)  
-✅ Задача 594 - "Longest Harmonious Subsequence"  
+✅ [Задача 594](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task594/Task594.cs) - "Longest Harmonious Subsequence"  
 Ссылка: [https://leetcode.com/problems/longest-harmonious-subsequence/](https://leetcode.com/problems/longest-harmonious-subsequence/)  
-✅ Задача 598 - "Range Addition II"  
+✅ [Задача 598](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task598/Task598.cs) - "Range Addition II"  
 Ссылка: [https://leetcode.com/problems/range-addition-ii/](https://leetcode.com/problems/range-addition-ii/)  
-✅ Задача 599 - "Minimum Index Sum of Two Lists"  
+✅ [Задача 599](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task599/Task599.cs) - "Minimum Index Sum of Two Lists"  
 Ссылка: [https://leetcode.com/problems/minimum-index-sum-of-two-lists/](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)  
-✅ Задача 605 - "Can Place Flowers"  
+✅ [Задача 605](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task605/Task605.cs) - "Can Place Flowers"  
 Ссылка: [https://leetcode.com/problems/can-place-flowers/](https://leetcode.com/problems/can-place-flowers/)  
-✅ Задача 617 - "Merge Two Binary Trees"  
+✅ [Задача 617](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task617/Task617.cs) - "Merge Two Binary Trees"  
 Ссылка: [https://leetcode.com/problems/merge-two-binary-trees/](https://leetcode.com/problems/merge-two-binary-trees/)  
-✅ Задача 628 - "Maximum Product of Three Numbers"  
+✅ [Задача 628](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task628/Task628.cs) - "Maximum Product of Three Numbers"  
 Ссылка: [https://leetcode.com/problems/maximum-product-of-three-numbers/](https://leetcode.com/problems/maximum-product-of-three-numbers/)  
-✅ Задача 643 - "Maximum Average Subarray I"  
+✅ [Задача 643](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task643/Task643.cs) - "Maximum Average Subarray I"  
 Ссылка: [https://leetcode.com/problems/maximum-average-subarray-i/](https://leetcode.com/problems/maximum-average-subarray-i/)  
-✅ Задача 645 - "Set Mismatch"  
+✅ [Задача 645](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task645/Task645.cs) - "Set Mismatch"  
 Ссылка: [https://leetcode.com/problems/set-mismatch/](https://leetcode.com/problems/set-mismatch/)  
-✅ Задача 653 - "Two Sum IV - Input is a BST"  
+✅ [Задача 653](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task653/Task653.cs) - "Two Sum IV - Input is a BST"  
 Ссылка: [https://leetcode.com/problems/two-sum-iv-input-is-a-bst/](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)  
-✅ Задача 657 - "Robot Return to Origin"  
+✅ [Задача 657](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task657/Task657.cs) - "Robot Return to Origin"  
 Ссылка: [https://leetcode.com/problems/robot-return-to-origin/](https://leetcode.com/problems/robot-return-to-origin/)  
-✅ Задача 66 - "Plus One"  
+✅ [Задача 66](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task66/Task66.cs) - "Plus One"  
 Ссылка: [https://leetcode.com/problems/plus-one/](https://leetcode.com/problems/plus-one/)  
-✅ Задача 661 - "Image Smoother"  
+✅ [Задача 661](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task661/Task661.cs) - "Image Smoother"  
 Ссылка: [https://leetcode.com/problems/image-smoother/](https://leetcode.com/problems/image-smoother/)  
-✅ Задача 67 - "Add Binary"  
+✅ [Задача 67](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task67/Task67.cs) - "Add Binary"  
 Ссылка: [https://leetcode.com/problems/add-binary/](https://leetcode.com/problems/add-binary/)  
-✅ Задача 671 - "Second Minimum Node In a Binary Tree"  
+✅ [Задача 671](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task671/Task671.cs) - "Second Minimum Node In a Binary Tree"  
 Ссылка: [https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)  
-✅ Задача 674 - "Longest Continuous Increasing Subsequence"  
+✅ [Задача 674](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task674/Task674.cs) - "Longest Continuous Increasing Subsequence"  
 Ссылка: [https://leetcode.com/problems/longest-continuous-increasing-subsequence/](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)  
-✅ Задача 680 - "Valid Palindrome II"  
+✅ [Задача 680](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task680/Task680.cs) - "Valid Palindrome II"  
 Ссылка: [https://leetcode.com/problems/valid-palindrome-ii/](https://leetcode.com/problems/valid-palindrome-ii/)  
-✅ Задача 682 - "Baseball Game"  
+✅ [Задача 682](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task682/Task682.cs) - "Baseball Game"  
 Ссылка: [https://leetcode.com/problems/baseball-game/](https://leetcode.com/problems/baseball-game/)  
-✅ Задача 69 - "Sqrt(x)"  
+✅ [Задача 69](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task69/Task69.cs) - "Sqrt(x)"  
 Ссылка: [https://leetcode.com/problems/sqrtx/](https://leetcode.com/problems/sqrtx/)  
-✅ Задача 693 - "Binary Number with Alternating Bits"  
+✅ [Задача 693](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task693/Task693.cs) - "Binary Number with Alternating Bits"  
 Ссылка: [https://leetcode.com/problems/binary-number-with-alternating-bits/](https://leetcode.com/problems/binary-number-with-alternating-bits/)  
-✅ Задача 697 - "Degree of an Array"  
+✅ [Задача 697](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task697/Task697.cs) - "Degree of an Array"  
 Ссылка: [https://leetcode.com/problems/degree-of-an-array/](https://leetcode.com/problems/degree-of-an-array/)  
-✅ Задача 7 - "Reverse Integer"  
+✅ [Задача 7](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task7/Task7.cs) - "Reverse Integer"  
 Ссылка: [https://leetcode.com/problems/reverse-integer/](https://leetcode.com/problems/reverse-integer/)  
-✅ Задача 700 - "Search in a Binary Search Tree"  
+✅ [Задача 700](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task700/Task700.cs) - "Search in a Binary Search Tree"  
 Ссылка: [https://leetcode.com/problems/search-in-a-binary-search-tree/](https://leetcode.com/problems/search-in-a-binary-search-tree/)  
-✅ Задача 703 - "Kth Largest Element in a Stream"  
+✅ [Задача 703](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task703/Task703.cs) - "Kth Largest Element in a Stream"  
 Ссылка: [https://leetcode.com/problems/kth-largest-element-in-a-stream/](https://leetcode.com/problems/kth-largest-element-in-a-stream/)  
-✅ Задача 704 - "Binary Search"  
+✅ [Задача 704](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task704/Task704.cs) - "Binary Search"  
 Ссылка: [https://leetcode.com/problems/binary-search](https://leetcode.com/problems/binary-search)  
-✅ Задача 705 - "Design HashSet"  
+✅ [Задача 705](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task705/Task705.cs) - "Design HashSet"  
 Ссылка: [https://leetcode.com/problems/design-hashset/](https://leetcode.com/problems/design-hashset/)  
-✅ Задача 709 - "To Lower Case"  
+✅ [Задача 709](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task709/Task709.cs) - "To Lower Case"  
 Ссылка: [https://leetcode.com/problems/to-lower-case/](https://leetcode.com/problems/to-lower-case/)
-✅ Задача 724 - "Find Pivot Index"  
+✅ [Задача 724](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task724/Task724.cs) - "Find Pivot Index"  
 Ссылка: [https://leetcode.com/problems/find-pivot-index/](https://leetcode.com/problems/find-pivot-index/)  
-✅ Задача 728 - "Self Dividing Numbers"  
+✅ [Задача 728](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task728/Task728.cs) - "Self Dividing Numbers"  
 Ссылка: [https://leetcode.com/problems/self-dividing-numbers/](https://leetcode.com/problems/self-dividing-numbers/)  
-✅ Задача 733 - "Flood Fill"  
+✅ [Задача 733](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task733/Task733.cs) - "Flood Fill"  
 Ссылка: [https://leetcode.com/problems/flood-fill/](https://leetcode.com/problems/flood-fill/)  
-✅ Задача 744 - "Find Smallest Letter Greater Than Target"  
+✅ [Задача 744](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task744/Task744.cs) - "Find Smallest Letter Greater Than Target"  
 Ссылка: [https://leetcode.com/problems/find-smallest-letter-greater-than-target/](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)  
-✅ Задача 747 - "Largest Number At Least Twice of Others"  
+✅ [Задача 747](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task747/Task747.cs) - "Largest Number At Least Twice of Others"  
 Ссылка: [https://leetcode.com/problems/largest-number-at-least-twice-of-others/](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)  
-✅ Задача 748 - "Shortest Completing Word"  
+✅ [Задача 748](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task748/Task748.cs) - "Shortest Completing Word"  
 Ссылка: [https://leetcode.com/problems/shortest-completing-word/](https://leetcode.com/problems/shortest-completing-word/)  
-✅ Задача 762 - "Prime Number of Set Bits in Binary Representation"  
+✅ [Задача 762](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task762/Task762.cs) - "Prime Number of Set Bits in Binary Representation"  
 Ссылка: [https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)  
-✅ Задача 766 - "Toeplitz Matrix"  
+✅ [Задача 766](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task766/Task766.cs) - "Toeplitz Matrix"  
 Ссылка: [https://leetcode.com/problems/toeplitz-matrix/](https://leetcode.com/problems/toeplitz-matrix/)  
-✅ Задача 771 - "Jewels and Stones"  
+✅ [Задача 771](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task771/Task771.cs) - "Jewels and Stones"  
 Ссылка: [https://leetcode.com/problems/jewels-and-stones/](https://leetcode.com/problems/jewels-and-stones/)  
-✅ Задача 796 - "Rotate String"  
+✅ [Задача 796](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task796/Task796.cs) - "Rotate String"  
 Ссылка: [https://leetcode.com/problems/rotate-string/](https://leetcode.com/problems/rotate-string/)  
-✅ Задача 8 - "String to Integer (atoi)"  
+✅ [Задача 8](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task8/Task8.cs) - "String to Integer (atoi)"  
 Ссылка: [https://leetcode.com/problems/string-to-integer-atoi/](https://leetcode.com/problems/string-to-integer-atoi/)  
-✅ Задача 804 - "Unique Morse Code Words"  
+✅ [Задача 804](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task804/Task804.cs) - "Unique Morse Code Words"  
 Ссылка: [https://leetcode.com/problems/unique-morse-code-words/](https://leetcode.com/problems/unique-morse-code-words/)  
-✅ Задача 806 - "Number of Lines To Write String"  
+✅ [Задача 806](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task806/Task806.cs) - "Number of Lines To Write String"  
 Ссылка: [https://leetcode.com/problems/number-of-lines-to-write-string/](https://leetcode.com/problems/number-of-lines-to-write-string/)  
-✅ Задача 812 - "Largest Triangle Area"  
+✅ [Задача 812](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task812/Task812.cs) - "Largest Triangle Area"  
 Ссылка: [https://leetcode.com/problems/largest-triangle-area/](https://leetcode.com/problems/largest-triangle-area/)  
-✅ Задача 819 - "Most Common Word"  
+✅ [Задача 819](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task819/Task819.cs) - "Most Common Word"  
 Ссылка: [https://leetcode.com/problems/most-common-word/](https://leetcode.com/problems/most-common-word/)  
-✅ Задача 821 - "Shortest Distance to a Character"  
+✅ [Задача 821](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task821/Task821.cs) - "Shortest Distance to a Character"  
 Ссылка: [https://leetcode.com/problems/shortest-distance-to-a-character/](https://leetcode.com/problems/shortest-distance-to-a-character/)  
-✅ Задача 824 - "Goat Latin"  
+✅ [Задача 824](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task824/Task824.cs) - "Goat Latin"  
 Ссылка: [https://leetcode.com/problems/goat-latin/](https://leetcode.com/problems/goat-latin/)  
-✅ Задача 83 - "Remove Duplicates from Sorted List"  
+✅ [Задача 83](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task83/Task83.cs) - "Remove Duplicates from Sorted List"  
 Ссылка: [https://leetcode.com/problems/remove-duplicates-from-sorted-list/](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  
-✅ Задача 830 - "Positions of Large Groups"  
+✅ [Задача 830](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task830/Task830.cs) - "Positions of Large Groups"  
 Ссылка: [https://leetcode.com/problems/positions-of-large-groups/](https://leetcode.com/problems/positions-of-large-groups/)  
-✅ Задача 832 - "Flipping an Image"  
+✅ [Задача 832](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task832/Task832.cs) - "Flipping an Image"  
 Ссылка: [https://leetcode.com/problems/flipping-an-image/](https://leetcode.com/problems/flipping-an-image/)  
-✅ Задача 836 - "Rectangle Overlap"  
+✅ [Задача 836](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task836/Task836.cs) - "Rectangle Overlap"  
 Ссылка: [https://leetcode.com/problems/rectangle-overlap/](https://leetcode.com/problems/rectangle-overlap/)  
-✅ Задача 844 - "Backspace String Compare"  
+✅ [Задача 844](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task844/Task844.cs) - "Backspace String Compare"  
 Ссылка: [https://leetcode.com/problems/backspace-string-compare/](https://leetcode.com/problems/backspace-string-compare/)  
-✅ Задача 860 - "Lemonade Change"  
+✅ [Задача 860](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task860/Task860.cs) - "Lemonade Change"  
 Ссылка: [https://leetcode.com/problems/lemonade-change/](https://leetcode.com/problems/lemonade-change/)  
-✅ Задача 867 - "Transpose Matrix"  
+✅ [Задача 867](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task867/Task867.cs) - "Transpose Matrix"  
 Ссылка: [https://leetcode.com/problems/transpose-matrix/](https://leetcode.com/problems/transpose-matrix/)  
-✅ Задача 868 - "Binary Gap"  
+✅ [Задача 868](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task868/Task868.cs) - "Binary Gap"  
 Ссылка: [https://leetcode.com/problems/binary-gap/](https://leetcode.com/problems/binary-gap/)  
-✅ Задача 872 - "Leaf-Similar Trees"  
+✅ [Задача 872](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task872/Task872.cs) - "Leaf-Similar Trees"  
 Ссылка: [https://leetcode.com/problems/leaf-similar-trees/](https://leetcode.com/problems/leaf-similar-trees/)  
-✅ Задача 876 - "Middle of the Linked List"  
+✅ [Задача 876](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task876/Task876.cs) - "Middle of the Linked List"  
 Ссылка: [https://leetcode.com/problems/middle-of-the-linked-list/](https://leetcode.com/problems/middle-of-the-linked-list/)  
-✅ Задача 88 - "Merge Sorted Array"  
+✅ [Задача 88](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task88/Task88.cs) - "Merge Sorted Array"  
 Ссылка: [https://leetcode.com/problems/merge-sorted-array/](https://leetcode.com/problems/merge-sorted-array/)  
-✅ Задача 884 - "Uncommon Words from Two Sentences"  
+✅ [Задача 884](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task884/Task884.cs) - "Uncommon Words from Two Sentences"  
 Ссылка: [https://leetcode.com/problems/uncommon-words-from-two-sentences/](https://leetcode.com/problems/uncommon-words-from-two-sentences/)  
-✅ Задача 896 - "Monotonic Array"  
+✅ [Задача 896](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task896/Task896.cs) - "Monotonic Array"  
 Ссылка: [https://leetcode.com/problems/monotonic-array/](https://leetcode.com/problems/monotonic-array/)  
-✅ Задача 897 - "Increasing Order Search Tree"  
+✅ [Задача 897](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task897/Task897.cs) - "Increasing Order Search Tree"  
 Ссылка: [https://leetcode.com/problems/increasing-order-search-tree/](https://leetcode.com/problems/increasing-order-search-tree/)  
-✅ Задача 9 - "Palindrome Number"  
+✅ [Задача 9](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task9/Task9.cs) - "Palindrome Number"  
 Ссылка: [https://leetcode.com/problems/palindrome-number/](https://leetcode.com/problems/palindrome-number/)  
-✅ Задача 905 - "Sort Array By Parity"  
+✅ [Задача 905](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task905/Task905.cs) - "Sort Array By Parity"  
 Ссылка: [https://leetcode.com/problems/sort-array-by-parity/](https://leetcode.com/problems/sort-array-by-parity/)  
-✅ Задача 917 - "Reverse Only Letters"  
+✅ [Задача 917](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task917/Task917.cs) - "Reverse Only Letters"  
 Ссылка: [https://leetcode.com/problems/reverse-only-letters/](https://leetcode.com/problems/reverse-only-letters/)  
-✅ Задача 922 - "Sort Array By Parity II"  
+✅ [Задача 922](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task922/Task922.cs) - "Sort Array By Parity II"  
 Ссылка: [https://leetcode.com/problems/sort-array-by-parity-ii/](https://leetcode.com/problems/sort-array-by-parity-ii/)  
-✅ Задача 925 - "Long Pressed Name"  
+✅ [Задача 925](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task925/Task925.cs) - "Long Pressed Name"  
 Ссылка: [https://leetcode.com/problems/long-pressed-name/](https://leetcode.com/problems/long-pressed-name/)  
-✅ Задача 929 - "Unique Email Addresses"  
+✅ [Задача 929](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task929/Task929.cs) - "Unique Email Addresses"  
 Ссылка: [https://leetcode.com/problems/unique-email-addresses/](https://leetcode.com/problems/unique-email-addresses/)  
-✅ Задача 938 - "Range Sum of BST"  
+✅ [Задача 938](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task938/Task938.cs) - "Range Sum of BST"  
 Ссылка: [https://leetcode.com/problems/range-sum-of-bst/](https://leetcode.com/problems/range-sum-of-bst/)  
-✅ Задача 94 - "Binary Tree Inorder Traversal"  
+✅ [Задача 94](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task94/Task94.cs) - "Binary Tree Inorder Traversal"  
 Ссылка: [https://leetcode.com/problems/binary-tree-inorder-traversal/](https://leetcode.com/problems/binary-tree-inorder-traversal/)  
-✅ Задача 941 - "Valid Mountain Array"  
+✅ [Задача 941](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task941/Task941.cs) - "Valid Mountain Array"  
 Ссылка: [https://leetcode.com/problems/valid-mountain-array/](https://leetcode.com/problems/valid-mountain-array/)  
-✅ Задача 944 - "Delete Columns to Make Sorted"  
+✅ [Задача 944](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task944/Task944.cs) - "Delete Columns to Make Sorted"  
 Ссылка: [https://leetcode.com/problems/delete-columns-to-make-sorted/](https://leetcode.com/problems/delete-columns-to-make-sorted/)  
-✅ Задача 961 - "N-Repeated Element in Size 2N Array"  
+✅ [Задача 961](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task961/Task961.cs) - "N-Repeated Element in Size 2N Array"  
 Ссылка: [https://leetcode.com/problems/n-repeated-element-in-size-2n-array/](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)  
-✅ Задача 965 - "Univalued Binary Tree"  
+✅ [Задача 965](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task965/Task965.cs) - "Univalued Binary Tree"  
 Ссылка: [https://leetcode.com/problems/univalued-binary-tree/](https://leetcode.com/problems/univalued-binary-tree/)  
-✅ Задача 976 - "Largest Perimeter Triangle"  
+✅ [Задача 976](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task976/Task976.cs) - "Largest Perimeter Triangle"  
 Ссылка: [https://leetcode.com/problems/largest-perimeter-triangle/](https://leetcode.com/problems/largest-perimeter-triangle/)  
-✅ Задача 977 - "Squares of a Sorted Array"  
+✅ [Задача 977](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task977/Task977.cs) - "Squares of a Sorted Array"  
 Ссылка: [https://leetcode.com/problems/squares-of-a-sorted-array/](https://leetcode.com/problems/squares-of-a-sorted-array/)  
-✅ Задача 989 - "Add to Array-Form of Integer"  
+✅ [Задача 989](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task989/Task989.cs) - "Add to Array-Form of Integer"  
 Ссылка: [https://leetcode.com/problems/add-to-array-form-of-integer/](https://leetcode.com/problems/add-to-array-form-of-integer/)  
-✅ Задача 993 - "Cousins in Binary Tree"  
+✅ [Задача 993](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task993/Task993.cs) - "Cousins in Binary Tree"  
 Ссылка: [https://leetcode.com/problems/cousins-in-binary-tree/](https://leetcode.com/problems/cousins-in-binary-tree/)  
-✅ Задача 997 - "Find the Town Judge"  
+✅ [Задача 997](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task997/Task997.cs) - "Find the Town Judge"  
 Ссылка: [https://leetcode.com/problems/find-the-town-judge/](https://leetcode.com/problems/find-the-town-judge/)  
