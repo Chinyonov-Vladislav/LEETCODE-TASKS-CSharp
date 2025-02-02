@@ -1,5 +1,6 @@
 Проект (консольное приложение .NET Framework) решения задач с сайта leetcode.com на языке программирования C#  
 Чинёнов Владислав Евгеньевич  
+[Профиля автора на leetcode.com](https://leetcode.com/u/vlad2000100600/)
 ---Наименование задач---  
 ✅ [Задача 1](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1/Task1.cs) - "Two Sum (Сумма двух)"  
 Ссылка: [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)  
