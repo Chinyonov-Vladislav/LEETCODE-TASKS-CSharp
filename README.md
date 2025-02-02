@@ -388,5 +388,5 @@
 Ссылка: [https://leetcode.com/problems/cousins-in-binary-tree/](https://leetcode.com/problems/cousins-in-binary-tree/)  
 ✅ [Задача 997](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task997/Task997.cs) - "Find the Town Judge"  
 Ссылка: [https://leetcode.com/problems/find-the-town-judge/](https://leetcode.com/problems/find-the-town-judge/)  
-✅ [Задача 1128](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1128/Task1128.cs) - "Number of Equivalent Domino Pairs (Количество эквивалентных пар домино)" 
+✅ [Задача 1128](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1128/Task1128.cs) - "Number of Equivalent Domino Pairs (Количество эквивалентных пар домино)"   
 Ссылка: [https://leetcode.com/problems/number-of-equivalent-domino-pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs)
