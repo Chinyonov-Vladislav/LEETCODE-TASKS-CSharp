@@ -37,26 +37,11 @@ namespace LeetCode.Tasks.task1018
         private IList<bool> prefixesDivBy5(int[] nums)
         {
             IList<bool> prefixes = new List<bool>();
-            int allValue = 0;
+            int num = 0;
             for (int i = 0; i < nums.Length; i++)
             {
-                prefixes.Add(false);
-            }
-            for(int index = 0; index< nums.Length;index++)
-            {
-                if (nums[index] == 1)
-                {
-                    allValue += (int)Math.Pow(2, nums.Length - index - 1);
-                }
-                Console.WriteLine($"{allValue}");
-            }
-            for (int i = nums.Length -1; i >= 0; i--)
-            {
-                prefixes[i] = allValue % 5 == 0;
-                if (nums[i] == 1)
-                {
-                    allValue -= (int)Math.Pow(2, nums.Length - i - 1);
-                }
+                num = (num * 2 + nums[i]) % 5;
+                prefixes.Add(num == 0);
             }
             return prefixes;
         }

@@ -68,6 +68,7 @@
     <Compile Include="Tasks\task1013\Task1013.cs" />
     <Compile Include="Tasks\task1018\Task1018.cs" />
     <Compile Include="Tasks\task101\Task101.cs" />
+    <Compile Include="Tasks\task1021\Task1021.cs" />
     <Compile Include="Tasks\task1022\Task1022.cs" />
     <Compile Include="Tasks\task1046\Task1046.cs" />
     <Compile Include="Tasks\task104\Task104.cs" />

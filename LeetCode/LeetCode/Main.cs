@@ -198,6 +198,7 @@ using LeetCode.Tasks.task942;
 using LeetCode.Tasks.task999;
 using LeetCode.Tasks.task1013;
 using LeetCode.Tasks.task1018;
+using LeetCode.Tasks.task1021;
 
 namespace LeetCode
 {
@@ -406,7 +407,8 @@ namespace LeetCode
                 new Task942(942,"Совпадение строк DI","",Difficult.easy),
                 new Task999(999,"Доступные ходы для ладьи для атаки пешки","",Difficult.easy),
                 new Task1013(1013,"Разделите массив на три части с равной суммой","",Difficult.easy),
-                new Task1018(1018,"Двоичный префикс, делимый на 5","",Difficult.easy)
+                new Task1018(1018,"Двоичный префикс, делимый на 5","",Difficult.easy),
+                new Task1021(1021,"Удалите крайние круглые скобки","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
