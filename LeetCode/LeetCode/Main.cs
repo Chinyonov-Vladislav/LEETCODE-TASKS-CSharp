@@ -200,6 +200,7 @@ using LeetCode.Tasks.task1013;
 using LeetCode.Tasks.task1018;
 using LeetCode.Tasks.task1021;
 using LeetCode.Tasks.task1185;
+using LeetCode.Tasks.task1184;
 
 namespace LeetCode
 {
@@ -410,7 +411,8 @@ namespace LeetCode
                 new Task1013(1013,"Разделите массив на три части с равной суммой","",Difficult.easy),
                 new Task1018(1018,"Двоичный префикс, делимый на 5","",Difficult.easy),
                 new Task1021(1021,"Удалите крайние круглые скобки","",Difficult.easy),
-                new Task1185(1185,"День недели","",Difficult.easy)
+                new Task1185(1185,"День недели","",Difficult.easy),
+                new Task1184(1184,"Расстояние между автобусными остановками","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

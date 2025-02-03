@@ -58,7 +58,7 @@ namespace LeetCode.Tasks.task1185
                 { 11, 30},
                 { 12, 31}
             };
-            uint totalDays = 4;
+            uint totalDays = 4; // указываем 4, так как первый день 1971 года - Пятница
             for (int startYear = 1971; startYear < year; startYear++)
             {
                 if ((startYear % 100 == 0 && startYear % 400 == 0) || (startYear % 4 == 0 && startYear % 100 != 0))
