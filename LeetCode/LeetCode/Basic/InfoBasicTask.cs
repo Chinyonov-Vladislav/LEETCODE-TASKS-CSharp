@@ -221,6 +221,36 @@ namespace LeetCode.Basic
                 }
             }
         }
+        protected void printIListBool(IList<bool> list, string header)
+        {
+            if (list.Count == 0)
+            {
+                Console.WriteLine("Пустой список");
+            }
+            else if (list.Count == 1)
+            {
+                Console.WriteLine($"Результат: [{list[0]}]");
+            }
+            else
+            {
+                Console.Write($"{header}");
+                for (int i = 0; i < list.Count; i++)
+                {
+                    if (i == 0)
+                    {
+                        Console.Write($"[{list[i]}, ");
+                    }
+                    else if (i == list.Count - 1)
+                    {
+                        Console.Write($"{list[i]}]\n");
+                    }
+                    else
+                    {
+                        Console.Write($"{list[i]}, ");
+                    }
+                }
+            }
+        }
 
         protected void printIListDouble(IList<double> list, string header)
         {

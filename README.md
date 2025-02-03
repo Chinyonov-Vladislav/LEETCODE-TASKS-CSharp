@@ -396,3 +396,5 @@
 Ссылка: [https://leetcode.com/problems/available-captures-for-rook](https://leetcode.com/problems/available-captures-for-rook)  
 ✅ [Задача 1013](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1013/Task1013.cs) - "Partition Array Into Three Parts With Equal Sum"  
 Ссылка: [https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum)  
+✅ [Задача 1018](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1018/Task1018.cs) - "Binary Prefix Divisible By 5"  
+Ссылка: [https://leetcode.com/problems/binary-prefix-divisible-by-5](https://leetcode.com/problems/binary-prefix-divisible-by-5) 
