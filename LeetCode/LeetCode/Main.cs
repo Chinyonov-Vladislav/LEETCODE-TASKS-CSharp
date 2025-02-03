@@ -202,6 +202,7 @@ using LeetCode.Tasks.task1021;
 using LeetCode.Tasks.task1185;
 using LeetCode.Tasks.task1184;
 using LeetCode.Tasks.task1037;
+using LeetCode.Tasks.task1078;
 
 namespace LeetCode
 {
@@ -414,7 +415,8 @@ namespace LeetCode
                 new Task1021(1021,"Удалите крайние круглые скобки","",Difficult.easy),
                 new Task1185(1185,"День недели","",Difficult.easy),
                 new Task1184(1184,"Расстояние между автобусными остановками","",Difficult.easy),
-                new Task1037(1037,"Действительный бумеранг","",Difficult.easy)
+                new Task1037(1037,"Действительный бумеранг","",Difficult.easy),
+                new Task1078(1078,"Вхождение после биграммы","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

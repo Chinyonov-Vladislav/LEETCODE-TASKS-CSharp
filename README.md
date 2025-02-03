@@ -406,3 +406,5 @@
 Ссылка: [https://leetcode.com/problems/distance-between-bus-stops](https://leetcode.com/problems/distance-between-bus-stops)  
 ✅ [Задача 1037](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1037/Task1037.cs) - "Valid Boomerang"  
 Ссылка: [https://leetcode.com/problems/valid-boomerang](https://leetcode.com/problems/valid-boomerang)  
+✅ [Задача 1078](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1078/Task1078.cs) - "Occurrences After Bigram"  
+Ссылка: [https://leetcode.com/problems/occurrences-after-bigram](https://leetcode.com/problems/occurrences-after-bigram)  
