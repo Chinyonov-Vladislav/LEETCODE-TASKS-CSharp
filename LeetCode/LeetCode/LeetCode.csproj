@@ -65,6 +65,7 @@
     <Compile Include="Tasks\task1002\Task1002.cs" />
     <Compile Include="Tasks\task1005\Task1005.cs" />
     <Compile Include="Tasks\task100\Task100.cs" />
+    <Compile Include="Tasks\task1013\Task1013.cs" />
     <Compile Include="Tasks\task101\Task101.cs" />
     <Compile Include="Tasks\task1022\Task1022.cs" />
     <Compile Include="Tasks\task1046\Task1046.cs" />
@@ -249,6 +250,7 @@
     <Compile Include="Tasks\task929\Task929.cs" />
     <Compile Include="Tasks\task938\Task938.cs" />
     <Compile Include="Tasks\task941\Task941.cs" />
+    <Compile Include="Tasks\task942\Task942.cs" />
     <Compile Include="Tasks\task944\Task944.cs" />
     <Compile Include="Tasks\task94\Task94.cs" />
     <Compile Include="Tasks\task961\Task961.cs" />
@@ -258,6 +260,7 @@
     <Compile Include="Tasks\task989\Task989.cs" />
     <Compile Include="Tasks\task993\Task993.cs" />
     <Compile Include="Tasks\task997\Task997.cs" />
+    <Compile Include="Tasks\task999\Task999.cs" />
     <Compile Include="Tasks\task9\Task9.cs" />
   </ItemGroup>
   <ItemGroup>

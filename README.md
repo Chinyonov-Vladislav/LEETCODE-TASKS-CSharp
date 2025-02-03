@@ -390,3 +390,9 @@
 Ссылка: [https://leetcode.com/problems/find-the-town-judge/](https://leetcode.com/problems/find-the-town-judge/)  
 ✅ [Задача 1128](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1128/Task1128.cs) - "Number of Equivalent Domino Pairs (Количество эквивалентных пар домино)"   
 Ссылка: [https://leetcode.com/problems/number-of-equivalent-domino-pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs)
+✅ [Задача 942](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task942/Task942.cs) - "DI String Match"  
+Ссылка: [https://leetcode.com/problems/di-string-match](https://leetcode.com/problems/di-string-match)  
+✅ [Задача 999](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task999/Task999.cs) - "Available Captures for Rook"  
+Ссылка: [https://leetcode.com/problems/available-captures-for-rook](https://leetcode.com/problems/available-captures-for-rook)  
+✅ [Задача 1013](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1013/Task1013.cs) - "Partition Array Into Three Parts With Equal Sum"  
+Ссылка: [https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum)  

@@ -194,6 +194,9 @@ using LeetCode.Tasks.task1221;
 using LeetCode.Tasks.task2788;
 using LeetCode.Tasks.task1071;
 using LeetCode.Tasks.task1128;
+using LeetCode.Tasks.task942;
+using LeetCode.Tasks.task999;
+using LeetCode.Tasks.task1013;
 
 namespace LeetCode
 {
@@ -398,7 +401,10 @@ namespace LeetCode
                 new Task1221(1221,"Разделите строку на сбалансированные строки","", Difficult.easy),
                 new Task2788(2788,"Разделение строк с помощью разделителя","",Difficult.easy),
                 new Task1071(1071,"Наибольший общий делитель строк","",Difficult.easy),
-                new Task1128(1128,"Количество эквивалентных пар домино","",Difficult.easy)
+                new Task1128(1128,"Количество эквивалентных пар домино","",Difficult.easy),
+                new Task942(942,"Совпадение строк DI","",Difficult.easy),
+                new Task999(999,"Доступные ходы для ладьи для атаки пешки","",Difficult.easy),
+                new Task1013(1013,"Разделите массив на три части с равной суммой","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
