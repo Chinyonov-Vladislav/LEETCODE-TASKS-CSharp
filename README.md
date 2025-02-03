@@ -399,4 +399,6 @@
 ✅ [Задача 1018](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1018/Task1018.cs) - "Binary Prefix Divisible By 5"  
 Ссылка: [https://leetcode.com/problems/binary-prefix-divisible-by-5](https://leetcode.com/problems/binary-prefix-divisible-by-5)  
 ✅ [Задача 1021](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1021/Task1021.cs) - "Remove Outermost Parentheses"  
-Ссылка: [https://leetcode.com/problems/remove-outermost-parentheses](https://leetcode.com/problems/remove-outermost-parentheses) 
+Ссылка: [https://leetcode.com/problems/remove-outermost-parentheses](https://leetcode.com/problems/remove-outermost-parentheses)  
+✅ [Задача 1185](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1185/Task1185.cs) - "Day of the Week"  
+Ссылка: [https://leetcode.com/problems/day-of-the-week](https://leetcode.com/problems/day-of-the-week)  

@@ -199,6 +199,7 @@ using LeetCode.Tasks.task999;
 using LeetCode.Tasks.task1013;
 using LeetCode.Tasks.task1018;
 using LeetCode.Tasks.task1021;
+using LeetCode.Tasks.task1185;
 
 namespace LeetCode
 {
@@ -408,7 +409,8 @@ namespace LeetCode
                 new Task999(999,"Доступные ходы для ладьи для атаки пешки","",Difficult.easy),
                 new Task1013(1013,"Разделите массив на три части с равной суммой","",Difficult.easy),
                 new Task1018(1018,"Двоичный префикс, делимый на 5","",Difficult.easy),
-                new Task1021(1021,"Удалите крайние круглые скобки","",Difficult.easy)
+                new Task1021(1021,"Удалите крайние круглые скобки","",Difficult.easy),
+                new Task1185(1185,"День недели","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
