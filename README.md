@@ -404,3 +404,5 @@
 Ссылка: [https://leetcode.com/problems/day-of-the-week](https://leetcode.com/problems/day-of-the-week)  
 ✅ [Задача 1184](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1184/Task1184.cs) - "Distance Between Bus Stops"  
 Ссылка: [https://leetcode.com/problems/distance-between-bus-stops](https://leetcode.com/problems/distance-between-bus-stops)  
+✅ [Задача 1037](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1037/Task1037.cs) - "Valid Boomerang"  
+Ссылка: [https://leetcode.com/problems/valid-boomerang](https://leetcode.com/problems/valid-boomerang)  
