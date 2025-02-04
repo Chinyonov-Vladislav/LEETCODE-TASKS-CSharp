@@ -422,3 +422,5 @@
 Ссылка: [https://leetcode.com/problems/shift-2d-grid](https://leetcode.com/problems/shift-2d-grid)  
 ✅ [Задача 1281](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1281/Task1281.cs) - "Subtract the Product and Sum of Digits of an Integer"  
 Ссылка: [https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)  
+✅ [Задача 1287](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1287/Task1287.cs) - "Element Appearing More Than 25% In Sorted Array"  
+Ссылка: [https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)  
