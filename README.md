@@ -438,3 +438,5 @@
 Ссылка: [https://leetcode.com/problems/decompress-run-length-encoded-list](https://leetcode.com/problems/decompress-run-length-encoded-list)  
 ✅ [Задача 1317](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1317/Task1317.cs) - "Convert Integer to the Sum of Two No-Zero Integers"  
 Ссылка: [https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers)  
+✅ [Задача 1331](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1331/Task1331.cs) - "Rank Transform of an Array"  
+Ссылка: [https://leetcode.com/problems/rank-transform-of-an-array](https://leetcode.com/problems/rank-transform-of-an-array)  
