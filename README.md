@@ -424,3 +424,5 @@
 Ссылка: [https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)  
 ✅ [Задача 1287](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1287/Task1287.cs) - "Element Appearing More Than 25% In Sorted Array"  
 Ссылка: [https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)  
+✅ [Задача 1290](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1290/Task1290.cs) - "Convert Binary Number in a Linked List to Integer"  
+Ссылка: [https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)  
