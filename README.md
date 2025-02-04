@@ -440,3 +440,5 @@
 Ссылка: [https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers)  
 ✅ [Задача 1331](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1331/Task1331.cs) - "Rank Transform of an Array"  
 Ссылка: [https://leetcode.com/problems/rank-transform-of-an-array](https://leetcode.com/problems/rank-transform-of-an-array)  
+✅ [Задача 1342](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1342/Task1342.cs) - "Number of Steps to Reduce a Number to Zero"  
+Ссылка: [https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) 

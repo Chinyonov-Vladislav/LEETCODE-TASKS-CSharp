@@ -219,6 +219,7 @@ using LeetCode.Tasks.task1309;
 using LeetCode.Tasks.task1313;
 using LeetCode.Tasks.task1317;
 using LeetCode.Tasks.task1331;
+using LeetCode.Tasks.task1342;
 
 namespace LeetCode
 {
@@ -448,7 +449,8 @@ namespace LeetCode
                 new Task1309(1309,"Расшифровать строку из алфавита в целочисленное сопоставление","",Difficult.easy),
                 new Task1313(1313,"Распаковать список с кодировкой длины выполнения","",Difficult.easy),
                 new Task1317(1317,"Преобразуйте целое число в сумму двух целых чисел, не равных нулю","",Difficult.easy),
-                new Task1331(1331,"Ранговое преобразование массива","",Difficult.easy)
+                new Task1331(1331,"Ранговое преобразование массива","",Difficult.easy),
+                new Task1342(1342,"Количество шагов для уменьшения числа до нуля","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
