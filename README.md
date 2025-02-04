@@ -413,4 +413,6 @@
 ✅ [Задача 1108](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1108/Task1108.cs) - "Defanging an IP Address"  
 Ссылка: [https://leetcode.com/problems/defanging-an-ip-address](https://leetcode.com/problems/defanging-an-ip-address)  
 ✅ [Задача 1200](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1200/Task1200.cs) - "Minimum Absolute Difference"  
-Ссылка: [https://leetcode.com/problems/minimum-absolute-difference](https://leetcode.com/problems/minimum-absolute-difference) 
+Ссылка: [https://leetcode.com/problems/minimum-absolute-difference](https://leetcode.com/problems/minimum-absolute-difference)  
+✅ [Задача 1232](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1232/Task1232.cs) - "Check If It Is a Straight Line"  
+Ссылка: [https://leetcode.com/problems/check-if-it-is-a-straight-line](https://leetcode.com/problems/check-if-it-is-a-straight-line)  
