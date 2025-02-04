@@ -30,7 +30,7 @@ namespace LeetCode.Tasks.task1295
         {
             throw new NotImplementedException();
         }
-        public int findNumbers(int[] nums)
+        private int findNumbers(int[] nums)
         {
             int countNumbersWithEvenCountOfDigits = 0;
             for (int i = 0; i < nums.Length; i++)

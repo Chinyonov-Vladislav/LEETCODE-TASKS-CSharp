@@ -213,6 +213,7 @@ using LeetCode.Tasks.task1281;
 using LeetCode.Tasks.task1287;
 using LeetCode.Tasks.task1290;
 using LeetCode.Tasks.task1295;
+using LeetCode.Tasks.task1299;
 
 namespace LeetCode
 {
@@ -436,7 +437,8 @@ namespace LeetCode
                 new Task1281(1281,"Вычитание произведения и суммы цифр целого числа","",Difficult.easy),
                 new Task1287(1287,"Элемент, встречающийся более 25% раз в отсортированном массиве","",Difficult.easy),
                 new Task1290(1290,"Преобразуйте двоичное число в связанном списке в целое число","",Difficult.easy),
-                new Task1295(1295,"Найдите числа с четным количеством цифр","",Difficult.easy)
+                new Task1295(1295,"Найдите числа с четным количеством цифр","",Difficult.easy),
+                new Task1299(1299,"Замените элементы на самый большой элемент с правой стороны","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
