@@ -342,5 +342,32 @@ namespace LeetCode.Basic
                 }
             }
         }
+        protected void printTwoDimensionalListInt(IList<IList<int>> nums, string header)
+        {
+            int totalItems = 0;
+            for (int i = 0; i < nums.Count; i++)
+            {
+                for (int j = 0; j < nums[i].Count; j++)
+                {
+                    totalItems++;
+                }
+            }
+            if (totalItems == 0)
+            {
+                Console.WriteLine("Пустой двумерный список целых чисел");
+            }
+            else
+            {
+                Console.WriteLine(header);
+                for (int i = 0; i < nums.Count; i++)
+                {
+                    for (int j = 0; j < nums[i].Count; j++)
+                    {
+                        Console.Write(nums[i][j] + "\t");
+                    }
+                    Console.WriteLine();
+                }
+            }
+        }
     }
 }

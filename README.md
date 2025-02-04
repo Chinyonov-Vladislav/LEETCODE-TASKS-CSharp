@@ -418,3 +418,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-it-is-a-straight-line](https://leetcode.com/problems/check-if-it-is-a-straight-line)  
 ✅ [Задача 1252](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1252/Task1252.cs) - "Cells with Odd Values in a Matrix"  
 Ссылка: [https://leetcode.com/problems/cells-with-odd-values-in-a-matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)  
+✅ [Задача 1260](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1260/Task1260.cs) - "Shift 2D Grid"  
+Ссылка: [https://leetcode.com/problems/shift-2d-grid](https://leetcode.com/problems/shift-2d-grid)  
