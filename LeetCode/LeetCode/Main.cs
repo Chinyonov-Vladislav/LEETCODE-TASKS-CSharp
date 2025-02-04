@@ -204,6 +204,7 @@ using LeetCode.Tasks.task1184;
 using LeetCode.Tasks.task1037;
 using LeetCode.Tasks.task1078;
 using LeetCode.Tasks.task1122;
+using LeetCode.Tasks.task1108;
 
 namespace LeetCode
 {
@@ -418,7 +419,8 @@ namespace LeetCode
                 new Task1184(1184,"Расстояние между автобусными остановками","",Difficult.easy),
                 new Task1037(1037,"Действительный бумеранг","",Difficult.easy),
                 new Task1078(1078,"Вхождение после биграммы","",Difficult.easy),
-                new Task1122(1122,"Массив относительной сортировки","",Difficult.easy)
+                new Task1122(1122,"Массив относительной сортировки","",Difficult.easy),
+                new Task1108(1108,"Усеченный IP-адрес","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

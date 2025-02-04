@@ -410,3 +410,5 @@
 Ссылка: [https://leetcode.com/problems/occurrences-after-bigram](https://leetcode.com/problems/occurrences-after-bigram)  
 ✅ [Задача 1122](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1122/Task1122.cs) - "Relative Sort Array"  
 Ссылка: [https://leetcode.com/problems/relative-sort-array](https://leetcode.com/problems/relative-sort-array)  
+✅ [Задача 1108](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1108/Task1108.cs) - "Defanging an IP Address"  
+Ссылка: [https://leetcode.com/problems/defanging-an-ip-address](https://leetcode.com/problems/defanging-an-ip-address)  
