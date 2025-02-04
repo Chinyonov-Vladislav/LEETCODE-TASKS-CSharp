@@ -416,3 +416,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-absolute-difference](https://leetcode.com/problems/minimum-absolute-difference)  
 ✅ [Задача 1232](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1232/Task1232.cs) - "Check If It Is a Straight Line"  
 Ссылка: [https://leetcode.com/problems/check-if-it-is-a-straight-line](https://leetcode.com/problems/check-if-it-is-a-straight-line)  
+✅ [Задача 1252](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1252/Task1252.cs) - "Cells with Odd Values in a Matrix"  
+Ссылка: [https://leetcode.com/problems/cells-with-odd-values-in-a-matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)  

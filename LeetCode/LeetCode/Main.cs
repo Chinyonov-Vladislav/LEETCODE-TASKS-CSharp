@@ -207,6 +207,7 @@ using LeetCode.Tasks.task1122;
 using LeetCode.Tasks.task1108;
 using LeetCode.Tasks.task1200;
 using LeetCode.Tasks.task1232;
+using LeetCode.Tasks.task1252;
 
 namespace LeetCode
 {
@@ -424,7 +425,8 @@ namespace LeetCode
                 new Task1122(1122,"Массив относительной сортировки","",Difficult.easy),
                 new Task1108(1108,"Усеченный IP-адрес","",Difficult.easy),
                 new Task1200(1200,"Минимальная абсолютная разница","",Difficult.easy),
-                new Task1232(1232,"Проверьте, является ли это прямой линией","",Difficult.easy)
+                new Task1232(1232,"Проверьте, является ли это прямой линией","",Difficult.easy),
+                new Task1252(1252,"Ячейки с нечетными значениями в матрице","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
