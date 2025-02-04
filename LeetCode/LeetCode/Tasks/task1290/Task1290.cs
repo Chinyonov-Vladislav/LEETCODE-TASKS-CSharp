@@ -32,7 +32,7 @@ namespace LeetCode.Tasks.task1290
         {
             throw new NotImplementedException();
         }
-        public int getDecimalValue(ListNode head)
+        private int getDecimalValue(ListNode head)
         {
             List<int> bits = new List<int>();
             while (head != null)
@@ -49,6 +49,24 @@ namespace LeetCode.Tasks.task1290
                 }
             }
             return result;
+        }
+        // скопировано с leetcode
+        private int bestSolution(ListNode head)
+        {
+            int ans = 0;
+            while (head != null)
+            {
+                if (head.val == 0)
+                {
+                    ans = ans * 2;
+                }
+                else
+                {
+                    ans = ans * 2 + 1;
+                }
+                head = head.next;
+            }
+            return ans;
         }
     }
 }

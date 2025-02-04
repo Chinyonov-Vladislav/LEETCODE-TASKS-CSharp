@@ -426,3 +426,5 @@
 Ссылка: [https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)  
 ✅ [Задача 1290](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1290/Task1290.cs) - "Convert Binary Number in a Linked List to Integer"  
 Ссылка: [https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)  
+✅ [Задача 1295](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1295/Task1295.cs) - "Find Numbers with Even Number of Digits"  
+Ссылка: [https://leetcode.com/problems/find-numbers-with-even-number-of-digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)  
