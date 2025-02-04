@@ -215,6 +215,7 @@ using LeetCode.Tasks.task1290;
 using LeetCode.Tasks.task1295;
 using LeetCode.Tasks.task1299;
 using LeetCode.Tasks.task1304;
+using LeetCode.Tasks.task1309;
 
 namespace LeetCode
 {
@@ -440,7 +441,8 @@ namespace LeetCode
                 new Task1290(1290,"Преобразуйте двоичное число в связанном списке в целое число","",Difficult.easy),
                 new Task1295(1295,"Найдите числа с четным количеством цифр","",Difficult.easy),
                 new Task1299(1299,"Замените элементы на самый большой элемент с правой стороны","",Difficult.easy),
-                new Task1304(1304,"Найдите N уникальных целых чисел, сумма которых равна нулю","",Difficult.easy)
+                new Task1304(1304,"Найдите N уникальных целых чисел, сумма которых равна нулю","",Difficult.easy),
+                new Task1309(1309,"Расшифровать строку из алфавита в целочисленное сопоставление","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
