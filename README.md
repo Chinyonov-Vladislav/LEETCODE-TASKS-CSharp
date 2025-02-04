@@ -436,3 +436,5 @@
 Ссылка: [https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping)  
 ✅ [Задача 1313](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1313/Task1313.cs) - "Decompress Run-Length Encoded List"  
 Ссылка: [https://leetcode.com/problems/decompress-run-length-encoded-list](https://leetcode.com/problems/decompress-run-length-encoded-list)  
+✅ [Задача 1317](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1317/Task1317.cs) - "Convert Integer to the Sum of Two No-Zero Integers"  
+Ссылка: [https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers)  
