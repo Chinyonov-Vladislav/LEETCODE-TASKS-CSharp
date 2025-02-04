@@ -434,3 +434,5 @@
 Ссылка: [https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero)  
 ✅ [Задача 1309](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1309/Task1309.cs) - "Decrypt String from Alphabet to Integer Mapping"  
 Ссылка: [https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping)  
+✅ [Задача 1313](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1313/Task1313.cs) - "Decompress Run-Length Encoded List"  
+Ссылка: [https://leetcode.com/problems/decompress-run-length-encoded-list](https://leetcode.com/problems/decompress-run-length-encoded-list)  
