@@ -209,6 +209,7 @@ using LeetCode.Tasks.task1200;
 using LeetCode.Tasks.task1232;
 using LeetCode.Tasks.task1252;
 using LeetCode.Tasks.task1260;
+using LeetCode.Tasks.task1281;
 
 namespace LeetCode
 {
@@ -428,7 +429,8 @@ namespace LeetCode
                 new Task1200(1200,"Минимальная абсолютная разница","",Difficult.easy),
                 new Task1232(1232,"Проверьте, является ли это прямой линией","",Difficult.easy),
                 new Task1252(1252,"Ячейки с нечетными значениями в матрице","",Difficult.easy),
-                new Task1260(1260,"Сдвиг 2D Сетки","",Difficult.easy)
+                new Task1260(1260,"Сдвиг 2D Сетки","",Difficult.easy),
+                new Task1281(1281,"Вычитание произведения и суммы цифр целого числа","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

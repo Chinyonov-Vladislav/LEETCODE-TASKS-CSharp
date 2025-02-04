@@ -420,3 +420,5 @@
 Ссылка: [https://leetcode.com/problems/cells-with-odd-values-in-a-matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)  
 ✅ [Задача 1260](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1260/Task1260.cs) - "Shift 2D Grid"  
 Ссылка: [https://leetcode.com/problems/shift-2d-grid](https://leetcode.com/problems/shift-2d-grid)  
+✅ [Задача 1281](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1281/Task1281.cs) - "Subtract the Product and Sum of Digits of an Integer"  
+Ссылка: [https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)  

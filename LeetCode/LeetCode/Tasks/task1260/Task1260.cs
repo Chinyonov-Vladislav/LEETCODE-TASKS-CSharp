@@ -52,7 +52,6 @@ namespace LeetCode.Tasks.task1260
                 {
                     (grid[indexRow][0], grid[indexRow][countColumns - 1]) = (grid[indexRow][countColumns - 1], grid[indexRow][0]);
                 }
-                printTwoDimensionalListInt(grid, "ПУНКТ 1");
                 for (int indexRow = countRows - 1; indexRow > 0; indexRow--)
                 {
                     (grid[indexRow][0], grid[indexRow-1][0]) = (grid[indexRow-1][0], grid[indexRow][0]);
@@ -75,6 +74,42 @@ namespace LeetCode.Tasks.task1260
                 }
             }
             return result;
+        }
+        // скопировано с leetcode
+        private IList<IList<int>> bestSolution(int[][] grid, int k)
+        {
+            int m = grid.Length;
+            int n = grid[0].Length;
+            if (k % (m * n) == 0)
+            {
+                return grid;
+            }
+
+            int[][] arr = new int[m][];
+            for (int i = 0; i < m; i++)
+            {
+                arr[i] = new int[n];
+            }
+
+            k %= (m * n);
+
+            int x = m - (k - 1) / n - 1;
+            int y = n - (k - 1) % n - 1;
+            for (int i = 0; i < m; i++)
+            {
+                for (int j = 0; j < n; j++)
+                {
+                    arr[i][j] = grid[x][y];
+                    y++;
+                    if (y == n)
+                    {
+                        y = 0;
+                        x++;
+                        if (x == m) x = 0;
+                    }
+                }
+            }
+            return arr;
         }
     }
 }
