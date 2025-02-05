@@ -458,3 +458,5 @@
 Ссылка: [https://leetcode.com/problems/lucky-numbers-in-a-matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix)  
 ✅ [Задача 1385](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1385/Task1385.cs) - "Find the Distance Value Between Two Arrays"  
 Ссылка: [https://leetcode.com/problems/find-the-distance-value-between-two-arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays)  
+✅ [Задача 1389](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1389/Task1389.cs) - "Create Target Array in the Given Order"  
+Ссылка: [https://leetcode.com/problems/create-target-array-in-the-given-order](https://leetcode.com/problems/create-target-array-in-the-given-order)  

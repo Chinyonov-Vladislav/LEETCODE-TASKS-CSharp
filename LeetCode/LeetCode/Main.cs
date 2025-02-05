@@ -228,6 +228,7 @@ using LeetCode.Tasks.task1365;
 using LeetCode.Tasks.task1374;
 using LeetCode.Tasks.task1380;
 using LeetCode.Tasks.task1385;
+using LeetCode.Tasks.task1389;
 
 namespace LeetCode
 {
@@ -466,7 +467,8 @@ namespace LeetCode
                 new Task1365(1365,"Сколько чисел меньше текущего числа","",Difficult.easy),
                 new Task1374(1374,"Сгенерируйте строку из символов с нечётным количеством повторений","",Difficult.easy),
                 new Task1380(1380,"Счастливые числа в матрице","",Difficult.easy),
-                new Task1385(1385,"Найдите значение расстояния между двумя массивами","",Difficult.easy)
+                new Task1385(1385,"Найдите значение расстояния между двумя массивами","",Difficult.easy),
+                new Task1389(1389,"Создание целевого массива в заданном порядке","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
