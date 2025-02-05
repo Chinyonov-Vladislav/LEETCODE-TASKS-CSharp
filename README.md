@@ -443,4 +443,6 @@
 ✅ [Задача 1342](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1342/Task1342.cs) - "Number of Steps to Reduce a Number to Zero"  
 Ссылка: [https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)  
 ✅ [Задача 1346](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1346/Task1346.cs) - "Check If N and Its Double Exist"  
-Ссылка: [https://leetcode.com/problems/check-if-n-and-its-double-exist](https://leetcode.com/problems/check-if-n-and-its-double-exist) 
+Ссылка: [https://leetcode.com/problems/check-if-n-and-its-double-exist](https://leetcode.com/problems/check-if-n-and-its-double-exist)  
+✅ [Задача 1351](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1351/Task1351.cs) - "Count Negative Numbers in a Sorted Matrix"  
+Ссылка: [https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)  

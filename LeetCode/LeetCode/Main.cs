@@ -221,6 +221,7 @@ using LeetCode.Tasks.task1317;
 using LeetCode.Tasks.task1331;
 using LeetCode.Tasks.task1342;
 using LeetCode.Tasks.task1346;
+using LeetCode.Tasks.task1351;
 
 namespace LeetCode
 {
@@ -452,7 +453,8 @@ namespace LeetCode
                 new Task1317(1317,"Преобразуйте целое число в сумму двух целых чисел, не равных нулю","",Difficult.easy),
                 new Task1331(1331,"Ранговое преобразование массива","",Difficult.easy),
                 new Task1342(1342,"Количество шагов для уменьшения числа до нуля","",Difficult.easy),
-                new Task1346(1346,"Проверьте, существуют ли N и его двойник","",Difficult.easy)
+                new Task1346(1346,"Проверьте, существуют ли N и его двойник","",Difficult.easy),
+                new Task1351(1341,"Подсчет отрицательных чисел в отсортированной матрице","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
