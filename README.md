@@ -446,3 +446,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-n-and-its-double-exist](https://leetcode.com/problems/check-if-n-and-its-double-exist)  
 ✅ [Задача 1351](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1351/Task1351.cs) - "Count Negative Numbers in a Sorted Matrix"  
 Ссылка: [https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)  
+✅ [Задача 1356](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1356/Task1356.cs) - "Sort Integers by The Number of 1 Bits"  
+Ссылка: [https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits) 
