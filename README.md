@@ -466,3 +466,5 @@
 Ссылка: [https://leetcode.com/problems/letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)  
 ✅ [Задача 151](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task151/Task151.cs) - "Reverse Words in a String"  
 Ссылка: [https://leetcode.com/problems/reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string)  
+✅ [Задача 43](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task43/Task43.cs) - "Multiply Strings"  
+Ссылка: [https://leetcode.com/problems/multiply-strings](https://leetcode.com/problems/multiply-strings)  

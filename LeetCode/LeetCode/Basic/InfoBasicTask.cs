@@ -221,6 +221,67 @@ namespace LeetCode.Basic
                 }
             }
         }
+        protected void printIListIListInt(IList<IList<int>> list)
+        {
+            if (list.Count == 0)
+            {
+                Console.WriteLine("Пустой список");
+            }
+            else if (list.Count == 1)
+            {
+                Console.WriteLine($"Результат: [");
+                for (int i = 0; i < list[0].Count; i++)
+                {
+                    if (i == 0)
+                    {
+                        Console.Write($"[{list[0][i]}, ");
+                    }
+                    else if (i == list.Count - 1)
+                    {
+                        Console.Write($"{list[0][i]}]");
+                    }
+                    else
+                    {
+                        Console.Write($"{list[0][i]}, ");
+                    }
+                }
+                Console.WriteLine($"]");
+            }
+            else
+            {
+                
+                for (int i = 0; i < list.Count; i++)
+                {
+                    if (i == 0)
+                    {
+                        Console.Write($"Результат: [");
+                    }
+                    for (int j = 0; j < list[i].Count; j++)
+                    {
+                        if (j == 0)
+                        {
+                            Console.Write($"[{list[i][j]}, ");
+                        }
+                        else if (j == list[i].Count - 1 && i == list.Count - 1)
+                        {
+                            Console.Write($"{list[i][j]}]");
+                        }
+                        else if (j == list[i].Count - 1 && i != list.Count - 1)
+                        {
+                            Console.Write($"{list[i][j]}],");
+                        }
+                        else
+                        {
+                            Console.Write($"{list[i][j]}, ");
+                        }
+                    }
+                    if (i == list.Count-1)
+                    {
+                        Console.Write($"]\n");
+                    }
+                }
+            }
+        }
         protected void printIListBool(IList<bool> list, string header)
         {
             if (list.Count == 0)

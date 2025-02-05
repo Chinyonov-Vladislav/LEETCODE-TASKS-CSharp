@@ -82,7 +82,7 @@ namespace LeetCode.Tasks.Task1
             else
             {
                 Console.WriteLine($"Первый индекс = {indexs[0]}. Значение элемента массива = {nums[indexs[0]]}");
-                Console.WriteLine($"Первый индекс = {indexs[1]}. Значение элемента массива = {nums[indexs[1]]}");
+                Console.WriteLine($"Второй индекс = {indexs[1]}. Значение элемента массива = {nums[indexs[1]]}");
             }
         }
 
