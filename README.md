@@ -451,4 +451,6 @@
 ✅ [Задача 1360](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1360/Task1360.cs) - "Number of Days Between Two Dates"  
 Ссылка: [https://leetcode.com/problems/number-of-days-between-two-dates](https://leetcode.com/problems/number-of-days-between-two-dates)  
 ✅ [Задача 1365](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1365/Task1365.cs) - "How Many Numbers Are Smaller Than the Current Number"  
-Ссылка: [https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)
+Ссылка: [https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)  
+✅ [Задача 1374](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1374/Task1374.cs) - "Generate a String With Characters That Have Odd Counts"  
+Ссылка: [https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts)  
