@@ -460,3 +460,5 @@
 Ссылка: [https://leetcode.com/problems/find-the-distance-value-between-two-arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays)  
 ✅ [Задача 1389](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1389/Task1389.cs) - "Create Target Array in the Given Order"  
 Ссылка: [https://leetcode.com/problems/create-target-array-in-the-given-order](https://leetcode.com/problems/create-target-array-in-the-given-order)  
+✅ [Задача 1394](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1394/Task1394.cs) - "Find Lucky Integer in an Array"  
+Ссылка: [https://leetcode.com/problems/find-lucky-integer-in-an-array](https://leetcode.com/problems/find-lucky-integer-in-an-array)  
