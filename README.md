@@ -462,3 +462,5 @@
 Ссылка: [https://leetcode.com/problems/create-target-array-in-the-given-order](https://leetcode.com/problems/create-target-array-in-the-given-order)  
 ✅ [Задача 1394](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1394/Task1394.cs) - "Find Lucky Integer in an Array"  
 Ссылка: [https://leetcode.com/problems/find-lucky-integer-in-an-array](https://leetcode.com/problems/find-lucky-integer-in-an-array)  
+✅ [Задача 17](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task17/Task17.cs) - "Letter Combinations of a Phone Number"  
+Ссылка: [https://leetcode.com/problems/letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)  
