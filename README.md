@@ -454,3 +454,5 @@
 Ссылка: [https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)  
 ✅ [Задача 1374](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1374/Task1374.cs) - "Generate a String With Characters That Have Odd Counts"  
 Ссылка: [https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts)  
+✅ [Задача 1380](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1380/Task1380.cs) - "Lucky Numbers in a Matrix"  
+Ссылка: [https://leetcode.com/problems/lucky-numbers-in-a-matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) 

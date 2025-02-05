@@ -226,6 +226,7 @@ using LeetCode.Tasks.task1356;
 using LeetCode.Tasks.task1360;
 using LeetCode.Tasks.task1365;
 using LeetCode.Tasks.task1374;
+using LeetCode.Tasks.task1380;
 
 namespace LeetCode
 {
@@ -462,7 +463,8 @@ namespace LeetCode
                 new Task1356(1356,"Отсортируйте целые числа по количеству единиц в них","",Difficult.easy),
                 new Task1360(1360,"Количество дней между двумя датами","",Difficult.easy),
                 new Task1365(1365,"Сколько чисел меньше текущего числа","",Difficult.easy),
-                new Task1374(1374,"Сгенерируйте строку из символов с нечётным количеством повторений","",Difficult.easy)
+                new Task1374(1374,"Сгенерируйте строку из символов с нечётным количеством повторений","",Difficult.easy),
+                new Task1380(1380,"Счастливые числа в матрице","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
