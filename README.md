@@ -455,4 +455,6 @@
 ✅ [Задача 1374](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1374/Task1374.cs) - "Generate a String With Characters That Have Odd Counts"  
 Ссылка: [https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts)  
 ✅ [Задача 1380](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1380/Task1380.cs) - "Lucky Numbers in a Matrix"  
-Ссылка: [https://leetcode.com/problems/lucky-numbers-in-a-matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) 
+Ссылка: [https://leetcode.com/problems/lucky-numbers-in-a-matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix)  
+✅ [Задача 1385](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1385/Task1385.cs) - "Find the Distance Value Between Two Arrays"  
+Ссылка: [https://leetcode.com/problems/find-the-distance-value-between-two-arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays)  
