@@ -450,3 +450,5 @@
 Ссылка: [https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits)  
 ✅ [Задача 1360](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1360/Task1360.cs) - "Number of Days Between Two Dates"  
 Ссылка: [https://leetcode.com/problems/number-of-days-between-two-dates](https://leetcode.com/problems/number-of-days-between-two-dates)  
+✅ [Задача 1365](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1365/Task1365.cs) - "How Many Numbers Are Smaller Than the Current Number"  
+Ссылка: [https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)
