@@ -26,7 +26,7 @@ namespace LeetCode.Tasks.task43
             Console.WriteLine($"Первое значение = \"{firstNumber}\"");
             Console.WriteLine($"Второе значение = \"{secondNumber}\"");
             string resultProduct = multiply(firstNumber, secondNumber);
-            Console.WriteLine($"Результат умножения = {resultProduct}");
+            Console.WriteLine($"Результат умножения = \"{resultProduct}\"");
         }
 
         public override void testing()
