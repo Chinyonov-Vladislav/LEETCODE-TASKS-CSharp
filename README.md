@@ -472,3 +472,5 @@
 Ссылка: [https://leetcode.com/problems/count-largest-group](https://leetcode.com/problems/count-largest-group)  
 ✅ [Задача 1413](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1413/Task1413.cs) - "Minimum Value to Get Positive Step by Step Sum"  
 Ссылка: [https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum)  
+✅ [Задача 1450](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1450/Task1450.cs) - "Number of Students Doing Homework at a Given Time"  
+Ссылка: [https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)  

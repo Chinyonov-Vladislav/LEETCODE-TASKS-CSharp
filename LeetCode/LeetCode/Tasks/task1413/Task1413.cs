@@ -56,5 +56,20 @@ namespace LeetCode.Tasks.task1413
                 return minPrefixSum * (-1) + 1;
             }
         }
+        //скопировано с leetcode
+        private int bestSolution(int[] nums)
+        {
+            var lowestNumer = nums[0];
+            for (int i = 1; i < nums.Length; i++)
+            {
+                nums[i] += nums[i - 1];
+                if (nums[i] < lowestNumer)
+                {
+                    lowestNumer = nums[i];
+                }
+            }
+            var lowestAmountNeeded = lowestNumer * -1 + 1;
+            return Math.Max(1, lowestAmountNeeded);
+        }
     }
 }
