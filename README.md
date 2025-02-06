@@ -502,3 +502,5 @@
 Ссылка: [https://leetcode.com/problems/water-bottles](https://leetcode.com/problems/water-bottles)  
 ✅ [Задача 1523](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1523/Task1523.cs) - "Count Odd Numbers in an Interval Range"  
 Ссылка: [https://leetcode.com/problems/count-odd-numbers-in-an-interval-range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range)  
+✅ [Задача 1528](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1528/Task1528.cs) - "Shuffle String"  
+Ссылка: [https://leetcode.com/problems/shuffle-string](https://leetcode.com/problems/shuffle-string)  
