@@ -254,6 +254,7 @@ using LeetCode.Tasks.task1523;
 using LeetCode.Tasks.task1528;
 using LeetCode.Tasks.task1534;
 using LeetCode.Tasks.task1550;
+using LeetCode.Tasks.task1556;
 
 namespace LeetCode
 {
@@ -518,7 +519,8 @@ namespace LeetCode
                 new Task1523(1523,"Подсчёт нечетных чисел в интервальном диапазоне","",Difficult.easy),
                 new Task1528(1528,"Перетасовать строку","",Difficult.easy),
                 new Task1534(1534,"Количество хороших триплетов","",Difficult.easy),
-                new Task1550(1550,"Три последовательных нечетных числа","",Difficult.easy)
+                new Task1550(1550,"Три последовательных нечетных числа","",Difficult.easy),
+                new Task1556(1556,"Разделитель тысяч","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

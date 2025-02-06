@@ -508,3 +508,5 @@
 Ссылка: [https://leetcode.com/problems/count-good-triplets](https://leetcode.com/problems/count-good-triplets)  
 ✅ [Задача 1550](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1550/Task1550.cs) - "Three Consecutive Odds"  
 Ссылка: [https://leetcode.com/problems/three-consecutive-odds](https://leetcode.com/problems/three-consecutive-odds)  
+✅ [Задача 1556](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1556/Task1556.cs) - "Thousand Separator"  
+Ссылка: [https://leetcode.com/problems/thousand-separator](https://leetcode.com/problems/thousand-separator)  
