@@ -482,3 +482,5 @@
 Ссылка: [https://leetcode.com/problems/destination-city](https://leetcode.com/problems/destination-city)  
 ✅ [Задача 1446](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1446/Task1446.cs) - "Consecutive Characters"  
 Ссылка: [https://leetcode.com/problems/consecutive-characters](https://leetcode.com/problems/consecutive-characters)  
+✅ [Задача 1464](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1464/Task1464.cs) - "Maximum Product of Two Elements in an Array"  
+Ссылка: [https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)  

@@ -241,6 +241,7 @@ using LeetCode.Tasks.task1455;
 using LeetCode.Tasks.task1431;
 using LeetCode.Tasks.task1436;
 using LeetCode.Tasks.Task1446;
+using LeetCode.Tasks.task1464;
 
 namespace LeetCode
 {
@@ -492,7 +493,8 @@ namespace LeetCode
                 new Task1455(1455,"Проверьте, является ли слово приставкой какого-либо слова в предложении","",Difficult.easy),
                 new Task1431(1431,"Дети, получившие наибольшее количество конфет","",Difficult.easy),
                 new Task1436(1436,"Город назначения","",Difficult.easy),
-                new Task1446(1446,"Последовательные символы","",Difficult.easy)
+                new Task1446(1446,"Последовательные символы","",Difficult.easy),
+                new Task1464(1464,"Максимальное произведение двух элементов в массиве","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
