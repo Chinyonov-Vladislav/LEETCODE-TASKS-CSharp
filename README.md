@@ -498,3 +498,5 @@
 Ссылка: [https://leetcode.com/problems/reformat-date](https://leetcode.com/problems/reformat-date)  
 ✅ [Задача 1512](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1512/Task1512.cs) - "Number of Good Pairs"  
 Ссылка: [https://leetcode.com/problems/number-of-good-pairs](https://leetcode.com/problems/number-of-good-pairs)  
+✅ [Задача 1518](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1518/Task1518.cs) - "Water Bottles"  
+Ссылка: [https://leetcode.com/problems/water-bottles](https://leetcode.com/problems/water-bottles)  
