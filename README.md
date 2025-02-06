@@ -506,3 +506,5 @@
 Ссылка: [https://leetcode.com/problems/shuffle-string](https://leetcode.com/problems/shuffle-string)  
 ✅ [Задача 1534](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1534/Task1534.cs) - "Count Good Triplets"  
 Ссылка: [https://leetcode.com/problems/count-good-triplets](https://leetcode.com/problems/count-good-triplets)  
+✅ [Задача 1550](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1550/Task1550.cs) - "Three Consecutive Odds"  
+Ссылка: [https://leetcode.com/problems/three-consecutive-odds](https://leetcode.com/problems/three-consecutive-odds)  
