@@ -242,6 +242,7 @@ using LeetCode.Tasks.task1431;
 using LeetCode.Tasks.task1436;
 using LeetCode.Tasks.Task1446;
 using LeetCode.Tasks.task1464;
+using LeetCode.Tasks.task1470;
 
 namespace LeetCode
 {
@@ -494,7 +495,8 @@ namespace LeetCode
                 new Task1431(1431,"Дети, получившие наибольшее количество конфет","",Difficult.easy),
                 new Task1436(1436,"Город назначения","",Difficult.easy),
                 new Task1446(1446,"Последовательные символы","",Difficult.easy),
-                new Task1464(1464,"Максимальное произведение двух элементов в массиве","",Difficult.easy)
+                new Task1464(1464,"Максимальное произведение двух элементов в массиве","",Difficult.easy),
+                new Task1470(1470,"Перетасуйте массив","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
