@@ -235,6 +235,7 @@ using LeetCode.Tasks.task151;
 using LeetCode.Tasks.task43;
 using LeetCode.Tasks.task62;
 using LeetCode.Tasks.task1399;
+using LeetCode.Tasks.task1413;
 
 namespace LeetCode
 {
@@ -480,7 +481,8 @@ namespace LeetCode
                 new Task151(151,"Поменять местами слова в строке","",Difficult.medium),
                 new Task43(43,"Умножение строк","",Difficult.medium),
                 new Task62(62,"Уникальные пути","",Difficult.medium),
-                new Task1399(1399,"Подсчитайте самую большую группу","",Difficult.easy)
+                new Task1399(1399,"Подсчитайте самую большую группу","",Difficult.easy),
+                new Task1413(1413,"Минимальное значение для получения положительной суммы","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

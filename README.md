@@ -470,3 +470,5 @@
 Ссылка: [https://leetcode.com/problems/multiply-strings](https://leetcode.com/problems/multiply-strings)  
 ✅ [Задача 1399](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1399/Task1399.cs) - "Count Largest Group"  
 Ссылка: [https://leetcode.com/problems/count-largest-group](https://leetcode.com/problems/count-largest-group)  
+✅ [Задача 1413](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1413/Task1413.cs) - "Minimum Value to Get Positive Step by Step Sum"  
+Ссылка: [https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum)  
