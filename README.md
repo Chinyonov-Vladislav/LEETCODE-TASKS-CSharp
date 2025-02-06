@@ -504,3 +504,5 @@
 Ссылка: [https://leetcode.com/problems/count-odd-numbers-in-an-interval-range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range)  
 ✅ [Задача 1528](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1528/Task1528.cs) - "Shuffle String"  
 Ссылка: [https://leetcode.com/problems/shuffle-string](https://leetcode.com/problems/shuffle-string)  
+✅ [Задача 1534](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1534/Task1534.cs) - "Count Good Triplets"  
+Ссылка: [https://leetcode.com/problems/count-good-triplets](https://leetcode.com/problems/count-good-triplets)  

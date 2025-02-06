@@ -252,6 +252,7 @@ using LeetCode.Tasks.task1512;
 using LeetCode.Tasks.task1518;
 using LeetCode.Tasks.task1523;
 using LeetCode.Tasks.task1528;
+using LeetCode.Tasks.task1534;
 
 namespace LeetCode
 {
@@ -514,7 +515,8 @@ namespace LeetCode
                 new Task1512(1512,"Количество хороших пар","",Difficult.easy),
                 new Task1518(1518,"Бутылки с водой","",Difficult.easy),
                 new Task1523(1523,"Подсчёт нечетных чисел в интервальном диапазоне","",Difficult.easy),
-                new Task1528(1528,"Перетасовать строку","",Difficult.easy)
+                new Task1528(1528,"Перетасовать строку","",Difficult.easy),
+                new Task1534(1534,"Количество хороших триплетов","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
