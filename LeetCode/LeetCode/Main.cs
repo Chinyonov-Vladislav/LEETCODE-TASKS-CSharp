@@ -243,6 +243,7 @@ using LeetCode.Tasks.task1436;
 using LeetCode.Tasks.Task1446;
 using LeetCode.Tasks.task1464;
 using LeetCode.Tasks.task1470;
+using LeetCode.Tasks.task1480;
 
 namespace LeetCode
 {
@@ -496,7 +497,8 @@ namespace LeetCode
                 new Task1436(1436,"Город назначения","",Difficult.easy),
                 new Task1446(1446,"Последовательные символы","",Difficult.easy),
                 new Task1464(1464,"Максимальное произведение двух элементов в массиве","",Difficult.easy),
-                new Task1470(1470,"Перетасуйте массив","",Difficult.easy)
+                new Task1470(1470,"Перетасуйте массив","",Difficult.easy),
+                new Task1480(1480,"Текущая сумма 1d массива","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

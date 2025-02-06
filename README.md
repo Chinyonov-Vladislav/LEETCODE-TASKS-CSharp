@@ -484,5 +484,7 @@
 Ссылка: [https://leetcode.com/problems/consecutive-characters](https://leetcode.com/problems/consecutive-characters)  
 ✅ [Задача 1464](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1464/Task1464.cs) - "Maximum Product of Two Elements in an Array"  
 Ссылка: [https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)  
-✅ [Задача ](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1470/Task1470.cs) - "Shuffle the Array"  
+✅ [Задача 1470](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1470/Task1470.cs) - "Shuffle the Array"  
 Ссылка: [https://leetcode.com/problems/shuffle-the-array](https://leetcode.com/problems/shuffle-the-array)  
+✅ [Задача 1480](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks1480/task/Task1480.cs) - "Running Sum of 1d Array"  
+Ссылка: [https://leetcode.com/problems/running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array)  
