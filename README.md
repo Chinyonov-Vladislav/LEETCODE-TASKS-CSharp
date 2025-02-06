@@ -496,3 +496,5 @@
 Ссылка: [https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)  
 ✅ [Задача 1507](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1507/Task1507.cs) - "Reformat Date"  
 Ссылка: [https://leetcode.com/problems/reformat-date](https://leetcode.com/problems/reformat-date)  
+✅ [Задача 1512](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1512/Task1512.cs) - "Number of Good Pairs"  
+Ссылка: [https://leetcode.com/problems/number-of-good-pairs](https://leetcode.com/problems/number-of-good-pairs)  

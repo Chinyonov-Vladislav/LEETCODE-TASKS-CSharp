@@ -248,6 +248,7 @@ using LeetCode.Tasks.task1486;
 using LeetCode.Tasks.task1491;
 using LeetCode.Tasks.task1502;
 using LeetCode.Tasks.task1507;
+using LeetCode.Tasks.task1512;
 
 namespace LeetCode
 {
@@ -506,7 +507,8 @@ namespace LeetCode
                 new Task1486(1486,"Операция XOR в массиве","",Difficult.easy),
                 new Task1491(1491,"Средняя зарплата без учёта минимальной и максимальной зарплат","",Difficult.easy),
                 new Task1502(1502,"Может сделать арифметическую прогрессию из последовательности?","",Difficult.easy),
-                new Task1507(1507,"Переформатирование даты","",Difficult.easy)
+                new Task1507(1507,"Переформатирование даты","",Difficult.easy),
+                new Task1512(1512,"Количество хороших пар","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
