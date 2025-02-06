@@ -488,3 +488,5 @@
 Ссылка: [https://leetcode.com/problems/shuffle-the-array](https://leetcode.com/problems/shuffle-the-array)  
 ✅ [Задача 1480](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks1480/task/Task1480.cs) - "Running Sum of 1d Array"  
 Ссылка: [https://leetcode.com/problems/running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array)  
+✅ [Задача 1486](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1486/Task1486.cs) - "XOR Operation in an Array"  
+Ссылка: [https://leetcode.com/problems/xor-operation-in-an-array](https://leetcode.com/problems/xor-operation-in-an-array)  

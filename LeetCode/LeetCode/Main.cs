@@ -244,6 +244,7 @@ using LeetCode.Tasks.Task1446;
 using LeetCode.Tasks.task1464;
 using LeetCode.Tasks.task1470;
 using LeetCode.Tasks.task1480;
+using LeetCode.Tasks.task1486;
 
 namespace LeetCode
 {
@@ -498,7 +499,8 @@ namespace LeetCode
                 new Task1446(1446,"Последовательные символы","",Difficult.easy),
                 new Task1464(1464,"Максимальное произведение двух элементов в массиве","",Difficult.easy),
                 new Task1470(1470,"Перетасуйте массив","",Difficult.easy),
-                new Task1480(1480,"Текущая сумма 1d массива","",Difficult.easy)
+                new Task1480(1480,"Текущая сумма 1d массива","",Difficult.easy),
+                new Task1486(1486,"Операция XOR в массиве","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
