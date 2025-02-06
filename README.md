@@ -480,3 +480,5 @@
 Ссылка: [https://leetcode.com/problems/kids-with-the-greatest-number-of-candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)  
 ✅ [Задача 1436](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1436/Task1436.cs) - "Destination City"  
 Ссылка: [https://leetcode.com/problems/destination-city](https://leetcode.com/problems/destination-city)  
+✅ [Задача 1446](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1446/Task1446.cs) - "Consecutive Characters"  
+Ссылка: [https://leetcode.com/problems/consecutive-characters](https://leetcode.com/problems/consecutive-characters)  
