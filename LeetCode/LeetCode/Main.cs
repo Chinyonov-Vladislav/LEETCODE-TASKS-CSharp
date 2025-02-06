@@ -250,6 +250,7 @@ using LeetCode.Tasks.task1502;
 using LeetCode.Tasks.task1507;
 using LeetCode.Tasks.task1512;
 using LeetCode.Tasks.task1518;
+using LeetCode.Tasks.task1523;
 
 namespace LeetCode
 {
@@ -510,7 +511,8 @@ namespace LeetCode
                 new Task1502(1502,"Может сделать арифметическую прогрессию из последовательности?","",Difficult.easy),
                 new Task1507(1507,"Переформатирование даты","",Difficult.easy),
                 new Task1512(1512,"Количество хороших пар","",Difficult.easy),
-                new Task1518(1518,"Бутылки с водой","",Difficult.easy)
+                new Task1518(1518,"Бутылки с водой","",Difficult.easy),
+                new Task1523(1523,"Подсчёт нечетных чисел в интервальном диапазоне","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

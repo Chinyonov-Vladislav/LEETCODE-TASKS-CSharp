@@ -500,3 +500,5 @@
 Ссылка: [https://leetcode.com/problems/number-of-good-pairs](https://leetcode.com/problems/number-of-good-pairs)  
 ✅ [Задача 1518](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1518/Task1518.cs) - "Water Bottles"  
 Ссылка: [https://leetcode.com/problems/water-bottles](https://leetcode.com/problems/water-bottles)  
+✅ [Задача 1523](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1523/Task1523.cs) - "Count Odd Numbers in an Interval Range"  
+Ссылка: [https://leetcode.com/problems/count-odd-numbers-in-an-interval-range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range)  
