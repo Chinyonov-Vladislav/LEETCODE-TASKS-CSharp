@@ -468,3 +468,5 @@
 Ссылка: [https://leetcode.com/problems/reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string)  
 ✅ [Задача 43](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task43/Task43.cs) - "Multiply Strings"  
 Ссылка: [https://leetcode.com/problems/multiply-strings](https://leetcode.com/problems/multiply-strings)  
+✅ [Задача 1399](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1399/Task1399.cs) - "Count Largest Group"  
+Ссылка: [https://leetcode.com/problems/count-largest-group](https://leetcode.com/problems/count-largest-group)  

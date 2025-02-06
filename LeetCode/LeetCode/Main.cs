@@ -233,6 +233,8 @@ using LeetCode.Tasks.task1394;
 using LeetCode.Tasks.task17;
 using LeetCode.Tasks.task151;
 using LeetCode.Tasks.task43;
+using LeetCode.Tasks.task62;
+using LeetCode.Tasks.task1399;
 
 namespace LeetCode
 {
@@ -476,7 +478,9 @@ namespace LeetCode
                 new Task1394(1394,"Найти cчастливое целое число в массиве","",Difficult.easy),
                 new Task17(17,"Буквосочетания телефонного номера","",Difficult.medium),
                 new Task151(151,"Поменять местами слова в строке","",Difficult.medium),
-                new Task43(43,"Умножение строк","",Difficult.medium)
+                new Task43(43,"Умножение строк","",Difficult.medium),
+                new Task62(62,"Уникальные пути","",Difficult.medium),
+                new Task1399(1399,"Подсчитайте самую большую группу","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

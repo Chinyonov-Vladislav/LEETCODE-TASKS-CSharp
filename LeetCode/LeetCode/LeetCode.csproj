@@ -123,6 +123,7 @@
     <Compile Include="Tasks\task1385\Task1385.cs" />
     <Compile Include="Tasks\task1389\Task1389.cs" />
     <Compile Include="Tasks\task1394\Task1394.cs" />
+    <Compile Include="Tasks\task1399\Task1399.cs" />
     <Compile Include="Tasks\task13\Task13.cs" />
     <Compile Include="Tasks\task141\Task141.cs" />
     <Compile Include="Tasks\task144\Task144.cs" />
@@ -227,6 +228,7 @@
     <Compile Include="Tasks\task605\Task605.cs" />
     <Compile Include="Tasks\task617\Task617.cs" />
     <Compile Include="Tasks\task628\Task628.cs" />
+    <Compile Include="Tasks\task62 %28not working%29\Task62.cs" />
     <Compile Include="Tasks\task643\Task643.cs" />
     <Compile Include="Tasks\task645\Task645.cs" />
     <Compile Include="Tasks\task653\Task653.cs" />
