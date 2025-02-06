@@ -256,6 +256,7 @@ using LeetCode.Tasks.task1534;
 using LeetCode.Tasks.task1550;
 using LeetCode.Tasks.task1556;
 using LeetCode.Tasks.task1572;
+using LeetCode.Tasks.task1582;
 
 namespace LeetCode
 {
@@ -522,7 +523,8 @@ namespace LeetCode
                 new Task1534(1534,"Количество хороших триплетов","",Difficult.easy),
                 new Task1550(1550,"Три последовательных нечетных числа","",Difficult.easy),
                 new Task1556(1556,"Разделитель тысяч","",Difficult.easy),
-                new Task1572(1572,"Диагональная сумма матрицы","",Difficult.easy)
+                new Task1572(1572,"Диагональная сумма матрицы","",Difficult.easy),
+                new Task1582(1582,"Особые позиции в двоичной матрице","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

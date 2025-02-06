@@ -512,3 +512,5 @@
 Ссылка: [https://leetcode.com/problems/thousand-separator](https://leetcode.com/problems/thousand-separator)  
 ✅ [Задача 1572](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1572/Task1572.cs) - "Matrix Diagonal Sum"  
 Ссылка: [https://leetcode.com/problems/matrix-diagonal-sum](https://leetcode.com/problems/matrix-diagonal-sum)  
+✅ [Задача 1582](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1582/Task1582.cs) - "Special Positions in a Binary Matrix"  
+Ссылка: [https://leetcode.com/problems/special-positions-in-a-binary-matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix)  
