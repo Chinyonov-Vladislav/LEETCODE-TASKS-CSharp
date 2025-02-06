@@ -492,3 +492,5 @@
 Ссылка: [https://leetcode.com/problems/xor-operation-in-an-array](https://leetcode.com/problems/xor-operation-in-an-array)  
 ✅ [Задача 1491](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1491/Task1491.cs) - "Average Salary Excluding the Minimum and Maximum Salary"  
 Ссылка: [https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary)  
+✅ [Задача 1502](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1502/Task1502.cs) - "Can Make Arithmetic Progression From Sequence"  
+Ссылка: [https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)  
