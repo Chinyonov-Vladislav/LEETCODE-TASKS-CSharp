@@ -239,6 +239,7 @@ using LeetCode.Tasks.task1413;
 using LeetCode.Tasks.task1450;
 using LeetCode.Tasks.task1455;
 using LeetCode.Tasks.task1431;
+using LeetCode.Tasks.task1436;
 
 namespace LeetCode
 {
@@ -488,7 +489,8 @@ namespace LeetCode
                 new Task1413(1413,"Минимальное значение для получения положительной суммы","",Difficult.easy),
                 new Task1450(1450,"Количество учеников, выполняющих домашнее задание в определённый момент времени","",Difficult.easy),
                 new Task1455(1455,"Проверьте, является ли слово приставкой какого-либо слова в предложении","",Difficult.easy),
-                new Task1431(1431,"Дети, получившие наибольшее количество конфет","",Difficult.easy)
+                new Task1431(1431,"Дети, получившие наибольшее количество конфет","",Difficult.easy),
+                new Task1436(1436,"Город назначения","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

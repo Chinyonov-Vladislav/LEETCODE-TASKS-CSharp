@@ -478,3 +478,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence)  
 ✅ [Задача 1431](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1431/Task1431.cs) - "Kids With the Greatest Number of Candies"  
 Ссылка: [https://leetcode.com/problems/kids-with-the-greatest-number-of-candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)  
+✅ [Задача 1436](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1436/Task1436.cs) - "Destination City"  
+Ссылка: [https://leetcode.com/problems/destination-city](https://leetcode.com/problems/destination-city)  
