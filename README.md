@@ -494,3 +494,5 @@
 Ссылка: [https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary)  
 ✅ [Задача 1502](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1502/Task1502.cs) - "Can Make Arithmetic Progression From Sequence"  
 Ссылка: [https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)  
+✅ [Задача 1507](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1507/Task1507.cs) - "Reformat Date"  
+Ссылка: [https://leetcode.com/problems/reformat-date](https://leetcode.com/problems/reformat-date)  
