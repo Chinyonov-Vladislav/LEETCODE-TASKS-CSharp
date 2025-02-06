@@ -510,3 +510,5 @@
 Ссылка: [https://leetcode.com/problems/three-consecutive-odds](https://leetcode.com/problems/three-consecutive-odds)  
 ✅ [Задача 1556](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1556/Task1556.cs) - "Thousand Separator"  
 Ссылка: [https://leetcode.com/problems/thousand-separator](https://leetcode.com/problems/thousand-separator)  
+✅ [Задача 1572](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1572/Task1572.cs) - "Matrix Diagonal Sum"  
+Ссылка: [https://leetcode.com/problems/matrix-diagonal-sum](https://leetcode.com/problems/matrix-diagonal-sum)  
