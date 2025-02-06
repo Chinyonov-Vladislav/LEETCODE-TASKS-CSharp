@@ -474,3 +474,6 @@
 Ссылка: [https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum)  
 ✅ [Задача 1450](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1450/Task1450.cs) - "Number of Students Doing Homework at a Given Time"  
 Ссылка: [https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)  
+✅ [Задача 1455](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1455/Task1455.cs) - "Check If a Word Occurs As a Prefix of Any Word in a Sentence"  
+Ссылка: [https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence)  
+ 
