@@ -11,6 +11,7 @@ namespace LeetCode.Tasks.task1624
      1624. Самая большая подстрока между двумя равными символами
     Учитывая строку s, верните длину самой длинной подстроки между двумя одинаковыми символами, исключая эти два символа. Если такой подстроки нет, верните -1.
     Подстрока - это непрерывная последовательность символов внутри строки.
+    https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/
      */
     public class Task1624 : InfoBasicTask
     {
@@ -51,13 +52,10 @@ namespace LeetCode.Tasks.task1624
                 {
                     continue;
                 }
-                for (int i = 1; i < pair.Value.Count; i++)
+                int value = pair.Value[pair.Value.Count-1] - pair.Value[0] - 1;
+                if (value > max)
                 {
-                    int value = pair.Value[i] - pair.Value[i - 1] -1;
-                    if (value > max)
-                    {
-                        max = value;
-                    }
+                    max = value;
                 }
             }
             return max;

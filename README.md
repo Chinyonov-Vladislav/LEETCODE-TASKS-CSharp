@@ -522,3 +522,5 @@
 Ссылка: [https://leetcode.com/problems/mean-of-array-after-removing-some-elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements)  
 ✅ [Задача 1624](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1624/Task1624.cs) - "Largest Substring Between Two Equal Characters"  
 Ссылка: [https://leetcode.com/problems/largest-substring-between-two-equal-characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters)  
+✅ [Задача 1652](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1652/Task1652.cs) - "Defuse the Bomb"  
+Ссылка: [https://leetcode.com/problems/defuse-the-bomb](https://leetcode.com/problems/defuse-the-bomb)  

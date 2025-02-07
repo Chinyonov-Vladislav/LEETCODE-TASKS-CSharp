@@ -261,6 +261,7 @@ using LeetCode.Tasks.task1588;
 using LeetCode.Tasks.task1592;
 using LeetCode.Tasks.task1619;
 using LeetCode.Tasks.task1624;
+using LeetCode.Tasks.task1652;
 
 namespace LeetCode
 {
@@ -532,7 +533,8 @@ namespace LeetCode
                 new Task1588(1588,"Сумма всех подмассивов нечетной длины","",Difficult.easy),
                 new Task1592(1592,"Переставьте пробелы между словами","",Difficult.easy),
                 new Task1619(1619,"Среднее значение массива после удаления некоторых элементов","",Difficult.easy),
-                new Task1624(1624,"Самая большая подстрока между двумя равными символами","",Difficult.easy)
+                new Task1624(1624,"Самая большая подстрока между двумя равными символами","",Difficult.easy),
+                new Task1652(1652,"Обезвредить бомбу","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
