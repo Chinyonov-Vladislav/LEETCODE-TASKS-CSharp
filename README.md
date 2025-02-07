@@ -520,3 +520,5 @@
 Ссылка: [https://leetcode.com/problems/rearrange-spaces-between-words](https://leetcode.com/problems/rearrange-spaces-between-words)  
 ✅ [Задача 1619](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1619/Task1619.cs) - "Mean of Array After Removing Some Elements"  
 Ссылка: [https://leetcode.com/problems/mean-of-array-after-removing-some-elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements)  
+✅ [Задача 1624](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1624/Task1624.cs) - "Largest Substring Between Two Equal Characters"  
+Ссылка: [https://leetcode.com/problems/largest-substring-between-two-equal-characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters)  
