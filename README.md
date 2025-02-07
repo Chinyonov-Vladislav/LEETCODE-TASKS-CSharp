@@ -516,3 +516,5 @@
 Ссылка: [https://leetcode.com/problems/special-positions-in-a-binary-matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix)  
 ✅ [Задача 1588](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1588/Task1588.cs) - "Sum of All Odd Length Subarrays"  
 Ссылка: [https://leetcode.com/problems/sum-of-all-odd-length-subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays)  
+✅ [Задача 1592](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1592/Task1592.cs) - "Rearrange Spaces Between Words"  
+Ссылка: [https://leetcode.com/problems/rearrange-spaces-between-words](https://leetcode.com/problems/rearrange-spaces-between-words)  
