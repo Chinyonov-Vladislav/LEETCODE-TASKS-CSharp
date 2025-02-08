@@ -530,3 +530,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses)  
 ✅ [Задача 1662](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1662/Task1662.cs) - "Check If Two String Arrays are Equivalent"  
 Ссылка: [https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)  
+✅ [Задача 1668](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1668/Task1668.cs) - "Maximum Repeating Substring"  
+Ссылка: [https://leetcode.com/problems/maximum-repeating-substring](https://leetcode.com/problems/maximum-repeating-substring)  
