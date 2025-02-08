@@ -532,3 +532,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)  
 ✅ [Задача 1668](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1668/Task1668.cs) - "Maximum Repeating Substring"  
 Ссылка: [https://leetcode.com/problems/maximum-repeating-substring](https://leetcode.com/problems/maximum-repeating-substring)  
+✅ [Задача 1672](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1672/Task1672.cs) - "Richest Customer Wealth"  
+Ссылка: [https://leetcode.com/problems/richest-customer-wealth](https://leetcode.com/problems/richest-customer-wealth)  

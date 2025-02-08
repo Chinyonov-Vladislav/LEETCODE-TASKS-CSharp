@@ -266,6 +266,7 @@ using LeetCode.Tasks.task1608;
 using LeetCode.Tasks.task1614;
 using LeetCode.Tasks.task1662;
 using LeetCode.Tasks.task1668;
+using LeetCode.Tasks.task1672;
 
 namespace LeetCode
 {
@@ -542,7 +543,8 @@ namespace LeetCode
                 new Task1608(1608,"Специальный массив с X элементами, превышающими или равными X","",Difficult.easy),
                 new Task1614(1614,"Максимальная глубина вложенности круглых скобок","",Difficult.easy),
                 new Task1662(1662,"Проверьте, эквивалентны ли два массива строк","",Difficult.easy),
-                new Task1668(1668,"Максимальная повторяющаяся подстрока","",Difficult.easy)
+                new Task1668(1668,"Максимальная повторяющаяся подстрока","",Difficult.easy),
+                new Task1672(1672,"Сумма денег самого богатого клиента","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
