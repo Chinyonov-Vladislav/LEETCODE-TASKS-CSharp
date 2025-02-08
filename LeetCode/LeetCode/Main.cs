@@ -263,6 +263,7 @@ using LeetCode.Tasks.task1619;
 using LeetCode.Tasks.task1624;
 using LeetCode.Tasks.task1652;
 using LeetCode.Tasks.task1608;
+using LeetCode.Tasks.task1614;
 
 namespace LeetCode
 {
@@ -536,7 +537,8 @@ namespace LeetCode
                 new Task1619(1619,"Среднее значение массива после удаления некоторых элементов","",Difficult.easy),
                 new Task1624(1624,"Самая большая подстрока между двумя равными символами","",Difficult.easy),
                 new Task1652(1652,"Обезвредить бомбу","",Difficult.easy),
-                new Task1608(1608,"Специальный массив с X элементами, превышающими или равными X","",Difficult.easy)
+                new Task1608(1608,"Специальный массив с X элементами, превышающими или равными X","",Difficult.easy),
+                new Task1614(1614,"Максимальная глубина вложенности круглых скобок","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

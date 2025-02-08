@@ -526,3 +526,5 @@
 Ссылка: [https://leetcode.com/problems/defuse-the-bomb](https://leetcode.com/problems/defuse-the-bomb)  
 ✅ [Задача 1608](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1608/Task1608.cs) - "Special Array With X Elements Greater Than or Equal X"  
 Ссылка: [https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x)  
+✅ [Задача 1614](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1614/Task1614.cs) - "Maximum Nesting Depth of the Parentheses"  
+Ссылка: [https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses)  
