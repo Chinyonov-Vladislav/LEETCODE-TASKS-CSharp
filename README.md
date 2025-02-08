@@ -524,3 +524,5 @@
 Ссылка: [https://leetcode.com/problems/largest-substring-between-two-equal-characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters)  
 ✅ [Задача 1652](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1652/Task1652.cs) - "Defuse the Bomb"  
 Ссылка: [https://leetcode.com/problems/defuse-the-bomb](https://leetcode.com/problems/defuse-the-bomb)  
+✅ [Задача 1608](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1608/Task1608.cs) - "Special Array With X Elements Greater Than or Equal X"  
+Ссылка: [https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x)  
