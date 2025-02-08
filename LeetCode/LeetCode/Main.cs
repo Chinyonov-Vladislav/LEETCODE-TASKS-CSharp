@@ -269,6 +269,7 @@ using LeetCode.Tasks.task1668;
 using LeetCode.Tasks.task1672;
 using LeetCode.Tasks.task1694;
 using LeetCode.Tasks.task1646;
+using LeetCode.Tasks.task1688;
 
 namespace LeetCode
 {
@@ -548,7 +549,8 @@ namespace LeetCode
                 new Task1668(1668,"Максимальная повторяющаяся подстрока","",Difficult.easy),
                 new Task1672(1672,"Сумма денег самого богатого клиента","",Difficult.easy),
                 new Task1694(1694,"Переформатировать номер телефона","",Difficult.easy),
-                new Task1646(1646,"Получить максимум в сгенерированном массиве","",Difficult.easy)
+                new Task1646(1646,"Получить максимум в сгенерированном массиве","",Difficult.easy),
+                new Task1688(1688,"Количество матчей в турнире","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

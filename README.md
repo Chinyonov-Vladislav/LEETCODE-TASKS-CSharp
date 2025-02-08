@@ -538,3 +538,5 @@
 Ссылка: [https://leetcode.com/problems/reformat-phone-number](https://leetcode.com/problems/reformat-phone-number)  
 ✅ [Задача 1646](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1646/Task1646.cs) - "Get Maximum in Generated Array"  
 Ссылка: [https://leetcode.com/problems/get-maximum-in-generated-array](https://leetcode.com/problems/get-maximum-in-generated-array)  
+✅ [Задача 1688](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1688/Task1688.cs) - "Count of Matches in Tournament"  
+Ссылка: [https://leetcode.com/problems/count-of-matches-in-tournament](https://leetcode.com/problems/count-of-matches-in-tournament)  
