@@ -528,3 +528,5 @@
 Ссылка: [https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x)  
 ✅ [Задача 1614](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1614/Task1614.cs) - "Maximum Nesting Depth of the Parentheses"  
 Ссылка: [https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses)  
+✅ [Задача 1662](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1662/Task1662.cs) - "Check If Two String Arrays are Equivalent"  
+Ссылка: [https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)  
