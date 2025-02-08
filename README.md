@@ -536,3 +536,5 @@
 Ссылка: [https://leetcode.com/problems/richest-customer-wealth](https://leetcode.com/problems/richest-customer-wealth)  
 ✅ [Задача 1694](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1694/Task1694.cs) - "Reformat Phone Number"  
 Ссылка: [https://leetcode.com/problems/reformat-phone-number](https://leetcode.com/problems/reformat-phone-number)  
+✅ [Задача 1646](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1646/Task1646.cs) - "Get Maximum in Generated Array"  
+Ссылка: [https://leetcode.com/problems/get-maximum-in-generated-array](https://leetcode.com/problems/get-maximum-in-generated-array)  
