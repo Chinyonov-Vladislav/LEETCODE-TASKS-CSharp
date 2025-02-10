@@ -562,3 +562,5 @@
 Ссылка: [https://leetcode.com/problems/merge-strings-alternately](https://leetcode.com/problems/merge-strings-alternately)  
 ✅ [Задача 1763](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1763/Task1763.cs) - "Longest Nice Substring"  
 Ссылка: [https://leetcode.com/problems/longest-nice-substring](https://leetcode.com/problems/longest-nice-substring)  
+✅ [Задача 1773](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1773/Task1773.cs) - "Count Items Matching a Rule"  
+Ссылка: [https://leetcode.com/problems/count-items-matching-a-rule](https://leetcode.com/problems/count-items-matching-a-rule)  

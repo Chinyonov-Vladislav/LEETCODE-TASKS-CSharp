@@ -281,6 +281,7 @@ using LeetCode.Tasks.task1742;
 using LeetCode.Tasks.task1748;
 using LeetCode.Tasks.task1768;
 using LeetCode.Tasks.task1763;
+using LeetCode.Tasks.task1773;
 
 namespace LeetCode
 {
@@ -572,7 +573,8 @@ namespace LeetCode
                 new Task1742(1742,"Максимальное количество мячей в коробке","",Difficult.easy),
                 new Task1748(1748,"Сумма уникальных элементов","",Difficult.easy),
                 new Task1768(1768,"Объединяйте строки поочередно","",Difficult.easy),
-                new Task1763(1763,"Самая длинная хорошая подстрока","",Difficult.easy)
+                new Task1763(1763,"Самая длинная хорошая подстрока","",Difficult.easy),
+                new Task1773(1773,"Подсчитывать элементы, соответствующие правилу","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
