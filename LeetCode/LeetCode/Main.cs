@@ -273,6 +273,7 @@ using LeetCode.Tasks.task1688;
 using LeetCode.Tasks.task1636;
 using LeetCode.Tasks.task1716;
 using LeetCode.Tasks.task1720;
+using LeetCode.Tasks.task1704;
 
 namespace LeetCode
 {
@@ -556,7 +557,8 @@ namespace LeetCode
                 new Task1688(1688,"Количество матчей в турнире","",Difficult.easy),
                 new Task1636(1636,"Сортировка массива по возрастающей частоте","",Difficult.easy),
                 new Task1716(1716,"Рассчитайте деньги в банке Leetcode","",Difficult.easy),
-                new Task1720(1720,"Декодирование XOR массива","",Difficult.easy)
+                new Task1720(1720,"Декодирование XOR массива","",Difficult.easy),
+                new Task1704(1704,"Определите, содержат ли половинки строки одинаковое количество гласных символов","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
