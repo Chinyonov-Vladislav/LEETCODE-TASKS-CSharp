@@ -271,6 +271,7 @@ using LeetCode.Tasks.task1694;
 using LeetCode.Tasks.task1646;
 using LeetCode.Tasks.task1688;
 using LeetCode.Tasks.task1636;
+using LeetCode.Tasks.task1716;
 
 namespace LeetCode
 {
@@ -552,12 +553,14 @@ namespace LeetCode
                 new Task1694(1694,"Переформатировать номер телефона","",Difficult.easy),
                 new Task1646(1646,"Получить максимум в сгенерированном массиве","",Difficult.easy),
                 new Task1688(1688,"Количество матчей в турнире","",Difficult.easy),
-                new Task1636(1636,"Сортировка массива по возрастающей частоте","",Difficult.easy)
+                new Task1636(1636,"Сортировка массива по возрастающей частоте","",Difficult.easy),
+                new Task1716(1716,"Рассчитайте деньги в банке Leetcode","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
             hardTasks = new List<InfoBasicTask>();
             sortTasksByDifficult();
+            
         }
         public void processProgramm()
         {
