@@ -560,3 +560,5 @@
 Ссылка: [https://leetcode.com/problems/sum-of-unique-elements](https://leetcode.com/problems/sum-of-unique-elements)  
 ✅ [Задача 1768](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1768/Task1768.cs) - "Merge Strings Alternately"  
 Ссылка: [https://leetcode.com/problems/merge-strings-alternately](https://leetcode.com/problems/merge-strings-alternately)  
+✅ [Задача 1763](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1763/Task1763.cs) - "Longest Nice Substring"  
+Ссылка: [https://leetcode.com/problems/longest-nice-substring](https://leetcode.com/problems/longest-nice-substring)  
