@@ -544,3 +544,5 @@
 Ссылка: [https://leetcode.com/problems/sort-array-by-increasing-frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency)  
 ✅ [Задача 1716](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1716/Task1716.cs) - "Calculate Money in Leetcode Bank"  
 Ссылка: [https://leetcode.com/problems/calculate-money-in-leetcode-bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank)  
+✅ [Задача 1720](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1720/Task1720.cs) - "Decode XORed Array"  
+Ссылка: [https://leetcode.com/problems/decode-xored-array](https://leetcode.com/problems/decode-xored-array)  
