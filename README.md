@@ -558,3 +558,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-number-of-balls-in-a-box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box)  
 ✅ [Задача 1748](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1748/Task1748.cs) - "Sum of Unique Elements"  
 Ссылка: [https://leetcode.com/problems/sum-of-unique-elements](https://leetcode.com/problems/sum-of-unique-elements)  
+✅ [Задача 1768](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1768/Task1768.cs) - "Merge Strings Alternately"  
+Ссылка: [https://leetcode.com/problems/merge-strings-alternately](https://leetcode.com/problems/merge-strings-alternately)  
