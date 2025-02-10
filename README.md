@@ -540,3 +540,5 @@
 Ссылка: [https://leetcode.com/problems/get-maximum-in-generated-array](https://leetcode.com/problems/get-maximum-in-generated-array)  
 ✅ [Задача 1688](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1688/Task1688.cs) - "Count of Matches in Tournament"  
 Ссылка: [https://leetcode.com/problems/count-of-matches-in-tournament](https://leetcode.com/problems/count-of-matches-in-tournament)  
+✅ [Задача 1636](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1636/Task1636.cs) - "Sort Array by Increasing Frequency"  
+Ссылка: [https://leetcode.com/problems/sort-array-by-increasing-frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency)  

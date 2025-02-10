@@ -270,6 +270,7 @@ using LeetCode.Tasks.task1672;
 using LeetCode.Tasks.task1694;
 using LeetCode.Tasks.task1646;
 using LeetCode.Tasks.task1688;
+using LeetCode.Tasks.task1636;
 
 namespace LeetCode
 {
@@ -550,7 +551,8 @@ namespace LeetCode
                 new Task1672(1672,"Сумма денег самого богатого клиента","",Difficult.easy),
                 new Task1694(1694,"Переформатировать номер телефона","",Difficult.easy),
                 new Task1646(1646,"Получить максимум в сгенерированном массиве","",Difficult.easy),
-                new Task1688(1688,"Количество матчей в турнире","",Difficult.easy)
+                new Task1688(1688,"Количество матчей в турнире","",Difficult.easy),
+                new Task1636(1636,"Сортировка массива по возрастающей частоте","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
