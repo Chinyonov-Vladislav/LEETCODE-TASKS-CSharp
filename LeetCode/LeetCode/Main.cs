@@ -277,6 +277,7 @@ using LeetCode.Tasks.task1704;
 using LeetCode.Tasks.task1710;
 using LeetCode.Tasks.task1732;
 using LeetCode.Tasks.task1736;
+using LeetCode.Tasks.task1742;
 
 namespace LeetCode
 {
@@ -564,7 +565,8 @@ namespace LeetCode
                 new Task1704(1704,"Определите, содержат ли половинки строки одинаковое количество гласных символов","",Difficult.easy),
                 new Task1710(1710,"Максимальное количество единиц на грузовике","",Difficult.easy),
                 new Task1732(1732,"Найдите самую высокую высоту","",Difficult.easy),
-                new Task1736(1736,"Последнее время путем замены скрытых цифр","",Difficult.easy)
+                new Task1736(1736,"Последнее время путем замены скрытых цифр","",Difficult.easy),
+                new Task1742(1742,"Максимальное количество мячей в коробке","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

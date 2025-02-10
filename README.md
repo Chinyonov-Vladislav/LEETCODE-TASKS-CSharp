@@ -554,3 +554,5 @@
 Ссылка: [https://leetcode.com/problems/find-the-highest-altitude](https://leetcode.com/problems/find-the-highest-altitude)  
 ✅ [Задача 1736](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1736/Task1736.cs) - "Latest Time by Replacing Hidden Digits"  
 Ссылка: [https://leetcode.com/problems/latest-time-by-replacing-hidden-digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits)  
+✅ [Задача 1742](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1742/Task1742.cs) - "Maximum Number of Balls in a Box"  
+Ссылка: [https://leetcode.com/problems/maximum-number-of-balls-in-a-box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box)  
