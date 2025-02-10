@@ -552,3 +552,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-units-on-a-truck](https://leetcode.com/problems/maximum-units-on-a-truck)  
 ✅ [Задача 1732](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1732/Task1732.cs) - "Find the Highest Altitude"  
 Ссылка: [https://leetcode.com/problems/find-the-highest-altitude](https://leetcode.com/problems/find-the-highest-altitude)  
+✅ [Задача 1736](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1736/Task1736.cs) - "Latest Time by Replacing Hidden Digits"  
+Ссылка: [https://leetcode.com/problems/latest-time-by-replacing-hidden-digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits)  
