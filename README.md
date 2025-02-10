@@ -556,3 +556,5 @@
 Ссылка: [https://leetcode.com/problems/latest-time-by-replacing-hidden-digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits)  
 ✅ [Задача 1742](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1742/Task1742.cs) - "Maximum Number of Balls in a Box"  
 Ссылка: [https://leetcode.com/problems/maximum-number-of-balls-in-a-box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box)  
+✅ [Задача 1748](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1748/Task1748.cs) - "Sum of Unique Elements"  
+Ссылка: [https://leetcode.com/problems/sum-of-unique-elements](https://leetcode.com/problems/sum-of-unique-elements)  
