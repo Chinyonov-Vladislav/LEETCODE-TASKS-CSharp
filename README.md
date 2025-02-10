@@ -548,3 +548,5 @@
 Ссылка: [https://leetcode.com/problems/decode-xored-array](https://leetcode.com/problems/decode-xored-array)  
 ✅ [Задача 1704](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1704/Task1704.cs) - "Determine if String Halves Are Alike"  
 Ссылка: [https://leetcode.com/problems/determine-if-string-halves-are-alike](https://leetcode.com/problems/determine-if-string-halves-are-alike)  
+✅ [Задача 1710](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1710/Task1710.cs) - "Maximum Units on a Truck"  
+Ссылка: [https://leetcode.com/problems/maximum-units-on-a-truck](https://leetcode.com/problems/maximum-units-on-a-truck)  
