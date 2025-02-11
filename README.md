@@ -572,3 +572,5 @@
 Ссылка: [https://leetcode.com/problems/find-center-of-star-graph](https://leetcode.com/problems/find-center-of-star-graph)  
 ✅ [Задача 1800](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1800/Task1800.cs) - "Maximum Ascending Subarray Sum"  
 Ссылка: [https://leetcode.com/problems/maximum-ascending-subarray-sum](https://leetcode.com/problems/maximum-ascending-subarray-sum)  
+✅ [Задача 1796](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1796/Task1796.cs) - "Second Largest Digit in a String"  
+Ссылка: [https://leetcode.com/problems/second-largest-digit-in-a-string](https://leetcode.com/problems/second-largest-digit-in-a-string)  

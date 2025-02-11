@@ -57,6 +57,10 @@ namespace LeetCode.Tasks.task1800
         }
         private int maxAscendingSum(int[] nums)
         {
+            if (nums.Length == 1)
+            {
+                return nums[0];
+            }
             int max = int.MinValue;
             int currentMax = 0;
             for (int i = 1; i < nums.Length; i++)
