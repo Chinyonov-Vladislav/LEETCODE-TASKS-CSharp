@@ -592,3 +592,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-the-sentence-is-pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram)  
 ✅ [Задача 1822](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1822/Task1822.cs) - "Sign of the Product of an Array"  
 Ссылка: [https://leetcode.com/problems/sign-of-the-product-of-an-array](https://leetcode.com/problems/sign-of-the-product-of-an-array)  
+✅ [Задача 1799](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1799/Task1799.cs) - "Find Nearest Point That Has the Same X or Y Coordinate"  
+Ссылка: [https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate)  
