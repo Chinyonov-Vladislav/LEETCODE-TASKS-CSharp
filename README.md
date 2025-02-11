@@ -594,3 +594,5 @@
 Ссылка: [https://leetcode.com/problems/sign-of-the-product-of-an-array](https://leetcode.com/problems/sign-of-the-product-of-an-array)  
 ✅ [Задача 1799](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1799/Task1799.cs) - "Find Nearest Point That Has the Same X or Y Coordinate"  
 Ссылка: [https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate)  
+✅ [Задача 1784](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1784/Task1784.cs) - "Check if Binary String Has at Most One Segment of Ones"  
+Ссылка: [https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones)  
