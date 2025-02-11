@@ -564,3 +564,5 @@
 Ссылка: [https://leetcode.com/problems/longest-nice-substring](https://leetcode.com/problems/longest-nice-substring)  
 ✅ [Задача 1773](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1773/Task1773.cs) - "Count Items Matching a Rule"  
 Ссылка: [https://leetcode.com/problems/count-items-matching-a-rule](https://leetcode.com/problems/count-items-matching-a-rule)  
+✅ [Задача 1752](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1752/Task1752.cs) - "Check if Array Is Sorted and Rotated"  
+Ссылка: [https://leetcode.com/problems/check-if-array-is-sorted-and-rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated)  
