@@ -570,3 +570,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal)  
 ✅ [Задача 1791](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1791/Task1791.cs) - "Find Center of Star Graph"  
 Ссылка: [https://leetcode.com/problems/find-center-of-star-graph](https://leetcode.com/problems/find-center-of-star-graph)  
+✅ [Задача 1800](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1800/Task1800.cs) - "Maximum Ascending Subarray Sum"  
+Ссылка: [https://leetcode.com/problems/maximum-ascending-subarray-sum](https://leetcode.com/problems/maximum-ascending-subarray-sum)  
