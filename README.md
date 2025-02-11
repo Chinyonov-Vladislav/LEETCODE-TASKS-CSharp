@@ -578,3 +578,5 @@
 Ссылка: [https://leetcode.com/problems/number-of-different-integers-in-a-string](https://leetcode.com/problems/number-of-different-integers-in-a-string)  
 ✅ [Задача 1812](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1812/Task1812.cs) - "Determine Color of a Chessboard Square"  
 Ссылка: [https://leetcode.com/problems/determine-color-of-a-chessboard-square](https://leetcode.com/problems/determine-color-of-a-chessboard-square)  
+✅ [Задача 1837](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1837/Task1837.cs) - "Sum of Digits in Base K"  
+Ссылка: [https://leetcode.com/problems/sum-of-digits-in-base-k](https://leetcode.com/problems/sum-of-digits-in-base-k)  

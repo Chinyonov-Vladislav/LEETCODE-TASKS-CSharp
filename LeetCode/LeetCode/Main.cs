@@ -289,6 +289,7 @@ using LeetCode.Tasks.task1800;
 using LeetCode.Tasks.task1796;
 using LeetCode.Tasks.task1805;
 using LeetCode.Tasks.task1812;
+using LeetCode.Tasks.task1837;
 
 namespace LeetCode
 {
@@ -588,7 +589,8 @@ namespace LeetCode
                 new Task1800(1800,"Максимальная cумма возрастающего подмассива","",Difficult.easy),
                 new Task1796(1796,"Вторая по величине цифра в строке","",Difficult.easy),
                 new Task1805(1805,"Количество различных целых чисел в строке","",Difficult.easy),
-                new Task1812(1812,"Определите цвет квадрата шахматной доски","",Difficult.easy)
+                new Task1812(1812,"Определите цвет квадрата шахматной доски","",Difficult.easy),
+                new Task1837(1837,"Сумма цифр в базе K","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
