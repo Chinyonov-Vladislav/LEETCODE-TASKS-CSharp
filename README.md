@@ -568,3 +568,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-array-is-sorted-and-rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated)  
 ✅ [Задача 1790](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1790/Task1790.cs) - "Check if One String Swap Can Make Strings Equal"  
 Ссылка: [https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal)  
+✅ [Задача 1791](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1791/Task1791.cs) - "Find Center of Star Graph"  
+Ссылка: [https://leetcode.com/problems/find-center-of-star-graph](https://leetcode.com/problems/find-center-of-star-graph)  
