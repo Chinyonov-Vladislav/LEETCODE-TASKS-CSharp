@@ -292,6 +292,7 @@ using LeetCode.Tasks.task1812;
 using LeetCode.Tasks.task1837;
 using LeetCode.Tasks.task1848;
 using LeetCode.Tasks.task1844;
+using LeetCode.Tasks.task1859;
 
 namespace LeetCode
 {
@@ -594,7 +595,8 @@ namespace LeetCode
                 new Task1812(1812,"Определите цвет квадрата шахматной доски","",Difficult.easy),
                 new Task1837(1837,"Сумма цифр в базе K","",Difficult.easy),
                 new Task1848(1848,"Минимальное расстояние до целевого элемента","",Difficult.easy),
-                new Task1844(1844,"Замените все цифры символами","",Difficult.easy)
+                new Task1844(1844,"Замените все цифры символами","",Difficult.easy),
+                new Task1859(1859,"Сортировка предложения","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

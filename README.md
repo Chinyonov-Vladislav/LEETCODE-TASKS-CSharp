@@ -584,3 +584,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-distance-to-the-target-element](https://leetcode.com/problems/minimum-distance-to-the-target-element)  
 ✅ [Задача 1844](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1844/Task1844.cs) - "Replace All Digits with Characters"  
 Ссылка: [https://leetcode.com/problems/replace-all-digits-with-characters](https://leetcode.com/problems/replace-all-digits-with-characters)  
+✅ [Задача 1859](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1859/Task1859.cs) - "Sorting the Sentence"  
+Ссылка: [https://leetcode.com/problems/sorting-the-sentence](https://leetcode.com/problems/sorting-the-sentence)  
