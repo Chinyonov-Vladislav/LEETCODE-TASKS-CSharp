@@ -574,3 +574,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-ascending-subarray-sum](https://leetcode.com/problems/maximum-ascending-subarray-sum)  
 ✅ [Задача 1796](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1796/Task1796.cs) - "Second Largest Digit in a String"  
 Ссылка: [https://leetcode.com/problems/second-largest-digit-in-a-string](https://leetcode.com/problems/second-largest-digit-in-a-string)  
+✅ [Задача 1805](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1805/Task1805.cs) - "Number of Different Integers in a String"  
+Ссылка: [https://leetcode.com/problems/number-of-different-integers-in-a-string](https://leetcode.com/problems/number-of-different-integers-in-a-string)  
