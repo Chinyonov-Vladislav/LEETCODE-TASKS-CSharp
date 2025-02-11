@@ -283,6 +283,7 @@ using LeetCode.Tasks.task1768;
 using LeetCode.Tasks.task1763;
 using LeetCode.Tasks.task1773;
 using LeetCode.Tasks.task1752;
+using LeetCode.Tasks.task1790;
 
 namespace LeetCode
 {
@@ -576,7 +577,8 @@ namespace LeetCode
                 new Task1768(1768,"Объединяйте строки поочередно","",Difficult.easy),
                 new Task1763(1763,"Самая длинная хорошая подстрока","",Difficult.easy),
                 new Task1773(1773,"Подсчитывать элементы, соответствующие правилу","",Difficult.easy),
-                new Task1752(1752,"Проверьте, отсортирован ли массив и повернут ли он","",Difficult.easy)
+                new Task1752(1752,"Проверьте, отсортирован ли массив и повернут ли он","",Difficult.easy),
+                new Task1790(1790,"Проверьте, можно ли сделать строки равными, поменяв местами одну из них","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

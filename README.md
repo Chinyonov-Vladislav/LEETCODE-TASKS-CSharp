@@ -566,3 +566,5 @@
 Ссылка: [https://leetcode.com/problems/count-items-matching-a-rule](https://leetcode.com/problems/count-items-matching-a-rule)  
 ✅ [Задача 1752](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1752/Task1752.cs) - "Check if Array Is Sorted and Rotated"  
 Ссылка: [https://leetcode.com/problems/check-if-array-is-sorted-and-rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated)  
+✅ [Задача 1790](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1790/Task1790.cs) - "Check if One String Swap Can Make Strings Equal"  
+Ссылка: [https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal)  
