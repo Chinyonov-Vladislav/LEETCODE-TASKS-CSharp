@@ -588,3 +588,5 @@
 Ссылка: [https://leetcode.com/problems/sorting-the-sentence](https://leetcode.com/problems/sorting-the-sentence)  
 ✅ [Задача 1816](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1816/Task1816.cs) - "Truncate Sentence"  
 Ссылка: [https://leetcode.com/problems/truncate-sentence](https://leetcode.com/problems/truncate-sentence)  
+✅ [Задача 1832](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1832/Task1832.cs) - "Check if the Sentence Is Pangram"  
+Ссылка: [https://leetcode.com/problems/check-if-the-sentence-is-pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram)  
