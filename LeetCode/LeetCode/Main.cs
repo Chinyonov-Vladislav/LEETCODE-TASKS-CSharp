@@ -295,6 +295,7 @@ using LeetCode.Tasks.task1844;
 using LeetCode.Tasks.task1859;
 using LeetCode.Tasks.task1816;
 using LeetCode.Tasks.task1832;
+using LeetCode.Tasks.task1822;
 
 namespace LeetCode
 {
@@ -600,7 +601,8 @@ namespace LeetCode
                 new Task1844(1844,"Замените все цифры символами","",Difficult.easy),
                 new Task1859(1859,"Сортировка предложения","",Difficult.easy),
                 new Task1816(1816,"Усечь предложение","",Difficult.easy),
-                new Task1832(1832,"Проверьте, является ли предложение панграммой","",Difficult.easy)
+                new Task1832(1832,"Проверьте, является ли предложение панграммой","",Difficult.easy),
+                new Task1822(1822,"Знак произведения массива","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

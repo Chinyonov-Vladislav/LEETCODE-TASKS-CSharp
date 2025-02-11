@@ -590,3 +590,5 @@
 Ссылка: [https://leetcode.com/problems/truncate-sentence](https://leetcode.com/problems/truncate-sentence)  
 ✅ [Задача 1832](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1832/Task1832.cs) - "Check if the Sentence Is Pangram"  
 Ссылка: [https://leetcode.com/problems/check-if-the-sentence-is-pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram)  
+✅ [Задача 1822](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1822/Task1822.cs) - "Sign of the Product of an Array"  
+Ссылка: [https://leetcode.com/problems/sign-of-the-product-of-an-array](https://leetcode.com/problems/sign-of-the-product-of-an-array)  
