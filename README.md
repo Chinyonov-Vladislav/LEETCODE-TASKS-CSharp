@@ -586,3 +586,5 @@
 Ссылка: [https://leetcode.com/problems/replace-all-digits-with-characters](https://leetcode.com/problems/replace-all-digits-with-characters)  
 ✅ [Задача 1859](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1859/Task1859.cs) - "Sorting the Sentence"  
 Ссылка: [https://leetcode.com/problems/sorting-the-sentence](https://leetcode.com/problems/sorting-the-sentence)  
+✅ [Задача 1816](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1816/Task1816.cs) - "Truncate Sentence"  
+Ссылка: [https://leetcode.com/problems/truncate-sentence](https://leetcode.com/problems/truncate-sentence)  
