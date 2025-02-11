@@ -580,3 +580,5 @@
 Ссылка: [https://leetcode.com/problems/determine-color-of-a-chessboard-square](https://leetcode.com/problems/determine-color-of-a-chessboard-square)  
 ✅ [Задача 1837](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1837/Task1837.cs) - "Sum of Digits in Base K"  
 Ссылка: [https://leetcode.com/problems/sum-of-digits-in-base-k](https://leetcode.com/problems/sum-of-digits-in-base-k)  
+✅ [Задача 1848](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1848/Task1848.cs) - "Minimum Distance to the Target Element"  
+Ссылка: [https://leetcode.com/problems/minimum-distance-to-the-target-element](https://leetcode.com/problems/minimum-distance-to-the-target-element)  

@@ -290,6 +290,7 @@ using LeetCode.Tasks.task1796;
 using LeetCode.Tasks.task1805;
 using LeetCode.Tasks.task1812;
 using LeetCode.Tasks.task1837;
+using LeetCode.Tasks.task1848;
 
 namespace LeetCode
 {
@@ -590,7 +591,8 @@ namespace LeetCode
                 new Task1796(1796,"Вторая по величине цифра в строке","",Difficult.easy),
                 new Task1805(1805,"Количество различных целых чисел в строке","",Difficult.easy),
                 new Task1812(1812,"Определите цвет квадрата шахматной доски","",Difficult.easy),
-                new Task1837(1837,"Сумма цифр в базе K","",Difficult.easy)
+                new Task1837(1837,"Сумма цифр в базе K","",Difficult.easy),
+                new Task1848(1848,"Минимальное расстояние до целевого элемента","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

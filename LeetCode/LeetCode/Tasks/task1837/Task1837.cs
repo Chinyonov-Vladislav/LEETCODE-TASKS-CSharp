@@ -61,6 +61,10 @@ namespace LeetCode.Tasks.task1837
                 }
                 return result;
             }
+            if (n < k)
+            {
+                return n;
+            }
             int sum = 0;
             while (n >= k)
             { 
