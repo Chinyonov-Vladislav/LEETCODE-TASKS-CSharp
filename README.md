@@ -606,3 +606,5 @@
 Ссылка: [https://leetcode.com/problems/largest-odd-number-in-string](https://leetcode.com/problems/largest-odd-number-in-string)  
 ✅ [Задача 1886](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1886/Task1886.cs) - "Determine Whether Matrix Can Be Obtained By Rotation"  
 Ссылка: [https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation)  
+✅ [Задача 1925](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1925/Task1925.cs) - "Count Square Sum Triples"  
+Ссылка: [https://leetcode.com/problems/count-square-sum-triples](https://leetcode.com/problems/count-square-sum-triples)  
