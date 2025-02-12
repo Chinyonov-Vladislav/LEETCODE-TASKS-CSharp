@@ -311,6 +311,7 @@ using LeetCode.Tasks.task1920;
 using LeetCode.Tasks.task1935;
 using LeetCode.Tasks.task1941;
 using LeetCode.Tasks.task1945;
+using LeetCode.Tasks.task1957;
 
 namespace LeetCode
 {
@@ -632,7 +633,8 @@ namespace LeetCode
                 new Task1920(1920,"Построение массива из перестановки","",Difficult.easy),
                 new Task1935(1935,"Максимальное количество слов, которые Вы можете ввести","",Difficult.easy),
                 new Task1941(1941,"Проверьте, встречаются ли все символы одинаковое количество раз","",Difficult.easy),
-                new Task1945(1945,"Сумма цифр строки после преобразования","",Difficult.easy)
+                new Task1945(1945,"Сумма цифр строки после преобразования","",Difficult.easy),
+                new Task1957(1957,"Удалите символы, чтобы получилась причудливая строка","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

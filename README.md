@@ -622,3 +622,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences)  
 ✅ [Задача 1945](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1945/Task1945.cs) - "Sum of Digits of String After Convert"  
 Ссылка: [https://leetcode.com/problems/sum-of-digits-of-string-after-convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert)  
+✅ [Задача 1957](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1957/Task1957.cs) - "Delete Characters to Make Fancy String"  
+Ссылка: [https://leetcode.com/problems/delete-characters-to-make-fancy-string](https://leetcode.com/problems/delete-characters-to-make-fancy-string)  
