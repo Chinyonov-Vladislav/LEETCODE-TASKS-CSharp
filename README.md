@@ -626,3 +626,5 @@
 Ссылка: [https://leetcode.com/problems/delete-characters-to-make-fancy-string](https://leetcode.com/problems/delete-characters-to-make-fancy-string)  
 ✅ [Задача 1961](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1961/Task1961.cs) - "Check If String Is a Prefix of Array"  
 Ссылка: [https://leetcode.com/problems/check-if-string-is-a-prefix-of-array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array)  
+✅ [Задача 1967](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1967/Task1967.cs) - "Number of Strings That Appear as Substrings in Word"  
+Ссылка: [https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word)  
