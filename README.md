@@ -610,3 +610,5 @@
 Ссылка: [https://leetcode.com/problems/count-square-sum-triples](https://leetcode.com/problems/count-square-sum-triples)  
 ✅ [Задача 1929](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1929/Task1929.cs) - "Concatenation of Array"  
 Ссылка: [https://leetcode.com/problems/concatenation-of-array](https://leetcode.com/problems/concatenation-of-array)  
+✅ [Задача 1909](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1909/Task1909.cs) - "Remove One Element to Make the Array Strictly Increasing"  
+Ссылка: [https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing)  
