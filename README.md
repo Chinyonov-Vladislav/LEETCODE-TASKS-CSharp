@@ -598,3 +598,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones)  
 ✅ [Задача 1876](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1876/Task1876.cs) - "Substrings of Size Three with Distinct Characters"  
 Ссылка: [https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters)  
+✅ [Задача 1880](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1880/Task1880.cs) - "Check if Word Equals Summation of Two Words"  
+Ссылка: [https://leetcode.com/problems/check-if-word-equals-summation-of-two-words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words)  

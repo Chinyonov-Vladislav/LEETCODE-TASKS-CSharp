@@ -299,6 +299,7 @@ using LeetCode.Tasks.task1822;
 using LeetCode.Tasks.task1799;
 using LeetCode.Tasks.task1784;
 using LeetCode.Tasks.task1876;
+using LeetCode.Tasks.task1880;
 
 namespace LeetCode
 {
@@ -608,7 +609,8 @@ namespace LeetCode
                 new Task1822(1822,"Знак произведения массива","",Difficult.easy),
                 new Task1799(1799,"Найдите ближайшую точку с такими же координатами X или Y","",Difficult.easy),
                 new Task1784(1784,"Проверьте, содержит ли двоичная строка не более одного сегмента из единиц","",Difficult.easy),
-                new Task1876(1876,"Подстроки размером три с разными символами","",Difficult.easy)
+                new Task1876(1876,"Подстроки размером три с разными символами","",Difficult.easy),
+                new Task1880(1880,"Проверьте, равно ли слово сумме двух слов","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
