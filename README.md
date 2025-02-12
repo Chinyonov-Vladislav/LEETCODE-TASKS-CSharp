@@ -608,3 +608,5 @@
 Ссылка: [https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation)  
 ✅ [Задача 1925](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1925/Task1925.cs) - "Count Square Sum Triples"  
 Ссылка: [https://leetcode.com/problems/count-square-sum-triples](https://leetcode.com/problems/count-square-sum-triples)  
+✅ [Задача 1929](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1929/Task1929.cs) - "Concatenation of Array"  
+Ссылка: [https://leetcode.com/problems/concatenation-of-array](https://leetcode.com/problems/concatenation-of-array)  
