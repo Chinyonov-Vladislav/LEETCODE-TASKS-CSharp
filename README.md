@@ -602,3 +602,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-word-equals-summation-of-two-words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words)  
 ✅ [Задача 1897](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1897/Task1897.cs) - "Redistribute Characters to Make All Strings Equal"  
 Ссылка: [https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal)  
+✅ [Задача 1903](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1903/Task1903.cs) - "Largest Odd Number in String"  
+Ссылка: [https://leetcode.com/problems/largest-odd-number-in-string](https://leetcode.com/problems/largest-odd-number-in-string)  
