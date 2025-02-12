@@ -41,7 +41,6 @@ namespace LeetCode.Tasks.task1880
             int sumOfSecondWord = calculateSumOfWord(secondWord);
             int sumOfThirdWord = calculateSumOfWord(targetWord);
             return sumOfFirstWord + sumOfSecondWord == sumOfThirdWord;
-            
         }
         private int calculateSumOfWord(string word)
         {
@@ -52,6 +51,24 @@ namespace LeetCode.Tasks.task1880
                 sum += indexLetter * (int)Math.Pow(10, word.Length - i - 1);
             }
             return sum;
+        }
+        // скопировано с leetcode
+        private bool bestSolution(string firstWord, string secondWord, string targetWord)
+        {
+            int n1 = 0, n2 = 0, n3 = 0;
+            for (int i = 0; i < firstWord.Length; i++)
+            {
+                n1 = (firstWord[i] - 'a') + n1 * 10;
+            }
+            for (int i = 0; i < secondWord.Length; i++)
+            {
+                n2 = (secondWord[i] - 'a') + n2 * 10;
+            }
+            for (int i = 0; i < targetWord.Length; i++)
+            {
+                n3 = (targetWord[i] - 'a') + n3 * 10;
+            }
+            return n1 + n2 == n3;
         }
     }
 }
