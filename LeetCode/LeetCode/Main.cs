@@ -309,6 +309,7 @@ using LeetCode.Tasks.task1909;
 using LeetCode.Tasks.task1913;
 using LeetCode.Tasks.task1920;
 using LeetCode.Tasks.task1935;
+using LeetCode.Tasks.task1941;
 
 namespace LeetCode
 {
@@ -628,7 +629,8 @@ namespace LeetCode
                 new Task1909(1909,"Удалите один элемент, чтобы массив стал строго возрастающим","",Difficult.easy),
                 new Task1913(1913,"Максимальная разница произведения между двумя парами","",Difficult.easy),
                 new Task1920(1920,"Построение массива из перестановки","",Difficult.easy),
-                new Task1935(1935,"Максимальное количество слов, которые Вы можете ввести","",Difficult.easy)
+                new Task1935(1935,"Максимальное количество слов, которые Вы можете ввести","",Difficult.easy),
+                new Task1941(1941,"Проверьте, встречаются ли все символы одинаковое количество раз","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

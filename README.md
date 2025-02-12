@@ -618,3 +618,5 @@
 Ссылка: [https://leetcode.com/problems/build-array-from-permutation](https://leetcode.com/problems/build-array-from-permutation)  
 ✅ [Задача 1935](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1935/Task1935.cs) - "Maximum Number of Words You Can Type"  
 Ссылка: [https://leetcode.com/problems/maximum-number-of-words-you-can-type](https://leetcode.com/problems/maximum-number-of-words-you-can-type)  
+✅ [Задача 1941](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1941/Task1941.cs) - "Check if All Characters Have Equal Number of Occurrences"  
+Ссылка: [https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences)  
