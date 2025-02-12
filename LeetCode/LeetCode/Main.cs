@@ -307,6 +307,7 @@ using LeetCode.Tasks.task1925;
 using LeetCode.Tasks.task1929;
 using LeetCode.Tasks.task1909;
 using LeetCode.Tasks.task1913;
+using LeetCode.Tasks.task1920;
 
 namespace LeetCode
 {
@@ -624,7 +625,8 @@ namespace LeetCode
                 new Task1925(1925,"Подсчитайте количество троек из диапазона, которые дают квадратную сумму","",Difficult.easy),
                 new Task1929(1929,"Объединение массива","",Difficult.easy),
                 new Task1909(1909,"Удалите один элемент, чтобы массив стал строго возрастающим","",Difficult.easy),
-                new Task1913(1913,"Максимальная разница произведения между двумя парами","",Difficult.easy)
+                new Task1913(1913,"Максимальная разница произведения между двумя парами","",Difficult.easy),
+                new Task1920(1920,"Построение массива из перестановки","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

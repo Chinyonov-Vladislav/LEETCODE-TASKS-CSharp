@@ -614,3 +614,5 @@
 Ссылка: [https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing)  
 ✅ [Задача 1913](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1913/Task1913.cs) - "Maximum Product Difference Between Two Pairs"  
 Ссылка: [https://leetcode.com/problems/maximum-product-difference-between-two-pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs)  
+✅ [Задача 1920](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1920/Task1920.cs) - "Build Array from Permutation"  
+Ссылка: [https://leetcode.com/problems/build-array-from-permutation](https://leetcode.com/problems/build-array-from-permutation)  
