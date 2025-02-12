@@ -306,6 +306,7 @@ using LeetCode.Tasks.Task1886;
 using LeetCode.Tasks.task1925;
 using LeetCode.Tasks.task1929;
 using LeetCode.Tasks.task1909;
+using LeetCode.Tasks.task1913;
 
 namespace LeetCode
 {
@@ -622,7 +623,8 @@ namespace LeetCode
                 new Task1886(1886,"Определите, можно ли получить матрицу путём поворота","",Difficult.easy),
                 new Task1925(1925,"Подсчитайте количество троек из диапазона, которые дают квадратную сумму","",Difficult.easy),
                 new Task1929(1929,"Объединение массива","",Difficult.easy),
-                new Task1909(1909,"Удалите один элемент, чтобы массив стал строго возрастающим","",Difficult.easy)
+                new Task1909(1909,"Удалите один элемент, чтобы массив стал строго возрастающим","",Difficult.easy),
+                new Task1913(1913,"Максимальная разница произведения между двумя парами","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
