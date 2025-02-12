@@ -616,3 +616,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-product-difference-between-two-pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs)  
 ✅ [Задача 1920](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1920/Task1920.cs) - "Build Array from Permutation"  
 Ссылка: [https://leetcode.com/problems/build-array-from-permutation](https://leetcode.com/problems/build-array-from-permutation)  
+✅ [Задача 1935](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1935/Task1935.cs) - "Maximum Number of Words You Can Type"  
+Ссылка: [https://leetcode.com/problems/maximum-number-of-words-you-can-type](https://leetcode.com/problems/maximum-number-of-words-you-can-type)  
