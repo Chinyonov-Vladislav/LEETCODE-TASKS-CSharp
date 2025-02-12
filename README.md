@@ -620,3 +620,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-number-of-words-you-can-type](https://leetcode.com/problems/maximum-number-of-words-you-can-type)  
 ✅ [Задача 1941](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1941/Task1941.cs) - "Check if All Characters Have Equal Number of Occurrences"  
 Ссылка: [https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences)  
+✅ [Задача 1945](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1945/Task1945.cs) - "Sum of Digits of String After Convert"  
+Ссылка: [https://leetcode.com/problems/sum-of-digits-of-string-after-convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert)  
