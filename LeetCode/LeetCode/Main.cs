@@ -302,6 +302,7 @@ using LeetCode.Tasks.task1876;
 using LeetCode.Tasks.task1880;
 using LeetCode.Tasks.task1897;
 using LeetCode.Tasks.task1903;
+using LeetCode.Tasks.Task1886;
 
 namespace LeetCode
 {
@@ -614,7 +615,8 @@ namespace LeetCode
                 new Task1876(1876,"Подстроки размером три с разными символами","",Difficult.easy),
                 new Task1880(1880,"Проверьте, равно ли слово сумме двух слов","",Difficult.easy),
                 new Task1897(1897,"Перераспределите символы, чтобы сделать все строки равными","",Difficult.easy),
-                new Task1903(1903,"Наибольшее нечетное число в строке","",Difficult.easy)
+                new Task1903(1903,"Наибольшее нечетное число в строке","",Difficult.easy),
+                new Task1886(1886,"Определите, можно ли получить матрицу путём поворота","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

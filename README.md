@@ -604,3 +604,5 @@
 Ссылка: [https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal)  
 ✅ [Задача 1903](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1903/Task1903.cs) - "Largest Odd Number in String"  
 Ссылка: [https://leetcode.com/problems/largest-odd-number-in-string](https://leetcode.com/problems/largest-odd-number-in-string)  
+✅ [Задача 1886](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1886/Task1886.cs) - "Determine Whether Matrix Can Be Obtained By Rotation"  
+Ссылка: [https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation)  
