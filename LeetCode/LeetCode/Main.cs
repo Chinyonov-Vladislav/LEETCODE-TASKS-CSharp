@@ -314,6 +314,7 @@ using LeetCode.Tasks.task1945;
 using LeetCode.Tasks.task1957;
 using LeetCode.Tasks.task1961;
 using LeetCode.Tasks.task1967;
+using LeetCode.Tasks.task1974;
 
 namespace LeetCode
 {
@@ -638,7 +639,8 @@ namespace LeetCode
                 new Task1945(1945,"Сумма цифр строки после преобразования","",Difficult.easy),
                 new Task1957(1957,"Удалите символы, чтобы получилась причудливая строка","",Difficult.easy),
                 new Task1961(1961,"Проверьте, является ли строка префиксом массива","",Difficult.easy),
-                new Task1967(1967,"Количество строк, которые встречаются в качестве подстрок в слове","",Difficult.easy)
+                new Task1967(1967,"Количество строк, которые встречаются в качестве подстрок в слове","",Difficult.easy),
+                new Task1974(1974,"Минимальное время для набора слова на специальной пишущей машинке","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
