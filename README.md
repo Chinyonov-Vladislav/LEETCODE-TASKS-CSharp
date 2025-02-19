@@ -630,3 +630,5 @@
 Ссылка: [https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word)  
 ✅ [Задача 1974](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1974/Task1974.cs) - "Minimum Time to Type Word Using Special Typewriter"  
 Ссылка: [https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter)  
+✅ [Задача 1979](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1979/Task1979.cs) - "Find Greatest Common Divisor of Array"  
+Ссылка: [https://leetcode.com/problems/find-greatest-common-divisor-of-array](https://leetcode.com/problems/find-greatest-common-divisor-of-array)  
