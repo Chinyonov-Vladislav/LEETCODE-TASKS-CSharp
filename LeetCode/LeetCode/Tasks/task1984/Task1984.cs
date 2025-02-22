@@ -42,9 +42,8 @@ namespace LeetCode.Tasks.task1984
             }
             Array.Sort(nums);
             Array.Reverse(nums);
-            printArray(nums, "массив: ");
             int minDifference = Int32.MaxValue;
-            for (int i = 0; i < nums.Length - k; i++)
+            for (int i = 0; i <= nums.Length - k; i++)
             {
                 int localMinDifference = nums[i] - nums[i+k-1];
                 if (localMinDifference < minDifference)
