@@ -317,6 +317,7 @@ using LeetCode.Tasks.task1967;
 using LeetCode.Tasks.task1974;
 using LeetCode.Tasks.task1979;
 using LeetCode.Tasks.task1984;
+using LeetCode.Tasks.task1991;
 
 namespace LeetCode
 {
@@ -644,7 +645,8 @@ namespace LeetCode
                 new Task1967(1967,"Количество строк, которые встречаются в качестве подстрок в слове","",Difficult.easy),
                 new Task1974(1974,"Минимальное время для набора слова на специальной пишущей машинке","",Difficult.easy),
                 new Task1979(1979,"Найти наибольший общий делитель массива","",Difficult.easy),
-                new Task1984(1984,"Минимальная разница между максимальным и минимальным значениями K","",Difficult.easy)
+                new Task1984(1984,"Минимальная разница между максимальным и минимальным значениями K","",Difficult.easy),
+                new Task1991(1991,"Найдите средний индекс в массиве","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

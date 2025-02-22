@@ -634,4 +634,6 @@
 Ссылка: [https://leetcode.com/problems/find-greatest-common-divisor-of-array](https://leetcode.com/problems/find-greatest-common-divisor-of-array)  
 ✅ [Задача 1984](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1984/Task1984.cs) - "Minimum Difference Between Highest and Lowest of K Scores"  
 Ссылка: [https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores)  
+✅ [Задача 1991](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1991/Task1991.cs) - "Find the Middle Index in Array"  
+Ссылка: [https://leetcode.com/problems/find-the-middle-index-in-array](https://leetcode.com/problems/find-the-middle-index-in-array) 
 

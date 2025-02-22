@@ -218,6 +218,7 @@
     <Compile Include="Tasks\task1974\Task1974.cs" />
     <Compile Include="Tasks\task1979\Task1979.cs" />
     <Compile Include="Tasks\task1984\Task1984.cs" />
+    <Compile Include="Tasks\task1991\Task1991.cs" />
     <Compile Include="Tasks\task19\Task19.cs" />
     <Compile Include="Tasks\task1\Task1.cs" />
     <Compile Include="Tasks\task1\Task1WithTimer.cs" />
