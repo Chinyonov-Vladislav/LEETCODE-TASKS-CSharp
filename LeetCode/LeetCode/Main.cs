@@ -333,6 +333,7 @@ using LeetCode.Tasks.task2053;
 using LeetCode.Tasks.task2085;
 using LeetCode.Tasks.task2089;
 using LeetCode.Tasks.task2094;
+using LeetCode.Tasks.task2099;
 
 namespace LeetCode
 {
@@ -676,7 +677,8 @@ namespace LeetCode
                 new Task2053(2053,"K - я уникальная строка в массиве","",Difficult.easy),
                 new Task2085(2085,"Подсчитайте распространенные слова с одним вхождением","",Difficult.easy),
                 new Task2089(2089,"Найдите целевые индексы после сортировки массива","",Difficult.easy),
-                new Task2094(2094,"Поиск 3-значных четных чисел","",Difficult.easy)
+                new Task2094(2094,"Поиск 3-значных четных чисел","",Difficult.easy),
+                new Task2099(2099,"Найдите подпоследовательность длины K с наибольшей суммой","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

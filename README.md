@@ -666,3 +666,5 @@
 Ссылка: [https://leetcode.com/problems/find-target-indices-after-sorting-array](https://leetcode.com/problems/find-target-indices-after-sorting-array)  
 ✅ [Задача 2094](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2094/Task2094.cs) - "Finding 3-Digit Even Numbers"  
 Ссылка: [https://leetcode.com/problems/finding-3-digit-even-numbers](https://leetcode.com/problems/finding-3-digit-even-numbers)  
+✅ [Задача 2099](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2099/Task2099.cs) - "Find Subsequence of Length K With the Largest Sum"  
+Ссылка: [https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum)  
