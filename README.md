@@ -646,3 +646,5 @@
 Ссылка: [https://leetcode.com/problems/final-value-of-variable-after-performing-operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)  
 ✅ [Задача 2016](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2016/Task2016.cs) - "Maximum Difference Between Increasing Elements"  
 Ссылка: [https://leetcode.com/problems/maximum-difference-between-increasing-elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements)  
+✅ [Задача 2022](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2022/Task2022.cs) - "Convert 1D Array Into 2D Array"  
+Ссылка: [https://leetcode.com/problems/convert-1d-array-into-2d-array](https://leetcode.com/problems/convert-1d-array-into-2d-array)  
