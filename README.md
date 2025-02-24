@@ -638,3 +638,5 @@
 Ссылка: [https://leetcode.com/problems/find-the-middle-index-in-array](https://leetcode.com/problems/find-the-middle-index-in-array)  
 ✅ [Задача 1995](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1995/Task1995.cs) - "Count Special Quadruplets"  
 Ссылка: [https://leetcode.com/problems/count-special-quadruplets](https://leetcode.com/problems/count-special-quadruplets)  
+✅ [Задача 2000](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2000/Task2000.cs) - "Reverse Prefix of Word"  
+Ссылка: [https://leetcode.com/problems/reverse-prefix-of-word](https://leetcode.com/problems/reverse-prefix-of-word)  
