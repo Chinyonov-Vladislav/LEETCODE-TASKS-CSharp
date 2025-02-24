@@ -644,3 +644,5 @@
 Ссылка: [https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k)  
 ✅ [Задача 2011](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2011/Task2011.cs) - "Final Value of Variable After Performing Operations"  
 Ссылка: [https://leetcode.com/problems/final-value-of-variable-after-performing-operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)  
+✅ [Задача 2016](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2016/Task2016.cs) - "Maximum Difference Between Increasing Elements"  
+Ссылка: [https://leetcode.com/problems/maximum-difference-between-increasing-elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements)  
