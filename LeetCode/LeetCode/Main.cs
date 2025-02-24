@@ -324,6 +324,7 @@ using LeetCode.Tasks.task2006;
 using LeetCode.Tasks.task2011;
 using LeetCode.Tasks.task2016;
 using LeetCode.Tasks.task2022;
+using LeetCode.Tasks.task2027;
 
 namespace LeetCode
 {
@@ -658,7 +659,8 @@ namespace LeetCode
                 new Task2006(2006,"Подсчитайте количество пар с абсолютной разницей K","",Difficult.easy),
                 new Task2011(2011,"Конечное значение переменной после выполнения операций","",Difficult.easy),
                 new Task2016(2016,"Максимальная разница между увеличивающимися элементами","",Difficult.easy),
-                new Task2022(2022,"Преобразование одномерного массива в двумерный","",Difficult.easy)
+                new Task2022(2022,"Преобразование одномерного массива в двумерный","",Difficult.easy),
+                new Task2027(2027,"Минимальные шаги для преобразования строки","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

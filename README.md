@@ -648,3 +648,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-difference-between-increasing-elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements)  
 ✅ [Задача 2022](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2022/Task2022.cs) - "Convert 1D Array Into 2D Array"  
 Ссылка: [https://leetcode.com/problems/convert-1d-array-into-2d-array](https://leetcode.com/problems/convert-1d-array-into-2d-array)  
+✅ [Задача 2027](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2027/Task2027.cs) - "Minimum Moves to Convert String"  
+Ссылка: [https://leetcode.com/problems/minimum-moves-to-convert-string](https://leetcode.com/problems/minimum-moves-to-convert-string)  
