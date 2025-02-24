@@ -664,3 +664,5 @@
 Ссылка: [https://leetcode.com/problems/count-common-words-with-one-occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence)  
 ✅ [Задача 2089](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2089/Task2089.cs) - "Find Target Indices After Sorting Array"  
 Ссылка: [https://leetcode.com/problems/find-target-indices-after-sorting-array](https://leetcode.com/problems/find-target-indices-after-sorting-array)  
+✅ [Задача 2094](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2094/Task2094.cs) - "Finding 3-Digit Even Numbers"  
+Ссылка: [https://leetcode.com/problems/finding-3-digit-even-numbers](https://leetcode.com/problems/finding-3-digit-even-numbers)  

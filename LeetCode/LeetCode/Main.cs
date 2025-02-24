@@ -332,6 +332,7 @@ using LeetCode.Tasks.task2057;
 using LeetCode.Tasks.task2053;
 using LeetCode.Tasks.task2085;
 using LeetCode.Tasks.task2089;
+using LeetCode.Tasks.task2094;
 
 namespace LeetCode
 {
@@ -674,7 +675,8 @@ namespace LeetCode
                 new Task2057(2057,"Наименьший индекс с равным значением","",Difficult.easy),
                 new Task2053(2053,"K - я уникальная строка в массиве","",Difficult.easy),
                 new Task2085(2085,"Подсчитайте распространенные слова с одним вхождением","",Difficult.easy),
-                new Task2089(2089,"Найдите целевые индексы после сортировки массива","",Difficult.easy)
+                new Task2089(2089,"Найдите целевые индексы после сортировки массива","",Difficult.easy),
+                new Task2094(2094,"Поиск 3-значных четных чисел","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
