@@ -654,3 +654,5 @@
 Ссылка: [https://leetcode.com/problems/two-out-of-three](https://leetcode.com/problems/two-out-of-three)  
 ✅ [Задача 2042](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2042/Task2042.cs) - "Check if Numbers Are Ascending in a Sentence"  
 Ссылка: [https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence)  
+✅ [Задача 2068](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2068/Task2068.cs) - "Check Whether Two Strings are Almost Equivalent"  
+Ссылка: [https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent)  
