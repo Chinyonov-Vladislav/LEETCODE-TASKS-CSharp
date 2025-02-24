@@ -652,3 +652,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-moves-to-convert-string](https://leetcode.com/problems/minimum-moves-to-convert-string)  
 ✅ [Задача 2032](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2032/Task2032.cs) - "Two Out of Three"  
 Ссылка: [https://leetcode.com/problems/two-out-of-three](https://leetcode.com/problems/two-out-of-three)  
+✅ [Задача 2042](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2042/Task2042.cs) - "Check if Numbers Are Ascending in a Sentence"  
+Ссылка: [https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence)  
