@@ -650,3 +650,5 @@
 Ссылка: [https://leetcode.com/problems/convert-1d-array-into-2d-array](https://leetcode.com/problems/convert-1d-array-into-2d-array)  
 ✅ [Задача 2027](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2027/Task2027.cs) - "Minimum Moves to Convert String"  
 Ссылка: [https://leetcode.com/problems/minimum-moves-to-convert-string](https://leetcode.com/problems/minimum-moves-to-convert-string)  
+✅ [Задача 2032](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2032/Task2032.cs) - "Two Out of Three"  
+Ссылка: [https://leetcode.com/problems/two-out-of-three](https://leetcode.com/problems/two-out-of-three)  
