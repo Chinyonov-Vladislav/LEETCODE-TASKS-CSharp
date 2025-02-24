@@ -320,6 +320,7 @@ using LeetCode.Tasks.task1984;
 using LeetCode.Tasks.task1991;
 using LeetCode.Tasks.task1995;
 using LeetCode.Tasks.task2000;
+using LeetCode.Tasks.task2006;
 
 namespace LeetCode
 {
@@ -650,7 +651,8 @@ namespace LeetCode
                 new Task1984(1984,"Минимальная разница между максимальным и минимальным значениями K","",Difficult.easy),
                 new Task1991(1991,"Найдите средний индекс в массиве","",Difficult.easy),
                 new Task1995(1995,"Подсчёт специальных четверок","",Difficult.easy),
-                new Task2000(2000,"Обратный префикс слова","",Difficult.easy)
+                new Task2000(2000,"Обратный префикс слова","",Difficult.easy),
+                new Task2006(2006,"Подсчитайте количество пар с абсолютной разницей K","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
