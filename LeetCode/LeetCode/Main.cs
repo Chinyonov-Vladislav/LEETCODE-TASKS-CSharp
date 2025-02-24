@@ -328,6 +328,7 @@ using LeetCode.Tasks.task2027;
 using LeetCode.Tasks.task2032;
 using LeetCode.Tasks.task2042;
 using LeetCode.Tasks.task2068;
+using LeetCode.Tasks.task2057;
 
 namespace LeetCode
 {
@@ -666,7 +667,8 @@ namespace LeetCode
                 new Task2027(2027,"Минимальные шаги для преобразования строки","",Difficult.easy),
                 new Task2032(2032,"Два из трех","",Difficult.easy),
                 new Task2042(2042,"Проверьте, возрастают ли числа в предложении","",Difficult.easy),
-                new Task2068(2068,"Проверьте, являются ли две строки почти эквивалентными","",Difficult.easy)
+                new Task2068(2068,"Проверьте, являются ли две строки почти эквивалентными","",Difficult.easy),
+                new Task2057(2057,"Наименьший индекс с равным значением","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

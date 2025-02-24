@@ -656,3 +656,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence)  
 ✅ [Задача 2068](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2068/Task2068.cs) - "Check Whether Two Strings are Almost Equivalent"  
 Ссылка: [https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent)  
+✅ [Задача 2057](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2057/Task2057.cs) - "Smallest Index With Equal Value"  
+Ссылка: [https://leetcode.com/problems/smallest-index-with-equal-value](https://leetcode.com/problems/smallest-index-with-equal-value)  
