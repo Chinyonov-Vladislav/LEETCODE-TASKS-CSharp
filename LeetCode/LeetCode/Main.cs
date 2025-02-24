@@ -330,6 +330,7 @@ using LeetCode.Tasks.task2042;
 using LeetCode.Tasks.task2068;
 using LeetCode.Tasks.task2057;
 using LeetCode.Tasks.task2053;
+using LeetCode.Tasks.task2085;
 
 namespace LeetCode
 {
@@ -670,7 +671,8 @@ namespace LeetCode
                 new Task2042(2042,"Проверьте, возрастают ли числа в предложении","",Difficult.easy),
                 new Task2068(2068,"Проверьте, являются ли две строки почти эквивалентными","",Difficult.easy),
                 new Task2057(2057,"Наименьший индекс с равным значением","",Difficult.easy),
-                new Task2053(2053,"K - я уникальная строка в массиве","",Difficult.easy)
+                new Task2053(2053,"K - я уникальная строка в массиве","",Difficult.easy),
+                new Task2085(2085,"Подсчитайте распространенные слова с одним вхождением","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

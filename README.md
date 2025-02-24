@@ -660,3 +660,5 @@
 Ссылка: [https://leetcode.com/problems/smallest-index-with-equal-value](https://leetcode.com/problems/smallest-index-with-equal-value)  
 ✅ [Задача 2053](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2053/Task2053.cs) - "Kth Distinct String in an Array"  
 Ссылка: [https://leetcode.com/problems/kth-distinct-string-in-an-array](https://leetcode.com/problems/kth-distinct-string-in-an-array)  
+✅ [Задача 2085](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2085/Task2085.cs) - "Count Common Words With One Occurrence"  
+Ссылка: [https://leetcode.com/problems/count-common-words-with-one-occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence)  
