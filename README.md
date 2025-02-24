@@ -668,3 +668,5 @@
 Ссылка: [https://leetcode.com/problems/finding-3-digit-even-numbers](https://leetcode.com/problems/finding-3-digit-even-numbers)  
 ✅ [Задача 2099](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2099/Task2099.cs) - "Find Subsequence of Length K With the Largest Sum"  
 Ссылка: [https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum)  
+✅ [Задача 2108](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2108/Task2108.cs) - "Find First Palindromic String in the Array"  
+Ссылка: [https://leetcode.com/problems/find-first-palindromic-string-in-the-array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array)  
