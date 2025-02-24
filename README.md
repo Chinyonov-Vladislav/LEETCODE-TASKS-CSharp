@@ -642,3 +642,5 @@
 Ссылка: [https://leetcode.com/problems/reverse-prefix-of-word](https://leetcode.com/problems/reverse-prefix-of-word)  
 ✅ [Задача 2006](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2006/Task2006.cs) - "Count Number of Pairs With Absolute Difference K"  
 Ссылка: [https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k)  
+✅ [Задача 2011](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2011/Task2011.cs) - "Final Value of Variable After Performing Operations"  
+Ссылка: [https://leetcode.com/problems/final-value-of-variable-after-performing-operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)  

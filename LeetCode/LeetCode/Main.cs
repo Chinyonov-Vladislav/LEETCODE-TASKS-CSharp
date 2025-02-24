@@ -321,6 +321,7 @@ using LeetCode.Tasks.task1991;
 using LeetCode.Tasks.task1995;
 using LeetCode.Tasks.task2000;
 using LeetCode.Tasks.task2006;
+using LeetCode.Tasks.task2011;
 
 namespace LeetCode
 {
@@ -652,7 +653,8 @@ namespace LeetCode
                 new Task1991(1991,"Найдите средний индекс в массиве","",Difficult.easy),
                 new Task1995(1995,"Подсчёт специальных четверок","",Difficult.easy),
                 new Task2000(2000,"Обратный префикс слова","",Difficult.easy),
-                new Task2006(2006,"Подсчитайте количество пар с абсолютной разницей K","",Difficult.easy)
+                new Task2006(2006,"Подсчитайте количество пар с абсолютной разницей K","",Difficult.easy),
+                new Task2011(2011,"Конечное значение переменной после выполнения операций","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
