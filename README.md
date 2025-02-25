@@ -696,3 +696,5 @@
 Ссылка: [https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array)  
 ✅ [Задача 2180](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2180/Task2180.cs) - "Count Integers With Even Digit Sum"  
 Ссылка: [https://leetcode.com/problems/count-integers-with-even-digit-sum](https://leetcode.com/problems/count-integers-with-even-digit-sum)  
+✅ [Задача 2185](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2185/Task2185.cs) - "Counting Words With a Given Prefix"  
+Ссылка: [https://leetcode.com/problems/counting-words-with-a-given-prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix)  
