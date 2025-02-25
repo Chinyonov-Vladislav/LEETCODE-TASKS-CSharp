@@ -688,3 +688,5 @@
 Ссылка: [https://leetcode.com/problems/keep-multiplying-found-values-by-two](https://leetcode.com/problems/keep-multiplying-found-values-by-two)  
 ✅ [Задача 2160](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2160/Task2160.cs) - "Minimum Sum of Four Digit Number After Splitting Digits"  
 Ссылка: [https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits)  
+✅ [Задача 2164](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2164/Task2164.cs) - "Sort Even and Odd Indices Independently"  
+Ссылка: [https://leetcode.com/problems/sort-even-and-odd-indices-independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently)  
