@@ -684,3 +684,5 @@
 Ссылка: [https://leetcode.com/problems/divide-a-string-into-groups-of-size-k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k)  
 ✅ [Задача 2148](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2148/Task2148.cs) - "Count Elements With Strictly Smaller and Greater Elements"  
 Ссылка: [https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements)  
+✅ [Задача 2154](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2154/Task2154.cs) - "Keep Multiplying Found Values by Two"  
+Ссылка: [https://leetcode.com/problems/keep-multiplying-found-values-by-two](https://leetcode.com/problems/keep-multiplying-found-values-by-two)  

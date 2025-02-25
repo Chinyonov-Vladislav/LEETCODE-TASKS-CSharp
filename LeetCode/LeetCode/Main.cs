@@ -342,6 +342,7 @@ using LeetCode.Tasks.task2129;
 using LeetCode.Tasks.task2133;
 using LeetCode.Tasks.task2138;
 using LeetCode.Tasks.task2148;
+using LeetCode.Tasks.task2154;
 
 namespace LeetCode
 {
@@ -694,7 +695,8 @@ namespace LeetCode
                 new Task2129(2129,"Написать слова заглавными буквами","",Difficult.easy),
                 new Task2133(2133,"Проверьте, содержит ли каждая строка и столбец все числа","",Difficult.easy),
                 new Task2138(2138,"Разделите строку на группы по k символов","",Difficult.easy),
-                new Task2148(2148,"Подсчитайте количество элементов, которые строго меньше или больше других элементов ","",Difficult.easy)
+                new Task2148(2148,"Подсчитайте количество элементов, которые строго меньше или больше других элементов ","",Difficult.easy),
+                new Task2154(2154,"Продолжайте умножать найденные значения на два","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
