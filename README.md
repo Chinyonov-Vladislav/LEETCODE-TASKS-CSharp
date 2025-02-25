@@ -690,3 +690,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits)  
 ✅ [Задача 2164](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2164/Task2164.cs) - "Sort Even and Odd Indices Independently"  
 Ссылка: [https://leetcode.com/problems/sort-even-and-odd-indices-independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently)  
+✅ [Задача 2169](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2169/Task2169.cs) - "Count Operations to Obtain Zero"  
+Ссылка: [https://leetcode.com/problems/count-operations-to-obtain-zero](https://leetcode.com/problems/count-operations-to-obtain-zero)  
