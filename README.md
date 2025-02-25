@@ -686,3 +686,5 @@
 Ссылка: [https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements)  
 ✅ [Задача 2154](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2154/Task2154.cs) - "Keep Multiplying Found Values by Two"  
 Ссылка: [https://leetcode.com/problems/keep-multiplying-found-values-by-two](https://leetcode.com/problems/keep-multiplying-found-values-by-two)  
+✅ [Задача 2160](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2160/Task2160.cs) - "Minimum Sum of Four Digit Number After Splitting Digits"  
+Ссылка: [https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits)  
