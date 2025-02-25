@@ -680,3 +680,5 @@
 Ссылка: [https://leetcode.com/problems/capitalize-the-title](https://leetcode.com/problems/capitalize-the-title)  
 ✅ [Задача 2133](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2133/Task2133.cs) - "Check if Every Row and Column Contains All Numbers"  
 Ссылка: [https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers)  
+✅ [Задача 2138](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2138/Task2138.cs) - "Divide a String Into Groups of Size k"  
+Ссылка: [https://leetcode.com/problems/divide-a-string-into-groups-of-size-k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k)  

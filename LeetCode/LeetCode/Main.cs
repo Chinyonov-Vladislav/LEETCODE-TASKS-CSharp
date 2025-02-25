@@ -340,6 +340,7 @@ using LeetCode.Tasks.task2124;
 using LeetCode.Tasks.task2119;
 using LeetCode.Tasks.task2129;
 using LeetCode.Tasks.task2133;
+using LeetCode.Tasks.task2138;
 
 namespace LeetCode
 {
@@ -690,7 +691,8 @@ namespace LeetCode
                 new Task2124(2124,"Проверьте, появляется ли буква «a» перед буквой «b»","",Difficult.easy),
                 new Task2119(2119,"Число после двойного разворота","",Difficult.easy),
                 new Task2129(2129,"Написать слова заглавными буквами","",Difficult.easy),
-                new Task2133(2133,"Проверьте, содержит ли каждая строка и столбец все числа","",Difficult.easy)
+                new Task2133(2133,"Проверьте, содержит ли каждая строка и столбец все числа","",Difficult.easy),
+                new Task2138(2138,"Разделите строку на группы по k символов","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

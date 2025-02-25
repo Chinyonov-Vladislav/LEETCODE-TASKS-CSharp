@@ -23,7 +23,7 @@ namespace LeetCode.Tasks.task2133
         {
             int[][] matrix = new int[3][]
             {
-                new int[] { 1,2,4 },
+                new int[] { 1,2,3 },
                 new int[] { 3,1,2 },
                 new int[] { 2,3,1 }
             };
