@@ -678,3 +678,5 @@
 Ссылка: [https://leetcode.com/problems/a-number-after-a-double-reversal](https://leetcode.com/problems/a-number-after-a-double-reversal)  
 ✅ [Задача 2129](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2129/Task2129.cs) - "Capitalize the Title"  
 Ссылка: [https://leetcode.com/problems/capitalize-the-title](https://leetcode.com/problems/capitalize-the-title)  
+✅ [Задача 2133](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2133/Task2133.cs) - "Check if Every Row and Column Contains All Numbers"  
+Ссылка: [https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers)  
