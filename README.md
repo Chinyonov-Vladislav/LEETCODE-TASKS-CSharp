@@ -672,3 +672,5 @@
 Ссылка: [https://leetcode.com/problems/find-first-palindromic-string-in-the-array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array)  
 ✅ [Задача 2114](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2114/Task2114.cs) - "Maximum Number of Words Found in Sentences"  
 Ссылка: [https://leetcode.com/problems/maximum-number-of-words-found-in-sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences)  
+✅ [Задача 2124](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2124/Task2124.cs) - "Check if All A's Appears Before All B's"  
+Ссылка: [https://leetcode.com/problems/check-if-all-as-appears-before-all-bs](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs)  
