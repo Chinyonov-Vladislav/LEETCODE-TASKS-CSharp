@@ -337,6 +337,7 @@ using LeetCode.Tasks.task2099;
 using LeetCode.Tasks.task2108;
 using LeetCode.Tasks.task2114;
 using LeetCode.Tasks.task2124;
+using LeetCode.Tasks.task2119;
 
 namespace LeetCode
 {
@@ -684,7 +685,8 @@ namespace LeetCode
                 new Task2099(2099,"Найдите подпоследовательность длины K с наибольшей суммой","",Difficult.easy),
                 new Task2108(2108,"Найдите первую палиндромную строку в массиве","",Difficult.easy),
                 new Task2114(2114,"Максимальное количество слов, встречающихся в предложениях","",Difficult.easy),
-                new Task2124(2124,"Проверьте, появляется ли буква «a» перед буквой «b»","",Difficult.easy)
+                new Task2124(2124,"Проверьте, появляется ли буква «a» перед буквой «b»","",Difficult.easy),
+                new Task2119(2119,"Число после двойного разворота","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
