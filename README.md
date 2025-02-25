@@ -694,3 +694,5 @@
 Ссылка: [https://leetcode.com/problems/count-operations-to-obtain-zero](https://leetcode.com/problems/count-operations-to-obtain-zero)  
 ✅ [Задача 2176](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2176/Task2176.cs) - "Count Equal and Divisible Pairs in an Array"  
 Ссылка: [https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array)  
+✅ [Задача 2180](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2180/Task2180.cs) - "Count Integers With Even Digit Sum"  
+Ссылка: [https://leetcode.com/problems/count-integers-with-even-digit-sum](https://leetcode.com/problems/count-integers-with-even-digit-sum)  

@@ -347,6 +347,7 @@ using LeetCode.Tasks.task2160;
 using LeetCode.Tasks.task2164;
 using LeetCode.Tasks.task2169;
 using LeetCode.Tasks.task2176;
+using LeetCode.Tasks.task2180;
 
 namespace LeetCode
 {
@@ -704,7 +705,8 @@ namespace LeetCode
                 new Task2160(2160,"Минимальная сумма четырёхзначного числа после разделения цифр","",Difficult.easy),
                 new Task2164(2164,"Независимая сортировка четных и нечетных индексов","",Difficult.easy),
                 new Task2169(2169,"Подсчитайте операции для получения нуля","",Difficult.easy),
-                new Task2176(2176,"Подсчитайте количество равных и делимых пар в массиве","",Difficult.easy)
+                new Task2176(2176,"Подсчитайте количество равных и делимых пар в массиве","",Difficult.easy),
+                new Task2180(2180,"Подсчитывайте целые числа с четной суммой цифр","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
