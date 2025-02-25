@@ -676,3 +676,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-all-as-appears-before-all-bs](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs)  
 ✅ [Задача 2119](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2119/Task2119.cs) - "A Number After a Double Reversal"  
 Ссылка: [https://leetcode.com/problems/a-number-after-a-double-reversal](https://leetcode.com/problems/a-number-after-a-double-reversal)  
+✅ [Задача 2129](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2129/Task2129.cs) - "Capitalize the Title"  
+Ссылка: [https://leetcode.com/problems/capitalize-the-title](https://leetcode.com/problems/capitalize-the-title)  

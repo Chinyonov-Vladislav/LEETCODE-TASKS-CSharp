@@ -338,6 +338,7 @@ using LeetCode.Tasks.task2108;
 using LeetCode.Tasks.task2114;
 using LeetCode.Tasks.task2124;
 using LeetCode.Tasks.task2119;
+using LeetCode.Tasks.task2129;
 
 namespace LeetCode
 {
@@ -686,7 +687,8 @@ namespace LeetCode
                 new Task2108(2108,"Найдите первую палиндромную строку в массиве","",Difficult.easy),
                 new Task2114(2114,"Максимальное количество слов, встречающихся в предложениях","",Difficult.easy),
                 new Task2124(2124,"Проверьте, появляется ли буква «a» перед буквой «b»","",Difficult.easy),
-                new Task2119(2119,"Число после двойного разворота","",Difficult.easy)
+                new Task2119(2119,"Число после двойного разворота","",Difficult.easy),
+                new Task2129(2129,"Написать слова заглавными буквами","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
