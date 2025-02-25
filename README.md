@@ -670,3 +670,5 @@
 Ссылка: [https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum)  
 ✅ [Задача 2108](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2108/Task2108.cs) - "Find First Palindromic String in the Array"  
 Ссылка: [https://leetcode.com/problems/find-first-palindromic-string-in-the-array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array)  
+✅ [Задача 2114](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2114/Task2114.cs) - "Maximum Number of Words Found in Sentences"  
+Ссылка: [https://leetcode.com/problems/maximum-number-of-words-found-in-sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences)  

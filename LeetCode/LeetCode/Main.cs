@@ -335,6 +335,7 @@ using LeetCode.Tasks.task2089;
 using LeetCode.Tasks.task2094;
 using LeetCode.Tasks.task2099;
 using LeetCode.Tasks.task2108;
+using LeetCode.Tasks.task2114;
 
 namespace LeetCode
 {
@@ -680,7 +681,8 @@ namespace LeetCode
                 new Task2089(2089,"Найдите целевые индексы после сортировки массива","",Difficult.easy),
                 new Task2094(2094,"Поиск 3-значных четных чисел","",Difficult.easy),
                 new Task2099(2099,"Найдите подпоследовательность длины K с наибольшей суммой","",Difficult.easy),
-                new Task2108(2108,"Найдите первую палиндромную строку в массиве","",Difficult.easy)
+                new Task2108(2108,"Найдите первую палиндромную строку в массиве","",Difficult.easy),
+                new Task2114(2114,"Максимальное количество слов, встречающихся в предложениях","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
