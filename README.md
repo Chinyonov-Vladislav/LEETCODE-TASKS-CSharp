@@ -682,3 +682,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers)  
 ✅ [Задача 2138](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2138/Task2138.cs) - "Divide a String Into Groups of Size k"  
 Ссылка: [https://leetcode.com/problems/divide-a-string-into-groups-of-size-k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k)  
+✅ [Задача 2148](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2148/Task2148.cs) - "Count Elements With Strictly Smaller and Greater Elements"  
+Ссылка: [https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements)  
