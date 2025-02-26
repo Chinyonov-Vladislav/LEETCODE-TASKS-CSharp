@@ -720,3 +720,5 @@
 Ссылка: [https://leetcode.com/problems/add-two-integers](https://leetcode.com/problems/add-two-integers)  
 ✅ [Задача 2236](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2236/Task2236.cs) - "Root Equals Sum of Children"  
 Ссылка: [https://leetcode.com/problems/root-equals-sum-of-children](https://leetcode.com/problems/root-equals-sum-of-children)  
+✅ [Задача 2239](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2239/Task2239.cs) - "Find Closest Number to Zero"  
+Ссылка: [https://leetcode.com/problems/find-closest-number-to-zero](https://leetcode.com/problems/find-closest-number-to-zero)  
