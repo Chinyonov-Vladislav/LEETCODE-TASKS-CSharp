@@ -418,12 +418,10 @@ namespace LeetCode.Basic
             int currentDepth = 0;
             List<TreeNode> visitedNodes = new List<TreeNode>();
             Stack<TreeNode> stack = new Stack<TreeNode>();
-            visitedNodes.Add(root);
             stack.Push(root);
             while (stack.Count > 0)
             {
                 TreeNode treeNode = stack.Pop();
-                Console.WriteLine($"Значение узла= {treeNode.val} | Уровень = {currentDepth}");
                 if (visitedNodes.Contains(treeNode))
                 {
                     currentDepth--;
@@ -432,6 +430,7 @@ namespace LeetCode.Basic
                 {
                     visitedNodes.Add(treeNode);
                 }
+                Console.WriteLine($"Значение узла= {treeNode.val} | Уровень = {currentDepth}");
                 if (treeNode.left != null && !visitedNodes.Contains(treeNode.left))
                 {
                     stack.Push(treeNode);
@@ -440,7 +439,6 @@ namespace LeetCode.Basic
                 }
                 else if (treeNode.right != null && !visitedNodes.Contains(treeNode.right))
                 {
-
                     stack.Push(treeNode);
                     stack.Push(treeNode.right);
                     currentDepth++;

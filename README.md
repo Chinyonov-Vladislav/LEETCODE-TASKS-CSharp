@@ -718,3 +718,5 @@
 Ссылка: [https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity)  
 ✅ [Задача 2235](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2235/Task2235.cs) - "Add Two Integers"  
 Ссылка: [https://leetcode.com/problems/add-two-integers](https://leetcode.com/problems/add-two-integers)  
+✅ [Задача 2236](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2236/Task2236.cs) - "Root Equals Sum of Children"  
+Ссылка: [https://leetcode.com/problems/root-equals-sum-of-children](https://leetcode.com/problems/root-equals-sum-of-children)  
