@@ -706,3 +706,5 @@
 Ссылка: [https://leetcode.com/problems/find-all-k-distant-indices-in-an-array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array)  
 ✅ [Задача 2206](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2206/Task2206.cs) - "Divide Array Into Equal Pairs"  
 Ссылка: [https://leetcode.com/problems/divide-array-into-equal-pairs](https://leetcode.com/problems/divide-array-into-equal-pairs)  
+✅ [Задача 2210](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2210/Task2210.cs) - "Count Hills and Valleys in an Array"  
+Ссылка: [https://leetcode.com/problems/count-hills-and-valleys-in-an-array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array)  
