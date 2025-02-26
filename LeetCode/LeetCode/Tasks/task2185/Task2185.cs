@@ -34,7 +34,7 @@ namespace LeetCode.Tasks.task2185
         {
             throw new NotImplementedException();
         }
-        public int prefixCount(string[] words, string pref)
+        private int prefixCount(string[] words, string pref)
         {
             int count = 0;
             foreach (string word in words)

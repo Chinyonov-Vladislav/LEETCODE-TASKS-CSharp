@@ -698,3 +698,5 @@
 Ссылка: [https://leetcode.com/problems/count-integers-with-even-digit-sum](https://leetcode.com/problems/count-integers-with-even-digit-sum)  
 ✅ [Задача 2185](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2185/Task2185.cs) - "Counting Words With a Given Prefix"  
 Ссылка: [https://leetcode.com/problems/counting-words-with-a-given-prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix)  
+✅ [Задача 2190](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2190/Task2190.cs) - "Most Frequent Number Following Key In an Array"  
+Ссылка: [https://leetcode.com/problems/most-frequent-number-following-key-in-an-array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array)  
