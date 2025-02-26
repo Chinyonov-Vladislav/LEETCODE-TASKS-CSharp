@@ -710,3 +710,5 @@
 Ссылка: [https://leetcode.com/problems/count-hills-and-valleys-in-an-array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array)  
 ✅ [Задача 2215](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2215/Task2215.cs) - "Find the Difference of Two Arrays"  
 Ссылка: [https://leetcode.com/problems/find-the-difference-of-two-arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays)  
+✅ [Задача 2220](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2220/Task2220.cs) - "Minimum Bit Flips to Convert Number"  
+Ссылка: [https://leetcode.com/problems/minimum-bit-flips-to-convert-number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number)  
