@@ -724,3 +724,5 @@
 Ссылка: [https://leetcode.com/problems/find-closest-number-to-zero](https://leetcode.com/problems/find-closest-number-to-zero)  
 ✅ [Задача 2278](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2278/Task2278.cs) - "Percentage of Letter in String"  
 Ссылка: [https://leetcode.com/problems/percentage-of-letter-in-string](https://leetcode.com/problems/percentage-of-letter-in-string)  
+✅ [Задача 2243](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2243/Task2243.cs) - "Calculate Digit Sum of a String"  
+Ссылка: [https://leetcode.com/problems/calculate-digit-sum-of-a-string](https://leetcode.com/problems/calculate-digit-sum-of-a-string)  
