@@ -47,7 +47,7 @@ namespace LeetCode.Basic
                 printValuesFromListNode(listNode.next, numberCurrentNode);
             }
         }
-        protected void printArray(char[] chars, string headerStr)
+        protected void printArray(char[] chars, string headerStr = "Исходный массив символов: ")
         {
             if (chars == null)
             {
@@ -81,7 +81,7 @@ namespace LeetCode.Basic
                 }
             }
         }
-        protected void printArray(int[] values, string headerStr = "Исходный массив: ")
+        protected void printArray(int[] values, string headerStr = "Исходный массив целых чисел: ")
         {
             if (values == null)
             {
@@ -115,7 +115,7 @@ namespace LeetCode.Basic
                 }
             }
         }
-        protected void printArray(string[] chars, string headerStr)
+        protected void printArray(string[] chars, string headerStr = "Исходный массив строк: ")
         {
             if (chars == null)
             {
@@ -149,7 +149,7 @@ namespace LeetCode.Basic
                 }
             }
         }
-        protected void printArray(int[][] nums, string headerStr)
+        protected void printArray(int[][] nums, string headerStr = "Исходный двумерный массив")
         {
             Console.WriteLine(headerStr);
             for (int i = 0; i < nums.Length; i++)

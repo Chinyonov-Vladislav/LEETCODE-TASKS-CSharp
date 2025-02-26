@@ -736,3 +736,6 @@
 Ссылка: [https://leetcode.com/problems/largest-3-same-digit-number-in-string](https://leetcode.com/problems/largest-3-same-digit-number-in-string)  
 ✅ [Задача 2269](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2269/Task2269.cs) - "Find the K-Beauty of a Number"  
 Ссылка: [https://leetcode.com/problems/find-the-k-beauty-of-a-number](https://leetcode.com/problems/find-the-k-beauty-of-a-number)  
+✅ [Задача 2273](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2273/Task2273.cs) - "Find Resultant Array After Removing Anagrams"  
+Ссылка: [https://leetcode.com/problems/find-resultant-array-after-removing-anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams)  
+
