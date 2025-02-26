@@ -722,3 +722,5 @@
 Ссылка: [https://leetcode.com/problems/root-equals-sum-of-children](https://leetcode.com/problems/root-equals-sum-of-children)  
 ✅ [Задача 2239](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2239/Task2239.cs) - "Find Closest Number to Zero"  
 Ссылка: [https://leetcode.com/problems/find-closest-number-to-zero](https://leetcode.com/problems/find-closest-number-to-zero)  
+✅ [Задача 2278](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2278/Task2278.cs) - "Percentage of Letter in String"  
+Ссылка: [https://leetcode.com/problems/percentage-of-letter-in-string](https://leetcode.com/problems/percentage-of-letter-in-string)  

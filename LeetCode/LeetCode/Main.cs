@@ -362,6 +362,7 @@ using LeetCode.Tasks.task2231;
 using LeetCode.Tasks.task2235;
 using LeetCode.Tasks.task2236;
 using LeetCode.Tasks.task2239;
+using LeetCode.Tasks.task2278;
 
 namespace LeetCode
 {
@@ -733,7 +734,8 @@ namespace LeetCode
                 new Task2231(2231,"Наибольшее число после перестановки цифр по чётности","",Difficult.easy),
                 new Task2235(2235,"Сложите два целых числа","",Difficult.easy),
                 new Task2236(2236,"Корень равен сумме дочерних элементов","",Difficult.easy),
-                new Task2239(2239,"Найдите число, ближайшее к нулю","",Difficult.easy)
+                new Task2239(2239,"Найдите число, ближайшее к нулю","",Difficult.easy),
+                new Task2278(2278,"Процентное соотношение букв в строке","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
