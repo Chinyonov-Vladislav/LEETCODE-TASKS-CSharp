@@ -702,3 +702,5 @@
 Ссылка: [https://leetcode.com/problems/most-frequent-number-following-key-in-an-array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array)  
 ✅ [Задача 2194](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2194/Task2194.cs) - "Cells in a Range on an Excel Sheet"  
 Ссылка: [https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet)  
+✅ [Задача 2200](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2200/Task2200.cs) - "Find All K-Distant Indices in an Array"  
+Ссылка: [https://leetcode.com/problems/find-all-k-distant-indices-in-an-array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array)  
