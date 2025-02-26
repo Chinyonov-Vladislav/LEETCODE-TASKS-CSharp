@@ -712,3 +712,5 @@
 Ссылка: [https://leetcode.com/problems/find-the-difference-of-two-arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays)  
 ✅ [Задача 2220](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2220/Task2220.cs) - "Minimum Bit Flips to Convert Number"  
 Ссылка: [https://leetcode.com/problems/minimum-bit-flips-to-convert-number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number)  
+✅ [Задача 2224](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2224/Task2224.cs) - "Minimum Number of Operations to Convert Time"  
+Ссылка: [https://leetcode.com/problems/minimum-number-of-operations-to-convert-time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time)  
