@@ -364,6 +364,7 @@ using LeetCode.Tasks.task2236;
 using LeetCode.Tasks.task2239;
 using LeetCode.Tasks.task2278;
 using LeetCode.Tasks.task2243;
+using LeetCode.Tasks.task2248;
 
 namespace LeetCode
 {
@@ -737,7 +738,8 @@ namespace LeetCode
                 new Task2236(2236,"Корень равен сумме дочерних элементов","",Difficult.easy),
                 new Task2239(2239,"Найдите число, ближайшее к нулю","",Difficult.easy),
                 new Task2278(2278,"Процентное соотношение букв в строке","",Difficult.easy),
-                new Task2243(2243,"Вычислить сумму цифр строки","",Difficult.easy)
+                new Task2243(2243,"Вычислить сумму цифр строки","",Difficult.easy),
+                new Task2248(2248,"Пересечение нескольких массивов","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
