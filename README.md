@@ -728,3 +728,5 @@
 Ссылка: [https://leetcode.com/problems/calculate-digit-sum-of-a-string](https://leetcode.com/problems/calculate-digit-sum-of-a-string)  
 ✅ [Задача 2248](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2248/Task2248.cs) - "Intersection of Multiple Arrays"  
 Ссылка: [https://leetcode.com/problems/intersection-of-multiple-arrays](https://leetcode.com/problems/intersection-of-multiple-arrays)  
+✅ [Задача 2255](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2255/Task2255.cs) - "Count Prefixes of a Given String"  
+Ссылка: [https://leetcode.com/problems/count-prefixes-of-a-given-string](https://leetcode.com/problems/count-prefixes-of-a-given-string)  
