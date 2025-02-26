@@ -350,6 +350,7 @@ using LeetCode.Tasks.task2176;
 using LeetCode.Tasks.task2180;
 using LeetCode.Tasks.task2185;
 using LeetCode.Tasks.task2190;
+using LeetCode.Tasks.task2194;
 
 namespace LeetCode
 {
@@ -710,7 +711,8 @@ namespace LeetCode
                 new Task2176(2176,"Подсчитайте количество равных и делимых пар в массиве","",Difficult.easy),
                 new Task2180(2180,"Подсчитывайте целые числа с четной суммой цифр","",Difficult.easy),
                 new Task2185(2185,"Подсчет слов с заданным префиксом","",Difficult.easy),
-                new Task2190(2190,"Наиболее часто встречающееся число после ключа в массив","",Difficult.easy)
+                new Task2190(2190,"Наиболее часто встречающееся число после ключа в массив","",Difficult.easy),
+                new Task2194(2194,"Ячейки в диапазоне на листе Excel","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

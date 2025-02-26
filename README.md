@@ -700,3 +700,5 @@
 Ссылка: [https://leetcode.com/problems/counting-words-with-a-given-prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix)  
 ✅ [Задача 2190](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2190/Task2190.cs) - "Most Frequent Number Following Key In an Array"  
 Ссылка: [https://leetcode.com/problems/most-frequent-number-following-key-in-an-array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array)  
+✅ [Задача 2194](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2194/Task2194.cs) - "Cells in a Range on an Excel Sheet"  
+Ссылка: [https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet)  
