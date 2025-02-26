@@ -358,6 +358,7 @@ using LeetCode.Tasks.task2210;
 using LeetCode.Tasks.task2215;
 using LeetCode.Tasks.task2220;
 using LeetCode.Tasks.task2224;
+using LeetCode.Tasks.task2231;
 
 namespace LeetCode
 {
@@ -725,7 +726,8 @@ namespace LeetCode
                 new Task2210(2210,"Считайте холмы и долины во множестве","",Difficult.easy),
                 new Task2215(2215,"Найдите разницу между двумя массивами","",Difficult.easy),
                 new Task2220(2220,"Минимальное изменение бита для преобразования числа","",Difficult.easy),
-                new Task2224(2224,"Минимальное количество операций для преобразования времени","",Difficult.easy)
+                new Task2224(2224,"Минимальное количество операций для преобразования времени","",Difficult.easy),
+                new Task2231(2231,"Наибольшее число после перестановки цифр по чётности","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

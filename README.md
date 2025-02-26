@@ -714,3 +714,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-bit-flips-to-convert-number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number)  
 ✅ [Задача 2224](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2224/Task2224.cs) - "Minimum Number of Operations to Convert Time"  
 Ссылка: [https://leetcode.com/problems/minimum-number-of-operations-to-convert-time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time)  
+✅ [Задача 2231](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2231/Task2231.cs) - "Largest Number After Digit Swaps by Parity"  
+Ссылка: [https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity)  

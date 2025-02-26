@@ -81,7 +81,7 @@ namespace LeetCode.Basic
                 }
             }
         }
-        protected void printArray(int[] values, string headerStr = "Исходный массив")
+        protected void printArray(int[] values, string headerStr = "Исходный массив: ")
         {
             if (values == null)
             {
