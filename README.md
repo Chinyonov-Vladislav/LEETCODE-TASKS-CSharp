@@ -732,3 +732,5 @@
 Ссылка: [https://leetcode.com/problems/count-prefixes-of-a-given-string](https://leetcode.com/problems/count-prefixes-of-a-given-string)  
 ✅ [Задача 2259](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2259/Task2259.cs) - "Remove Digit From Number to Maximize Result"  
 Ссылка: [https://leetcode.com/problems/remove-digit-from-number-to-maximize-result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result)  
+✅ [Задача 2264](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2264/Task2264.cs) - "Largest 3-Same-Digit Number in String"  
+Ссылка: [https://leetcode.com/problems/largest-3-same-digit-number-in-string](https://leetcode.com/problems/largest-3-same-digit-number-in-string)  

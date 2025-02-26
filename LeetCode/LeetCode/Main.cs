@@ -367,6 +367,7 @@ using LeetCode.Tasks.task2243;
 using LeetCode.Tasks.task2248;
 using LeetCode.Tasks.task2255;
 using LeetCode.Tasks.task2259;
+using LeetCode.Tasks.task2264;
 
 namespace LeetCode
 {
@@ -743,7 +744,8 @@ namespace LeetCode
                 new Task2243(2243,"Вычислить сумму цифр строки","",Difficult.easy),
                 new Task2248(2248,"Пересечение нескольких массивов","",Difficult.easy),
                 new Task2255(2255,"Подсчитывать префиксы заданной строки","",Difficult.easy),
-                new Task2259(2259,"Удалите цифру из числа, чтобы максимизировать результат","",Difficult.easy)
+                new Task2259(2259,"Удалите цифру из числа, чтобы максимизировать результат","",Difficult.easy),
+                new Task2264(2264,"Самое большое трёхзначное число в строке","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
