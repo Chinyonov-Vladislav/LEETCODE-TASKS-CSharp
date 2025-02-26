@@ -355,6 +355,7 @@ using LeetCode.Tasks.task2200;
 using LeetCode.Tasks.task2206;
 using System.Management.Instrumentation;
 using LeetCode.Tasks.task2210;
+using LeetCode.Tasks.task2215;
 
 namespace LeetCode
 {
@@ -719,7 +720,8 @@ namespace LeetCode
                 new Task2194(2194,"Ячейки в диапазоне на листе Excel","",Difficult.easy),
                 new Task2200(2200,"Найдите все индексы K-дистанции в массиве","",Difficult.easy),
                 new Task2206(2206,"Разделите массив на равные пары","",Difficult.easy),
-                new Task2210(2210,"Считайте холмы и долины во множестве","",Difficult.easy)
+                new Task2210(2210,"Считайте холмы и долины во множестве","",Difficult.easy),
+                new Task2215(2215,"Найдите разницу между двумя массивами","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

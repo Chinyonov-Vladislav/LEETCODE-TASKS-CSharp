@@ -708,3 +708,5 @@
 Ссылка: [https://leetcode.com/problems/divide-array-into-equal-pairs](https://leetcode.com/problems/divide-array-into-equal-pairs)  
 ✅ [Задача 2210](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2210/Task2210.cs) - "Count Hills and Valleys in an Array"  
 Ссылка: [https://leetcode.com/problems/count-hills-and-valleys-in-an-array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array)  
+✅ [Задача 2215](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2215/Task2215.cs) - "Find the Difference of Two Arrays"  
+Ссылка: [https://leetcode.com/problems/find-the-difference-of-two-arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays)  
