@@ -370,6 +370,7 @@ using LeetCode.Tasks.task2259;
 using LeetCode.Tasks.task2264;
 using LeetCode.Tasks.task2269;
 using LeetCode.Tasks.task2273;
+using LeetCode.Tasks.task2283;
 
 namespace LeetCode
 {
@@ -749,7 +750,8 @@ namespace LeetCode
                 new Task2259(2259,"Удалите цифру из числа, чтобы максимизировать результат","",Difficult.easy),
                 new Task2264(2264,"Самое большое трёхзначное число в строке","",Difficult.easy),
                 new Task2269(2269,"Найдите K-красоту числа","",Difficult.easy),
-                new Task2273(2273,"Найдите результирующий массив после удаления анаграмм","",Difficult.easy)
+                new Task2273(2273,"Найдите результирующий массив после удаления анаграмм","",Difficult.easy),
+                new Task2283(2283,"Проверьте, совпадает ли количество цифр в числе с их значением","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

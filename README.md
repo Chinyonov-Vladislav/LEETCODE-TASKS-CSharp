@@ -738,4 +738,6 @@
 Ссылка: [https://leetcode.com/problems/find-the-k-beauty-of-a-number](https://leetcode.com/problems/find-the-k-beauty-of-a-number)  
 ✅ [Задача 2273](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2273/Task2273.cs) - "Find Resultant Array After Removing Anagrams"  
 Ссылка: [https://leetcode.com/problems/find-resultant-array-after-removing-anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams)  
+✅ [Задача 2283](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2283/Task2283.cs) - "Check if Number Has Equal Digit Count and Digit Value"  
+Ссылка: [https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value)  
 
