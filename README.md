@@ -760,3 +760,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-number-of-pairs-in-array](https://leetcode.com/problems/maximum-number-of-pairs-in-array)  
 ✅ [Задача 2351](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2351/Task2351.cs) - "First Letter to Appear Twice"  
 Ссылка: [https://leetcode.com/problems/first-letter-to-appear-twice](https://leetcode.com/problems/first-letter-to-appear-twice)  
+✅ [Задача 2347](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2347/Task2347.cs) - "Best Poker Hand"  
+Ссылка: [https://leetcode.com/problems/best-poker-hand](https://leetcode.com/problems/best-poker-hand)  

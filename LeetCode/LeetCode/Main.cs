@@ -381,6 +381,7 @@ using LeetCode.Tasks.task2319;
 using LeetCode.Tasks.task2325;
 using LeetCode.Tasks.task2341;
 using LeetCode.Tasks.task2351;
+using LeetCode.Tasks.task2347;
 
 namespace LeetCode
 {
@@ -771,7 +772,8 @@ namespace LeetCode
                 new Task2319(2319,"Проверьте, является ли матрица X-матрицей","",Difficult.easy),
                 new Task2325(2325,"Расшифруйте сообщение","",Difficult.easy),
                 new Task2341(2341,"Максимальное количество пар в массиве","",Difficult.easy),
-                new Task2351(2351,"Первая буква, появившаяся дважды","",Difficult.easy)
+                new Task2351(2351,"Первая буква, появившаяся дважды","",Difficult.easy),
+                new Task2347(2347,"Лучшая покерная комбинация","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
