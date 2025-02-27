@@ -744,3 +744,5 @@
 Ссылка: [https://leetcode.com/problems/rearrange-characters-to-make-target-string](https://leetcode.com/problems/rearrange-characters-to-make-target-string)  
 ✅ [Задача 2293](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2293/Task2293.cs) - "Min Max Game"  
 Ссылка: [https://leetcode.com/problems/min-max-game](https://leetcode.com/problems/min-max-game)  
+✅ [Задача 2299](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2299/Task2299.cs) - "Strong Password Checker II"  
+Ссылка: [https://leetcode.com/problems/strong-password-checker-ii](https://leetcode.com/problems/strong-password-checker-ii)  
