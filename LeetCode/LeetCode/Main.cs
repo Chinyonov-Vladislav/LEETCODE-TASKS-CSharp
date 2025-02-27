@@ -379,6 +379,7 @@ using LeetCode.Tasks.task2309;
 using LeetCode.Tasks.task2315;
 using LeetCode.Tasks.task2319;
 using LeetCode.Tasks.task2325;
+using LeetCode.Tasks.task2341;
 
 namespace LeetCode
 {
@@ -767,7 +768,8 @@ namespace LeetCode
                 new Task2309(2309,"Самая большая английская буква в верхнем и нижнем регистре","",Difficult.easy),
                 new Task2315(2315,"Подсчитайте звездочки","",Difficult.easy),
                 new Task2319(2319,"Проверьте, является ли матрица X-матрицей","",Difficult.easy),
-                new Task2325(2325,"Расшифруйте сообщение","",Difficult.easy)
+                new Task2325(2325,"Расшифруйте сообщение","",Difficult.easy),
+                new Task2341(2341,"Максимальное количество пар в массиве","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

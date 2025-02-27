@@ -55,7 +55,6 @@ namespace LeetCode.Tasks.task2325
                 {
                     alphabet.Add(key[i], startChar);
                     startChar++;
-                    
                     if (startChar > 'z')
                     {
                         break;

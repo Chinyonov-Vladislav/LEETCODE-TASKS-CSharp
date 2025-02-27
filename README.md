@@ -756,3 +756,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-matrix-is-x-matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix)  
 ✅ [Задача 2325](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2325/Task2325.cs) - "Decode the Message"  
 Ссылка: [https://leetcode.com/problems/decode-the-message](https://leetcode.com/problems/decode-the-message)  
+✅ [Задача 2341](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2341/Task2341.cs) - "Maximum Number of Pairs in Array"  
+Ссылка: [https://leetcode.com/problems/maximum-number-of-pairs-in-array](https://leetcode.com/problems/maximum-number-of-pairs-in-array)  
