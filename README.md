@@ -740,4 +740,5 @@
 Ссылка: [https://leetcode.com/problems/find-resultant-array-after-removing-anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams)  
 ✅ [Задача 2283](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2283/Task2283.cs) - "Check if Number Has Equal Digit Count and Digit Value"  
 Ссылка: [https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value)  
-
+✅ [Задача 2287](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2287/Task2287.cs) - "Rearrange Characters to Make Target String"  
+Ссылка: [https://leetcode.com/problems/rearrange-characters-to-make-target-string](https://leetcode.com/problems/rearrange-characters-to-make-target-string)  

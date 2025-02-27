@@ -371,6 +371,7 @@ using LeetCode.Tasks.task2264;
 using LeetCode.Tasks.task2269;
 using LeetCode.Tasks.task2273;
 using LeetCode.Tasks.task2283;
+using LeetCode.Tasks.task2287;
 
 namespace LeetCode
 {
@@ -751,7 +752,8 @@ namespace LeetCode
                 new Task2264(2264,"Самое большое трёхзначное число в строке","",Difficult.easy),
                 new Task2269(2269,"Найдите K-красоту числа","",Difficult.easy),
                 new Task2273(2273,"Найдите результирующий массив после удаления анаграмм","",Difficult.easy),
-                new Task2283(2283,"Проверьте, совпадает ли количество цифр в числе с их значением","",Difficult.easy)
+                new Task2283(2283,"Проверьте, совпадает ли количество цифр в числе с их значением","",Difficult.easy),
+                new Task2287(2287,"Измените порядок символов, чтобы получилась целевая строка","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
