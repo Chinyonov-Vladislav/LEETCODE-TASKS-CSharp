@@ -385,6 +385,7 @@ using LeetCode.Tasks.task2347;
 using LeetCode.Tasks.task2357;
 using LeetCode.Tasks.task2363;
 using LeetCode.Tasks.task2367;
+using LeetCode.Tasks.task2373;
 
 namespace LeetCode
 {
@@ -779,7 +780,8 @@ namespace LeetCode
                 new Task2347(2347,"Лучшая покерная комбинация","",Difficult.easy),
                 new Task2357(2357,"Обнулить массив, вычтя равные суммы","",Difficult.easy),
                 new Task2363(2363,"Объединять похожие элементы","",Difficult.easy),
-                new Task2367(2367,"Количество арифметических троек","",Difficult.easy)
+                new Task2367(2367,"Количество арифметических троек","",Difficult.easy),
+                new Task2373(2373,"Наибольшие локальные значения в матрице","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

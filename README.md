@@ -768,3 +768,5 @@
 Ссылка: [https://leetcode.com/problems/merge-similar-items](https://leetcode.com/problems/merge-similar-items)  
 ✅ [Задача 2367](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2367/Task2367.cs) - "Number of Arithmetic Triplets"  
 Ссылка: [https://leetcode.com/problems/number-of-arithmetic-triplets](https://leetcode.com/problems/number-of-arithmetic-triplets)  
+✅ [Задача 2373](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2373/Task2373.cs) - "Largest Local Values in a Matrix"  
+Ссылка: [https://leetcode.com/problems/largest-local-values-in-a-matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix)  
