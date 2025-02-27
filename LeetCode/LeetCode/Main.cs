@@ -390,6 +390,7 @@ using LeetCode.Tasks.task2379;
 using LeetCode.Tasks.task2383;
 using LeetCode.Tasks.task2389;
 using LeetCode.Tasks.task2395;
+using LeetCode.Tasks.task2399;
 
 namespace LeetCode
 {
@@ -789,7 +790,8 @@ namespace LeetCode
                 new Task2379(2379,"Минимальное количество перекрашиваний для получения K последовательных чёрных блоков","",Difficult.easy),
                 new Task2383(2383,"Минимальное количество часов тренировок для победы в соревновании","",Difficult.easy),
                 new Task2389(2389,"Самая длинная подпоследовательность с ограниченной суммой","",Difficult.easy),
-                new Task2395(2395,"Найдите подмассивы с равной суммой","",Difficult.easy)
+                new Task2395(2395,"Найдите подмассивы с равной суммой","",Difficult.easy),
+                new Task2399(2399,"Проверьте расстояния между одинаковыми буквами","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

@@ -778,3 +778,5 @@
 Ссылка: [https://leetcode.com/problems/longest-subsequence-with-limited-sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum)  
 ✅ [Задача 2395](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2395/Task2395.cs) - "Find Subarrays With Equal Sum"  
 Ссылка: [https://leetcode.com/problems/find-subarrays-with-equal-sum](https://leetcode.com/problems/find-subarrays-with-equal-sum)  
+✅ [Задача 2399](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2399/Task2399.cs) - "Check Distances Between Same Letters"  
+Ссылка: [https://leetcode.com/problems/check-distances-between-same-letters](https://leetcode.com/problems/check-distances-between-same-letters)  
