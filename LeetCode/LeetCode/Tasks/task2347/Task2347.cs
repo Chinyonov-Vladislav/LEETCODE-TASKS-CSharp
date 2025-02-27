@@ -74,7 +74,7 @@ namespace LeetCode.Tasks.task2347
                 }
             }
             int count = dictRanks.OrderByDescending(x => x.Value).First().Value;
-            if (count == 3)
+            if (count >= 3)
             {
                 return "Three of a Kind";
             }
