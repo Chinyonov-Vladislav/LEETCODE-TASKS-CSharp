@@ -766,3 +766,5 @@
 Ссылка: [https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts)  
 ✅ [Задача 2363](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2363/Task2363.cs) - "Merge Similar Items"  
 Ссылка: [https://leetcode.com/problems/merge-similar-items](https://leetcode.com/problems/merge-similar-items)  
+✅ [Задача 2367](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2367/Task2367.cs) - "Number of Arithmetic Triplets"  
+Ссылка: [https://leetcode.com/problems/number-of-arithmetic-triplets](https://leetcode.com/problems/number-of-arithmetic-triplets)  
