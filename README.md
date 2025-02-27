@@ -742,3 +742,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value)  
 ✅ [Задача 2287](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2287/Task2287.cs) - "Rearrange Characters to Make Target String"  
 Ссылка: [https://leetcode.com/problems/rearrange-characters-to-make-target-string](https://leetcode.com/problems/rearrange-characters-to-make-target-string)  
+✅ [Задача 2293](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2293/Task2293.cs) - "Min Max Game"  
+Ссылка: [https://leetcode.com/problems/min-max-game](https://leetcode.com/problems/min-max-game)  
