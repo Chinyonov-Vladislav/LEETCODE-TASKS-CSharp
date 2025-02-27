@@ -782,3 +782,5 @@
 Ссылка: [https://leetcode.com/problems/check-distances-between-same-letters](https://leetcode.com/problems/check-distances-between-same-letters)  
 ✅ [Задача 2404](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2404/Task2404.cs) - "Most Frequent Even Element"  
 Ссылка: [https://leetcode.com/problems/most-frequent-even-element](https://leetcode.com/problems/most-frequent-even-element)  
+✅ [Задача 2409](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2409/Task2409.cs) - "Count Days Spent Together"  
+Ссылка: [https://leetcode.com/problems/count-days-spent-together](https://leetcode.com/problems/count-days-spent-together)  
