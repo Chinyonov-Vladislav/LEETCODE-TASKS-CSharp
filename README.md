@@ -774,3 +774,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks)  
 ✅ [Задача 2383](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2383/Task2383.cs) - "Minimum Hours of Training to Win a Competition"  
 Ссылка: [https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition)  
+✅ [Задача 2389](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2389/Task2389.cs) - "Longest Subsequence With Limited Sum"  
+Ссылка: [https://leetcode.com/problems/longest-subsequence-with-limited-sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum)  
