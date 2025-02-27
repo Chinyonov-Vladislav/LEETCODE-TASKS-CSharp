@@ -764,3 +764,5 @@
 Ссылка: [https://leetcode.com/problems/best-poker-hand](https://leetcode.com/problems/best-poker-hand)  
 ✅ [Задача 2357](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2357/Task2357.cs) - "Make Array Zero by Subtracting Equal Amounts"  
 Ссылка: [https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts)  
+✅ [Задача 2363](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2363/Task2363.cs) - "Merge Similar Items"  
+Ссылка: [https://leetcode.com/problems/merge-similar-items](https://leetcode.com/problems/merge-similar-items)  
