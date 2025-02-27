@@ -38,7 +38,7 @@ namespace LeetCode.Tasks.task2309
             for (char start = 'Z'; start >= 'A'; start--)
             {
                 char lower = (char)((int)start + 32);
-                if (chars.Contains(start) & chars.Contains(lower))
+                if (chars.Contains(start) && chars.Contains(lower))
                 {
                     return start.ToString();
                 }

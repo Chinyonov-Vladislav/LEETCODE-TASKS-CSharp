@@ -754,3 +754,5 @@
 Ссылка: [https://leetcode.com/problems/count-asterisks](https://leetcode.com/problems/count-asterisks)  
 ✅ [Задача 2319](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2319/Task2319.cs) - "Check if Matrix Is X-Matrix"  
 Ссылка: [https://leetcode.com/problems/check-if-matrix-is-x-matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix)  
+✅ [Задача 2325](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2325/Task2325.cs) - "Decode the Message"  
+Ссылка: [https://leetcode.com/problems/decode-the-message](https://leetcode.com/problems/decode-the-message)  

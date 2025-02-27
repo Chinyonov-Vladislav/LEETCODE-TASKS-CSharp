@@ -378,6 +378,7 @@ using LeetCode.Tasks.task2303;
 using LeetCode.Tasks.task2309;
 using LeetCode.Tasks.task2315;
 using LeetCode.Tasks.task2319;
+using LeetCode.Tasks.task2325;
 
 namespace LeetCode
 {
@@ -765,7 +766,8 @@ namespace LeetCode
                 new Task2303(2303,"Рассчитать сумму, уплаченную в виде налогов","",Difficult.easy),
                 new Task2309(2309,"Самая большая английская буква в верхнем и нижнем регистре","",Difficult.easy),
                 new Task2315(2315,"Подсчитайте звездочки","",Difficult.easy),
-                new Task2319(2319,"Проверьте, является ли матрица X-матрицей","",Difficult.easy)
+                new Task2319(2319,"Проверьте, является ли матрица X-матрицей","",Difficult.easy),
+                new Task2325(2325,"Расшифруйте сообщение","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
