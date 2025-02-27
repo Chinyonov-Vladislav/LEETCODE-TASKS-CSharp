@@ -780,3 +780,5 @@
 Ссылка: [https://leetcode.com/problems/find-subarrays-with-equal-sum](https://leetcode.com/problems/find-subarrays-with-equal-sum)  
 ✅ [Задача 2399](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2399/Task2399.cs) - "Check Distances Between Same Letters"  
 Ссылка: [https://leetcode.com/problems/check-distances-between-same-letters](https://leetcode.com/problems/check-distances-between-same-letters)  
+✅ [Задача 2404](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2404/Task2404.cs) - "Most Frequent Even Element"  
+Ссылка: [https://leetcode.com/problems/most-frequent-even-element](https://leetcode.com/problems/most-frequent-even-element)  
