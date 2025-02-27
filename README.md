@@ -776,3 +776,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition)  
 ✅ [Задача 2389](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2389/Task2389.cs) - "Longest Subsequence With Limited Sum"  
 Ссылка: [https://leetcode.com/problems/longest-subsequence-with-limited-sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum)  
+✅ [Задача 2395](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2395/Task2395.cs) - "Find Subarrays With Equal Sum"  
+Ссылка: [https://leetcode.com/problems/find-subarrays-with-equal-sum](https://leetcode.com/problems/find-subarrays-with-equal-sum)  
