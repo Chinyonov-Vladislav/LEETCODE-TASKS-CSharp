@@ -374,6 +374,7 @@ using LeetCode.Tasks.task2283;
 using LeetCode.Tasks.task2287;
 using LeetCode.Tasks.task2293;
 using LeetCode.Tasks.task2299;
+using LeetCode.Tasks.task2303;
 
 namespace LeetCode
 {
@@ -757,7 +758,8 @@ namespace LeetCode
                 new Task2283(2283,"Проверьте, совпадает ли количество цифр в числе с их значением","",Difficult.easy),
                 new Task2287(2287,"Измените порядок символов, чтобы получилась целевая строка","",Difficult.easy),
                 new Task2293(2293,"Минимальная максимальная игра","",Difficult.easy),
-                new Task2299(2299,"Проверка надежного пароля II","",Difficult.easy)
+                new Task2299(2299,"Проверка надежного пароля II","",Difficult.easy),
+                new Task2303(2303,"Рассчитать сумму, уплаченную в виде налогов","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
