@@ -748,3 +748,5 @@
 Ссылка: [https://leetcode.com/problems/strong-password-checker-ii](https://leetcode.com/problems/strong-password-checker-ii)  
 ✅ [Задача 2303](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2303/Task2303.cs) - "Calculate Amount Paid in Taxes"  
 Ссылка: [https://leetcode.com/problems/calculate-amount-paid-in-taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes)  
+✅ [Задача 2309](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2309/Task2309.cs) - "Greatest English Letter in Upper and Lower Case"  
+Ссылка: [https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case)  
