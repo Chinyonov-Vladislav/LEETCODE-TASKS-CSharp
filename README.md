@@ -750,3 +750,5 @@
 Ссылка: [https://leetcode.com/problems/calculate-amount-paid-in-taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes)  
 ✅ [Задача 2309](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2309/Task2309.cs) - "Greatest English Letter in Upper and Lower Case"  
 Ссылка: [https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case)  
+✅ [Задача 2315](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2315/Task2315.cs) - "Count Asterisks"  
+Ссылка: [https://leetcode.com/problems/count-asterisks](https://leetcode.com/problems/count-asterisks)  
