@@ -772,3 +772,5 @@
 Ссылка: [https://leetcode.com/problems/largest-local-values-in-a-matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix)  
 ✅ [Задача 2379](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2379/Task2379.cs) - "Minimum Recolors to Get K Consecutive Black Blocks"  
 Ссылка: [https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks)  
+✅ [Задача 2383](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2383/Task2383.cs) - "Minimum Hours of Training to Win a Competition"  
+Ссылка: [https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition)  
