@@ -770,3 +770,5 @@
 Ссылка: [https://leetcode.com/problems/number-of-arithmetic-triplets](https://leetcode.com/problems/number-of-arithmetic-triplets)  
 ✅ [Задача 2373](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2373/Task2373.cs) - "Largest Local Values in a Matrix"  
 Ссылка: [https://leetcode.com/problems/largest-local-values-in-a-matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix)  
+✅ [Задача 2379](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2379/Task2379.cs) - "Minimum Recolors to Get K Consecutive Black Blocks"  
+Ссылка: [https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks)  

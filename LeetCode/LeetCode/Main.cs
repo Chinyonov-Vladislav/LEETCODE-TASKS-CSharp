@@ -386,6 +386,7 @@ using LeetCode.Tasks.task2357;
 using LeetCode.Tasks.task2363;
 using LeetCode.Tasks.task2367;
 using LeetCode.Tasks.task2373;
+using LeetCode.Tasks.task2379;
 
 namespace LeetCode
 {
@@ -781,7 +782,8 @@ namespace LeetCode
                 new Task2357(2357,"Обнулить массив, вычтя равные суммы","",Difficult.easy),
                 new Task2363(2363,"Объединять похожие элементы","",Difficult.easy),
                 new Task2367(2367,"Количество арифметических троек","",Difficult.easy),
-                new Task2373(2373,"Наибольшие локальные значения в матрице","",Difficult.easy)
+                new Task2373(2373,"Наибольшие локальные значения в матрице","",Difficult.easy),
+                new Task2379(2379,"Минимальное количество перекрашиваний для получения K последовательных чёрных блоков","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
