@@ -784,3 +784,5 @@
 Ссылка: [https://leetcode.com/problems/most-frequent-even-element](https://leetcode.com/problems/most-frequent-even-element)  
 ✅ [Задача 2409](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2409/Task2409.cs) - "Count Days Spent Together"  
 Ссылка: [https://leetcode.com/problems/count-days-spent-together](https://leetcode.com/problems/count-days-spent-together)  
+✅ [Задача 2413](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2413/Task2413.cs) - "Smallest Even Multiple"  
+Ссылка: [https://leetcode.com/problems/smallest-even-multiple](https://leetcode.com/problems/smallest-even-multiple)  
