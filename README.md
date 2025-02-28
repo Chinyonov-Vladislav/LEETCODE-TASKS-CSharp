@@ -812,3 +812,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-value-of-a-string-in-an-array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array)  
 ✅ [Задача 2485](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2485/Task2485.cs) - "Find the Pivot Integer"  
 Ссылка: [https://leetcode.com/problems/find-the-pivot-integer](https://leetcode.com/problems/find-the-pivot-integer)  
+✅ [Задача 2460](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2460/Task2460.cs) - "Apply Operations to an Array"  
+Ссылка: [https://leetcode.com/problems/apply-operations-to-an-array](https://leetcode.com/problems/apply-operations-to-an-array)  

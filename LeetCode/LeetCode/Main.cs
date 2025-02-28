@@ -407,6 +407,7 @@ using LeetCode.Tasks.task2469;
 using LeetCode.Tasks.Task2475;
 using LeetCode.Tasks.task2496;
 using LeetCode.Tasks.task2485;
+using LeetCode.Tasks.task2460;
 
 namespace LeetCode
 {
@@ -823,7 +824,8 @@ namespace LeetCode
                 new Task2469(2469,"Преобразуйте температуру","",Difficult.easy),
                 new Task2475(2475,"Количество неравных триплетов в массиве","",Difficult.easy),
                 new Task2496(2496,"Максимальное значение строки в массиве","",Difficult.easy),
-                new Task2485(2485,"Найдите сводное целое число","",Difficult.easy)
+                new Task2485(2485,"Найдите сводное целое число","",Difficult.easy),
+                new Task2460(2460,"Применение операций к массиву","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
