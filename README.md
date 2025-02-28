@@ -808,3 +808,5 @@
 Ссылка: [https://leetcode.com/problems/convert-the-temperature](https://leetcode.com/problems/convert-the-temperature)  
 ✅ [Задача 2475](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2475/Task2475.cs) - "Number of Unequal Triplets in Array"  
 Ссылка: [https://leetcode.com/problems/number-of-unequal-triplets-in-array](https://leetcode.com/problems/number-of-unequal-triplets-in-array)  
+✅ [Задача 2496](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2496/Task2496.cs) - "Maximum Value of a String in an Array"  
+Ссылка: [https://leetcode.com/problems/maximum-value-of-a-string-in-an-array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array)  
