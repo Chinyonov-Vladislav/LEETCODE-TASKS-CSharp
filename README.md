@@ -816,3 +816,5 @@
 Ссылка: [https://leetcode.com/problems/apply-operations-to-an-array](https://leetcode.com/problems/apply-operations-to-an-array)  
 ✅ [Задача 2500](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2500/Task2500.cs) - "Delete Greatest Value in Each Row"  
 Ссылка: [https://leetcode.com/problems/delete-greatest-value-in-each-row](https://leetcode.com/problems/delete-greatest-value-in-each-row)  
+✅ [Задача 2506](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2506/Task2506.cs) - "Count Pairs Of Similar Strings"  
+Ссылка: [https://leetcode.com/problems/count-pairs-of-similar-strings](https://leetcode.com/problems/count-pairs-of-similar-strings)  
