@@ -31,6 +31,8 @@ namespace LeetCode.Tasks.task2418
         {
             string[] names = new string[] { "Mary", "John", "Emma" };
             int[] heights = new int[] { 180, 165, 170 };
+            printArray(names, "Массив имён: ");
+            printArray(heights, "Массив роста: ");
             if (isValid(names, heights))
             {
                 string[] result = sortPeople(names, heights);

@@ -395,6 +395,7 @@ using LeetCode.Tasks.task2404;
 using LeetCode.Tasks.task2409;
 using LeetCode.Tasks.task2413;
 using LeetCode.Tasks.task2418;
+using LeetCode.Tasks.task2423;
 
 namespace LeetCode
 {
@@ -799,7 +800,8 @@ namespace LeetCode
                 new Task2404(2404,"Наиболее частый четный элемент","",Difficult.easy),
                 new Task2409(2409,"Количество дней, проведенные вместе","",Difficult.easy),
                 new Task2413(2413,"Наименьшее положительное целое число, которое кратно 2 и n","",Difficult.easy),
-                new Task2418(2418,"Рассортируйте людей","",Difficult.easy)
+                new Task2418(2418,"Рассортируйте людей","",Difficult.easy),
+                new Task2423(2423,"Удалите букву, чтобы выровнять частоту","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

@@ -788,3 +788,5 @@
 Ссылка: [https://leetcode.com/problems/smallest-even-multiple](https://leetcode.com/problems/smallest-even-multiple)  
 ✅ [Задача 2418](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2418/Task2418.cs) - "Sort the People"  
 Ссылка: [https://leetcode.com/problems/sort-the-people](https://leetcode.com/problems/sort-the-people)  
+✅ [Задача 2423](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2423/Task2423.cs) - "Remove Letter To Equalize Frequency"  
+Ссылка: [https://leetcode.com/problems/remove-letter-to-equalize-frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency)  
