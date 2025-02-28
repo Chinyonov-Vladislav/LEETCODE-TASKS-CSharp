@@ -800,3 +800,5 @@
 Ссылка: [https://leetcode.com/problems/odd-string-difference](https://leetcode.com/problems/odd-string-difference)  
 ✅ [Задача 2446](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2446/Task2446.cs) - "Determine if Two Events Have Conflict"  
 Ссылка: [https://leetcode.com/problems/determine-if-two-events-have-conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict)  
+✅ [Задача 2455](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2455/Task2455.cs) - "Average Value of Even Numbers That Are Divisible by Three"  
+Ссылка: [https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three)  
