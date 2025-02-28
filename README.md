@@ -794,3 +794,5 @@
 Ссылка: [https://leetcode.com/problems/number-of-common-factors](https://leetcode.com/problems/number-of-common-factors)  
 ✅ [Задача 2437](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2437/Task2437.cs) - "Number of Valid Clock Times"  
 Ссылка: [https://leetcode.com/problems/number-of-valid-clock-times](https://leetcode.com/problems/number-of-valid-clock-times)  
+✅ [Задача 2441](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2441/Task2441.cs) - "Largest Positive Integer That Exists With Its Negative"  
+Ссылка: [https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative)  
