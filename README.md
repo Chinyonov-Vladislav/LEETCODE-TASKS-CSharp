@@ -834,3 +834,5 @@
 Ссылка: [https://leetcode.com/problems/separate-the-digits-in-an-array](https://leetcode.com/problems/separate-the-digits-in-an-array)  
 ✅ [Задача 2570](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2570/Task2570.cs) - "Merge Two 2D Arrays by Summing Values"  
 Ссылка: [https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values)  
+✅ [Задача 2574](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2574/Task2574.cs) - "Left and Right Sum Differences"  
+Ссылка: [https://leetcode.com/problems/left-and-right-sum-differences](https://leetcode.com/problems/left-and-right-sum-differences)  
