@@ -810,3 +810,5 @@
 Ссылка: [https://leetcode.com/problems/number-of-unequal-triplets-in-array](https://leetcode.com/problems/number-of-unequal-triplets-in-array)  
 ✅ [Задача 2496](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2496/Task2496.cs) - "Maximum Value of a String in an Array"  
 Ссылка: [https://leetcode.com/problems/maximum-value-of-a-string-in-an-array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array)  
+✅ [Задача 2485](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2485/Task2485.cs) - "Find the Pivot Integer"  
+Ссылка: [https://leetcode.com/problems/find-the-pivot-integer](https://leetcode.com/problems/find-the-pivot-integer)  
