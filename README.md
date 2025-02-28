@@ -786,3 +786,5 @@
 Ссылка: [https://leetcode.com/problems/count-days-spent-together](https://leetcode.com/problems/count-days-spent-together)  
 ✅ [Задача 2413](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2413/Task2413.cs) - "Smallest Even Multiple"  
 Ссылка: [https://leetcode.com/problems/smallest-even-multiple](https://leetcode.com/problems/smallest-even-multiple)  
+✅ [Задача 2418](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2418/Task2418.cs) - "Sort the People"  
+Ссылка: [https://leetcode.com/problems/sort-the-people](https://leetcode.com/problems/sort-the-people)  
