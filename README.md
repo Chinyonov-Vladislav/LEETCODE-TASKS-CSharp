@@ -832,3 +832,5 @@
 Ссылка: [https://leetcode.com/problems/categorize-box-according-to-criteria](https://leetcode.com/problems/categorize-box-according-to-criteria)  
 ✅ [Задача 2553](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2553/Task2553.cs) - "Separate the Digits in an Array"  
 Ссылка: [https://leetcode.com/problems/separate-the-digits-in-an-array](https://leetcode.com/problems/separate-the-digits-in-an-array)  
+✅ [Задача 2570](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2570/Task2570.cs) - "Merge Two 2D Arrays by Summing Values"  
+Ссылка: [https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values)  
