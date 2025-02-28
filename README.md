@@ -820,3 +820,5 @@
 Ссылка: [https://leetcode.com/problems/count-pairs-of-similar-strings](https://leetcode.com/problems/count-pairs-of-similar-strings)  
 ✅ [Задача 2520](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2520/Task2520.cs) - "Count the Digits That Divide a Number"  
 Ссылка: [https://leetcode.com/problems/count-the-digits-that-divide-a-number](https://leetcode.com/problems/count-the-digits-that-divide-a-number)  
+✅ [Задача 2529](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2529/Task2529.cs) - "Maximum Count of Positive Integer and Negative Integer"  
+Ссылка: [https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer)  
