@@ -828,3 +828,5 @@
 Ссылка: [https://leetcode.com/problems/alternating-digit-sum](https://leetcode.com/problems/alternating-digit-sum)  
 ✅ [Задача 2540](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2540/Task2540.cs) - "Minimum Common Value"  
 Ссылка: [https://leetcode.com/problems/minimum-common-value](https://leetcode.com/problems/minimum-common-value)  
+✅ [Задача 2525](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2525/Task2525.cs) - "Categorize Box According to Criteria"  
+Ссылка: [https://leetcode.com/problems/categorize-box-according-to-criteria](https://leetcode.com/problems/categorize-box-according-to-criteria)  

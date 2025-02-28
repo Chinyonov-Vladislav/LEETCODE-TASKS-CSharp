@@ -415,6 +415,7 @@ using LeetCode.Tasks.task2529;
 using LeetCode.Tasks.task2535;
 using LeetCode.Tasks.task2544;
 using LeetCode.Tasks.task2540;
+using LeetCode.Tasks.task2525;
 
 namespace LeetCode
 {
@@ -839,7 +840,8 @@ namespace LeetCode
                 new Task2529(2529,"Максимальное количество положительных и отрицательных целых чисел","",Difficult.easy),
                 new Task2535(2535,"Разница между суммой элементов и суммой цифр массива","",Difficult.easy),
                 new Task2544(2544,"Сумма чередующихся цифр","",Difficult.easy),
-                new Task2540(2540,"Минимальное общее значение","",Difficult.easy)
+                new Task2540(2540,"Минимальное общее значение","",Difficult.easy),
+                new Task2525(2525,"Классифицируйте коробку в соответствии с критериями","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
