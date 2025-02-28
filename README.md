@@ -814,3 +814,5 @@
 Ссылка: [https://leetcode.com/problems/find-the-pivot-integer](https://leetcode.com/problems/find-the-pivot-integer)  
 ✅ [Задача 2460](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2460/Task2460.cs) - "Apply Operations to an Array"  
 Ссылка: [https://leetcode.com/problems/apply-operations-to-an-array](https://leetcode.com/problems/apply-operations-to-an-array)  
+✅ [Задача 2500](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2500/Task2500.cs) - "Delete Greatest Value in Each Row"  
+Ссылка: [https://leetcode.com/problems/delete-greatest-value-in-each-row](https://leetcode.com/problems/delete-greatest-value-in-each-row)  

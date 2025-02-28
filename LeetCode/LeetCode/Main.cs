@@ -408,6 +408,7 @@ using LeetCode.Tasks.Task2475;
 using LeetCode.Tasks.task2496;
 using LeetCode.Tasks.task2485;
 using LeetCode.Tasks.task2460;
+using LeetCode.Tasks.task2500;
 
 namespace LeetCode
 {
@@ -825,7 +826,8 @@ namespace LeetCode
                 new Task2475(2475,"Количество неравных триплетов в массиве","",Difficult.easy),
                 new Task2496(2496,"Максимальное значение строки в массиве","",Difficult.easy),
                 new Task2485(2485,"Найдите сводное целое число","",Difficult.easy),
-                new Task2460(2460,"Применение операций к массиву","",Difficult.easy)
+                new Task2460(2460,"Применение операций к массиву","",Difficult.easy),
+                new Task2500(2500,"Удалить наибольшее значение в каждой строке","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
