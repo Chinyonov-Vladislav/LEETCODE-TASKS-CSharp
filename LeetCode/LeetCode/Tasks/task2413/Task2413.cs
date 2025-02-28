@@ -52,10 +52,7 @@ namespace LeetCode.Tasks.task2413
             {
                 return n;
             }
-            else
-            {
-                return n * 2;
-            }
+            return n * 2;
         }
     }
 }
