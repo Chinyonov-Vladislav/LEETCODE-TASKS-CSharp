@@ -830,3 +830,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-common-value](https://leetcode.com/problems/minimum-common-value)  
 ✅ [Задача 2525](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2525/Task2525.cs) - "Categorize Box According to Criteria"  
 Ссылка: [https://leetcode.com/problems/categorize-box-according-to-criteria](https://leetcode.com/problems/categorize-box-according-to-criteria)  
+✅ [Задача 2553](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2553/Task2553.cs) - "Separate the Digits in an Array"  
+Ссылка: [https://leetcode.com/problems/separate-the-digits-in-an-array](https://leetcode.com/problems/separate-the-digits-in-an-array)  
