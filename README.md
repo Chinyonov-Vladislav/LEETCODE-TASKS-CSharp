@@ -824,3 +824,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer)  
 ✅ [Задача 2535](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2535/Task2535.cs) - "Difference Between Element Sum and Digit Sum of an Array"  
 Ссылка: [https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array)  
+✅ [Задача 2544](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2544/Task2544.cs) - "Alternating Digit Sum"  
+Ссылка: [https://leetcode.com/problems/alternating-digit-sum](https://leetcode.com/problems/alternating-digit-sum)  

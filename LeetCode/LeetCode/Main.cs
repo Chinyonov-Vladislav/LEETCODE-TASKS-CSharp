@@ -413,6 +413,7 @@ using LeetCode.Tasks.task2506;
 using LeetCode.Tasks.task2520;
 using LeetCode.Tasks.task2529;
 using LeetCode.Tasks.task2535;
+using LeetCode.Tasks.task2544;
 
 namespace LeetCode
 {
@@ -835,7 +836,8 @@ namespace LeetCode
                 new Task2506(2506,"Подсчитайте пары похожих строк","",Difficult.easy),
                 new Task2520(2520,"Подсчитайте количество цифр, на которые делится число","",Difficult.easy),
                 new Task2529(2529,"Максимальное количество положительных и отрицательных целых чисел","",Difficult.easy),
-                new Task2535(2535,"Разница между суммой элементов и суммой цифр массива","",Difficult.easy)
+                new Task2535(2535,"Разница между суммой элементов и суммой цифр массива","",Difficult.easy),
+                new Task2544(2544,"Сумма чередующихся цифр","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
