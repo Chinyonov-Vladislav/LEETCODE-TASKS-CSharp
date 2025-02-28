@@ -796,3 +796,5 @@
 Ссылка: [https://leetcode.com/problems/number-of-valid-clock-times](https://leetcode.com/problems/number-of-valid-clock-times)  
 ✅ [Задача 2441](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2441/Task2441.cs) - "Largest Positive Integer That Exists With Its Negative"  
 Ссылка: [https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative)  
+✅ [Задача ](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2451/Task2451.cs) - "Odd String Difference"  
+Ссылка: [https://leetcode.com/problems/odd-string-difference](https://leetcode.com/problems/odd-string-difference)  
