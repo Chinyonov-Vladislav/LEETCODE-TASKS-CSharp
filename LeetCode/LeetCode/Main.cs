@@ -410,6 +410,7 @@ using LeetCode.Tasks.task2485;
 using LeetCode.Tasks.task2460;
 using LeetCode.Tasks.task2500;
 using LeetCode.Tasks.task2506;
+using LeetCode.Tasks.task2520;
 
 namespace LeetCode
 {
@@ -829,7 +830,8 @@ namespace LeetCode
                 new Task2485(2485,"Найдите сводное целое число","",Difficult.easy),
                 new Task2460(2460,"Применение операций к массиву","",Difficult.easy),
                 new Task2500(2500,"Удалить наибольшее значение в каждой строке","",Difficult.easy),
-                new Task2506(2506,"Подсчитайте пары похожих строк","",Difficult.easy)
+                new Task2506(2506,"Подсчитайте пары похожих строк","",Difficult.easy),
+                new Task2520(2520,"Подсчитайте количество цифр, на которые делится число","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
