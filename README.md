@@ -804,3 +804,5 @@
 Ссылка: [https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three)  
 ✅ [Задача 2465](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2465/Task2465.cs) - "Number of Distinct Averages"  
 Ссылка: [https://leetcode.com/problems/number-of-distinct-averages](https://leetcode.com/problems/number-of-distinct-averages)  
+✅ [Задача 2469](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2469/Task2469.cs) - "Convert the Temperature"  
+Ссылка: [https://leetcode.com/problems/convert-the-temperature](https://leetcode.com/problems/convert-the-temperature)  

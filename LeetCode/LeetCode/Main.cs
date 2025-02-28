@@ -403,6 +403,7 @@ using LeetCode.Tasks.task2451;
 using LeetCode.Tasks.task2446;
 using LeetCode.Tasks.task2455;
 using LeetCode.Tasks.task2465;
+using LeetCode.Tasks.task2469;
 
 namespace LeetCode
 {
@@ -815,7 +816,8 @@ namespace LeetCode
                 new Task2451(2451,"Разница в нечетных строках","",Difficult.easy),
                 new Task2446(2446,"Определите, конфликтуют ли два события","",Difficult.easy),
                 new Task2455(2455,"Среднее значение чётных чисел, которые делятся на три","",Difficult.easy),
-                new Task2465(2465,"Количество различных средних значений","",Difficult.easy)
+                new Task2465(2465,"Количество различных средних значений","",Difficult.easy),
+                new Task2469(2469,"Преобразуйте температуру","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
