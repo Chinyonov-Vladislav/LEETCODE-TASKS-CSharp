@@ -826,3 +826,5 @@
 Ссылка: [https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array)  
 ✅ [Задача 2544](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2544/Task2544.cs) - "Alternating Digit Sum"  
 Ссылка: [https://leetcode.com/problems/alternating-digit-sum](https://leetcode.com/problems/alternating-digit-sum)  
+✅ [Задача 2540](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2540/Task2540.cs) - "Minimum Common Value"  
+Ссылка: [https://leetcode.com/problems/minimum-common-value](https://leetcode.com/problems/minimum-common-value)  
