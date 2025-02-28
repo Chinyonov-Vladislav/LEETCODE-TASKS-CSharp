@@ -790,3 +790,5 @@
 Ссылка: [https://leetcode.com/problems/sort-the-people](https://leetcode.com/problems/sort-the-people)  
 ✅ [Задача 2423](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2423/Task2423.cs) - "Remove Letter To Equalize Frequency"  
 Ссылка: [https://leetcode.com/problems/remove-letter-to-equalize-frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency)  
+✅ [Задача 2427](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2427/Task2427.cs) - "Number of Common Factors"  
+Ссылка: [https://leetcode.com/problems/number-of-common-factors](https://leetcode.com/problems/number-of-common-factors)  
