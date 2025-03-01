@@ -844,3 +844,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-difference-by-remapping-a-digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit)  
 ✅ [Задача 2578](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2578/Task2578.cs) - "Split With Minimum Sum"  
 Ссылка: [https://leetcode.com/problems/split-with-minimum-sum](https://leetcode.com/problems/split-with-minimum-sum)  
+✅ [Задача 2614](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2614/Task2614.cs) - "Prime In Diagonal"  
+Ссылка: [https://leetcode.com/problems/prime-in-diagonal](https://leetcode.com/problems/prime-in-diagonal)  
