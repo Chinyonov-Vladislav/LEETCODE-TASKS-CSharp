@@ -842,3 +842,5 @@
 Ссылка: [https://leetcode.com/problems/find-the-array-concatenation-value](https://leetcode.com/problems/find-the-array-concatenation-value)  
 ✅ [Задача 2566](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2566/Task2566.cs) - "Maximum Difference by Remapping a Digit"  
 Ссылка: [https://leetcode.com/problems/maximum-difference-by-remapping-a-digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit)  
+✅ [Задача 2578](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2578/Task2578.cs) - "Split With Minimum Sum"  
+Ссылка: [https://leetcode.com/problems/split-with-minimum-sum](https://leetcode.com/problems/split-with-minimum-sum)  
