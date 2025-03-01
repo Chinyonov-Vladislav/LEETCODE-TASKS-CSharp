@@ -419,6 +419,7 @@ using LeetCode.Tasks.task2525;
 using LeetCode.Tasks.task2553;
 using LeetCode.Tasks.task2570;
 using LeetCode.Tasks.task2574;
+using LeetCode.Tasks.task2558;
 
 namespace LeetCode
 {
@@ -847,7 +848,8 @@ namespace LeetCode
                 new Task2525(2525,"Классифицируйте коробку в соответствии с критериями","",Difficult.easy),
                 new Task2553(2553,"Разделите цифры в массиве","",Difficult.easy),
                 new Task2570(2570,"Объедините два двумерных массива, суммируя значения","",Difficult.easy),
-                new Task2574(2574,"Разница в сумме слева и справа","",Difficult.easy)
+                new Task2574(2574,"Разница в сумме слева и справа","",Difficult.easy),
+                new Task2558(2558,"Берите подарки из самой богатой кучи","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

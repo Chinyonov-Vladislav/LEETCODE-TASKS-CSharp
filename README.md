@@ -836,3 +836,5 @@
 Ссылка: [https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values)  
 ✅ [Задача 2574](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2574/Task2574.cs) - "Left and Right Sum Differences"  
 Ссылка: [https://leetcode.com/problems/left-and-right-sum-differences](https://leetcode.com/problems/left-and-right-sum-differences)  
+✅ [Задача 2558](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2558/Task2558.cs) - "Take Gifts From the Richest Pile"  
+Ссылка: [https://leetcode.com/problems/take-gifts-from-the-richest-pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile)  
