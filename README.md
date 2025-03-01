@@ -838,3 +838,5 @@
 Ссылка: [https://leetcode.com/problems/left-and-right-sum-differences](https://leetcode.com/problems/left-and-right-sum-differences)  
 ✅ [Задача 2558](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2558/Task2558.cs) - "Take Gifts From the Richest Pile"  
 Ссылка: [https://leetcode.com/problems/take-gifts-from-the-richest-pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile)  
+✅ [Задача 2562](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2562/Task2562.cs) - "Find the Array Concatenation Value"  
+Ссылка: [https://leetcode.com/problems/find-the-array-concatenation-value](https://leetcode.com/problems/find-the-array-concatenation-value)  
