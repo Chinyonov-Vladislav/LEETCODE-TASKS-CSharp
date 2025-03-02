@@ -846,3 +846,5 @@
 Ссылка: [https://leetcode.com/problems/split-with-minimum-sum](https://leetcode.com/problems/split-with-minimum-sum)  
 ✅ [Задача 2614](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2614/Task2614.cs) - "Prime In Diagonal"  
 Ссылка: [https://leetcode.com/problems/prime-in-diagonal](https://leetcode.com/problems/prime-in-diagonal)  
+✅ [Задача 2586](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2586/Task2586.cs) - "Count the Number of Vowel Strings in Range"  
+Ссылка: [https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range)  
