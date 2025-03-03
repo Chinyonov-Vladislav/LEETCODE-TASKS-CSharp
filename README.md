@@ -852,3 +852,5 @@
 Ссылка: [https://leetcode.com/problems/number-of-even-and-odd-bits](https://leetcode.com/problems/number-of-even-and-odd-bits)  
 ✅ [Задача 2600](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2600/Task2600.cs) - "K Items With the Maximum Sum"  
 Ссылка: [https://leetcode.com/problems/k-items-with-the-maximum-sum](https://leetcode.com/problems/k-items-with-the-maximum-sum)  
+✅ [Задача 2605](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2605/Task2605.cs) - "Form Smallest Number From Two Digit Arrays"  
+Ссылка: [https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays)  
