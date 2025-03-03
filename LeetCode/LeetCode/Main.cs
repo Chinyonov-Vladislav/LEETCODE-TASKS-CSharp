@@ -433,6 +433,7 @@ using LeetCode.Tasks.task2710;
 using LeetCode.Tasks.task2652;
 using LeetCode.Tasks.task2644;
 using LeetCode.Tasks.task2729;
+using LeetCode.Tasks.task2733;
 
 namespace LeetCode
 {
@@ -875,7 +876,8 @@ namespace LeetCode
                 new Task2710(2710,"Удаление завершающих нулей из строки","",Difficult.easy),
                 new Task2652(2652,"Сумма чисел, кратных 3, 5 или 7","",Difficult.easy),
                 new Task2644(2644,"Найдите максимальный балл делимости","",Difficult.easy),
-                new Task2729(2729,"Проверьте, является ли число завораживающим","",Difficult.easy)
+                new Task2729(2729,"Проверьте, является ли число завораживающим","",Difficult.easy),
+                new Task2733(2733,"Ни минимальный, ни максимальный","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

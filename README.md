@@ -864,3 +864,5 @@
 Ссылка: [https://leetcode.com/problems/find-the-maximum-divisibility-score](https://leetcode.com/problems/find-the-maximum-divisibility-score)  
 ✅ [Задача 2729](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2729/Task2729.cs) - "Check if The Number is Fascinating"  
 Ссылка: [https://leetcode.com/problems/check-if-the-number-is-fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating)  
+✅ [Задача 2733](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2733/Task2733.cs) - "Neither Minimum nor Maximum"  
+Ссылка: [https://leetcode.com/problems/neither-minimum-nor-maximum](https://leetcode.com/problems/neither-minimum-nor-maximum)  
