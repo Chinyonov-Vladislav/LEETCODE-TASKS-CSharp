@@ -435,6 +435,7 @@ using LeetCode.Tasks.task2644;
 using LeetCode.Tasks.task2729;
 using LeetCode.Tasks.task2733;
 using LeetCode.Tasks.task2643;
+using LeetCode.Tasks.task2651;
 
 namespace LeetCode
 {
@@ -879,7 +880,8 @@ namespace LeetCode
                 new Task2644(2644,"Найдите максимальный балл делимости","",Difficult.easy),
                 new Task2729(2729,"Проверьте, является ли число завораживающим","",Difficult.easy),
                 new Task2733(2733,"Ни минимальный, ни максимальный","",Difficult.easy),
-                new Task2643(2643,"Строка с максимальным количеством единиц","",Difficult.easy)
+                new Task2643(2643,"Строка с максимальным количеством единиц","",Difficult.easy),
+                new Task2651(2651,"Рассчитать время прибытия с задержкой","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

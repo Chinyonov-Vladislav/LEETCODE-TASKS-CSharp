@@ -868,3 +868,5 @@
 Ссылка: [https://leetcode.com/problems/neither-minimum-nor-maximum](https://leetcode.com/problems/neither-minimum-nor-maximum)  
 ✅ [Задача 2643](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2643/Task2643.cs) - "Row With Maximum Ones"  
 Ссылка: [https://leetcode.com/problems/row-with-maximum-ones](https://leetcode.com/problems/row-with-maximum-ones)  
+✅ [Задача 2651](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2651/Task2651.cs) - "Calculate Delayed Arrival Time"  
+Ссылка: [https://leetcode.com/problems/calculate-delayed-arrival-time](https://leetcode.com/problems/calculate-delayed-arrival-time)  
