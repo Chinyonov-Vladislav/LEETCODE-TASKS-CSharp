@@ -870,3 +870,5 @@
 Ссылка: [https://leetcode.com/problems/row-with-maximum-ones](https://leetcode.com/problems/row-with-maximum-ones)  
 ✅ [Задача 2651](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2651/Task2651.cs) - "Calculate Delayed Arrival Time"  
 Ссылка: [https://leetcode.com/problems/calculate-delayed-arrival-time](https://leetcode.com/problems/calculate-delayed-arrival-time)  
+✅ [Задача 2656](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2656/Task2656.cs) - "Maximum Sum With Exactly K Elements"  
+Ссылка: [https://leetcode.com/problems/maximum-sum-with-exactly-k-elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements)  
