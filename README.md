@@ -856,3 +856,5 @@
 Ссылка: [https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays)  
 ✅ [Задача 2609](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2609/Task2609.cs) - "Find the Longest Balanced Substring of a Binary String"  
 Ссылка: [https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string)  
+✅ [Задача 2710](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2710/Task2710.cs) - "https://leetcode.com/problems/remove-trailing-zeros-from-a-string"  
+Ссылка: [https://leetcode.com/problems/remove-trailing-zeros-from-a-string](https://leetcode.com/problems/remove-trailing-zeros-from-a-string)  
