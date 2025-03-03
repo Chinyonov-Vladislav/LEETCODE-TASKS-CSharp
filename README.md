@@ -848,3 +848,5 @@
 Ссылка: [https://leetcode.com/problems/prime-in-diagonal](https://leetcode.com/problems/prime-in-diagonal)  
 ✅ [Задача 2586](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2586/Task2586.cs) - "Count the Number of Vowel Strings in Range"  
 Ссылка: [https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range)  
+✅ [Задача 2595](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2595/Task2595.cs) - "Number of Even and Odd Bits"  
+Ссылка: [https://leetcode.com/problems/number-of-even-and-odd-bits](https://leetcode.com/problems/number-of-even-and-odd-bits)  

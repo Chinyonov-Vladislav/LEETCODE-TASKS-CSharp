@@ -425,6 +425,7 @@ using LeetCode.Tasks.task2566;
 using LeetCode.Tasks.task2578;
 using LeetCode.Tasks.task2614;
 using LeetCode.Tasks.task2586;
+using LeetCode.Tasks.task2595;
 
 namespace LeetCode
 {
@@ -859,7 +860,8 @@ namespace LeetCode
                 new Task2566(2566,"Максимальная разница при переназначении цифры","",Difficult.easy),
                 new Task2578(2578,"Разделить с минимальной суммой","",Difficult.easy),
                 new Task2614(2614,"Простое число по диагонали","",Difficult.easy),
-                new Task2586(2586,"Подсчитайте количество гласных в диапазоне","",Difficult.easy)
+                new Task2586(2586,"Подсчитайте количество гласных в диапазоне","",Difficult.easy),
+                new Task2595(2595,"Количество четных и нечетных битов","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
