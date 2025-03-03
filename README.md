@@ -866,3 +866,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-the-number-is-fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating)  
 ✅ [Задача 2733](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2733/Task2733.cs) - "Neither Minimum nor Maximum"  
 Ссылка: [https://leetcode.com/problems/neither-minimum-nor-maximum](https://leetcode.com/problems/neither-minimum-nor-maximum)  
+✅ [Задача 2643](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2643/Task2643.cs) - "Row With Maximum Ones"  
+Ссылка: [https://leetcode.com/problems/row-with-maximum-ones](https://leetcode.com/problems/row-with-maximum-ones)  
