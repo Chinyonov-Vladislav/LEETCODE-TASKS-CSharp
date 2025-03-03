@@ -438,6 +438,7 @@ using LeetCode.Tasks.task2643;
 using LeetCode.Tasks.task2651;
 using LeetCode.Tasks.task2656;
 using LeetCode.Tasks.task2660;
+using LeetCode.Tasks.task2678;
 
 namespace LeetCode
 {
@@ -885,7 +886,8 @@ namespace LeetCode
                 new Task2643(2643,"Строка с максимальным количеством единиц","",Difficult.easy),
                 new Task2651(2651,"Рассчитать время прибытия с задержкой","",Difficult.easy),
                 new Task2656(2656,"Максимальная сумма ровно из K элементов ","",Difficult.easy),
-                new Task2660(2660,"Определите победителя в игре в боулинг","",Difficult.easy)
+                new Task2660(2660,"Определите победителя в игре в боулинг","",Difficult.easy),
+                new Task2678(2678,"Количество пожилых граждан","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

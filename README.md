@@ -874,3 +874,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-sum-with-exactly-k-elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements)  
 ✅ [Задача 2660](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2660/Task2660.cs) - "Determine the Winner of a Bowling Game"  
 Ссылка: [https://leetcode.com/problems/determine-the-winner-of-a-bowling-game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game)  
+✅ [Задача 2678](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2678/Task2678.cs) - "Number of Senior Citizens"  
+Ссылка: [https://leetcode.com/problems/number-of-senior-citizens](https://leetcode.com/problems/number-of-senior-citizens)  
