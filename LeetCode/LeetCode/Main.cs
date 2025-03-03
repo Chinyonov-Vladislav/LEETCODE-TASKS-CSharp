@@ -437,6 +437,7 @@ using LeetCode.Tasks.task2733;
 using LeetCode.Tasks.task2643;
 using LeetCode.Tasks.task2651;
 using LeetCode.Tasks.task2656;
+using LeetCode.Tasks.task2660;
 
 namespace LeetCode
 {
@@ -883,7 +884,8 @@ namespace LeetCode
                 new Task2733(2733,"Ни минимальный, ни максимальный","",Difficult.easy),
                 new Task2643(2643,"Строка с максимальным количеством единиц","",Difficult.easy),
                 new Task2651(2651,"Рассчитать время прибытия с задержкой","",Difficult.easy),
-                new Task2656(2656,"Максимальная сумма ровно из K элементов ","",Difficult.easy)
+                new Task2656(2656,"Максимальная сумма ровно из K элементов ","",Difficult.easy),
+                new Task2660(2660,"Определите победителя в игре в боулинг","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
