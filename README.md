@@ -860,3 +860,5 @@
 Ссылка: [https://leetcode.com/problems/remove-trailing-zeros-from-a-string](https://leetcode.com/problems/remove-trailing-zeros-from-a-string)  
 ✅ [Задача 2652](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2652/Task2652.cs) - "Sum Multiples"  
 Ссылка: [https://leetcode.com/problems/sum-multiples](https://leetcode.com/problems/sum-multiples)  
+✅ [Задача 2644](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2644/Task2644.cs) - "Find the Maximum Divisibility Score"  
+Ссылка: [https://leetcode.com/problems/find-the-maximum-divisibility-score](https://leetcode.com/problems/find-the-maximum-divisibility-score)  

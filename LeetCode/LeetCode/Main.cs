@@ -431,6 +431,7 @@ using LeetCode.Tasks.task2605;
 using LeetCode.Tasks.task2609;
 using LeetCode.Tasks.task2710;
 using LeetCode.Tasks.task2652;
+using LeetCode.Tasks.task2644;
 
 namespace LeetCode
 {
@@ -871,7 +872,8 @@ namespace LeetCode
                 new Task2605(2605,"Сформируйте наименьшее число из двух массивов уникальных чисел, используя как минимум одну цифру из каждого массива","",Difficult.easy),
                 new Task2609(2609,"Найдите самую длинную сбалансированную подстроку в двоичной строке","",Difficult.easy),
                 new Task2710(2710,"Удаление завершающих нулей из строки","",Difficult.easy),
-                new Task2652(2652,"Сумма чисел, кратных 3, 5 или 7","",Difficult.easy)
+                new Task2652(2652,"Сумма чисел, кратных 3, 5 или 7","",Difficult.easy),
+                new Task2644(2644,"Найдите максимальный балл делимости","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
