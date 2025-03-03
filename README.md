@@ -862,3 +862,5 @@
 Ссылка: [https://leetcode.com/problems/sum-multiples](https://leetcode.com/problems/sum-multiples)  
 ✅ [Задача 2644](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2644/Task2644.cs) - "Find the Maximum Divisibility Score"  
 Ссылка: [https://leetcode.com/problems/find-the-maximum-divisibility-score](https://leetcode.com/problems/find-the-maximum-divisibility-score)  
+✅ [Задача 2729](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2729/Task2729.cs) - "Check if The Number is Fascinating"  
+Ссылка: [https://leetcode.com/problems/check-if-the-number-is-fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating)  
