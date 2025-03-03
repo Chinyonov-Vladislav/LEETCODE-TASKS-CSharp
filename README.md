@@ -850,3 +850,5 @@
 Ссылка: [https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range)  
 ✅ [Задача 2595](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2595/Task2595.cs) - "Number of Even and Odd Bits"  
 Ссылка: [https://leetcode.com/problems/number-of-even-and-odd-bits](https://leetcode.com/problems/number-of-even-and-odd-bits)  
+✅ [Задача 2600](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2600/Task2600.cs) - "K Items With the Maximum Sum"  
+Ссылка: [https://leetcode.com/problems/k-items-with-the-maximum-sum](https://leetcode.com/problems/k-items-with-the-maximum-sum)  
