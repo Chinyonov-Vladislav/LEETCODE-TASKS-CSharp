@@ -428,6 +428,7 @@ using LeetCode.Tasks.task2586;
 using LeetCode.Tasks.task2595;
 using LeetCode.Tasks.task2600;
 using LeetCode.Tasks.task2605;
+using LeetCode.Tasks.task2609;
 
 namespace LeetCode
 {
@@ -865,7 +866,8 @@ namespace LeetCode
                 new Task2586(2586,"Подсчитайте количество гласных в диапазоне","",Difficult.easy),
                 new Task2595(2595,"Количество четных и нечетных битов","",Difficult.easy),
                 new Task2600(2600,"K предметов с максимальной суммой","",Difficult.easy),
-                new Task2605(2605,"Сформируйте наименьшее число из двух массивов уникальных чисел, используя как минимум одну цифру из каждого массива","",Difficult.easy)
+                new Task2605(2605,"Сформируйте наименьшее число из двух массивов уникальных чисел, используя как минимум одну цифру из каждого массива","",Difficult.easy),
+                new Task2609(2609,"Найдите самую длинную сбалансированную подстроку в двоичной строке","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

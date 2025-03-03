@@ -854,3 +854,5 @@
 Ссылка: [https://leetcode.com/problems/k-items-with-the-maximum-sum](https://leetcode.com/problems/k-items-with-the-maximum-sum)  
 ✅ [Задача 2605](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2605/Task2605.cs) - "Form Smallest Number From Two Digit Arrays"  
 Ссылка: [https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays)  
+✅ [Задача 2609](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2609/Task2609.cs) - "Find the Longest Balanced Substring of a Binary String"  
+Ссылка: [https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string)  
