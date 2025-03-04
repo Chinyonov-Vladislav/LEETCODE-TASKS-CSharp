@@ -91,8 +91,6 @@ namespace LeetCode.Tasks.task2490
                 {
                     firstCharOfNextWord = words[i+1][0];
                 }
-                Console.WriteLine($"LastChar = {lastCharOfCurrentWord}");
-                Console.WriteLine($"NextChar = {firstCharOfNextWord}");
                 if (lastCharOfCurrentWord != firstCharOfNextWord)
                 {
                     return false;
