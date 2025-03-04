@@ -451,6 +451,7 @@ using LeetCode.Tasks.task2739;
 using LeetCode.Tasks.task2784;
 using LeetCode.Tasks.task2798;
 using LeetCode.Tasks.task2806;
+using LeetCode.Tasks.task2824;
 
 namespace LeetCode
 {
@@ -911,7 +912,8 @@ namespace LeetCode
                 new Task2739(2739,"Общее пройденное расстояние","",Difficult.easy),
                 new Task2784(2784,"Проверьте, хорош ли массив","",Difficult.easy),
                 new Task2798(2798,"Количество сотрудников, достигших целевого показателя","",Difficult.easy),
-                new Task2806(2806,"Баланс счета после округленной покупки","",Difficult.easy)
+                new Task2806(2806,"Баланс счета после округленной покупки","",Difficult.easy),
+                new Task2824(2824,"Подсчитайте пары, сумма которых меньше целевого значения","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

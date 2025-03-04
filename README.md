@@ -900,3 +900,5 @@
 Ссылка: [https://leetcode.com/problems/number-of-employees-who-met-the-target](https://leetcode.com/problems/number-of-employees-who-met-the-target)  
 ✅ [Задача 2806](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2806/Task2806.cs) - "Account Balance After Rounded Purchase"  
 Ссылка: [https://leetcode.com/problems/account-balance-after-rounded-purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase)  
+✅ [Задача 2824](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2824/Task2824.cs) - "Count Pairs Whose Sum is Less than Target"  
+Ссылка: [https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target)  
