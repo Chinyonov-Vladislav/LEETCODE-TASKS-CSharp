@@ -882,3 +882,5 @@
 Ссылка: [https://leetcode.com/problems/circular-sentence](https://leetcode.com/problems/circular-sentence)  
 ✅ [Задача 2515](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2515/Task2515.cs) - "Shortest Distance to Target String in a Circular Array"  
 Ссылка: [https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array)  
+✅ [Задача 2697](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2697/Task2697.cs) - "Lexicographically Smallest Palindrome"  
+Ссылка: [https://leetcode.com/problems/lexicographically-smallest-palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome)  

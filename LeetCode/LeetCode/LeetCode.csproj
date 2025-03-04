@@ -360,6 +360,7 @@
     <Compile Include="Tasks\task2670\Task2670.cs" />
     <Compile Include="Tasks\task2678\Task2678.cs" />
     <Compile Include="Tasks\task268\Task268.cs" />
+    <Compile Include="Tasks\task2697\Task2697.cs" />
     <Compile Include="Tasks\task26\Task26.cs" />
     <Compile Include="Tasks\task2710\Task2710.cs" />
     <Compile Include="Tasks\task2729\Task2729.cs" />
