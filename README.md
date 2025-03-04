@@ -886,3 +886,5 @@
 Ссылка: [https://leetcode.com/problems/lexicographically-smallest-palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome)  
 ✅ [Задача 2706](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2706/Task2706.cs) - "Buy Two Chocolates"  
 Ссылка: [https://leetcode.com/problems/buy-two-chocolates](https://leetcode.com/problems/buy-two-chocolates)  
+✅ [Задача 2744](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2744/Task2744.cs) - "Find Maximum Number of String Pairs"  
+Ссылка: [https://leetcode.com/problems/find-maximum-number-of-string-pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs)  
