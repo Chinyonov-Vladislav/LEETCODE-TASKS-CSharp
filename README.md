@@ -898,3 +898,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-array-is-good](https://leetcode.com/problems/check-if-array-is-good)  
 ✅ [Задача 2798](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2798/Task2798.cs) - "Number of Employees Who Met the Target"  
 Ссылка: [https://leetcode.com/problems/number-of-employees-who-met-the-target](https://leetcode.com/problems/number-of-employees-who-met-the-target)  
+✅ [Задача 2806](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2806/Task2806.cs) - "Account Balance After Rounded Purchase"  
+Ссылка: [https://leetcode.com/problems/account-balance-after-rounded-purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase)  
