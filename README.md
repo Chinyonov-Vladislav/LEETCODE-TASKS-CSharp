@@ -910,3 +910,5 @@
 Ссылка: [https://leetcode.com/problems/count-symmetric-integers](https://leetcode.com/problems/count-symmetric-integers)  
 ✅ [Задача 2873](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2873/Task2873.cs) - "Maximum Value of an Ordered Triplet I"  
 Ссылка: [https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i)  
+✅ [Задача 2810](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2810/Task2810.cs) - "Faulty Keyboard"  
+Ссылка: [https://leetcode.com/problems/faulty-keyboard](https://leetcode.com/problems/faulty-keyboard)  
