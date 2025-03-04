@@ -906,3 +906,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words)  
 ✅ [Задача 2855](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2855/Task2855.cs) - "Minimum Right Shifts to Sort the Array"  
 Ссылка: [https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array](https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array)  
+✅ [Задача 2843](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2843/Task2843.cs) - "Count Symmetric Integers"  
+Ссылка: [https://leetcode.com/problems/count-symmetric-integers](https://leetcode.com/problems/count-symmetric-integers)  

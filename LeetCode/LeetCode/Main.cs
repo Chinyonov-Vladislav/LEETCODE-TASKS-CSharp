@@ -454,6 +454,7 @@ using LeetCode.Tasks.task2806;
 using LeetCode.Tasks.task2824;
 using LeetCode.Tasks.task2828;
 using LeetCode.Tasks.task2855;
+using LeetCode.Tasks.task2843;
 
 namespace LeetCode
 {
@@ -917,7 +918,8 @@ namespace LeetCode
                 new Task2806(2806,"Баланс счета после округленной покупки","",Difficult.easy),
                 new Task2824(2824,"Подсчитайте пары, сумма которых меньше целевого значения","",Difficult.easy),
                 new Task2828(2828,"Проверьте, является ли строка аббревиатурой из слов","",Difficult.easy),
-                new Task2855(2855,"Минимальные сдвиги вправо для сортировки массива","",Difficult.easy)
+                new Task2855(2855,"Минимальные сдвиги вправо для сортировки массива","",Difficult.easy),
+                new Task2843(2843,"Подсчитывать симметричные целые числа","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
