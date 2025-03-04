@@ -884,3 +884,5 @@
 Ссылка: [https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array)  
 ✅ [Задача 2697](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2697/Task2697.cs) - "Lexicographically Smallest Palindrome"  
 Ссылка: [https://leetcode.com/problems/lexicographically-smallest-palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome)  
+✅ [Задача 2706](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2706/Task2706.cs) - "Buy Two Chocolates"  
+Ссылка: [https://leetcode.com/problems/buy-two-chocolates](https://leetcode.com/problems/buy-two-chocolates)  
