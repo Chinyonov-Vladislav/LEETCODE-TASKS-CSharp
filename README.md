@@ -896,3 +896,5 @@
 Ссылка: [https://leetcode.com/problems/total-distance-traveled](https://leetcode.com/problems/total-distance-traveled)  
 ✅ [Задача 2784](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2784/Task2784.cs) - "Check if Array is Good"  
 Ссылка: [https://leetcode.com/problems/check-if-array-is-good](https://leetcode.com/problems/check-if-array-is-good)  
+✅ [Задача 2798](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2798/Task2798.cs) - "Number of Employees Who Met the Target"  
+Ссылка: [https://leetcode.com/problems/number-of-employees-who-met-the-target](https://leetcode.com/problems/number-of-employees-who-met-the-target)  
