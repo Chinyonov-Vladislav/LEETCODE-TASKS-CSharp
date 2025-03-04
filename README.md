@@ -892,3 +892,5 @@
 Ссылка: [https://leetcode.com/problems/sum-of-squares-of-special-elements](https://leetcode.com/problems/sum-of-squares-of-special-elements)  
 ✅ [Задача 2748](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2748/Task2748.cs) - "Number of Beautiful Pairs"  
 Ссылка: [https://leetcode.com/problems/number-of-beautiful-pairs](https://leetcode.com/problems/number-of-beautiful-pairs)  
+✅ [Задача 2739](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2739/Task2739.cs) - "Total Distance Traveled"  
+Ссылка: [https://leetcode.com/problems/total-distance-traveled](https://leetcode.com/problems/total-distance-traveled)  
