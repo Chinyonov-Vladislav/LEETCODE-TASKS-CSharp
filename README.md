@@ -904,3 +904,5 @@
 Ссылка: [https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target)  
 ✅ [Задача 2828](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2828/Task2828.cs) - "Check if a String Is an Acronym of Words"  
 Ссылка: [https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words)  
+✅ [Задача 2855](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2855/Task2855.cs) - "Minimum Right Shifts to Sort the Array"  
+Ссылка: [https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array](https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array)  
