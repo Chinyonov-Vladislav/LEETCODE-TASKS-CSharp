@@ -894,3 +894,5 @@
 Ссылка: [https://leetcode.com/problems/number-of-beautiful-pairs](https://leetcode.com/problems/number-of-beautiful-pairs)  
 ✅ [Задача 2739](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2739/Task2739.cs) - "Total Distance Traveled"  
 Ссылка: [https://leetcode.com/problems/total-distance-traveled](https://leetcode.com/problems/total-distance-traveled)  
+✅ [Задача 2784](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2784/Task2784.cs) - "Check if Array is Good"  
+Ссылка: [https://leetcode.com/problems/check-if-array-is-good](https://leetcode.com/problems/check-if-array-is-good)  
