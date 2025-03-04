@@ -902,3 +902,5 @@
 Ссылка: [https://leetcode.com/problems/account-balance-after-rounded-purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase)  
 ✅ [Задача 2824](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2824/Task2824.cs) - "Count Pairs Whose Sum is Less than Target"  
 Ссылка: [https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target)  
+✅ [Задача 2828](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2828/Task2828.cs) - "Check if a String Is an Acronym of Words"  
+Ссылка: [https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words)  
