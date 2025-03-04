@@ -446,6 +446,7 @@ using LeetCode.Tasks.task2697;
 using LeetCode.Tasks.task2706;
 using LeetCode.Tasks.task2744;
 using LeetCode.Tasks.task2778;
+using LeetCode.Tasks.task2748;
 
 namespace LeetCode
 {
@@ -901,7 +902,8 @@ namespace LeetCode
                 new Task2697(2697,"Лексикографически наименьший палиндром","",Difficult.easy),
                 new Task2706(2706,"Купите две шоколадные конфеты","",Difficult.easy),
                 new Task2744(2744,"Найдите максимальное количество пар строк","",Difficult.easy),
-                new Task2778(2778,"Сумма квадратов специальных элементов","",Difficult.easy)
+                new Task2778(2778,"Сумма квадратов специальных элементов","",Difficult.easy),
+                new Task2748(2748,"Количество красивых пар","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

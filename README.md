@@ -890,3 +890,5 @@
 Ссылка: [https://leetcode.com/problems/find-maximum-number-of-string-pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs)  
 ✅ [Задача 2778](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2778/Task2778.cs) - "Sum of Squares of Special Elements"  
 Ссылка: [https://leetcode.com/problems/sum-of-squares-of-special-elements](https://leetcode.com/problems/sum-of-squares-of-special-elements)  
+✅ [Задача 2748](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2748/Task2748.cs) - "Number of Beautiful Pairs"  
+Ссылка: [https://leetcode.com/problems/number-of-beautiful-pairs](https://leetcode.com/problems/number-of-beautiful-pairs)  
