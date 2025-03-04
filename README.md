@@ -878,3 +878,5 @@
 Ссылка: [https://leetcode.com/problems/number-of-senior-citizens](https://leetcode.com/problems/number-of-senior-citizens)  
 ✅ [Задача 2670](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2670/Task2670.cs) - "Find the Distinct Difference Array"  
 Ссылка: [https://leetcode.com/problems/find-the-distinct-difference-array](https://leetcode.com/problems/find-the-distinct-difference-array)  
+✅ [Задача 2490](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2490/Task2490.cs) - "Circular Sentence"  
+Ссылка: [https://leetcode.com/problems/circular-sentence](https://leetcode.com/problems/circular-sentence)  
