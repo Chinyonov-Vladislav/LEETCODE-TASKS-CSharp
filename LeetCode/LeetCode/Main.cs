@@ -455,6 +455,7 @@ using LeetCode.Tasks.task2824;
 using LeetCode.Tasks.task2828;
 using LeetCode.Tasks.task2855;
 using LeetCode.Tasks.task2843;
+using LeetCode.Tasks.task2873;
 
 namespace LeetCode
 {
@@ -919,7 +920,8 @@ namespace LeetCode
                 new Task2824(2824,"Подсчитайте пары, сумма которых меньше целевого значения","",Difficult.easy),
                 new Task2828(2828,"Проверьте, является ли строка аббревиатурой из слов","",Difficult.easy),
                 new Task2855(2855,"Минимальные сдвиги вправо для сортировки массива","",Difficult.easy),
-                new Task2843(2843,"Подсчитывать симметричные целые числа","",Difficult.easy)
+                new Task2843(2843,"Подсчитывать симметричные целые числа","",Difficult.easy),
+                new Task2873(2873,"Максимальное значение упорядоченного триплета I","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
