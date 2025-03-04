@@ -888,3 +888,5 @@
 Ссылка: [https://leetcode.com/problems/buy-two-chocolates](https://leetcode.com/problems/buy-two-chocolates)  
 ✅ [Задача 2744](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2744/Task2744.cs) - "Find Maximum Number of String Pairs"  
 Ссылка: [https://leetcode.com/problems/find-maximum-number-of-string-pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs)  
+✅ [Задача 2778](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2778/Task2778.cs) - "Sum of Squares of Special Elements"  
+Ссылка: [https://leetcode.com/problems/sum-of-squares-of-special-elements](https://leetcode.com/problems/sum-of-squares-of-special-elements)  
