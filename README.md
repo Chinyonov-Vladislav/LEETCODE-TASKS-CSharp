@@ -876,3 +876,5 @@
 Ссылка: [https://leetcode.com/problems/determine-the-winner-of-a-bowling-game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game)  
 ✅ [Задача 2678](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2678/Task2678.cs) - "Number of Senior Citizens"  
 Ссылка: [https://leetcode.com/problems/number-of-senior-citizens](https://leetcode.com/problems/number-of-senior-citizens)  
+✅ [Задача 2670](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2670/Task2670.cs) - "Find the Distinct Difference Array"  
+Ссылка: [https://leetcode.com/problems/find-the-distinct-difference-array](https://leetcode.com/problems/find-the-distinct-difference-array)  
