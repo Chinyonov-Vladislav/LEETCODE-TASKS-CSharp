@@ -441,6 +441,7 @@ using LeetCode.Tasks.task2660;
 using LeetCode.Tasks.task2678;
 using LeetCode.Tasks.task2670;
 using LeetCode.Tasks.task2490;
+using LeetCode.Tasks.task2515;
 
 namespace LeetCode
 {
@@ -891,7 +892,8 @@ namespace LeetCode
                 new Task2660(2660,"Определите победителя в игре в боулинг","",Difficult.easy),
                 new Task2678(2678,"Количество пожилых граждан","",Difficult.easy),
                 new Task2670(2670,"Найдите отдельный массив различий","",Difficult.easy),
-                new Task2490(2490,"Круговое предложение","",Difficult.easy)
+                new Task2490(2490,"Круговое предложение","",Difficult.easy),
+                new Task2515(2515,"Кратчайшее расстояние до целевой строки в кольцевом массиве","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
