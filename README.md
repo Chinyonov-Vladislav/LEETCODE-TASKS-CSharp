@@ -912,3 +912,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i)  
 ✅ [Задача 2810](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2810/Task2810.cs) - "Faulty Keyboard"  
 Ссылка: [https://leetcode.com/problems/faulty-keyboard](https://leetcode.com/problems/faulty-keyboard)  
+✅ [Задача 2839](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2839/Task2839.cs) - "Check if Strings Can be Made Equal With Operations I"  
+Ссылка: [https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i)  
