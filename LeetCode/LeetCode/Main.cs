@@ -469,6 +469,7 @@ using LeetCode.Tasks.task2960;
 using LeetCode.Tasks.task2908;
 using LeetCode.Tasks.task2928;
 using LeetCode.Tasks.task2942;
+using LeetCode.Tasks.task2965;
 
 namespace LeetCode
 {
@@ -947,7 +948,8 @@ namespace LeetCode
                 new Task2960(2960,"Подсчет протестированных устройств после тестовых операций","",Difficult.easy),
                 new Task2908(2908,"Минимальная сумма горных троек I","",Difficult.easy),
                 new Task2928(2928,"Раздайте конфеты детям I","",Difficult.easy),
-                new Task2942(2942,"Найдите слова, содержащие символ","",Difficult.easy)
+                new Task2942(2942,"Найдите слова, содержащие символ","",Difficult.easy),
+                new Task2965(2965,"Поиск отсутствующих и повторяющихся значений","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

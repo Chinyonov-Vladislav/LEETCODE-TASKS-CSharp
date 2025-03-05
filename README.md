@@ -936,3 +936,5 @@
 Ссылка: [https://leetcode.com/problems/distribute-candies-among-children-i](https://leetcode.com/problems/distribute-candies-among-children-i)  
 ✅ [Задача 2942](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2942/Task2942.cs) - "Find Words Containing Character"  
 Ссылка: [https://leetcode.com/problems/find-words-containing-character](https://leetcode.com/problems/find-words-containing-character)  
+✅ [Задача 2965](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2965/Task2965.cs) - "Find Missing and Repeated Values"  
+Ссылка: [https://leetcode.com/problems/find-missing-and-repeated-values](https://leetcode.com/problems/find-missing-and-repeated-values)  
