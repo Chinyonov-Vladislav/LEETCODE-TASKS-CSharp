@@ -928,3 +928,5 @@
 Ссылка: [https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i)  
 ✅ [Задача 2956](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2956/Task2956.cs) - "Find Common Elements Between Two Arrays"  
 Ссылка: [https://leetcode.com/problems/find-common-elements-between-two-arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays)  
+✅ [Задача 2960](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2960/Task2960.cs) - "Count Tested Devices After Test Operations"  
+Ссылка: [https://leetcode.com/problems/count-tested-devices-after-test-operations](https://leetcode.com/problems/count-tested-devices-after-test-operations)  

@@ -465,6 +465,7 @@ using LeetCode.Tasks.task2903;
 using LeetCode.Tasks.task2937;
 using LeetCode.Tasks.task2913;
 using LeetCode.Tasks.task2956;
+using LeetCode.Tasks.task2960;
 
 namespace LeetCode
 {
@@ -939,7 +940,8 @@ namespace LeetCode
                 new Task2903(2903,"Найдите индексы с помощью разницы индексов и значений","",Difficult.easy),
                 new Task2937(2937,"Сделайте три строки равными","",Difficult.easy),
                 new Task2913(2913,"Сумма квадратов элементов подмассивов","",Difficult.easy),
-                new Task2956(2956,"Найдите общие элементы между двумя массивами","",Difficult.easy)
+                new Task2956(2956,"Найдите общие элементы между двумя массивами","",Difficult.easy),
+                new Task2960(2960,"Подсчет протестированных устройств после тестовых операций","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
