@@ -462,6 +462,7 @@ using LeetCode.Tasks.task2859;
 using LeetCode.Tasks.task2864;
 using LeetCode.Tasks.task2894;
 using LeetCode.Tasks.task2903;
+using LeetCode.Tasks.task2937;
 
 namespace LeetCode
 {
@@ -933,7 +934,8 @@ namespace LeetCode
                 new Task2859(2859,"Сумма значений в индексах с установленными битами K","",Difficult.easy),
                 new Task2864(2864,"Максимальное нечетное двоичное число","",Difficult.easy),
                 new Task2894(2894,"Различие делимых и неделимых сумм","",Difficult.easy),
-                new Task2903(2903,"Найдите индексы с помощью разницы индексов и значений","",Difficult.easy)
+                new Task2903(2903,"Найдите индексы с помощью разницы индексов и значений","",Difficult.easy),
+                new Task2937(2937,"Сделайте три строки равными","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
