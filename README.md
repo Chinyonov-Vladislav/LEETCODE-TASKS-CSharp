@@ -926,3 +926,5 @@
 Ссылка: [https://leetcode.com/problems/make-three-strings-equal](https://leetcode.com/problems/make-three-strings-equal)  
 ✅ [Задача 2913](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2913/Task2913.cs) - "Subarrays Distinct Element Sum of Squares I"  
 Ссылка: [https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i)  
+✅ [Задача 2956](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2956/Task2956.cs) - "Find Common Elements Between Two Arrays"  
+Ссылка: [https://leetcode.com/problems/find-common-elements-between-two-arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays)  
