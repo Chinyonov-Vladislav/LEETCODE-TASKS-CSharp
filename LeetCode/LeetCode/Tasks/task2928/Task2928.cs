@@ -59,7 +59,6 @@ namespace LeetCode.Tasks.task2928
                 {
                     for (int k = 0; k <= limit; k++)
                     {
-                        Console.WriteLine($"I = {i} J = {j} K = {k}");
                         if (i + j + k == n)
                         {
                             count++;

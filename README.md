@@ -934,3 +934,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i)  
 ✅ [Задача 2928](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2928/Task2928.cs) - "Distribute Candies Among Children I"  
 Ссылка: [https://leetcode.com/problems/distribute-candies-among-children-i](https://leetcode.com/problems/distribute-candies-among-children-i)  
+✅ [Задача 2942](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2942/Task2942.cs) - "Find Words Containing Character"  
+Ссылка: [https://leetcode.com/problems/find-words-containing-character](https://leetcode.com/problems/find-words-containing-character)  
