@@ -458,6 +458,7 @@ using LeetCode.Tasks.task2843;
 using LeetCode.Tasks.task2873;
 using LeetCode.Tasks.task2810;
 using LeetCode.Tasks.task2839;
+using LeetCode.Tasks.task2859;
 
 namespace LeetCode
 {
@@ -925,7 +926,8 @@ namespace LeetCode
                 new Task2843(2843,"Подсчитывать симметричные целые числа","",Difficult.easy),
                 new Task2873(2873,"Максимальное значение упорядоченного триплета I","",Difficult.easy),
                 new Task2810(2810,"Неисправная клавиатура","",Difficult.easy),
-                new Task2839(2839,"Проверьте, можно ли сделать строки равными с помощью операций I","",Difficult.easy)
+                new Task2839(2839,"Проверьте, можно ли сделать строки равными с помощью операций I","",Difficult.easy),
+                new Task2859(2859,"Сумма значений в индексах с установленными битами K","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
