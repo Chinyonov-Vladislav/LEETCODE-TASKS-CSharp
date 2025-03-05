@@ -938,3 +938,5 @@
 Ссылка: [https://leetcode.com/problems/find-words-containing-character](https://leetcode.com/problems/find-words-containing-character)  
 ✅ [Задача 2965](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2965/Task2965.cs) - "Find Missing and Repeated Values"  
 Ссылка: [https://leetcode.com/problems/find-missing-and-repeated-values](https://leetcode.com/problems/find-missing-and-repeated-values)  
+✅ [Задача 2974](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2974/Task2974.cs) - "Minimum Number Game"  
+Ссылка: [https://leetcode.com/problems/minimum-number-game](https://leetcode.com/problems/minimum-number-game)  

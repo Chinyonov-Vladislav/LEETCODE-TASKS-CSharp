@@ -398,6 +398,7 @@
     <Compile Include="Tasks\task2956\Task2956.cs" />
     <Compile Include="Tasks\task2960\Task2960.cs" />
     <Compile Include="Tasks\task2965\Task2965.cs" />
+    <Compile Include="Tasks\task2974\Task2974.cs" />
     <Compile Include="Tasks\task29\Task29.cs" />
     <Compile Include="Tasks\task2\Task2.cs" />
     <Compile Include="Tasks\task30%28not working%29\task30.cs" />
