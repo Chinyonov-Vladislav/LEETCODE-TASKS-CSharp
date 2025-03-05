@@ -930,3 +930,5 @@
 Ссылка: [https://leetcode.com/problems/find-common-elements-between-two-arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays)  
 ✅ [Задача 2960](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2960/Task2960.cs) - "Count Tested Devices After Test Operations"  
 Ссылка: [https://leetcode.com/problems/count-tested-devices-after-test-operations](https://leetcode.com/problems/count-tested-devices-after-test-operations)  
+✅ [Задача 2908](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2908/Task2908.cs) - "Minimum Sum of Mountain Triplets I"  
+Ссылка: [https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i)  
