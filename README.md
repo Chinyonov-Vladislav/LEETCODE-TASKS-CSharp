@@ -918,3 +918,5 @@
 Ссылка: [https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits)  
 ✅ [Задача 2864](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2864/Task2864.cs) - "Maximum Odd Binary Number"  
 Ссылка: [https://leetcode.com/problems/maximum-odd-binary-number](https://leetcode.com/problems/maximum-odd-binary-number)  
+✅ [Задача 2894](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2894/Task2894.cs) - "Divisible and Non-divisible Sums Difference"  
+Ссылка: [https://leetcode.com/problems/divisible-and-non-divisible-sums-difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference)  
