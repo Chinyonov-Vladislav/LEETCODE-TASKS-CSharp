@@ -920,3 +920,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-odd-binary-number](https://leetcode.com/problems/maximum-odd-binary-number)  
 ✅ [Задача 2894](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2894/Task2894.cs) - "Divisible and Non-divisible Sums Difference"  
 Ссылка: [https://leetcode.com/problems/divisible-and-non-divisible-sums-difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference)  
+✅ [Задача 2903](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2903/Task2903.cs) - "Find Indices With Index and Value Difference I"  
+Ссылка: [https://leetcode.com/problems/find-indices-with-index-and-value-difference-i](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i)  
