@@ -916,3 +916,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i)  
 ✅ [Задача 2859](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2859/Task2859.cs) - "Sum of Values at Indices With K Set Bits"  
 Ссылка: [https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits)  
+✅ [Задача 2864](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2864/Task2864.cs) - "Maximum Odd Binary Number"  
+Ссылка: [https://leetcode.com/problems/maximum-odd-binary-number](https://leetcode.com/problems/maximum-odd-binary-number)  
