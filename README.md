@@ -932,3 +932,5 @@
 Ссылка: [https://leetcode.com/problems/count-tested-devices-after-test-operations](https://leetcode.com/problems/count-tested-devices-after-test-operations)  
 ✅ [Задача 2908](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2908/Task2908.cs) - "Minimum Sum of Mountain Triplets I"  
 Ссылка: [https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i)  
+✅ [Задача 2928](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2928/Task2928.cs) - "Distribute Candies Among Children I"  
+Ссылка: [https://leetcode.com/problems/distribute-candies-among-children-i](https://leetcode.com/problems/distribute-candies-among-children-i)  

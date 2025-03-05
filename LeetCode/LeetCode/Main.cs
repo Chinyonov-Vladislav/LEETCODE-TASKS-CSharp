@@ -467,6 +467,7 @@ using LeetCode.Tasks.task2913;
 using LeetCode.Tasks.task2956;
 using LeetCode.Tasks.task2960;
 using LeetCode.Tasks.task2908;
+using LeetCode.Tasks.task2928;
 
 namespace LeetCode
 {
@@ -943,7 +944,8 @@ namespace LeetCode
                 new Task2913(2913,"Сумма квадратов элементов подмассивов","",Difficult.easy),
                 new Task2956(2956,"Найдите общие элементы между двумя массивами","",Difficult.easy),
                 new Task2960(2960,"Подсчет протестированных устройств после тестовых операций","",Difficult.easy),
-                new Task2908(2908,"Минимальная сумма горных троек I","",Difficult.easy)
+                new Task2908(2908,"Минимальная сумма горных троек I","",Difficult.easy),
+                new Task2928(2928,"Раздайте конфеты детям I","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
