@@ -924,3 +924,5 @@
 Ссылка: [https://leetcode.com/problems/find-indices-with-index-and-value-difference-i](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i)  
 ✅ [Задача 2937](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2937/Task2937.cs) - "Make Three Strings Equal"  
 Ссылка: [https://leetcode.com/problems/make-three-strings-equal](https://leetcode.com/problems/make-three-strings-equal)  
+✅ [Задача 2913](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2913/Task2913.cs) - "Subarrays Distinct Element Sum of Squares I"  
+Ссылка: [https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i)  

@@ -463,6 +463,7 @@ using LeetCode.Tasks.task2864;
 using LeetCode.Tasks.task2894;
 using LeetCode.Tasks.task2903;
 using LeetCode.Tasks.task2937;
+using LeetCode.Tasks.task2913;
 
 namespace LeetCode
 {
@@ -935,7 +936,8 @@ namespace LeetCode
                 new Task2864(2864,"Максимальное нечетное двоичное число","",Difficult.easy),
                 new Task2894(2894,"Различие делимых и неделимых сумм","",Difficult.easy),
                 new Task2903(2903,"Найдите индексы с помощью разницы индексов и значений","",Difficult.easy),
-                new Task2937(2937,"Сделайте три строки равными","",Difficult.easy)
+                new Task2937(2937,"Сделайте три строки равными","",Difficult.easy),
+                new Task2913(2913,"Сумма квадратов элементов подмассивов","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
