@@ -974,3 +974,5 @@
 Ссылка: [https://leetcode.com/problems/count-prefix-and-suffix-pairs-i](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i)  
 ✅ [Задача 3005](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3005/Task3005.cs) - "Count Elements With Maximum Frequency"  
 Ссылка: [https://leetcode.com/problems/count-elements-with-maximum-frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency)  
+✅ [Задача 3028](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3028/Task3028.cs) - "Ant on the Boundary"  
+Ссылка: [https://leetcode.com/problems/ant-on-the-boundary](https://leetcode.com/problems/ant-on-the-boundary)  

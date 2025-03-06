@@ -488,6 +488,7 @@ using LeetCode.Tasks.task3151;
 using LeetCode.Tasks.task3131;
 using LeetCode.Tasks.task3042;
 using LeetCode.Tasks.task3005;
+using LeetCode.Tasks.task3028;
 
 namespace LeetCode
 {
@@ -985,7 +986,8 @@ namespace LeetCode
                 new Task3151(3151,"Специальный массив I","",Difficult.easy),
                 new Task3131(3131,"Найдите целое число, добавленное в массив I","",Difficult.easy),
                 new Task3042(3042,"Подсчитайте количество пар префиксов и суффиксов I","",Difficult.easy),
-                new Task3005(3005,"Подсчитывать элементы с максимальной частотой","",Difficult.easy)
+                new Task3005(3005,"Подсчитывать элементы с максимальной частотой","",Difficult.easy),
+                new Task3028(3028,"Муравей на границе","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
