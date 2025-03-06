@@ -978,3 +978,5 @@
 Ссылка: [https://leetcode.com/problems/ant-on-the-boundary](https://leetcode.com/problems/ant-on-the-boundary)  
 ✅ [Задача 3000](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3000/Task3000.cs) - "Maximum Area of Longest Diagonal Rectangle"  
 Ссылка: [https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle)  
+✅ [Задача 3038](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3038/Task3038.cs) - "Maximum Number of Operations With the Same Score I"  
+Ссылка: [https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i)  

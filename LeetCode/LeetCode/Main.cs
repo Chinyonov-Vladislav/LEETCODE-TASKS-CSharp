@@ -490,6 +490,7 @@ using LeetCode.Tasks.task3042;
 using LeetCode.Tasks.task3005;
 using LeetCode.Tasks.task3028;
 using LeetCode.Tasks.task3000;
+using LeetCode.Tasks.task3038;
 
 namespace LeetCode
 {
@@ -989,7 +990,8 @@ namespace LeetCode
                 new Task3042(3042,"Подсчитайте количество пар префиксов и суффиксов I","",Difficult.easy),
                 new Task3005(3005,"Подсчитывать элементы с максимальной частотой","",Difficult.easy),
                 new Task3028(3028,"Муравей на границе","",Difficult.easy),
-                new Task3000(3000,"Максимальная площадь прямоугольника с самой длинной диагональю","",Difficult.easy)
+                new Task3000(3000,"Максимальная площадь прямоугольника с самой длинной диагональю","",Difficult.easy),
+                new Task3038(3038,"Максимальное количество операций с одинаковым результатом","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
