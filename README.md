@@ -950,3 +950,5 @@
 Ссылка: [https://leetcode.com/problems/furthest-point-from-origin](https://leetcode.com/problems/furthest-point-from-origin)  
 ✅ [Задача 2980](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2980/Task2980.cs) - "Check if Bitwise OR Has Trailing Zeros"  
 Ссылка: [https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros)  
+✅ [Задача 3010](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3010/Task3010.cs) - "Divide an Array Into Subarrays With Minimum Cost I"  
+Ссылка: [https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i)  

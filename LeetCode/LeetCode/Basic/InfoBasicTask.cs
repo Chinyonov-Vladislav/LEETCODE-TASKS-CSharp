@@ -33,6 +33,10 @@ namespace LeetCode.Basic
         public abstract void execute();
         public abstract void testing();
 
+        protected void printInfoNotValidData()
+        {
+            Console.WriteLine("Исходные данные не валидны!");
+        }
         protected void printValuesFromListNode(ListNode listNode, int numberCurrentNode=0)
         {
             if (listNode == null && numberCurrentNode == 0)
