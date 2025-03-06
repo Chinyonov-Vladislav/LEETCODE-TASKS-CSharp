@@ -942,3 +942,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-number-game](https://leetcode.com/problems/minimum-number-game)  
 ✅ [Задача 3110](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3110/Task3110.cs) - "Score of a String"  
 Ссылка: [https://leetcode.com/problems/score-of-a-string](https://leetcode.com/problems/score-of-a-string)  
+✅ [Задача 3136](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3136/Task3136.cs) - "Valid Word"  
+Ссылка: [https://leetcode.com/problems/valid-word](https://leetcode.com/problems/valid-word)  
