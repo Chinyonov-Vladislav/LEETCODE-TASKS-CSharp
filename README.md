@@ -976,3 +976,5 @@
 Ссылка: [https://leetcode.com/problems/count-elements-with-maximum-frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency)  
 ✅ [Задача 3028](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3028/Task3028.cs) - "Ant on the Boundary"  
 Ссылка: [https://leetcode.com/problems/ant-on-the-boundary](https://leetcode.com/problems/ant-on-the-boundary)  
+✅ [Задача 3000](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3000/Task3000.cs) - "Maximum Area of Longest Diagonal Rectangle"  
+Ссылка: [https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle)  
