@@ -946,3 +946,5 @@
 Ссылка: [https://leetcode.com/problems/valid-word](https://leetcode.com/problems/valid-word)  
 ✅ [Задача 2815](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2815/Task2815.cs) - "Max Pair Sum in an Array"  
 Ссылка: [https://leetcode.com/problems/max-pair-sum-in-an-array](https://leetcode.com/problems/max-pair-sum-in-an-array)  
+✅ [Задача 2833](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2833/Task2833.cs) - "Furthest Point From Origin"  
+Ссылка: [https://leetcode.com/problems/furthest-point-from-origin](https://leetcode.com/problems/furthest-point-from-origin)  
