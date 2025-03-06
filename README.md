@@ -972,3 +972,5 @@
 Ссылка: [https://leetcode.com/problems/find-the-integer-added-to-array-i](https://leetcode.com/problems/find-the-integer-added-to-array-i)  
 ✅ [Задача 3042](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3042/Task3042.cs) - "Count Prefix and Suffix Pairs I"  
 Ссылка: [https://leetcode.com/problems/count-prefix-and-suffix-pairs-i](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i)  
+✅ [Задача 3005](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3005/Task3005.cs) - "Count Elements With Maximum Frequency"  
+Ссылка: [https://leetcode.com/problems/count-elements-with-maximum-frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency)  
