@@ -970,3 +970,5 @@
 Ссылка: [https://leetcode.com/problems/special-array-i](https://leetcode.com/problems/special-array-i)  
 ✅ [Задача 3131](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3131/Task3131.cs) - "Find the Integer Added to Array I"  
 Ссылка: [https://leetcode.com/problems/find-the-integer-added-to-array-i](https://leetcode.com/problems/find-the-integer-added-to-array-i)  
+✅ [Задача 3042](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3042/Task3042.cs) - "Count Prefix and Suffix Pairs I"  
+Ссылка: [https://leetcode.com/problems/count-prefix-and-suffix-pairs-i](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i)  
