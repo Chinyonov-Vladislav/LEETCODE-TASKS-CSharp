@@ -958,3 +958,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-operations-to-collect-elements](https://leetcode.com/problems/minimum-operations-to-collect-elements)  
 ✅ [Задача 2932](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2932/Task2932.cs) - "Maximum Strong Pair XOR I"  
 Ссылка: [https://leetcode.com/problems/maximum-strong-pair-xor-i](https://leetcode.com/problems/maximum-strong-pair-xor-i)  
+✅ [Задача 2951](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2951/Task2951.cs) - "Find the Peaks"  
+Ссылка: [https://leetcode.com/problems/find-the-peaks](https://leetcode.com/problems/find-the-peaks)  
