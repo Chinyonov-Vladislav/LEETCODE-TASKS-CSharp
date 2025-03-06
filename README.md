@@ -964,3 +964,5 @@
 Ссылка: [https://leetcode.com/problems/number-of-changing-keys](https://leetcode.com/problems/number-of-changing-keys)  
 ✅ [Задача 3024](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3024/Task3024.cs) - "Type of Triangle"  
 Ссылка: [https://leetcode.com/problems/type-of-triangle](https://leetcode.com/problems/type-of-triangle)  
+✅ [Задача 3162](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3162/Task3162.cs) - "Find the Number of Good Pairs I"  
+Ссылка: [https://leetcode.com/problems/find-the-number-of-good-pairs-i](https://leetcode.com/problems/find-the-number-of-good-pairs-i)  
