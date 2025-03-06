@@ -968,3 +968,5 @@
 Ссылка: [https://leetcode.com/problems/find-the-number-of-good-pairs-i](https://leetcode.com/problems/find-the-number-of-good-pairs-i)  
 ✅ [Задача 3151](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3151/Task3151.cs) - "Special Array I"  
 Ссылка: [https://leetcode.com/problems/special-array-i](https://leetcode.com/problems/special-array-i)  
+✅ [Задача 3131](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3131/Task3131.cs) - "Find the Integer Added to Array I"  
+Ссылка: [https://leetcode.com/problems/find-the-integer-added-to-array-i](https://leetcode.com/problems/find-the-integer-added-to-array-i)  
