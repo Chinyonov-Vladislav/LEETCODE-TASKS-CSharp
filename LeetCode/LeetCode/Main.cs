@@ -479,6 +479,7 @@ using LeetCode.Tasks.task2980;
 using LeetCode.Tasks.task3010;
 using LeetCode.Tasks.task3014;
 using LeetCode.Tasks.task2869;
+using LeetCode.Tasks.task2932;
 
 namespace LeetCode
 {
@@ -967,7 +968,8 @@ namespace LeetCode
                 new Task2980(2980,"Проверьте, есть ли в побитовом ИЛИ конечные нули","",Difficult.easy),
                 new Task3010(3010,"Разделите массив на подмассивы с минимальной стоимостью","",Difficult.easy),
                 new Task3014(3014,"Минимальное количество нажатий для ввода слова I","",Difficult.easy),
-                new Task2869(2869,"Минимальное количество операций по сбору элементов","",Difficult.easy)
+                new Task2869(2869,"Минимальное количество операций по сбору элементов","",Difficult.easy),
+                new Task2932(2932,"Максимальная сильная пара XOR I","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

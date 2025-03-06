@@ -956,3 +956,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i)  
 ✅ [Задача 2869](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2869/Task2869.cs) - "Minimum Operations to Collect Elements"  
 Ссылка: [https://leetcode.com/problems/minimum-operations-to-collect-elements](https://leetcode.com/problems/minimum-operations-to-collect-elements)  
+✅ [Задача 2932](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2932/Task2932.cs) - "Maximum Strong Pair XOR I"  
+Ссылка: [https://leetcode.com/problems/maximum-strong-pair-xor-i](https://leetcode.com/problems/maximum-strong-pair-xor-i)  
