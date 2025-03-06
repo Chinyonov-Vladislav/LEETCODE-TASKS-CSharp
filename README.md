@@ -954,3 +954,5 @@
 Ссылка: [https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i)  
 ✅ [Задача 3014](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3014/Task3014.cs) - "Minimum Number of Pushes to Type Word I"  
 Ссылка: [https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i)  
+✅ [Задача 2869](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2869/Task2869.cs) - "Minimum Operations to Collect Elements"  
+Ссылка: [https://leetcode.com/problems/minimum-operations-to-collect-elements](https://leetcode.com/problems/minimum-operations-to-collect-elements)  
