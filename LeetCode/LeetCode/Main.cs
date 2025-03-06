@@ -473,6 +473,7 @@ using LeetCode.Tasks.task2965;
 using LeetCode.Tasks.task2974;
 using LeetCode.Tasks.task3110;
 using LeetCode.Tasks.task3136;
+using LeetCode.Tasks.task2815;
 
 namespace LeetCode
 {
@@ -955,7 +956,8 @@ namespace LeetCode
                 new Task2965(2965,"Поиск отсутствующих и повторяющихся значений","",Difficult.easy),
                 new Task2974(2974,"Игра с минимальными числами","",Difficult.easy),
                 new Task3110(3110,"Партитура строки","",Difficult.easy),
-                new Task3136(3136,"Действительное слово","",Difficult.easy)
+                new Task3136(3136,"Действительное слово","",Difficult.easy),
+                new Task2815(2815,"Максимальная сумма пар в массиве","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

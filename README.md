@@ -944,3 +944,5 @@
 Ссылка: [https://leetcode.com/problems/score-of-a-string](https://leetcode.com/problems/score-of-a-string)  
 ✅ [Задача 3136](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3136/Task3136.cs) - "Valid Word"  
 Ссылка: [https://leetcode.com/problems/valid-word](https://leetcode.com/problems/valid-word)  
+✅ [Задача 2815](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2815/Task2815.cs) - "Max Pair Sum in an Array"  
+Ссылка: [https://leetcode.com/problems/max-pair-sum-in-an-array](https://leetcode.com/problems/max-pair-sum-in-an-array)  
