@@ -966,3 +966,5 @@
 Ссылка: [https://leetcode.com/problems/type-of-triangle](https://leetcode.com/problems/type-of-triangle)  
 ✅ [Задача 3162](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3162/Task3162.cs) - "Find the Number of Good Pairs I"  
 Ссылка: [https://leetcode.com/problems/find-the-number-of-good-pairs-i](https://leetcode.com/problems/find-the-number-of-good-pairs-i)  
+✅ [Задача 3151](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3151/Task3151.cs) - "Special Array I"  
+Ссылка: [https://leetcode.com/problems/special-array-i](https://leetcode.com/problems/special-array-i)  

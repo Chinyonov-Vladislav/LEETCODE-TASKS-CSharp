@@ -484,6 +484,7 @@ using LeetCode.Tasks.task2951;
 using LeetCode.Tasks.task3019;
 using LeetCode.Tasks.task3024;
 using LeetCode.Tasks.task3162;
+using LeetCode.Tasks.task3151;
 
 namespace LeetCode
 {
@@ -977,7 +978,8 @@ namespace LeetCode
                 new Task2951(2951,"Найдите вершины","",Difficult.easy),
                 new Task3019(3019,"Количество переключаемых клавиш","",Difficult.easy),
                 new Task3024(3024,"Тип треугольника","",Difficult.easy),
-                new Task3162(3162,"Найдите количество хороших пар I","",Difficult.easy)
+                new Task3162(3162,"Найдите количество хороших пар I","",Difficult.easy),
+                new Task3151(3151,"Специальный массив I","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
