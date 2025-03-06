@@ -481,6 +481,7 @@ using LeetCode.Tasks.task3014;
 using LeetCode.Tasks.task2869;
 using LeetCode.Tasks.task2932;
 using LeetCode.Tasks.task2951;
+using LeetCode.Tasks.task3019;
 
 namespace LeetCode
 {
@@ -971,7 +972,8 @@ namespace LeetCode
                 new Task3014(3014,"Минимальное количество нажатий для ввода слова I","",Difficult.easy),
                 new Task2869(2869,"Минимальное количество операций по сбору элементов","",Difficult.easy),
                 new Task2932(2932,"Максимальная сильная пара XOR I","",Difficult.easy),
-                new Task2951(2951,"Найдите вершины","",Difficult.easy)
+                new Task2951(2951,"Найдите вершины","",Difficult.easy),
+                new Task3019(3019,"Количество переключаемых клавиш","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

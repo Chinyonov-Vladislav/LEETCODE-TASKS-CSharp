@@ -960,3 +960,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-strong-pair-xor-i](https://leetcode.com/problems/maximum-strong-pair-xor-i)  
 ✅ [Задача 2951](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2951/Task2951.cs) - "Find the Peaks"  
 Ссылка: [https://leetcode.com/problems/find-the-peaks](https://leetcode.com/problems/find-the-peaks)  
+✅ [Задача 3019](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3019/Task3019.cs) - "Number of Changing Keys"  
+Ссылка: [https://leetcode.com/problems/number-of-changing-keys](https://leetcode.com/problems/number-of-changing-keys)  
