@@ -952,3 +952,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros)  
 ✅ [Задача 3010](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3010/Task3010.cs) - "Divide an Array Into Subarrays With Minimum Cost I"  
 Ссылка: [https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i)  
+✅ [Задача 3014](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3014/Task3014.cs) - "Minimum Number of Pushes to Type Word I"  
+Ссылка: [https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i)  
