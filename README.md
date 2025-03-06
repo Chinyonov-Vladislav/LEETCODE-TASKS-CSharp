@@ -962,3 +962,5 @@
 Ссылка: [https://leetcode.com/problems/find-the-peaks](https://leetcode.com/problems/find-the-peaks)  
 ✅ [Задача 3019](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3019/Task3019.cs) - "Number of Changing Keys"  
 Ссылка: [https://leetcode.com/problems/number-of-changing-keys](https://leetcode.com/problems/number-of-changing-keys)  
+✅ [Задача 3024](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3024/Task3024.cs) - "Type of Triangle"  
+Ссылка: [https://leetcode.com/problems/type-of-triangle](https://leetcode.com/problems/type-of-triangle)  
