@@ -948,3 +948,5 @@
 Ссылка: [https://leetcode.com/problems/max-pair-sum-in-an-array](https://leetcode.com/problems/max-pair-sum-in-an-array)  
 ✅ [Задача 2833](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2833/Task2833.cs) - "Furthest Point From Origin"  
 Ссылка: [https://leetcode.com/problems/furthest-point-from-origin](https://leetcode.com/problems/furthest-point-from-origin)  
+✅ [Задача 2980](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2980/Task2980.cs) - "Check if Bitwise OR Has Trailing Zeros"  
+Ссылка: [https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros)  

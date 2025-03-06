@@ -475,6 +475,7 @@ using LeetCode.Tasks.task3110;
 using LeetCode.Tasks.task3136;
 using LeetCode.Tasks.task2815;
 using LeetCode.Tasks.task2833;
+using LeetCode.Tasks.task2980;
 
 namespace LeetCode
 {
@@ -959,7 +960,8 @@ namespace LeetCode
                 new Task3110(3110,"Партитура строки","",Difficult.easy),
                 new Task3136(3136,"Действительное слово","",Difficult.easy),
                 new Task2815(2815,"Максимальная сумма пар в массиве","",Difficult.easy),
-                new Task2833(2833,"Самая удаленная точка от источника","",Difficult.easy)
+                new Task2833(2833,"Самая удаленная точка от источника","",Difficult.easy),
+                new Task2980(2980,"Проверьте, есть ли в побитовом ИЛИ конечные нули","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
