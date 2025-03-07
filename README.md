@@ -982,3 +982,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i)  
 ✅ [Задача 3065](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3065/Task3065.cs) - "Minimum Operations to Exceed Threshold Value I"  
 Ссылка: [https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i)  
+✅ [Задача 3069](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3069/Task3069.cs) - "Distribute Elements Into Two Arrays I"  
+Ссылка: [https://leetcode.com/problems/distribute-elements-into-two-arrays-i](https://leetcode.com/problems/distribute-elements-into-two-arrays-i)  
