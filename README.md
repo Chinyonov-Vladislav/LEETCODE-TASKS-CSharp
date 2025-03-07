@@ -990,3 +990,5 @@
 Ссылка: [https://leetcode.com/problems/find-the-sum-of-encrypted-integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers)  
 ✅ [Задача 3083](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3083/Task3083.cs) - "Existence of a Substring in a String and Its Reverse"  
 Ссылка: [https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse)  
+✅ [Задача 3090](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3090/Task3090.cs) - "Maximum Length Substring With Two Occurrences"  
+Ссылка: [https://leetcode.com/problems/maximum-length-substring-with-two-occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences)  
