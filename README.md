@@ -988,3 +988,5 @@
 Ссылка: [https://leetcode.com/problems/apple-redistribution-into-boxes](https://leetcode.com/problems/apple-redistribution-into-boxes)  
 ✅ [Задача 3079](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3079/Task3079.cs) - "Find the Sum of Encrypted Integers"  
 Ссылка: [https://leetcode.com/problems/find-the-sum-of-encrypted-integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers)  
+✅ [Задача 3083](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3083/Task3083.cs) - "Existence of a Substring in a String and Its Reverse"  
+Ссылка: [https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse)  

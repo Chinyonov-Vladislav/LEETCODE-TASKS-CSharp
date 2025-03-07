@@ -495,6 +495,7 @@ using LeetCode.Tasks.task3065;
 using LeetCode.Tasks.task3069;
 using LeetCode.Tasks.task3074;
 using LeetCode.Tasks.task3079;
+using LeetCode.Tasks.task3083;
 
 namespace LeetCode
 {
@@ -999,7 +1000,8 @@ namespace LeetCode
                 new Task3065(3065,"Минимальное количество операций для превышения порогового значения I","",Difficult.easy),
                 new Task3069(3069,"Распределите элементы по двум массивам I","",Difficult.easy),
                 new Task3074(3074,"Разложение яблок по коробкам","",Difficult.easy),
-                new Task3079(3079,"Найдите сумму зашифрованных целых чисел","",Difficult.easy)
+                new Task3079(3079,"Найдите сумму зашифрованных целых чисел","",Difficult.easy),
+                new Task3083(3083,"Существование подстроки в строке и её обратное расположение","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
