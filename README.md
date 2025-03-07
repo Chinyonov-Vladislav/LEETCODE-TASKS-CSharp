@@ -994,3 +994,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-length-substring-with-two-occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences)  
 ✅ [Задача 3099](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3099/Task3099.cs) - "Harshad Number"  
 Ссылка: [https://leetcode.com/problems/harshad-number](https://leetcode.com/problems/harshad-number)  
+✅ [Задача 3120](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3120/Task3120.cs) - "Count the Number of Special Characters I"  
+Ссылка: [https://leetcode.com/problems/count-the-number-of-special-characters-i](https://leetcode.com/problems/count-the-number-of-special-characters-i)  
