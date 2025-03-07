@@ -986,3 +986,5 @@
 Ссылка: [https://leetcode.com/problems/distribute-elements-into-two-arrays-i](https://leetcode.com/problems/distribute-elements-into-two-arrays-i)  
 ✅ [Задача 3074](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3074/Task3074.cs) - "Apple Redistribution into Boxes"  
 Ссылка: [https://leetcode.com/problems/apple-redistribution-into-boxes](https://leetcode.com/problems/apple-redistribution-into-boxes)  
+✅ [Задача 3079](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3079/Task3079.cs) - "Find the Sum of Encrypted Integers"  
+Ссылка: [https://leetcode.com/problems/find-the-sum-of-encrypted-integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers)  
