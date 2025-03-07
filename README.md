@@ -992,3 +992,5 @@
 Ссылка: [https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse)  
 ✅ [Задача 3090](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3090/Task3090.cs) - "Maximum Length Substring With Two Occurrences"  
 Ссылка: [https://leetcode.com/problems/maximum-length-substring-with-two-occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences)  
+✅ [Задача 3099](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3099/Task3099.cs) - "Harshad Number"  
+Ссылка: [https://leetcode.com/problems/harshad-number](https://leetcode.com/problems/harshad-number)  

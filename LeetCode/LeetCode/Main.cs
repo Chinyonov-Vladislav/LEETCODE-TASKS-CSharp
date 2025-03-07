@@ -497,6 +497,7 @@ using LeetCode.Tasks.task3074;
 using LeetCode.Tasks.task3079;
 using LeetCode.Tasks.task3083;
 using LeetCode.Tasks.task3090;
+using LeetCode.Tasks.Task3099;
 
 namespace LeetCode
 {
@@ -1003,7 +1004,8 @@ namespace LeetCode
                 new Task3074(3074,"Разложение яблок по коробкам","",Difficult.easy),
                 new Task3079(3079,"Найдите сумму зашифрованных целых чисел","",Difficult.easy),
                 new Task3083(3083,"Существование подстроки в строке и её обратное расположение","",Difficult.easy),
-                new Task3090(3090,"Подстрока максимальной длины с двумя вхождениями","",Difficult.easy)
+                new Task3090(3090,"Подстрока максимальной длины с двумя вхождениями","",Difficult.easy),
+                new Task3099(3099,"Число Харшада","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
