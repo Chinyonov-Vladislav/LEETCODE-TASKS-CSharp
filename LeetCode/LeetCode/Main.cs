@@ -493,6 +493,7 @@ using LeetCode.Tasks.task3000;
 using LeetCode.Tasks.task3038;
 using LeetCode.Tasks.task3065;
 using LeetCode.Tasks.task3069;
+using LeetCode.Tasks.task3074;
 
 namespace LeetCode
 {
@@ -995,7 +996,8 @@ namespace LeetCode
                 new Task3000(3000,"Максимальная площадь прямоугольника с самой длинной диагональю","",Difficult.easy),
                 new Task3038(3038,"Максимальное количество операций с одинаковым результатом","",Difficult.easy),
                 new Task3065(3065,"Минимальное количество операций для превышения порогового значения I","",Difficult.easy),
-                new Task3069(3069,"Распределите элементы по двум массивам I","",Difficult.easy)
+                new Task3069(3069,"Распределите элементы по двум массивам I","",Difficult.easy),
+                new Task3074(3074,"Разложение яблок по коробкам","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

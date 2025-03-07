@@ -984,3 +984,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i)  
 ✅ [Задача 3069](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3069/Task3069.cs) - "Distribute Elements Into Two Arrays I"  
 Ссылка: [https://leetcode.com/problems/distribute-elements-into-two-arrays-i](https://leetcode.com/problems/distribute-elements-into-two-arrays-i)  
+✅ [Задача 3074](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3074/Task3074.cs) - "Apple Redistribution into Boxes"  
+Ссылка: [https://leetcode.com/problems/apple-redistribution-into-boxes](https://leetcode.com/problems/apple-redistribution-into-boxes)  
