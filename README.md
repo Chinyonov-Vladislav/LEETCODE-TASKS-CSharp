@@ -996,3 +996,5 @@
 Ссылка: [https://leetcode.com/problems/harshad-number](https://leetcode.com/problems/harshad-number)  
 ✅ [Задача 3120](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3120/Task3120.cs) - "Count the Number of Special Characters I"  
 Ссылка: [https://leetcode.com/problems/count-the-number-of-special-characters-i](https://leetcode.com/problems/count-the-number-of-special-characters-i)  
+✅ [Задача 3127](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3127/Task3127.cs) - "Make a Square with the Same Color"  
+Ссылка: [https://leetcode.com/problems/make-a-square-with-the-same-color](https://leetcode.com/problems/make-a-square-with-the-same-color)  
