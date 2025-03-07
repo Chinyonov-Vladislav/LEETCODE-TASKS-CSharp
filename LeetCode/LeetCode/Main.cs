@@ -491,6 +491,7 @@ using LeetCode.Tasks.task3005;
 using LeetCode.Tasks.task3028;
 using LeetCode.Tasks.task3000;
 using LeetCode.Tasks.task3038;
+using LeetCode.Tasks.task3065;
 
 namespace LeetCode
 {
@@ -991,7 +992,8 @@ namespace LeetCode
                 new Task3005(3005,"Подсчитывать элементы с максимальной частотой","",Difficult.easy),
                 new Task3028(3028,"Муравей на границе","",Difficult.easy),
                 new Task3000(3000,"Максимальная площадь прямоугольника с самой длинной диагональю","",Difficult.easy),
-                new Task3038(3038,"Максимальное количество операций с одинаковым результатом","",Difficult.easy)
+                new Task3038(3038,"Максимальное количество операций с одинаковым результатом","",Difficult.easy),
+                new Task3065(3065,"Минимальное количество операций для превышения порогового значения I","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

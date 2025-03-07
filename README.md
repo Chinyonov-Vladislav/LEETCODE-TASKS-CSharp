@@ -980,3 +980,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle)  
 ✅ [Задача 3038](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3038/Task3038.cs) - "Maximum Number of Operations With the Same Score I"  
 Ссылка: [https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i)  
+✅ [Задача 3065](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3065/Task3065.cs) - "Minimum Operations to Exceed Threshold Value I"  
+Ссылка: [https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i)  
