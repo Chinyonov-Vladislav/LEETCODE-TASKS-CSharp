@@ -998,3 +998,5 @@
 Ссылка: [https://leetcode.com/problems/count-the-number-of-special-characters-i](https://leetcode.com/problems/count-the-number-of-special-characters-i)  
 ✅ [Задача 3127](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3127/Task3127.cs) - "Make a Square with the Same Color"  
 Ссылка: [https://leetcode.com/problems/make-a-square-with-the-same-color](https://leetcode.com/problems/make-a-square-with-the-same-color)  
+✅ [Задача 3146](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3146/Task3146.cs) - "Permutation Difference between Two Strings"  
+Ссылка: [https://leetcode.com/problems/permutation-difference-between-two-strings](https://leetcode.com/problems/permutation-difference-between-two-strings)  
