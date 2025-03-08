@@ -1008,3 +1008,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-grid-satisfies-conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions)  
 ✅ [Задача 3046](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3046/Task3046.cs) - "https://leetcode.com/problems/split-the-array"  
 Ссылка: [https://leetcode.com/problems/split-the-array](https://leetcode.com/problems/split-the-array)  
+✅ [Задача 3158](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3158/Task3158.cs) - "Find the XOR of Numbers Which Appear Twice"  
+Ссылка: [https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice)  
