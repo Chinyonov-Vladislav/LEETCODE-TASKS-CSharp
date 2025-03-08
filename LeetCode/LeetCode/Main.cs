@@ -501,6 +501,7 @@ using LeetCode.Tasks.Task3099;
 using LeetCode.Tasks.task3120;
 using LeetCode.Tasks.task3127;
 using LeetCode.Tasks.task3146;
+using LeetCode.Tasks.task3095;
 
 namespace LeetCode
 {
@@ -1011,7 +1012,8 @@ namespace LeetCode
                 new Task3099(3099,"Число Харшада","",Difficult.easy),
                 new Task3120(3120,"Подсчитайте количество специальных символов I","",Difficult.easy),
                 new Task3127(3127,"Сделайте квадрат того же цвета","",Difficult.easy),
-                new Task3146(3146,"Разница в перестановках между двумя строками","",Difficult.easy)
+                new Task3146(3146,"Разница в перестановках между двумя строками","",Difficult.easy),
+                new Task3095(3095,"Кратчайший подмассив с ИЛИ не менее K I","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

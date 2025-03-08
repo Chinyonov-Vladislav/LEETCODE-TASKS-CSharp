@@ -1000,3 +1000,5 @@
 Ссылка: [https://leetcode.com/problems/make-a-square-with-the-same-color](https://leetcode.com/problems/make-a-square-with-the-same-color)  
 ✅ [Задача 3146](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3146/Task3146.cs) - "Permutation Difference between Two Strings"  
 Ссылка: [https://leetcode.com/problems/permutation-difference-between-two-strings](https://leetcode.com/problems/permutation-difference-between-two-strings)  
+✅ [Задача 3095](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3095/Task3095.cs) - "Shortest Subarray With OR at Least K I"  
+Ссылка: [https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i)  
