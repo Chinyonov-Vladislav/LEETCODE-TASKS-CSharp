@@ -1006,3 +1006,5 @@
 Ссылка: [https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray)  
 ✅ [Задача 3142](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3142/Task3142.cs) - "Check if Grid Satisfies Conditions"  
 Ссылка: [https://leetcode.com/problems/check-if-grid-satisfies-conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions)  
+✅ [Задача 3046](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3046/Task3046.cs) - "https://leetcode.com/problems/split-the-array"  
+Ссылка: [https://leetcode.com/problems/split-the-array](https://leetcode.com/problems/split-the-array)  

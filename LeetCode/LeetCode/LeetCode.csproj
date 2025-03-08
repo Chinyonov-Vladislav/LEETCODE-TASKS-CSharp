@@ -419,6 +419,7 @@
     <Compile Include="Tasks\task303\NumArray.cs" />
     <Compile Include="Tasks\task303\Task303.cs" />
     <Compile Include="Tasks\task3042\Task3042.cs" />
+    <Compile Include="Tasks\task3046\Task3046.cs" />
     <Compile Include="Tasks\task3065\Task3065.cs" />
     <Compile Include="Tasks\task3069\Task3069.cs" />
     <Compile Include="Tasks\task3074\Task3074.cs" />
