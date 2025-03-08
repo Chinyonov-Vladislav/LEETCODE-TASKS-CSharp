@@ -503,6 +503,7 @@ using LeetCode.Tasks.task3127;
 using LeetCode.Tasks.task3146;
 using LeetCode.Tasks.task3095;
 using LeetCode.Tasks.task3105;
+using LeetCode.Tasks.task3142;
 
 namespace LeetCode
 {
@@ -1015,7 +1016,8 @@ namespace LeetCode
                 new Task3127(3127,"Сделайте квадрат того же цвета","",Difficult.easy),
                 new Task3146(3146,"Разница в перестановках между двумя строками","",Difficult.easy),
                 new Task3095(3095,"Кратчайший подмассив с ИЛИ не менее K I","",Difficult.easy),
-                new Task3105(3105,"Самый длинный строго возрастающий или строго убывающий подмассив","",Difficult.easy)
+                new Task3105(3105,"Самый длинный строго возрастающий или строго убывающий подмассив","",Difficult.easy),
+                new Task3142(3142,"Проверьте, удовлетворяет ли сетка условиям","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

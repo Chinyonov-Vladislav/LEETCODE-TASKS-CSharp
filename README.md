@@ -1004,3 +1004,5 @@
 Ссылка: [https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i)  
 ✅ [Задача 3105](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3105/Task3105.cs) - "Longest Strictly Increasing or Strictly Decreasing Subarray"  
 Ссылка: [https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray)  
+✅ [Задача 3142](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3142/Task3142.cs) - "Check if Grid Satisfies Conditions"  
+Ссылка: [https://leetcode.com/problems/check-if-grid-satisfies-conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions)  
