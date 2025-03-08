@@ -1002,3 +1002,5 @@
 Ссылка: [https://leetcode.com/problems/permutation-difference-between-two-strings](https://leetcode.com/problems/permutation-difference-between-two-strings)  
 ✅ [Задача 3095](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3095/Task3095.cs) - "Shortest Subarray With OR at Least K I"  
 Ссылка: [https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i)  
+✅ [Задача 3105](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3105/Task3105.cs) - "Longest Strictly Increasing or Strictly Decreasing Subarray"  
+Ссылка: [https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray)  
