@@ -1016,3 +1016,5 @@
 Ссылка: [https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters](https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters)  
 ✅ [Задача 3033](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3033/Task3033.cs) - "Modify the Matrix"  
 Ссылка: [https://leetcode.com/problems/modify-the-matrix](https://leetcode.com/problems/modify-the-matrix)  
+✅ [Задача 2946](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2946/Task2946.cs) - "https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts"  
+Ссылка: [https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts)  
