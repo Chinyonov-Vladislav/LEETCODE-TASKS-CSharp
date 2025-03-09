@@ -1010,3 +1010,5 @@
 Ссылка: [https://leetcode.com/problems/split-the-array](https://leetcode.com/problems/split-the-array)  
 ✅ [Задача 3158](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3158/Task3158.cs) - "Find the XOR of Numbers Which Appear Twice"  
 Ссылка: [https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice)  
+✅ [Задача 3168](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3168/Task3168.cs) - "Minimum Number of Chairs in a Waiting Room"  
+Ссылка: [https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room)  
