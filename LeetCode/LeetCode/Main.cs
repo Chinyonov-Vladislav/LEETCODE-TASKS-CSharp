@@ -507,6 +507,7 @@ using LeetCode.Tasks.task3142;
 using LeetCode.Tasks.task3046;
 using LeetCode.Tasks.task3158;
 using LeetCode.Tasks.task3168;
+using LeetCode.Tasks.task3114;
 
 namespace LeetCode
 {
@@ -1023,7 +1024,8 @@ namespace LeetCode
                 new Task3142(3142,"Проверьте, удовлетворяет ли сетка условиям","",Difficult.easy),
                 new Task3046(3046,"Разделите массив","",Difficult.easy),
                 new Task3158(3158,"Найдите побитовое исключающее ИЛИ чисел, которые встречаются дважды","",Difficult.easy),
-                new Task3168(3168,"Минимальное количество стульев в комнате ожидания","",Difficult.easy)
+                new Task3168(3168,"Минимальное количество стульев в комнате ожидания","",Difficult.easy),
+                new Task3114(3114,"Последнее время, которое вы можете получить после замены символов","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

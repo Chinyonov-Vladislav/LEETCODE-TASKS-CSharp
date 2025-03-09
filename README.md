@@ -1012,3 +1012,5 @@
 Ссылка: [https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice)  
 ✅ [Задача 3168](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3168/Task3168.cs) - "Minimum Number of Chairs in a Waiting Room"  
 Ссылка: [https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room)  
+✅ [Задача 3114](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3114/Task3114.cs) - "Latest Time You Can Obtain After Replacing Characters"  
+Ссылка: [https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters](https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters)  
