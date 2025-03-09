@@ -1014,3 +1014,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room)  
 ✅ [Задача 3114](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3114/Task3114.cs) - "Latest Time You Can Obtain After Replacing Characters"  
 Ссылка: [https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters](https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters)  
+✅ [Задача 3033](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3033/Task3033.cs) - "Modify the Matrix"  
+Ссылка: [https://leetcode.com/problems/modify-the-matrix](https://leetcode.com/problems/modify-the-matrix)  
