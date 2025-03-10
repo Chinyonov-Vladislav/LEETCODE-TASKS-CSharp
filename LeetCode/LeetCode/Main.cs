@@ -511,6 +511,7 @@ using LeetCode.Tasks.task3114;
 using LeetCode.Tasks.task3033;
 using LeetCode.Tasks.task2946;
 using LeetCode.Tasks.task3174;
+using LeetCode.Tasks.task3178;
 
 namespace LeetCode
 {
@@ -1031,7 +1032,8 @@ namespace LeetCode
                 new Task3114(3114,"Последнее время, которое вы можете получить после замены символов","",Difficult.easy),
                 new Task3033(3033,"Модифицируйте матрицу","",Difficult.easy),
                 new Task2946(2946,"Подобие матрицы после циклических сдвигов","",Difficult.easy),
-                new Task3174(3174,"Четкие цифры","",Difficult.easy)
+                new Task3174(3174,"Четкие цифры","",Difficult.easy),
+                new Task3178(3178,"Найдите ребёнка, у которого через K секунд окажется мяч","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
