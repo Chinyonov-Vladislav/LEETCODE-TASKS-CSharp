@@ -522,6 +522,7 @@ using LeetCode.Tasks.task3216;
 using LeetCode.Tasks.task3222;
 using LeetCode.Tasks.task3226;
 using LeetCode.Tasks.task3232;
+using LeetCode.Tasks.task3238;
 
 namespace LeetCode
 {
@@ -1053,7 +1054,8 @@ namespace LeetCode
                 new Task3216(3216,"Лексикографически наименьшая строка после замены","",Difficult.easy),
                 new Task3222(3222,"Найдите победителя в игре с монетами","",Difficult.easy),
                 new Task3226(3226,"Количество битовых изменений, необходимых для того, чтобы два целых числа стали равны","",Difficult.easy),
-                new Task3232(3232,"Узнайте, можно ли выиграть в игру с цифрами","",Difficult.easy)
+                new Task3232(3232,"Узнайте, можно ли выиграть в игру с цифрами","",Difficult.easy),
+                new Task3238(3238,"Найдите количество выигравших игроков","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

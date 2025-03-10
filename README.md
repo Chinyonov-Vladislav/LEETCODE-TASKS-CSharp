@@ -1042,3 +1042,5 @@
 Ссылка: [https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal)  
 ✅ [Задача 3232](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3232/Task3232.cs) - "Find if Digit Game Can Be Won"  
 Ссылка: [https://leetcode.com/problems/find-if-digit-game-can-be-won](https://leetcode.com/problems/find-if-digit-game-can-be-won)  
+✅ [Задача 3238](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3238/Task3238.cs) - "Find the Number of Winning Players"  
+Ссылка: [https://leetcode.com/problems/find-the-number-of-winning-players](https://leetcode.com/problems/find-the-number-of-winning-players)  
