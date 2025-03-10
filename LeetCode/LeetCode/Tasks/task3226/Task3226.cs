@@ -60,10 +60,6 @@ namespace LeetCode.Tasks.task3226
             {
                 return 0;
             }
-            if (n < k)
-            {
-                return -1;
-            }
             if (n<k ||(n & k) != k)
             {
                 return -1;
