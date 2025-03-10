@@ -69,9 +69,13 @@ namespace LeetCode.Tasks.task3216
                     (arr[i], arr[i + 1]) = (arr[i + 1], arr[i]);
                     for (int j = 0; j < s.Length; j++)
                     {
-                        if (arr[j] < s[j])
+                        if (arr[j] != s[j])
                         {
-                            return new string(arr);
+                            if (arr[j] < s[j])
+                            {
+                                return new string(arr);
+                            }
+                            break;
                         }
                     }
                     (arr[i], arr[i + 1]) = (arr[i + 1], arr[i]);
