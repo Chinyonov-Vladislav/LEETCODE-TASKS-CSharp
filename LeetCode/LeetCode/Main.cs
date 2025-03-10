@@ -515,6 +515,7 @@ using LeetCode.Tasks.task3178;
 using LeetCode.Tasks.task3184;
 using LeetCode.Tasks.task3190;
 using LeetCode.Tasks.task3194;
+using LeetCode.Tasks.task3200;
 
 namespace LeetCode
 {
@@ -1039,7 +1040,8 @@ namespace LeetCode
                 new Task3178(3178,"Найдите ребёнка, у которого через K секунд окажется мяч","",Difficult.easy),
                 new Task3184(3184,"Подсчитайте пары, которые образуют полный день","",Difficult.easy),
                 new Task3190(3190,"Найдите минимальное количество операций, чтобы все элементы делились на три","",Difficult.easy),
-                new Task3194(3194,"Минимальное среднее значение наименьшего и наибольшего элементов","",Difficult.easy)
+                new Task3194(3194,"Минимальное среднее значение наименьшего и наибольшего элементов","",Difficult.easy),
+                new Task3200(3200,"Максимальная высота треугольника","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
