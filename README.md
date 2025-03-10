@@ -1030,3 +1030,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements)  
 ✅ [Задача 3200](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3200/Task3200.cs) - "Maximum Height of a Triangle"  
 Ссылка: [https://leetcode.com/problems/maximum-height-of-a-triangle](https://leetcode.com/problems/maximum-height-of-a-triangle)  
+✅ [Задача 3206](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3206/Task3206.cs) - "Alternating Groups I"  
+Ссылка: [https://leetcode.com/problems/alternating-groups-i](https://leetcode.com/problems/alternating-groups-i)  
