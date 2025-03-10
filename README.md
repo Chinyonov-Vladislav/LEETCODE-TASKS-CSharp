@@ -1032,3 +1032,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-height-of-a-triangle](https://leetcode.com/problems/maximum-height-of-a-triangle)  
 ✅ [Задача 3206](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3206/Task3206.cs) - "Alternating Groups I"  
 Ссылка: [https://leetcode.com/problems/alternating-groups-i](https://leetcode.com/problems/alternating-groups-i)  
+✅ [Задача 3210](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3210/Task3210.cs) - "Find the Encrypted String"  
+Ссылка: [https://leetcode.com/problems/find-the-encrypted-string](https://leetcode.com/problems/find-the-encrypted-string)  

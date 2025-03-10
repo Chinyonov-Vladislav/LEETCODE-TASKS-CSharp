@@ -517,6 +517,7 @@ using LeetCode.Tasks.task3190;
 using LeetCode.Tasks.task3194;
 using LeetCode.Tasks.task3200;
 using LeetCode.Tasks.task3206;
+using LeetCode.Tasks.task3210;
 
 namespace LeetCode
 {
@@ -1043,7 +1044,8 @@ namespace LeetCode
                 new Task3190(3190,"Найдите минимальное количество операций, чтобы все элементы делились на три","",Difficult.easy),
                 new Task3194(3194,"Минимальное среднее значение наименьшего и наибольшего элементов","",Difficult.easy),
                 new Task3200(3200,"Максимальная высота треугольника","",Difficult.easy),
-                new Task3206(3206,"Чередующиеся группы I","",Difficult.easy)
+                new Task3206(3206,"Чередующиеся группы I","",Difficult.easy),
+                new Task3210(3210,"Найдите зашифрованную строку","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
