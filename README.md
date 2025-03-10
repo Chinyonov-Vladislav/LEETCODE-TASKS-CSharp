@@ -1024,3 +1024,5 @@
 Ссылка: [https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds)  
 ✅ [Задача 3184](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3184/Task3184.cs) - "Count Pairs That Form a Complete Day I"  
 Ссылка: [https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i)  
+✅ [Задача 3190](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3190/Task3190.cs) - "Find Minimum Operations to Make All Elements Divisible by Three"  
+Ссылка: [https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three)  
