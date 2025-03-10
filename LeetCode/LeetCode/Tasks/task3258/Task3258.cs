@@ -117,10 +117,6 @@ namespace LeetCode.Tasks.task3258
                     {
                         count++;
                     }
-                    else
-                    {
-                        Console.WriteLine(subStr);
-                    }
                 }
                 length++;
             }
