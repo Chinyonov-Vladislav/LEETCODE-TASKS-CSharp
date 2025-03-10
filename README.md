@@ -1018,3 +1018,5 @@
 Ссылка: [https://leetcode.com/problems/modify-the-matrix](https://leetcode.com/problems/modify-the-matrix)  
 ✅ [Задача 2946](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2946/Task2946.cs) - "https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts"  
 Ссылка: [https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts)  
+✅ [Задача 3174](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3174/Task3174.cs) - "Clear Digits"  
+Ссылка: [https://leetcode.com/problems/clear-digits](https://leetcode.com/problems/clear-digits)  
