@@ -1034,3 +1034,5 @@
 Ссылка: [https://leetcode.com/problems/alternating-groups-i](https://leetcode.com/problems/alternating-groups-i)  
 ✅ [Задача 3210](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3210/Task3210.cs) - "Find the Encrypted String"  
 Ссылка: [https://leetcode.com/problems/find-the-encrypted-string](https://leetcode.com/problems/find-the-encrypted-string)  
+✅ [Задача 3216](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3216/Task3216.cs) - "Lexicographically Smallest String After a Swap"  
+Ссылка: [https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap)  
