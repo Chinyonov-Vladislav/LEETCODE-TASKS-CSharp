@@ -1044,3 +1044,5 @@
 Ссылка: [https://leetcode.com/problems/find-if-digit-game-can-be-won](https://leetcode.com/problems/find-if-digit-game-can-be-won)  
 ✅ [Задача 3238](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3238/Task3238.cs) - "Find the Number of Winning Players"  
 Ссылка: [https://leetcode.com/problems/find-the-number-of-winning-players](https://leetcode.com/problems/find-the-number-of-winning-players)  
+✅ [Задача 3258](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3258/Task3258.cs) - "Count Substrings That Satisfy K-Constraint I"  
+Ссылка: [https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i)  
