@@ -1026,3 +1026,5 @@
 Ссылка: [https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i)  
 ✅ [Задача 3190](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3190/Task3190.cs) - "Find Minimum Operations to Make All Elements Divisible by Three"  
 Ссылка: [https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three)  
+✅ [Задача 3194](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3194/Task3194.cs) - "Minimum Average of Smallest and Largest Elements"  
+Ссылка: [https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements)  
