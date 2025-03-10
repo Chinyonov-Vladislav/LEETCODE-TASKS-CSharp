@@ -1038,3 +1038,5 @@
 Ссылка: [https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap)  
 ✅ [Задача 3222](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3222/Task3222.cs) - "Find the Winning Player in Coin Game"  
 Ссылка: [https://leetcode.com/problems/find-the-winning-player-in-coin-game](https://leetcode.com/problems/find-the-winning-player-in-coin-game)  
+✅ [Задача 3226](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3226/Task3226.cs) - "Number of Bit Changes to Make Two Integers Equal"  
+Ссылка: [https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal)  
