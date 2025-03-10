@@ -519,6 +519,7 @@ using LeetCode.Tasks.task3200;
 using LeetCode.Tasks.task3206;
 using LeetCode.Tasks.task3210;
 using LeetCode.Tasks.task3216;
+using LeetCode.Tasks.task3222;
 
 namespace LeetCode
 {
@@ -1047,7 +1048,8 @@ namespace LeetCode
                 new Task3200(3200,"Максимальная высота треугольника","",Difficult.easy),
                 new Task3206(3206,"Чередующиеся группы I","",Difficult.easy),
                 new Task3210(3210,"Найдите зашифрованную строку","",Difficult.easy),
-                new Task3216(3216,"Лексикографически наименьшая строка после замены","",Difficult.easy)
+                new Task3216(3216,"Лексикографически наименьшая строка после замены","",Difficult.easy),
+                new Task3222(3222,"Найдите победителя в игре с монетами","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

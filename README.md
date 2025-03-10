@@ -1036,3 +1036,5 @@
 Ссылка: [https://leetcode.com/problems/find-the-encrypted-string](https://leetcode.com/problems/find-the-encrypted-string)  
 ✅ [Задача 3216](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3216/Task3216.cs) - "Lexicographically Smallest String After a Swap"  
 Ссылка: [https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap)  
+✅ [Задача 3222](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3222/Task3222.cs) - "Find the Winning Player in Coin Game"  
+Ссылка: [https://leetcode.com/problems/find-the-winning-player-in-coin-game](https://leetcode.com/problems/find-the-winning-player-in-coin-game)  
