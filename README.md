@@ -1022,3 +1022,5 @@
 Ссылка: [https://leetcode.com/problems/clear-digits](https://leetcode.com/problems/clear-digits)  
 ✅ [Задача 3178](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3178/Task3178.cs) - "Find the Child Who Has the Ball After K Seconds"  
 Ссылка: [https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds)  
+✅ [Задача 3184](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3184/Task3184.cs) - "Count Pairs That Form a Complete Day I"  
+Ссылка: [https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i)  

@@ -61,7 +61,6 @@ namespace LeetCode.Tasks.task3178
             bool positiveDirection = true;
             int countSeconds = 0;
             while (countSeconds < k) {
-                Console.WriteLine($"Секунда = {countSeconds} | индекс = {currentIndexChild}");
                 if (positiveDirection)
                 {
                     currentIndexChild++;
