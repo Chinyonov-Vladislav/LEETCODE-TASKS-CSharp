@@ -1058,3 +1058,5 @@
 Ссылка: [https://leetcode.com/problems/convert-date-to-binary](https://leetcode.com/problems/convert-date-to-binary)  
 ✅ [Задача 3285](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3285/Task3285.cs) - "Find Indices of Stable Mountains"  
 Ссылка: [https://leetcode.com/problems/find-indices-of-stable-mountains](https://leetcode.com/problems/find-indices-of-stable-mountains)  
+✅ [Задача 3289](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3289/Task3289.cs) - "The Two Sneaky Numbers of Digitville"  
+Ссылка: [https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville)  
