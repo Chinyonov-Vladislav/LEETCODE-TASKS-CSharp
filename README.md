@@ -1048,3 +1048,5 @@
 Ссылка: [https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i)  
 ✅ [Задача 3248](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3248/Task3248.cs) - "Snake in Matrix"  
 Ссылка: [https://leetcode.com/problems/snake-in-matrix](https://leetcode.com/problems/snake-in-matrix)  
+✅ [Задача 3264](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3264/Task3264.cs) - "Final Array State After K Multiplication Operations I"  
+Ссылка: [https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i)  
