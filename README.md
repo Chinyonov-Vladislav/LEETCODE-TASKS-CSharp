@@ -1046,3 +1046,5 @@
 Ссылка: [https://leetcode.com/problems/find-the-number-of-winning-players](https://leetcode.com/problems/find-the-number-of-winning-players)  
 ✅ [Задача 3258](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3258/Task3258.cs) - "Count Substrings That Satisfy K-Constraint I"  
 Ссылка: [https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i)  
+✅ [Задача 3248](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3248/Task3248.cs) - "Snake in Matrix"  
+Ссылка: [https://leetcode.com/problems/snake-in-matrix](https://leetcode.com/problems/snake-in-matrix)  

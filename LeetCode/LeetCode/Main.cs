@@ -524,6 +524,7 @@ using LeetCode.Tasks.task3226;
 using LeetCode.Tasks.task3232;
 using LeetCode.Tasks.task3238;
 using LeetCode.Tasks.task3258;
+using LeetCode.Tasks.task3248;
 
 namespace LeetCode
 {
@@ -1057,7 +1058,8 @@ namespace LeetCode
                 new Task3226(3226,"Количество битовых изменений, необходимых для того, чтобы два целых числа стали равны","",Difficult.easy),
                 new Task3232(3232,"Узнайте, можно ли выиграть в игру с цифрами","",Difficult.easy),
                 new Task3238(3238,"Найдите количество выигравших игроков","",Difficult.easy),
-                new Task3258(3258,"Подсчитайте количество подстрок, удовлетворяющих ограничению K","",Difficult.easy)
+                new Task3258(3258,"Подсчитайте количество подстрок, удовлетворяющих ограничению K","",Difficult.easy),
+                new Task3248(3248,"Змея в матрице","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
