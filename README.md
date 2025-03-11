@@ -1060,3 +1060,5 @@
 Ссылка: [https://leetcode.com/problems/find-indices-of-stable-mountains](https://leetcode.com/problems/find-indices-of-stable-mountains)  
 ✅ [Задача 3289](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3289/Task3289.cs) - "The Two Sneaky Numbers of Digitville"  
 Ссылка: [https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville)  
+✅ [Задача 3300](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3300/Task3300.cs) - "Minimum Element After Replacement With Digit Sum"  
+Ссылка: [https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum)  
