@@ -541,6 +541,7 @@ using LeetCode.Tasks.task3375;
 using LeetCode.Tasks.task3354;
 using LeetCode.Tasks.task3396;
 using LeetCode.Tasks.task3471;
+using LeetCode.Tasks.task3423;
 
 namespace LeetCode
 {
@@ -1091,7 +1092,8 @@ namespace LeetCode
                 new Task3375(3375,"Минимальное количество операций для приведения значений массива к K","",Difficult.easy),
                 new Task3354(3354,"Сделать элементы массива равными нулю","",Difficult.easy),
                 new Task3396(3396,"Минимальное количество операций для того, чтобы сделать элементы массива уникальными","",Difficult.easy),
-                new Task3471(3471,"Найдите самое большое почти отсутствующее целое число","",Difficult.easy)
+                new Task3471(3471,"Найдите самое большое почти отсутствующее целое число","",Difficult.easy),
+                new Task3423(3423,"Максимальная разница между соседними элементами в циклическом массиве","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

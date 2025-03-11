@@ -1080,3 +1080,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)  
 ✅ [Задача 3471](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3471/Task3471.cs) - "Find the Largest Almost Missing Integer"  
 Ссылка: [https://leetcode.com/problems/find-the-largest-almost-missing-integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer)  
+✅ [Задача 3423](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3423/Task3423.cs) - "Maximum Difference Between Adjacent Elements in a Circular Array"  
+Ссылка: [https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array)  
