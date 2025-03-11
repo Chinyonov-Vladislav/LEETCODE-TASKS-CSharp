@@ -1054,3 +1054,5 @@
 Ссылка: [https://leetcode.com/problems/find-the-key-of-the-numbers](https://leetcode.com/problems/find-the-key-of-the-numbers)  
 ✅ [Задача 3274](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3274/Task3274.cs) - "Check if Two Chessboard Squares Have the Same Color"  
 Ссылка: [https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color)  
+✅ [Задача 3280](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3280/Task3280.cs) - "Convert Date to Binary"  
+Ссылка: [https://leetcode.com/problems/convert-date-to-binary](https://leetcode.com/problems/convert-date-to-binary)  
