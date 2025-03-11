@@ -526,6 +526,7 @@ using LeetCode.Tasks.task3238;
 using LeetCode.Tasks.task3258;
 using LeetCode.Tasks.task3248;
 using LeetCode.Tasks.task3264;
+using LeetCode.Tasks.task3270;
 
 namespace LeetCode
 {
@@ -1061,7 +1062,8 @@ namespace LeetCode
                 new Task3238(3238,"Найдите количество выигравших игроков","",Difficult.easy),
                 new Task3258(3258,"Подсчитайте количество подстрок, удовлетворяющих ограничению K","",Difficult.easy),
                 new Task3248(3248,"Змея в матрице","",Difficult.easy),
-                new Task3264(3264,"Конечное состояние массива после K операций умножения I","",Difficult.easy)
+                new Task3264(3264,"Конечное состояние массива после K операций умножения I","",Difficult.easy),
+                new Task3270(3270,"Найди ключ к цифрам","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

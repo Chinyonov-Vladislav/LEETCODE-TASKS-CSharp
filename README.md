@@ -1050,3 +1050,5 @@
 Ссылка: [https://leetcode.com/problems/snake-in-matrix](https://leetcode.com/problems/snake-in-matrix)  
 ✅ [Задача 3264](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3264/Task3264.cs) - "Final Array State After K Multiplication Operations I"  
 Ссылка: [https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i)  
+✅ [Задача 3270](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3270/Task3270.cs) - "Find the Key of the Numbers"  
+Ссылка: [https://leetcode.com/problems/find-the-key-of-the-numbers](https://leetcode.com/problems/find-the-key-of-the-numbers)  
