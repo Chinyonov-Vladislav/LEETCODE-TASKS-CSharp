@@ -536,6 +536,7 @@ using LeetCode.Tasks.task3304;
 using LeetCode.Tasks.task3340;
 using LeetCode.Tasks.task3345;
 using LeetCode.Tasks.task3477;
+using LeetCode.Tasks.task904;
 
 namespace LeetCode
 {
@@ -1081,7 +1082,8 @@ namespace LeetCode
                 new Task3304(3304,"Найдите K-й символ в игре «Строка» I","",Difficult.easy),
                 new Task3340(3340,"Проверьте сбалансированную строку","",Difficult.easy),
                 new Task3345(3345,"Произведение наименьших делимых цифр I","",Difficult.easy),
-                new Task3477(3477,"Фрукты в корзинах II","",Difficult.easy)
+                new Task3477(3477,"Фрукты в корзинах II","",Difficult.easy),
+                new Task904(904,"Фрукты в корзинах","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

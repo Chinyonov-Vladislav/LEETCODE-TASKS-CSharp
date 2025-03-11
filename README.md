@@ -1070,3 +1070,5 @@
 Ссылка: [https://leetcode.com/problems/smallest-divisible-digit-product-i](https://leetcode.com/problems/smallest-divisible-digit-product-i)  
 ✅ [Задача 3477](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3477/Task3477.cs) - "Fruits Into Baskets II"  
 Ссылка: [https://leetcode.com/problems/fruits-into-baskets-ii](https://leetcode.com/problems/fruits-into-baskets-ii)  
+✅ [Задача 904](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task904/Task904.cs) - "Fruits Into Baskets"  
+Ссылка: [https://leetcode.com/problems/fruit-into-baskets](https://leetcode.com/problems/fruit-into-baskets)  
