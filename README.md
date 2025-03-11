@@ -1076,3 +1076,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k)  
 ✅ [Задача 3354](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3354/Task3354.cs) - "Make Array Elements Equal to Zero"  
 Ссылка: [https://leetcode.com/problems/make-array-elements-equal-to-zero](https://leetcode.com/problems/make-array-elements-equal-to-zero)  
+✅ [Задача 3396](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3396/Task3396.cs) - "Minimum Number of Operations to Make Elements in Array Distinct"  
+Ссылка: [https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)  

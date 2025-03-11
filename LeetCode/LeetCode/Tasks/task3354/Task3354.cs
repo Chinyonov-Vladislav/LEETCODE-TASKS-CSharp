@@ -120,7 +120,6 @@ namespace LeetCode.Tasks.task3354
                             }
                         }
                     }
-                    printArray(copyNums, "ТВАРЬ: ");
                     HashSet<int> uniqVal = new HashSet<int>(copyNums);
                     if (uniqVal.Count == 1 && uniqVal.Contains(0))
                     {
