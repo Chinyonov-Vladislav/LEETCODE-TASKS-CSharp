@@ -527,6 +527,7 @@ using LeetCode.Tasks.task3258;
 using LeetCode.Tasks.task3248;
 using LeetCode.Tasks.task3264;
 using LeetCode.Tasks.task3270;
+using LeetCode.Tasks.task3274;
 
 namespace LeetCode
 {
@@ -1063,7 +1064,8 @@ namespace LeetCode
                 new Task3258(3258,"Подсчитайте количество подстрок, удовлетворяющих ограничению K","",Difficult.easy),
                 new Task3248(3248,"Змея в матрице","",Difficult.easy),
                 new Task3264(3264,"Конечное состояние массива после K операций умножения I","",Difficult.easy),
-                new Task3270(3270,"Найди ключ к цифрам","",Difficult.easy)
+                new Task3270(3270,"Найди ключ к цифрам","",Difficult.easy),
+                new Task3274(3274,"Проверьте, совпадают ли цвета двух клеток шахматной доски","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

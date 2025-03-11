@@ -1052,3 +1052,5 @@
 Ссылка: [https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i)  
 ✅ [Задача 3270](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3270/Task3270.cs) - "Find the Key of the Numbers"  
 Ссылка: [https://leetcode.com/problems/find-the-key-of-the-numbers](https://leetcode.com/problems/find-the-key-of-the-numbers)  
+✅ [Задача 3274](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3274/Task3274.cs) - "Check if Two Chessboard Squares Have the Same Color"  
+Ссылка: [https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color)  
