@@ -1082,3 +1082,5 @@
 Ссылка: [https://leetcode.com/problems/find-the-largest-almost-missing-integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer)  
 ✅ [Задача 3423](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3423/Task3423.cs) - "Maximum Difference Between Adjacent Elements in a Circular Array"  
 Ссылка: [https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array)  
+✅ [Задача 3370](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3370/Task3370.cs) - "Smallest Number With All Set Bits"  
+Ссылка: [https://leetcode.com/problems/smallest-number-with-all-set-bits](https://leetcode.com/problems/smallest-number-with-all-set-bits)  
