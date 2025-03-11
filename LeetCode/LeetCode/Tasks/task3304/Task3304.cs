@@ -56,7 +56,7 @@ namespace LeetCode.Tasks.task3304
         private char KthCharacter(int k)
         {
             string initialString = "a";
-            while (k >= initialString.Length)
+            while (k > initialString.Length)
             {
                 StringBuilder sb = new StringBuilder();
                 for (int i = 0; i < initialString.Length; i++)
@@ -72,7 +72,7 @@ namespace LeetCode.Tasks.task3304
                 }
                 initialString = initialString + sb.ToString();
             }
-            return initialString[k];
+            return initialString[k-1];
         }
     }
 }
