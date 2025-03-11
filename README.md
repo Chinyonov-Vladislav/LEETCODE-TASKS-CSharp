@@ -1084,3 +1084,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array)  
 ✅ [Задача 3370](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3370/Task3370.cs) - "Smallest Number With All Set Bits"  
 Ссылка: [https://leetcode.com/problems/smallest-number-with-all-set-bits](https://leetcode.com/problems/smallest-number-with-all-set-bits)  
+✅ [Задача 3349](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3349/Task3349.cs) - "Adjacent Increasing Subarrays Detection I"  
+Ссылка: [https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i)  

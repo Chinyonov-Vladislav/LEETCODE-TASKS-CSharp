@@ -195,7 +195,7 @@ namespace LeetCode.Basic
                 }
             }
         }
-        protected void printIListInt(IList<int> list, string header)
+        protected void printIListInt(IList<int> list, string header = "Исходный список чисел: ")
         {
             if (list.Count == 0)
             {
