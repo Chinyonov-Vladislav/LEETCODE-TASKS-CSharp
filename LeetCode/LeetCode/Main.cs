@@ -529,6 +529,7 @@ using LeetCode.Tasks.task3264;
 using LeetCode.Tasks.task3270;
 using LeetCode.Tasks.task3274;
 using LeetCode.Tasks.task3280;
+using LeetCode.Tasks.task3285;
 
 namespace LeetCode
 {
@@ -1067,7 +1068,8 @@ namespace LeetCode
                 new Task3264(3264,"Конечное состояние массива после K операций умножения I","",Difficult.easy),
                 new Task3270(3270,"Найди ключ к цифрам","",Difficult.easy),
                 new Task3274(3274,"Проверьте, совпадают ли цвета двух клеток шахматной доски","",Difficult.easy),
-                new Task3280(3280,"Преобразование даты в двоичный код","",Difficult.easy)
+                new Task3280(3280,"Преобразование даты в двоичный код","",Difficult.easy),
+                new Task3285(3285,"Найдите индексы cтабильных гор","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

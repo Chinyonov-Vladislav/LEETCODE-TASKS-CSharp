@@ -1056,3 +1056,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color)  
 ✅ [Задача 3280](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3280/Task3280.cs) - "Convert Date to Binary"  
 Ссылка: [https://leetcode.com/problems/convert-date-to-binary](https://leetcode.com/problems/convert-date-to-binary)  
+✅ [Задача 3285](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3285/Task3285.cs) - "Find Indices of Stable Mountains"  
+Ссылка: [https://leetcode.com/problems/find-indices-of-stable-mountains](https://leetcode.com/problems/find-indices-of-stable-mountains)  
