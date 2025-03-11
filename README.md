@@ -1066,3 +1066,5 @@
 Ссылка: [https://leetcode.com/problems/find-the-k-th-character-in-string-game-i](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i)  
 ✅ [Задача 3340](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3340/Task3340.cs) - "Check Balanced String"  
 Ссылка: [https://leetcode.com/problems/check-balanced-string](https://leetcode.com/problems/check-balanced-string)  
+✅ [Задача 3345](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3345/Task3345.cs) - "Smallest Divisible Digit Product I"  
+Ссылка: [https://leetcode.com/problems/smallest-divisible-digit-product-i](https://leetcode.com/problems/smallest-divisible-digit-product-i)  
