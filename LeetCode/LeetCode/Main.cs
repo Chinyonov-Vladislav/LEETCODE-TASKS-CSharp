@@ -540,6 +540,7 @@ using LeetCode.Tasks.task904;
 using LeetCode.Tasks.task3375;
 using LeetCode.Tasks.task3354;
 using LeetCode.Tasks.task3396;
+using LeetCode.Tasks.task3471;
 
 namespace LeetCode
 {
@@ -1089,7 +1090,8 @@ namespace LeetCode
                 new Task904(904,"Фрукты в корзинах","",Difficult.medium),
                 new Task3375(3375,"Минимальное количество операций для приведения значений массива к K","",Difficult.easy),
                 new Task3354(3354,"Сделать элементы массива равными нулю","",Difficult.easy),
-                new Task3396(3396,"Минимальное количество операций для того, чтобы сделать элементы массива уникальными","",Difficult.easy)
+                new Task3396(3396,"Минимальное количество операций для того, чтобы сделать элементы массива уникальными","",Difficult.easy),
+                new Task3471(3471,"Найдите самое большое почти отсутствующее целое число","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

@@ -1078,3 +1078,5 @@
 Ссылка: [https://leetcode.com/problems/make-array-elements-equal-to-zero](https://leetcode.com/problems/make-array-elements-equal-to-zero)  
 ✅ [Задача 3396](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3396/Task3396.cs) - "Minimum Number of Operations to Make Elements in Array Distinct"  
 Ссылка: [https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)  
+✅ [Задача 3471](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3471/Task3471.cs) - "Find the Largest Almost Missing Integer"  
+Ссылка: [https://leetcode.com/problems/find-the-largest-almost-missing-integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer)  
