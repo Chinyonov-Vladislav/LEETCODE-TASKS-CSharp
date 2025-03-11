@@ -1062,3 +1062,5 @@
 Ссылка: [https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville)  
 ✅ [Задача 3300](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3300/Task3300.cs) - "Minimum Element After Replacement With Digit Sum"  
 Ссылка: [https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum)  
+✅ [Задача 3304](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3304/Task3304.cs) - "Find the K-th Character in String Game I"  
+Ссылка: [https://leetcode.com/problems/find-the-k-th-character-in-string-game-i](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i)  
