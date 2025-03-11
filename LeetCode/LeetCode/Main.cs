@@ -537,6 +537,7 @@ using LeetCode.Tasks.task3340;
 using LeetCode.Tasks.task3345;
 using LeetCode.Tasks.task3477;
 using LeetCode.Tasks.task904;
+using LeetCode.Tasks.task3375;
 
 namespace LeetCode
 {
@@ -1083,7 +1084,8 @@ namespace LeetCode
                 new Task3340(3340,"Проверьте сбалансированную строку","",Difficult.easy),
                 new Task3345(3345,"Произведение наименьших делимых цифр I","",Difficult.easy),
                 new Task3477(3477,"Фрукты в корзинах II","",Difficult.easy),
-                new Task904(904,"Фрукты в корзинах","",Difficult.medium)
+                new Task904(904,"Фрукты в корзинах","",Difficult.medium),
+                new Task3375(3375,"Минимальное количество операций для приведения значений массива к K","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

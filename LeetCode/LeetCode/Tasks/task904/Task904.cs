@@ -63,36 +63,31 @@ namespace LeetCode.Tasks.task904
         }
         private int totalFruit(int[] fruits)
         {
-            int count = 0;
-            for (int i = 0; i < fruits.Length; i++)
+            int maxFruits = 0;
+            int left = 0;
+            Dictionary<int, int> fruitCounts = new Dictionary<int, int>();
+
+            for (int right = 0; right < fruits.Length; right++)
             {
-                int totalLocal = 0;
-                HashSet<int> set = new HashSet<int>();
-                for (int j = i; j < fruits.Length; j++)
+                if (!fruitCounts.ContainsKey(fruits[right]))
                 {
-                    if (set.Contains(fruits[j]))
-                    {
-                        totalLocal++;
-                    }
-                    else
-                    {
-                        if (set.Count == 2)
-                        {
-                            break;
-                        }
-                        else
-                        {
-                            set.Add(fruits[j]);
-                            totalLocal++;
-                        }
-                    }
+                    fruitCounts[fruits[right]] = 0;
                 }
-                if (totalLocal > count)
+                fruitCounts[fruits[right]]++;
+
+                while (fruitCounts.Count > 2)
                 {
-                    count = totalLocal;
+                    fruitCounts[fruits[left]]--;
+                    if (fruitCounts[fruits[left]] == 0)
+                    {
+                        fruitCounts.Remove(fruits[left]);
+                    }
+                    left++;
                 }
+                maxFruits = Math.Max(maxFruits, right - left + 1);
             }
-            return count;
+
+            return maxFruits;
         }
     }
 }

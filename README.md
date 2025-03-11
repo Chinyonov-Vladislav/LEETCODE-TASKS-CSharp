@@ -1072,3 +1072,5 @@
 Ссылка: [https://leetcode.com/problems/fruits-into-baskets-ii](https://leetcode.com/problems/fruits-into-baskets-ii)  
 ✅ [Задача 904](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task904/Task904.cs) - "Fruits Into Baskets"  
 Ссылка: [https://leetcode.com/problems/fruit-into-baskets](https://leetcode.com/problems/fruit-into-baskets)  
+✅ [Задача 3375](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3375/Task3375.cs) - "Minimum Operations to Make Array Values Equal to K"  
+Ссылка: [https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k)  
