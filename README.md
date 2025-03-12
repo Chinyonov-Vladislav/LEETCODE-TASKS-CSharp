@@ -1100,3 +1100,5 @@
 Ссылка: [https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i)  
 ✅ [Задача 3364](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3364/Task3364.cs) - "Minimum Positive Sum Subarray"  
 Ссылка: [https://leetcode.com/problems/minimum-positive-sum-subarray](https://leetcode.com/problems/minimum-positive-sum-subarray)  
+✅ [Задача 3386](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3386/Task3386.cs) - "Button with Longest Push Time"  
+Ссылка: [https://leetcode.com/problems/button-with-longest-push-time](https://leetcode.com/problems/button-with-longest-push-time)  
