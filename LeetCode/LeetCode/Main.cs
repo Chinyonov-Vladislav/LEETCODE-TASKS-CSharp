@@ -545,6 +545,7 @@ using LeetCode.Tasks.task3423;
 using LeetCode.Tasks.task3370;
 using LeetCode.Tasks.task3349;
 using LeetCode.Tasks.task3379;
+using LeetCode.Tasks.task3402;
 
 namespace LeetCode
 {
@@ -1099,7 +1100,8 @@ namespace LeetCode
                 new Task3423(3423,"Максимальная разница между соседними элементами в циклическом массиве","",Difficult.easy),
                 new Task3370(3370,"Наименьшее число со всеми установленными битами","",Difficult.easy),
                 new Task3349(3349,"Обнаружение соседних увеличивающихся подмассивов I","",Difficult.easy),
-                new Task3379(3379,"Преобразованный массив","",Difficult.easy)
+                new Task3379(3379,"Преобразованный массив","",Difficult.easy),
+                new Task3402(3402,"Минимум операций для того, чтобы столбцы строго увеличивались","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

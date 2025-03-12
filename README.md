@@ -1088,3 +1088,5 @@
 Ссылка: [https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i)  
 ✅ [Задача 3379](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3379/Task3379.cs) - "Transformed Array"  
 Ссылка: [https://leetcode.com/problems/transformed-array](https://leetcode.com/problems/transformed-array)  
+✅ [Задача 3402](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3402/Task3402.cs) - "Minimum Operations to Make Columns Strictly Increasing"  
+Ссылка: [https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing](https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing)  
