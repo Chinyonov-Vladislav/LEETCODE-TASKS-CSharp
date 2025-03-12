@@ -1098,3 +1098,5 @@
 Ссылка: [https://leetcode.com/problems/sum-of-good-numbers](https://leetcode.com/problems/sum-of-good-numbers)  
 ✅ [Задача 3461](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3461/Task3461.cs) - "Check If Digits Are Equal in String After Operations I"  
 Ссылка: [https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i)  
+✅ [Задача 3364](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3364/Task3364.cs) - "Minimum Positive Sum Subarray"  
+Ссылка: [https://leetcode.com/problems/minimum-positive-sum-subarray](https://leetcode.com/problems/minimum-positive-sum-subarray)  

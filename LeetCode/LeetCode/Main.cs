@@ -550,6 +550,7 @@ using LeetCode.Tasks.task3411;
 using LeetCode.Tasks.task3427;
 using LeetCode.Tasks.task3452;
 using LeetCode.Tasks.task3461;
+using LeetCode.Tasks.task3364;
 
 namespace LeetCode
 {
@@ -1109,7 +1110,8 @@ namespace LeetCode
                 new Task3411(3411,"Максимальная длина подмассива с равными произведениями","",Difficult.easy),
                 new Task3427(3427,"Сумма подмассивов переменной длины","",Difficult.easy),
                 new Task3452(3452,"Сумма хороших чисел","",Difficult.easy),
-                new Task3461(3461,"Проверьте, совпадают ли цифры в строке после выполнения операций I","",Difficult.easy)
+                new Task3461(3461,"Проверьте, совпадают ли цифры в строке после выполнения операций I","",Difficult.easy),
+                new Task3364(3364,"Подмассив с минимальной положительной суммой ","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
