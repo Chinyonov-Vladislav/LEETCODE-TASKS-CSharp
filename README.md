@@ -1086,3 +1086,5 @@
 Ссылка: [https://leetcode.com/problems/smallest-number-with-all-set-bits](https://leetcode.com/problems/smallest-number-with-all-set-bits)  
 ✅ [Задача 3349](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3349/Task3349.cs) - "Adjacent Increasing Subarrays Detection I"  
 Ссылка: [https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i)  
+✅ [Задача 3379](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3379/Task3379.cs) - "Transformed Array"  
+Ссылка: [https://leetcode.com/problems/transformed-array](https://leetcode.com/problems/transformed-array)  
