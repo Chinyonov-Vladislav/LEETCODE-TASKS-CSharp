@@ -1096,3 +1096,5 @@
 Ссылка: [https://leetcode.com/problems/sum-of-variable-length-subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays)  
 ✅ [Задача 3452](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3452/Task3452.cs) - "Sum of Good Numbers"  
 Ссылка: [https://leetcode.com/problems/sum-of-good-numbers](https://leetcode.com/problems/sum-of-good-numbers)  
+✅ [Задача 3461](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3461/Task3461.cs) - "Check If Digits Are Equal in String After Operations I"  
+Ссылка: [https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i)  
