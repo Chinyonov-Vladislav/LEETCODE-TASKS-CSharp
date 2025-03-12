@@ -1092,3 +1092,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing](https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing)  
 ✅ [Задача 3411](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3411/Task3411.cs) - "Maximum Subarray With Equal Products"  
 Ссылка: [https://leetcode.com/problems/maximum-subarray-with-equal-products](https://leetcode.com/problems/maximum-subarray-with-equal-products)  
+✅ [Задача 3427](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3427/Task3427.cs) - "Sum of Variable Length Subarrays"  
+Ссылка: [https://leetcode.com/problems/sum-of-variable-length-subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays)  
