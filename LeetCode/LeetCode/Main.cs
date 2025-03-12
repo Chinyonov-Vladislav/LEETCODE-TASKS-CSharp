@@ -556,6 +556,7 @@ using LeetCode.Tasks.task3407;
 using LeetCode.Tasks.task3392;
 using LeetCode.Tasks.task3330;
 using LeetCode.Tasks.task3360;
+using LeetCode.Tasks.task3456;
 
 namespace LeetCode
 {
@@ -1121,7 +1122,8 @@ namespace LeetCode
                 new Task3407(3407,"Шаблон сопоставления подстрок","",Difficult.easy),
                 new Task3392(3392,"Подсчитайте количество подмассивов длиной три с условием","",Difficult.easy),
                 new Task3330(3330,"Найдите исходную введенную строку I","",Difficult.easy),
-                new Task3360(3360,"Игра по удалению камней","",Difficult.easy)
+                new Task3360(3360,"Игра по удалению камней","",Difficult.easy),
+                new Task3456(3456,"Найти специальную подстроку длиной K","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
