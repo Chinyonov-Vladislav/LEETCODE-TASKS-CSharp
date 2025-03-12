@@ -548,6 +548,7 @@ using LeetCode.Tasks.task3379;
 using LeetCode.Tasks.task3402;
 using LeetCode.Tasks.task3411;
 using LeetCode.Tasks.task3427;
+using LeetCode.Tasks.task3452;
 
 namespace LeetCode
 {
@@ -1105,7 +1106,8 @@ namespace LeetCode
                 new Task3379(3379,"Преобразованный массив","",Difficult.easy),
                 new Task3402(3402,"Минимум операций для того, чтобы столбцы строго увеличивались","",Difficult.easy),
                 new Task3411(3411,"Максимальная длина подмассива с равными произведениями","",Difficult.easy),
-                new Task3427(3427,"Сумма подмассивов переменной длины","",Difficult.easy)
+                new Task3427(3427,"Сумма подмассивов переменной длины","",Difficult.easy),
+                new Task3452(3452,"Сумма хороших чисел","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

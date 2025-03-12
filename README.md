@@ -1094,3 +1094,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-subarray-with-equal-products](https://leetcode.com/problems/maximum-subarray-with-equal-products)  
 ✅ [Задача 3427](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3427/Task3427.cs) - "Sum of Variable Length Subarrays"  
 Ссылка: [https://leetcode.com/problems/sum-of-variable-length-subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays)  
+✅ [Задача 3452](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3452/Task3452.cs) - "Sum of Good Numbers"  
+Ссылка: [https://leetcode.com/problems/sum-of-good-numbers](https://leetcode.com/problems/sum-of-good-numbers)  
