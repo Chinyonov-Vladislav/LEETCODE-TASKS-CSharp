@@ -1104,3 +1104,5 @@
 Ссылка: [https://leetcode.com/problems/button-with-longest-push-time](https://leetcode.com/problems/button-with-longest-push-time)  
 ✅ [Задача 3407](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3407/Task3407.cs) - "Substring Matching Pattern"  
 Ссылка: [https://leetcode.com/problems/substring-matching-pattern](https://leetcode.com/problems/substring-matching-pattern)  
+✅ [Задача 3392](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3392/Task3392.cs) - "Count Subarrays of Length Three With a Condition"  
+Ссылка: [https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition)  
