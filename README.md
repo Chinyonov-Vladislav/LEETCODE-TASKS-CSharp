@@ -1108,3 +1108,5 @@
 Ссылка: [https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition)  
 ✅ [Задача 3330](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3330/Task3330.cs) - "Find the Original Typed String I"  
 Ссылка: [https://leetcode.com/problems/find-the-original-typed-string-i](https://leetcode.com/problems/find-the-original-typed-string-i)  
+✅ [Задача 3360](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3360/Task3360.cs) - "Stone Removal Game"  
+Ссылка: [https://leetcode.com/problems/stone-removal-game](https://leetcode.com/problems/stone-removal-game)  
