@@ -552,6 +552,7 @@ using LeetCode.Tasks.task3452;
 using LeetCode.Tasks.task3461;
 using LeetCode.Tasks.task3364;
 using LeetCode.Tasks.task3386;
+using LeetCode.Tasks.task3407;
 
 namespace LeetCode
 {
@@ -1113,7 +1114,8 @@ namespace LeetCode
                 new Task3452(3452,"Сумма хороших чисел","",Difficult.easy),
                 new Task3461(3461,"Проверьте, совпадают ли цифры в строке после выполнения операций I","",Difficult.easy),
                 new Task3364(3364,"Подмассив с минимальной положительной суммой ","",Difficult.easy),
-                new Task3386(3386,"Кнопка с наибольшим временем нажатия","",Difficult.easy)
+                new Task3386(3386,"Кнопка с наибольшим временем нажатия","",Difficult.easy),
+                new Task3407(3407,"Шаблон сопоставления подстрок","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

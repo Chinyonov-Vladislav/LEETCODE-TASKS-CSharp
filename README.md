@@ -1102,3 +1102,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-positive-sum-subarray](https://leetcode.com/problems/minimum-positive-sum-subarray)  
 ✅ [Задача 3386](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3386/Task3386.cs) - "Button with Longest Push Time"  
 Ссылка: [https://leetcode.com/problems/button-with-longest-push-time](https://leetcode.com/problems/button-with-longest-push-time)  
+✅ [Задача 3407](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3407/Task3407.cs) - "Substring Matching Pattern"  
+Ссылка: [https://leetcode.com/problems/substring-matching-pattern](https://leetcode.com/problems/substring-matching-pattern)  
