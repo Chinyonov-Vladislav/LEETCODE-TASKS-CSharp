@@ -1112,3 +1112,5 @@
 Ссылка: [https://leetcode.com/problems/stone-removal-game](https://leetcode.com/problems/stone-removal-game)  
 ✅ [Задача 3456](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3456/Task3456.cs) - "Find Special Substring of Length K"  
 Ссылка: [https://leetcode.com/problems/find-special-substring-of-length-k](https://leetcode.com/problems/find-special-substring-of-length-k)  
+✅ [Задача 3438](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3438/Task3438.cs) - "Find Valid Pair of Adjacent Digits in String"  
+Ссылка: [https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string](https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string)  
