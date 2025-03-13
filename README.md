@@ -1146,3 +1146,5 @@
 Ссылка: [https://leetcode.com/problems/matrix-cells-in-distance-order](https://leetcode.com/problems/matrix-cells-in-distance-order)  
 ✅ [Задача 1275](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1275/Task1275.cs) - "Find Winner on a Tic Tac Toe Game"  
 Ссылка: [https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game)  
+✅ [Задача 1370](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1370/Task1370.cs) - "Increasing Decreasing String"  
+Ссылка: [https://leetcode.com/problems/increasing-decreasing-string](https://leetcode.com/problems/increasing-decreasing-string)  
