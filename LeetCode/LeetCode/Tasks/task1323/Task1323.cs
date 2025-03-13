@@ -61,11 +61,12 @@ namespace LeetCode.Tasks.task1323
         }
         private int maximum69Number(int num)
         {
+            int copyNum = num;
             List<int> digits = new List<int>();
-            while (num != 0)
+            while (copyNum != 0)
             {
-                digits.Insert(0,num % 10);
-                num /= 10;
+                digits.Insert(0, copyNum % 10);
+                copyNum /= 10;
             }
             bool hasChange = false;
             for (int i = 0; i < digits.Count; i++)
