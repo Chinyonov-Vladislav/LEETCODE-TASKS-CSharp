@@ -1144,3 +1144,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-69-number](https://leetcode.com/problems/maximum-69-number)  
 ✅ [Задача 1030](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1030/Task1030.cs) - "Matrix Cells in Distance Order"  
 Ссылка: [https://leetcode.com/problems/matrix-cells-in-distance-order](https://leetcode.com/problems/matrix-cells-in-distance-order)  
+✅ [Задача 1275](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1275/Task1275.cs) - "Find Winner on a Tic Tac Toe Game"  
+Ссылка: [https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game)  

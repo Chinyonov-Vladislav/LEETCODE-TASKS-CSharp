@@ -572,6 +572,7 @@ using LeetCode.Tasks.task908;
 using LeetCode.Tasks.task888;
 using LeetCode.Tasks.task1323;
 using LeetCode.Tasks.task1030;
+using LeetCode.Tasks.task1275;
 
 namespace LeetCode
 {
@@ -1154,7 +1155,8 @@ namespace LeetCode
                 new Task908(908,"Наименьший диапазон I","",Difficult.easy),
                 new Task888(888,"Честный обмен конфетами","",Difficult.easy),
                 new Task1323(1323,"Максимальное число 69","",Difficult.easy),
-                new Task1030(1030,"Ячейки матрицы в порядке удаления","",Difficult.easy)
+                new Task1030(1030,"Ячейки матрицы в порядке удаления","",Difficult.easy),
+                new Task1275(1275,"Найдите победителя в игре «Крестики-нолики»","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
