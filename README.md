@@ -1118,3 +1118,5 @@
 Ссылка: [https://leetcode.com/problems/count-partitions-with-even-sum-difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference)  
 ✅ [Задача 70](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task70/Task70.cs) - "Climbing Stairs"  
 Ссылка: [https://leetcode.com/problems/climbing-stairs](https://leetcode.com/problems/climbing-stairs)  
+✅ [Задача 171](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task171/Task171.cs) - "Excel Sheet Column Number"  
+Ссылка: [https://leetcode.com/problems/excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number)  

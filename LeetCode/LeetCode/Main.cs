@@ -560,6 +560,7 @@ using LeetCode.Tasks.task3456;
 using LeetCode.Tasks.task3438;
 using LeetCode.Tasks.task3432;
 using LeetCode.Tasks.task70;
+using LeetCode.Tasks.task171;
 
 namespace LeetCode
 {
@@ -1129,7 +1130,8 @@ namespace LeetCode
                 new Task3456(3456,"Найти специальную подстроку длиной K","",Difficult.easy),
                 new Task3438(3438,"Найдите допустимую пару соседних цифр в строке","",Difficult.easy),
                 new Task3432(3432,"Подсчитайте разделы с четной разницей сумм","",Difficult.easy),
-                new Task70(70,"Подъем по лестнице","",Difficult.easy)
+                new Task70(70,"Подъем по лестнице","",Difficult.easy),
+                new Task171(171,"Номер столбца на листе Excel","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
