@@ -1126,3 +1126,5 @@
 Ссылка: [https://leetcode.com/problems/transform-array-by-parity](https://leetcode.com/problems/transform-array-by-parity)  
 ✅ [Задача 3417](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3417/Task3417.cs) - "Zigzag Grid Traversal With Skip"  
 Ссылка: [https://leetcode.com/problems/zigzag-grid-traversal-with-skip](https://leetcode.com/problems/zigzag-grid-traversal-with-skip)  
+✅ [Задача 3442](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3442/Task3442.cs) - "Maximum Difference Between Even and Odd Frequency I"  
+Ссылка: [https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i)  

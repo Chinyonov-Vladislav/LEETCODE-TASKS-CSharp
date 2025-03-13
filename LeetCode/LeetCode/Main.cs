@@ -563,6 +563,7 @@ using LeetCode.Tasks.task70;
 using LeetCode.Tasks.task171;
 using LeetCode.Tasks.task3467;
 using LeetCode.Tasks.task3417;
+using LeetCode.Tasks.task3442;
 
 namespace LeetCode
 {
@@ -1136,7 +1137,8 @@ namespace LeetCode
                 new Task171(171,"Номер столбца на листе Excel","",Difficult.easy),
                 new Task405(405,"Преобразуйте число в шестнадцатеричное","",Difficult.easy),
                 new Task3467(3467,"Преобразование массива по четности","",Difficult.easy),
-                new Task3417(3417,"Зигзагообразный обход сетки с пропуском","",Difficult.easy)
+                new Task3417(3417,"Зигзагообразный обход сетки с пропуском","",Difficult.easy),
+                new Task3442(3442,"Максимальная разница между четной и нечетной частотой появления символа I","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
