@@ -1148,3 +1148,5 @@
 Ссылка: [https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game)  
 ✅ [Задача 1370](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1370/Task1370.cs) - "Increasing Decreasing String"  
 Ссылка: [https://leetcode.com/problems/increasing-decreasing-string](https://leetcode.com/problems/increasing-decreasing-string)  
+✅ [Задача 1422](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1422/Task1422.cs) - "Maximum Score After Splitting a String"  
+Ссылка: [https://leetcode.com/problems/maximum-score-after-splitting-a-string](https://leetcode.com/problems/maximum-score-after-splitting-a-string)  

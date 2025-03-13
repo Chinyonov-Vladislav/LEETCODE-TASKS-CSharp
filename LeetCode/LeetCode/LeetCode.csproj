@@ -131,6 +131,7 @@
     <Compile Include="Tasks\task13\Task13.cs" />
     <Compile Include="Tasks\task1413\Task1413.cs" />
     <Compile Include="Tasks\task141\Task141.cs" />
+    <Compile Include="Tasks\task1422\Task1422.cs" />
     <Compile Include="Tasks\task1431\Task1431.cs" />
     <Compile Include="Tasks\task1436\Task1436.cs" />
     <Compile Include="Tasks\Task1446\Task1446.cs" />
