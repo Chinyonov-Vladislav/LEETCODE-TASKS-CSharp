@@ -1128,3 +1128,5 @@
 Ссылка: [https://leetcode.com/problems/zigzag-grid-traversal-with-skip](https://leetcode.com/problems/zigzag-grid-traversal-with-skip)  
 ✅ [Задача 3442](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3442/Task3442.cs) - "Maximum Difference Between Even and Odd Frequency I"  
 Ссылка: [https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i)  
+✅ [Задача 3318](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3318/Task3318.cs) - "Find X-Sum of All K-Long Subarrays I"  
+Ссылка: [https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i)  
