@@ -1142,3 +1142,5 @@
 Ссылка: [https://leetcode.com/problems/fair-candy-swap](https://leetcode.com/problems/fair-candy-swap)  
 ✅ [Задача 1323](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1323/Task1323.cs) - "Maximum 69 Number"  
 Ссылка: [https://leetcode.com/problems/maximum-69-number](https://leetcode.com/problems/maximum-69-number)  
+✅ [Задача 1030](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1030/Task1030.cs) - "Matrix Cells in Distance Order"  
+Ссылка: [https://leetcode.com/problems/matrix-cells-in-distance-order](https://leetcode.com/problems/matrix-cells-in-distance-order)  
