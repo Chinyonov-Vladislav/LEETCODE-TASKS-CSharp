@@ -1124,3 +1124,5 @@
 Ссылка: [https://leetcode.com/problems/convert-a-number-to-hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)  
 ✅ [Задача 3467](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3467/Task3467.cs) - "Transform Array by Parity"  
 Ссылка: [https://leetcode.com/problems/transform-array-by-parity](https://leetcode.com/problems/transform-array-by-parity)  
+✅ [Задача 3417](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3417/Task3417.cs) - "Zigzag Grid Traversal With Skip"  
+Ссылка: [https://leetcode.com/problems/zigzag-grid-traversal-with-skip](https://leetcode.com/problems/zigzag-grid-traversal-with-skip)  
