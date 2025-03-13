@@ -565,6 +565,7 @@ using LeetCode.Tasks.task3467;
 using LeetCode.Tasks.task3417;
 using LeetCode.Tasks.task3442;
 using LeetCode.Tasks.task3318;
+using LeetCode.Tasks.task2899;
 
 namespace LeetCode
 {
@@ -1140,7 +1141,8 @@ namespace LeetCode
                 new Task3467(3467,"Преобразование массива по четности","",Difficult.easy),
                 new Task3417(3417,"Зигзагообразный обход сетки с пропуском","",Difficult.easy),
                 new Task3442(3442,"Максимальная разница между четной и нечетной частотой появления символа I","",Difficult.easy),
-                new Task3318(3318,"Найдите X-сумму всех подмассивов длиной K","",Difficult.easy)
+                new Task3318(3318,"Найдите X-сумму всех подмассивов длиной K","",Difficult.easy),
+                new Task2899(2899,"Последние посещенные целые числа","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

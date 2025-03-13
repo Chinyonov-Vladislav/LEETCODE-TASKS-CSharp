@@ -1130,3 +1130,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i)  
 ✅ [Задача 3318](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3318/Task3318.cs) - "Find X-Sum of All K-Long Subarrays I"  
 Ссылка: [https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i)  
+✅ [Задача 2899](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2899/Task2899.cs) - "Last Visited Integers"  
+Ссылка: [https://leetcode.com/problems/last-visited-integers](https://leetcode.com/problems/last-visited-integers)  
