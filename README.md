@@ -1140,3 +1140,5 @@
 Ссылка: [https://leetcode.com/problems/smallest-range-i](https://leetcode.com/problems/smallest-range-i)  
 ✅ [Задача 888](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task888/Task888.cs) - "Fair Candy Swap"  
 Ссылка: [https://leetcode.com/problems/fair-candy-swap](https://leetcode.com/problems/fair-candy-swap)  
+✅ [Задача 1323](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task1323/Task1323.cs) - "Maximum 69 Number"  
+Ссылка: [https://leetcode.com/problems/maximum-69-number](https://leetcode.com/problems/maximum-69-number)  
