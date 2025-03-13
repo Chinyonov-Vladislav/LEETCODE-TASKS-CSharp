@@ -1132,3 +1132,5 @@
 Ссылка: [https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i)  
 ✅ [Задача 2899](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2899/Task2899.cs) - "Last Visited Integers"  
 Ссылка: [https://leetcode.com/problems/last-visited-integers](https://leetcode.com/problems/last-visited-integers)  
+✅ [Задача 496](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task496/Task496.cs) - "Next Greater Element I"  
+Ссылка: [https://leetcode.com/problems/next-greater-element-i](https://leetcode.com/problems/next-greater-element-i)  
