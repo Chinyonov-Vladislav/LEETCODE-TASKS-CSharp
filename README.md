@@ -1138,3 +1138,5 @@
 Ссылка: [https://leetcode.com/problems/base-7](https://leetcode.com/problems/base-7)  
 ✅ [Задача 908](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task908/Task908.cs) - "Smallest Range I"  
 Ссылка: [https://leetcode.com/problems/smallest-range-i](https://leetcode.com/problems/smallest-range-i)  
+✅ [Задача 888](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task888/Task888.cs) - "Fair Candy Swap"  
+Ссылка: [https://leetcode.com/problems/fair-candy-swap](https://leetcode.com/problems/fair-candy-swap)  
