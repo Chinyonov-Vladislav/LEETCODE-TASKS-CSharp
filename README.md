@@ -1136,3 +1136,5 @@
 Ссылка: [https://leetcode.com/problems/next-greater-element-i](https://leetcode.com/problems/next-greater-element-i)  
 ✅ [Задача 504](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task504/Task504.cs) - "Base 7"  
 Ссылка: [https://leetcode.com/problems/base-7](https://leetcode.com/problems/base-7)  
+✅ [Задача 908](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task908/Task908.cs) - "Smallest Range I"  
+Ссылка: [https://leetcode.com/problems/smallest-range-i](https://leetcode.com/problems/smallest-range-i)  

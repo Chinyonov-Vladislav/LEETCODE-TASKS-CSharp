@@ -568,6 +568,7 @@ using LeetCode.Tasks.task3318;
 using LeetCode.Tasks.task2899;
 using LeetCode.Tasks.task496;
 using LeetCode.Tasks.task504;
+using LeetCode.Tasks.task908;
 
 namespace LeetCode
 {
@@ -1146,7 +1147,8 @@ namespace LeetCode
                 new Task3318(3318,"Найдите X-сумму всех подмассивов длиной K","",Difficult.easy),
                 new Task2899(2899,"Последние посещенные целые числа","",Difficult.easy),
                 new Task496(496,"Следующий больший элемент I","",Difficult.easy),
-                new Task504(504,"Основание 7","",Difficult.easy)
+                new Task504(504,"Основание 7","",Difficult.easy),
+                new Task908(908,"Наименьший диапазон I","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
