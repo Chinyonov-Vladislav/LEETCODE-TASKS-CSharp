@@ -1116,3 +1116,5 @@
 Ссылка: [https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string](https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string)  
 ✅ [Задача 3432](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3432/Task3432.cs) - "Count Partitions with Even Sum Difference"  
 Ссылка: [https://leetcode.com/problems/count-partitions-with-even-sum-difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference)  
+✅ [Задача 70](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task70/Task70.cs) - "Climbing Stairs"  
+Ссылка: [https://leetcode.com/problems/climbing-stairs](https://leetcode.com/problems/climbing-stairs)  

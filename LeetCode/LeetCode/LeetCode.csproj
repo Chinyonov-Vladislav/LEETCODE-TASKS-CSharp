@@ -571,6 +571,7 @@
     <Compile Include="Tasks\task704\Task704.cs" />
     <Compile Include="Tasks\task705\MyHashSet.cs" />
     <Compile Include="Tasks\task705\Task705.cs" />
+    <Compile Include="Tasks\task70\Task70.cs" />
     <Compile Include="Tasks\task724\Task724.cs" />
     <Compile Include="Tasks\task728\Task728.cs" />
     <Compile Include="Tasks\task733\Task733.cs" />
