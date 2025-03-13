@@ -561,6 +561,7 @@ using LeetCode.Tasks.task3438;
 using LeetCode.Tasks.task3432;
 using LeetCode.Tasks.task70;
 using LeetCode.Tasks.task171;
+using LeetCode.Tasks.task3467;
 
 namespace LeetCode
 {
@@ -1132,7 +1133,8 @@ namespace LeetCode
                 new Task3432(3432,"Подсчитайте разделы с четной разницей сумм","",Difficult.easy),
                 new Task70(70,"Подъем по лестнице","",Difficult.easy),
                 new Task171(171,"Номер столбца на листе Excel","",Difficult.easy),
-                new Task405(405,"Преобразуйте число в шестнадцатеричное","",Difficult.easy)
+                new Task405(405,"Преобразуйте число в шестнадцатеричное","",Difficult.easy),
+                new Task3467(3467,"Преобразование массива по четности","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

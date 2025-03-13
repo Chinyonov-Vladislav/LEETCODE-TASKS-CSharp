@@ -1122,3 +1122,5 @@
 Ссылка: [https://leetcode.com/problems/excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number)  
 ✅ [Задача 405](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task405/Task405.cs) - "Convert a Number to Hexadecimal"  
 Ссылка: [https://leetcode.com/problems/convert-a-number-to-hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)  
+✅ [Задача 3467](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task3467/Task3467.cs) - "Transform Array by Parity"  
+Ссылка: [https://leetcode.com/problems/transform-array-by-parity](https://leetcode.com/problems/transform-array-by-parity)  
