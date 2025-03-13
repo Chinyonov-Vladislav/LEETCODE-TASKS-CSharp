@@ -1120,3 +1120,5 @@
 Ссылка: [https://leetcode.com/problems/climbing-stairs](https://leetcode.com/problems/climbing-stairs)  
 ✅ [Задача 171](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task171/Task171.cs) - "Excel Sheet Column Number"  
 Ссылка: [https://leetcode.com/problems/excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number)  
+✅ [Задача 405](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task405/Task405.cs) - "Convert a Number to Hexadecimal"  
+Ссылка: [https://leetcode.com/problems/convert-a-number-to-hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)  
