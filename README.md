@@ -1134,3 +1134,5 @@
 Ссылка: [https://leetcode.com/problems/last-visited-integers](https://leetcode.com/problems/last-visited-integers)  
 ✅ [Задача 496](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task496/Task496.cs) - "Next Greater Element I"  
 Ссылка: [https://leetcode.com/problems/next-greater-element-i](https://leetcode.com/problems/next-greater-element-i)  
+✅ [Задача 504](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task504/Task504.cs) - "Base 7"  
+Ссылка: [https://leetcode.com/problems/base-7](https://leetcode.com/problems/base-7)  
