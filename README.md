@@ -1152,3 +1152,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-score-after-splitting-a-string](https://leetcode.com/problems/maximum-score-after-splitting-a-string)  
 ✅ [Задача 2970](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2970/Task2970.cs) - "Count the Number of Incremovable Subarrays I"  
 Ссылка: [https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i)  
+✅ [Задача 22](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task22/Task22.cs) - "Generate Parentheses"  
+Ссылка: [https://leetcode.com/problems/generate-parentheses](https://leetcode.com/problems/generate-parentheses)  
