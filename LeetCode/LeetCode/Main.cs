@@ -579,6 +579,7 @@ using LeetCode.Tasks.task2970;
 using LeetCode.Tasks.task22;
 using LeetCode.Tasks.task39;
 using LeetCode.Tasks.task80;
+using LeetCode.Tasks.task46;
 
 namespace LeetCode
 {
@@ -1168,7 +1169,8 @@ namespace LeetCode
                 new Task2970(2970,"Подсчитайте количество увеличиваемых подмассивов I","",Difficult.easy),
                 new Task22(22,"Сгенерируйте круглые скобки","",Difficult.medium),
                 new Task39(39,"Сумма комбинации","",Difficult.medium),
-                new Task80(80,"Удалите дубликаты из отсортированного массива II","",Difficult.medium)
+                new Task80(80,"Удалите дубликаты из отсортированного массива II","",Difficult.medium),
+                new Task46(46,"Перестановки","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

@@ -1158,3 +1158,5 @@
 Ссылка: [https://leetcode.com/problems/combination-sum](https://leetcode.com/problems/combination-sum)  
 ✅ [Задача 80](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task80/Task80.cs) - "Remove Duplicates from Sorted Array II"  
 Ссылка: [https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)  
+✅ [Задача 46](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task46/Task46.cs) - "Permutations"  
+Ссылка: [https://leetcode.com/problems/permutations](https://leetcode.com/problems/permutations)  
