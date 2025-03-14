@@ -1160,3 +1160,5 @@
 Ссылка: [https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)  
 ✅ [Задача 46](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task46/Task46.cs) - "Permutations"  
 Ссылка: [https://leetcode.com/problems/permutations](https://leetcode.com/problems/permutations)  
+✅ [Задача 75](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task75/Task75.cs) - "Sort Colors"  
+Ссылка: [https://leetcode.com/problems/sort-colors](https://leetcode.com/problems/sort-colors)  
