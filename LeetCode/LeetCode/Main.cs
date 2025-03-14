@@ -577,6 +577,7 @@ using LeetCode.Tasks.task1370;
 using LeetCode.Tasks.task1422;
 using LeetCode.Tasks.task2970;
 using LeetCode.Tasks.task22;
+using LeetCode.Tasks.task39;
 
 namespace LeetCode
 {
@@ -1164,7 +1165,8 @@ namespace LeetCode
                 new Task1370(1370,"Увеличивающаяся уменьшающаяся строка","",Difficult.easy),
                 new Task1422(1422,"Максимальный балл после разделения строки","",Difficult.easy),
                 new Task2970(2970,"Подсчитайте количество увеличиваемых подмассивов I","",Difficult.easy),
-                new Task22(22,"Сгенерируйте круглые скобки","",Difficult.medium)
+                new Task22(22,"Сгенерируйте круглые скобки","",Difficult.medium),
+                new Task39(39,"Сумма комбинации","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

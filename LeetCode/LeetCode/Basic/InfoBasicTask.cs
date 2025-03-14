@@ -260,24 +260,35 @@ namespace LeetCode.Basic
                     {
                         Console.Write($"Результат: [");
                     }
-                    for (int j = 0; j < list[i].Count; j++)
+                    if (list[i].Count > 1)
                     {
-                        if (j == 0)
+                        for (int j = 0; j < list[i].Count; j++)
                         {
-                            Console.Write($"[{list[i][j]}, ");
+                            if (j == 0)
+                            {
+                                Console.Write($"[{list[i][j]}, ");
+                            }
+                            else if (j == list[i].Count - 1 && i == list.Count - 1)
+                            {
+                                Console.Write($"{list[i][j]}]");
+                            }
+                            else if (j == list[i].Count - 1 && i != list.Count - 1)
+                            {
+                                Console.Write($"{list[i][j]}],");
+                            }
+                            else
+                            {
+                                Console.Write($"{list[i][j]}, ");
+                            }
                         }
-                        else if (j == list[i].Count - 1 && i == list.Count - 1)
-                        {
-                            Console.Write($"{list[i][j]}]");
-                        }
-                        else if (j == list[i].Count - 1 && i != list.Count - 1)
-                        {
-                            Console.Write($"{list[i][j]}],");
-                        }
-                        else
-                        {
-                            Console.Write($"{list[i][j]}, ");
-                        }
+                    }
+                    else if (list[i].Count == 1)
+                    {
+                        Console.Write($"[{list[i][0]}]");
+                    }
+                    else
+                    {
+                        Console.Write("[]");
                     }
                     if (i == list.Count-1)
                     {
@@ -322,24 +333,35 @@ namespace LeetCode.Basic
                     {
                         Console.Write($"Результат: [");
                     }
-                    for (int j = 0; j < list[i].Count; j++)
+                    if (list[i].Count > 1)
                     {
-                        if (j == 0)
+                        for (int j = 0; j < list[i].Count; j++)
                         {
-                            Console.Write($"[{list[i][j]}, ");
+                            if (j == 0)
+                            {
+                                Console.Write($"[{list[i][j]}, ");
+                            }
+                            else if (j == list[i].Count - 1 && i == list.Count - 1)
+                            {
+                                Console.Write($"{list[i][j]}]");
+                            }
+                            else if (j == list[i].Count - 1 && i != list.Count - 1)
+                            {
+                                Console.Write($"{list[i][j]}],");
+                            }
+                            else
+                            {
+                                Console.Write($"{list[i][j]}, ");
+                            }
                         }
-                        else if (j == list[i].Count - 1 && i == list.Count - 1)
-                        {
-                            Console.Write($"{list[i][j]}]");
-                        }
-                        else if (j == list[i].Count - 1 && i != list.Count - 1)
-                        {
-                            Console.Write($"{list[i][j]}],");
-                        }
-                        else
-                        {
-                            Console.Write($"{list[i][j]}, ");
-                        }
+                    }
+                    else if (list[i].Count == 1)
+                    {
+                        Console.Write($"[{list[i][0]}]");
+                    }
+                    else
+                    {
+                        Console.Write("[]");
                     }
                     if (i == list.Count - 1)
                     {
