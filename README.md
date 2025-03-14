@@ -1154,3 +1154,7 @@
 Ссылка: [https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i)  
 ✅ [Задача 22](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task22/Task22.cs) - "Generate Parentheses"  
 Ссылка: [https://leetcode.com/problems/generate-parentheses](https://leetcode.com/problems/generate-parentheses)  
+✅ [Задача 39](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task39/Task39.cs) - "Combination Sum"  
+Ссылка: [https://leetcode.com/problems/combination-sum](https://leetcode.com/problems/combination-sum)  
+✅ [Задача 80](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task80/Task80.cs) - "Remove Duplicates from Sorted Array II"  
+Ссылка: [https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)  
