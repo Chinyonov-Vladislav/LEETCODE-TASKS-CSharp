@@ -575,6 +575,7 @@ using LeetCode.Tasks.task1030;
 using LeetCode.Tasks.task1275;
 using LeetCode.Tasks.task1370;
 using LeetCode.Tasks.task1422;
+using LeetCode.Tasks.task2970;
 
 namespace LeetCode
 {
@@ -1160,7 +1161,8 @@ namespace LeetCode
                 new Task1030(1030,"Ячейки матрицы в порядке удаления","",Difficult.easy),
                 new Task1275(1275,"Найдите победителя в игре «Крестики-нолики»","",Difficult.easy),
                 new Task1370(1370,"Увеличивающаяся уменьшающаяся строка","",Difficult.easy),
-                new Task1422(1422,"Максимальный балл после разделения строки","",Difficult.easy)
+                new Task1422(1422,"Максимальный балл после разделения строки","",Difficult.easy),
+                new Task2970(2970,"Подсчитайте количество увеличиваемых подмассивов I","",Difficult.easy)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
