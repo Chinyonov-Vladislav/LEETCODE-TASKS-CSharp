@@ -1162,3 +1162,5 @@
 Ссылка: [https://leetcode.com/problems/permutations](https://leetcode.com/problems/permutations)  
 ✅ [Задача 75](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task75/Task75.cs) - "Sort Colors"  
 Ссылка: [https://leetcode.com/problems/sort-colors](https://leetcode.com/problems/sort-colors)  
+✅ [Задача 79](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task79/Task79.cs) - "Word Search"  
+Ссылка: [https://leetcode.com/problems/word-search](https://leetcode.com/problems/word-search)  

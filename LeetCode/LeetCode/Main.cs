@@ -581,6 +581,7 @@ using LeetCode.Tasks.task39;
 using LeetCode.Tasks.task80;
 using LeetCode.Tasks.task46;
 using LeetCode.Tasks.task75;
+using LeetCode.Tasks.task79;
 
 namespace LeetCode
 {
@@ -1172,7 +1173,8 @@ namespace LeetCode
                 new Task39(39,"Сумма комбинации","",Difficult.medium),
                 new Task80(80,"Удалите дубликаты из отсортированного массива II","",Difficult.medium),
                 new Task46(46,"Перестановки","",Difficult.medium),
-                new Task75(75,"Сортировка цветов","",Difficult.medium)
+                new Task75(75,"Сортировка цветов","",Difficult.medium),
+                new Task79(79,"Поиск по слову","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
