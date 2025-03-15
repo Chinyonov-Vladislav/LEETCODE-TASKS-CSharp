@@ -457,6 +457,7 @@
     <Compile Include="Tasks\task3184\Task3184.cs" />
     <Compile Include="Tasks\task3190\Task3190.cs" />
     <Compile Include="Tasks\task3194\Task3194.cs" />
+    <Compile Include="Tasks\task31\Task31.cs" />
     <Compile Include="Tasks\task3200\Task3200.cs" />
     <Compile Include="Tasks\task3206\Task3206.cs" />
     <Compile Include="Tasks\task3210\Task3210.cs" />

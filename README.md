@@ -1166,3 +1166,5 @@
 Ссылка: [https://leetcode.com/problems/word-search](https://leetcode.com/problems/word-search)  
 ✅ [Задача 78](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task78/Task78.cs) - "Subsets"  
 Ссылка: [https://leetcode.com/problems/subsets](https://leetcode.com/problems/subsets)  
+✅ [Задача 31](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task31/Task31.cs) - "Next Permutation"  
+Ссылка: [https://leetcode.com/problems/next-permutation](https://leetcode.com/problems/next-permutation)  
