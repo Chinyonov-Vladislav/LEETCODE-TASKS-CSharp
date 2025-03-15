@@ -1170,3 +1170,5 @@
 Ссылка: [https://leetcode.com/problems/next-permutation](https://leetcode.com/problems/next-permutation)  
 ✅ [Задача 152](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task152/Task152.cs) - "Maximum Product Subarray"  
 Ссылка: [https://leetcode.com/problems/maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray)  
+✅ [Задача 148](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task148/Task148.cs) - "Sort List"  
+Ссылка: [https://leetcode.com/problems/sort-list](https://leetcode.com/problems/sort-list)  

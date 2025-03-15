@@ -585,6 +585,7 @@ using LeetCode.Tasks.task79;
 using LeetCode.Tasks.task78;
 using LeetCode.Tasks.task31;
 using LeetCode.Tasks.task152;
+using LeetCode.Tasks.task148;
 
 namespace LeetCode
 {
@@ -1180,7 +1181,8 @@ namespace LeetCode
                 new Task79(79,"Поиск по слову","",Difficult.medium),
                 new Task78(78,"Подмножества","",Difficult.medium),
                 new Task31(31,"Следующая перестановка","",Difficult.medium),
-                new Task152(152,"Максимальное значение произведения подмассива","",Difficult.medium)
+                new Task152(152,"Максимальное значение произведения подмассива","",Difficult.medium),
+                new Task148(148,"Сортировка списка","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
