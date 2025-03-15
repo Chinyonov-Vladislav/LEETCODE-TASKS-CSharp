@@ -1168,3 +1168,5 @@
 Ссылка: [https://leetcode.com/problems/subsets](https://leetcode.com/problems/subsets)  
 ✅ [Задача 31](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task31/Task31.cs) - "Next Permutation"  
 Ссылка: [https://leetcode.com/problems/next-permutation](https://leetcode.com/problems/next-permutation)  
+✅ [Задача 152](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task152/Task152.cs) - "Maximum Product Subarray"  
+Ссылка: [https://leetcode.com/problems/maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray)  
