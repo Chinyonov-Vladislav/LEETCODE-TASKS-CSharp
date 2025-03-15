@@ -1164,3 +1164,5 @@
 Ссылка: [https://leetcode.com/problems/sort-colors](https://leetcode.com/problems/sort-colors)  
 ✅ [Задача 79](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task79/Task79.cs) - "Word Search"  
 Ссылка: [https://leetcode.com/problems/word-search](https://leetcode.com/problems/word-search)  
+✅ [Задача 78](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task78/Task78.cs) - "Subsets"  
+Ссылка: [https://leetcode.com/problems/subsets](https://leetcode.com/problems/subsets)  
