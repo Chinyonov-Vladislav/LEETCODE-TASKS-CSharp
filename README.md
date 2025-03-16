@@ -1172,3 +1172,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray)  
 ✅ [Задача 148](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task148/Task148.cs) - "Sort List"  
 Ссылка: [https://leetcode.com/problems/sort-list](https://leetcode.com/problems/sort-list)  
+✅ [Задача 164](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task164/Task164.cs) - "Maximum Gap"  
+Ссылка: [https://leetcode.com/problems/maximum-gap](https://leetcode.com/problems/maximum-gap)  
