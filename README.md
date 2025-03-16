@@ -1174,3 +1174,5 @@
 Ссылка: [https://leetcode.com/problems/sort-list](https://leetcode.com/problems/sort-list)  
 ✅ [Задача 164](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task164/Task164.cs) - "Maximum Gap"  
 Ссылка: [https://leetcode.com/problems/maximum-gap](https://leetcode.com/problems/maximum-gap)  
+✅ [Задача 120](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task120/Task120.cs) - "Triangle"  
+Ссылка: [https://leetcode.com/problems/triangle](https://leetcode.com/problems/triangle)  
