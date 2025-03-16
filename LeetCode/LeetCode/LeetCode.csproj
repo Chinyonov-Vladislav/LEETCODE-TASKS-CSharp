@@ -337,6 +337,7 @@
     <Compile Include="Tasks\task2485\Task2485.cs" />
     <Compile Include="Tasks\task2490\Task2490.cs" />
     <Compile Include="Tasks\task2496\Task2496.cs" />
+    <Compile Include="Tasks\task24\Task24.cs" />
     <Compile Include="Tasks\task2500\Task2500.cs" />
     <Compile Include="Tasks\task2506\Task2506.cs" />
     <Compile Include="Tasks\task2515\Task2515.cs" />
@@ -662,8 +663,6 @@
     <Content Include="Tasks\task459\info.txt" />
     <Content Include="Tasks\task543\info.txt" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Enums\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

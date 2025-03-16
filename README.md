@@ -1176,3 +1176,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-gap](https://leetcode.com/problems/maximum-gap)  
 ✅ [Задача 120](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task120/Task120.cs) - "Triangle"  
 Ссылка: [https://leetcode.com/problems/triangle](https://leetcode.com/problems/triangle)  
+✅ [Задача 24](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task24/Task24.cs) - "Swap Nodes in Pairs"  
+Ссылка: [https://leetcode.com/problems/swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)  
