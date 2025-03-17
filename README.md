@@ -1186,3 +1186,5 @@
 Ссылка: [https://leetcode.com/problems/jump-game-ii](https://leetcode.com/problems/jump-game-ii)  
 ✅ [Задача 92](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task92/Task92.cs) - "Reverse Linked List II"  
 Ссылка: [https://leetcode.com/problems/reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)  
+✅ [Задача 47](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task47/Task47.cs) - "Permutations II"  
+Ссылка: [https://leetcode.com/problems/permutations-ii](https://leetcode.com/problems/permutations-ii)  
