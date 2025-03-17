@@ -1182,3 +1182,5 @@
 Ссылка: [https://leetcode.com/problems/jump-game](https://leetcode.com/problems/jump-game)  
 ✅ [Задача 40](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task40/Task40.cs) - "Combination Sum II"  
 Ссылка: [https://leetcode.com/problems/combination-sum-ii](https://leetcode.com/problems/combination-sum-ii)  
+✅ [Задача 45](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task45/Task45.cs) - "Jump Game II"  
+Ссылка: [https://leetcode.com/problems/jump-game-ii](https://leetcode.com/problems/jump-game-ii)  
