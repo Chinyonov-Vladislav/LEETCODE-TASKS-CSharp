@@ -233,14 +233,14 @@ namespace LeetCode.Basic
             }
             else if (list.Count == 1)
             {
-                Console.WriteLine($"Результат: [");
+                Console.Write($"Результат: [");
                 for (int i = 0; i < list[0].Count; i++)
                 {
                     if (i == 0)
                     {
                         Console.Write($"[{list[0][i]}, ");
                     }
-                    else if (i == list.Count - 1)
+                    else if (i == list[0].Count - 1)
                     {
                         Console.Write($"{list[0][i]}]");
                     }
@@ -313,7 +313,7 @@ namespace LeetCode.Basic
                     {
                         Console.Write($"[{list[0][i]}, ");
                     }
-                    else if (i == list.Count - 1)
+                    else if (i == list[0].Count - 1)
                     {
                         Console.Write($"{list[0][i]}]");
                     }

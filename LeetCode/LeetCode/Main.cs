@@ -590,6 +590,7 @@ using LeetCode.Tasks.task164;
 using LeetCode.Tasks.task120;
 using LeetCode.Tasks.task24;
 using LeetCode.Tasks.task55;
+using LeetCode.Tasks.task40;
 
 namespace LeetCode
 {
@@ -1190,7 +1191,8 @@ namespace LeetCode
                 new Task164(164,"Максимальная разница","",Difficult.medium),
                 new Task120(120,"Треугольник","",Difficult.medium),
                 new Task24(24,"Смена местами узлов попарно","",Difficult.medium),
-                new Task55(55,"Игра в прыжки","",Difficult.medium)
+                new Task55(55,"Игра в прыжки","",Difficult.medium),
+                new Task40(40,"Сумма комбинации II","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
