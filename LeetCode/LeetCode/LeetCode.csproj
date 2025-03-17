@@ -551,6 +551,7 @@
     <Compile Include="Tasks\task485\Task485.cs" />
     <Compile Include="Tasks\task495\Task495.cs" />
     <Compile Include="Tasks\task496\Task496.cs" />
+    <Compile Include="Tasks\task49\Task49.cs" />
     <Compile Include="Tasks\task500\Task500.cs" />
     <Compile Include="Tasks\task501\Task501.cs" />
     <Compile Include="Tasks\task504\Task504.cs" />
@@ -561,6 +562,7 @@
     <Compile Include="Tasks\task521\Task521.cs" />
     <Compile Include="Tasks\task541\Task541.cs" />
     <Compile Include="Tasks\task543\Task543.cs" />
+    <Compile Include="Tasks\task54\Task54.cs" />
     <Compile Include="Tasks\task551\Task551.cs" />
     <Compile Include="Tasks\task557\Task557.cs" />
     <Compile Include="Tasks\task559\Task559.cs" />

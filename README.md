@@ -1188,3 +1188,5 @@
 Ссылка: [https://leetcode.com/problems/reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)  
 ✅ [Задача 47](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task47/Task47.cs) - "Permutations II"  
 Ссылка: [https://leetcode.com/problems/permutations-ii](https://leetcode.com/problems/permutations-ii)  
+✅ [Задача 54](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task54/Task54.cs) - "Spiral Matrix"  
+Ссылка: [https://leetcode.com/problems/spiral-matrix](https://leetcode.com/problems/spiral-matrix)  
