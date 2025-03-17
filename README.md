@@ -1178,3 +1178,5 @@
 Ссылка: [https://leetcode.com/problems/triangle](https://leetcode.com/problems/triangle)  
 ✅ [Задача 24](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task24/Task24.cs) - "Swap Nodes in Pairs"  
 Ссылка: [https://leetcode.com/problems/swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)  
+✅ [Задача 55](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task55/Task55.cs) - "Jump Game"  
+Ссылка: [https://leetcode.com/problems/jump-game](https://leetcode.com/problems/jump-game)  
