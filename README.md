@@ -1196,3 +1196,5 @@
 Ссылка: [https://leetcode.com/problems/rotate-list](https://leetcode.com/problems/rotate-list)  
 ✅ [Задача 64](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task64/Task64.cs) - "Minimum Path Sum"  
 Ссылка: [https://leetcode.com/problems/minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)  
+✅ [Задача 74](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task74/Task74.cs) - "Search a 2D Matrix"  
+Ссылка: [https://leetcode.com/problems/search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)  
