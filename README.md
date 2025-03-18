@@ -1202,3 +1202,5 @@
 Ссылка: [https://leetcode.com/problems/zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)  
 ✅ [Задача 77](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task77/Task77.cs) - "Combinations"  
 Ссылка: [https://leetcode.com/problems/combinations](https://leetcode.com/problems/combinations)  
+✅ [Задача 82](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task82/Task82.cs) - "Remove Duplicates from Sorted List II"  
+Ссылка: [https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)  

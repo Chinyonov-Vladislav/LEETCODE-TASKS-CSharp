@@ -8,6 +8,15 @@ using System.Xml.Linq;
 
 namespace LeetCode.Tasks.task77
 {
+    /*
+     77. Комбинации
+    Учитывая два целых числа n и k, верните все возможные комбинации из k чисел, выбранных из диапазона [1, n].
+    Вы можете вернуть ответ в любом порядке.
+    Ограничения:
+        1 <= n <= 20
+        1 <= k <= n
+    https://leetcode.com/problems/combinations/description/
+     */
     public class Task77 : InfoBasicTask
     {
         public Task77(int number, string name, string description, Difficult difficult) : base(number, name, description, difficult)
@@ -19,14 +28,33 @@ namespace LeetCode.Tasks.task77
             int n = 4;
             int k = 2;
             Console.WriteLine($"Диапазон: [{1},{n}]\nКоличество элементов в комбинации = {k}");
-            IList<IList<int>> res = combine(n, k);
-            Console.WriteLine($"Результат: ");
-            printIListIListInt(res);
+            if (isValid(n, k))
+            {
+                IList<IList<int>> res = combine(n, k);
+                Console.WriteLine($"Результат: ");
+                printIListIListInt(res);
+            }
+            else
+            {
+                printInfoNotValidData();
+            }
         }
 
         public override void testing()
         {
             throw new NotImplementedException();
+        }
+        private bool isValid(int n, int k)
+        {
+            if (n < 1 || n > 20)
+            {
+                return false;
+            }
+            if (k < 1 | k > n)
+            {
+                return false;
+            }
+            return true;
         }
         private IList<IList<int>> combine(int n, int k)
         {
