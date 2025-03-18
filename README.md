@@ -1204,3 +1204,5 @@
 Ссылка: [https://leetcode.com/problems/combinations](https://leetcode.com/problems/combinations)  
 ✅ [Задача 82](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task82/Task82.cs) - "Remove Duplicates from Sorted List II"  
 Ссылка: [https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)  
+✅ [Задача 113](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task113/Task113.cs) - "Path Sum II"  
+Ссылка: [https://leetcode.com/problems/path-sum-ii](https://leetcode.com/problems/path-sum-ii)  

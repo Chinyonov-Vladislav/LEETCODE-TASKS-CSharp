@@ -603,6 +603,7 @@ using LeetCode.Tasks.task74;
 using LeetCode.Tasks.task6;
 using LeetCode.Tasks.task77;
 using LeetCode.Tasks.task82;
+using LeetCode.Tasks.task113;
 
 namespace LeetCode
 {
@@ -1216,7 +1217,8 @@ namespace LeetCode
                 new Task74(74,"Поиск по 2D-матрице","",Difficult.medium),
                 new Task6(6,"Зигзагообразное преобразование","",Difficult.medium),
                 new Task77(77,"Комбинации","",Difficult.medium),
-                new Task82(82,"Удалите дубликаты из отсортированного списка II","",Difficult.medium)
+                new Task82(82,"Удалите дубликаты из отсортированного списка II","",Difficult.medium),
+                new Task113(113,"Сумма путей II","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
