@@ -1210,3 +1210,5 @@
 Ссылка: [https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)  
 ✅ [Задача 139](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task139/Task139.cs) - "Word Break"  
 Ссылка: [https://leetcode.com/problems/word-break](https://leetcode.com/problems/word-break)  
+✅ [Задача 142](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task142/Task142.cs) - "Linked List Cycle II"  
+Ссылка: [https://leetcode.com/problems/linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)  

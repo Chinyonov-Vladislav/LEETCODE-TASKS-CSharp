@@ -44,11 +44,18 @@ namespace LeetCode.Basic
                 Console.WriteLine("Корневой узел отсутствует");
                 return;
             }
-            Console.WriteLine($"Номер узла = {numberCurrentNode} | Значение = {listNode.val}");
-            if (listNode.next != null)
+            HashSet<ListNode> listNodesSet = new HashSet<ListNode>();
+            while (listNode != null)
             {
-                numberCurrentNode += 1;
-                printValuesFromListNode(listNode.next, numberCurrentNode);
+                if (listNodesSet.Contains(listNode))
+                {
+                    Console.WriteLine($"Информация при выводе: связанный список имеет зацикленность в узле со значением = {listNode.val}");
+                    break;
+                }
+                listNodesSet.Add(listNode);
+                Console.WriteLine($"Номер узла = {numberCurrentNode} | Значение = {listNode.val}");
+                numberCurrentNode++;
+                listNode = listNode.next;
             }
         }
         protected void printArray(char[] chars, string headerStr = "Исходный массив символов: ")
