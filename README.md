@@ -1200,3 +1200,5 @@
 Ссылка: [https://leetcode.com/problems/search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)  
 ✅ [Задача 6](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task6/Task6.cs) - "Zigzag Conversion"  
 Ссылка: [https://leetcode.com/problems/zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)  
+✅ [Задача 77](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task77/Task77.cs) - "Combinations"  
+Ссылка: [https://leetcode.com/problems/combinations](https://leetcode.com/problems/combinations)  
