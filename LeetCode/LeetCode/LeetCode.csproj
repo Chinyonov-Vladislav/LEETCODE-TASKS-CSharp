@@ -598,6 +598,7 @@
     <Compile Include="Tasks\task693\Task693.cs" />
     <Compile Include="Tasks\task697\Task697.cs" />
     <Compile Include="Tasks\task69\Task69.cs" />
+    <Compile Include="Tasks\task6\Task6.cs" />
     <Compile Include="Tasks\task700\Task700.cs" />
     <Compile Include="Tasks\task703\KthLargest.cs" />
     <Compile Include="Tasks\task703\Task703.cs" />

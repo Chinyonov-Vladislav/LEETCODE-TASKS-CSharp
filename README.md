@@ -1198,3 +1198,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)  
 ✅ [Задача 74](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task74/Task74.cs) - "Search a 2D Matrix"  
 Ссылка: [https://leetcode.com/problems/search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)  
+✅ [Задача 6](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task6/Task6.cs) - "Zigzag Conversion"  
+Ссылка: [https://leetcode.com/problems/zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)  

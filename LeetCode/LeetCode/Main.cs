@@ -600,6 +600,7 @@ using LeetCode.Tasks.task59;
 using LeetCode.Tasks.task61;
 using LeetCode.Tasks.task64;
 using LeetCode.Tasks.task74;
+using LeetCode.Tasks.task6;
 
 namespace LeetCode
 {
@@ -1210,7 +1211,8 @@ namespace LeetCode
                 new Task59(59,"Спиральная матрица II","",Difficult.medium),
                 new Task61(61,"Поворот списка","",Difficult.medium),
                 new Task64(64,"Минимальная сумма пути","",Difficult.medium),
-                new Task74(74,"Поиск по 2D-матрице","",Difficult.medium)
+                new Task74(74,"Поиск по 2D-матрице","",Difficult.medium),
+                new Task6(6,"Зигзагообразное преобразование","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
