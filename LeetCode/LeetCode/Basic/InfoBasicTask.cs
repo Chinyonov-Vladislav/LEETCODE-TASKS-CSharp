@@ -437,7 +437,7 @@ namespace LeetCode.Basic
         {
             if (root == null)
             {
-                Console.WriteLine("Корень бинарного дерева отсутствует!");
+                Console.WriteLine("Корень дерева отсутствует!");
                 return;
             }
             List<string> resultSTR = new List<string>();

@@ -1206,3 +1206,5 @@
 Ссылка: [https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)  
 ✅ [Задача 113](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task113/Task113.cs) - "Path Sum II"  
 Ссылка: [https://leetcode.com/problems/path-sum-ii](https://leetcode.com/problems/path-sum-ii)  
+✅ [Задача 109](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task109/Task109.cs) - "Convert Sorted List to Binary Search Tree"  
+Ссылка: [https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)  

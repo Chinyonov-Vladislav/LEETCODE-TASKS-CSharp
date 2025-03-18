@@ -80,6 +80,7 @@
     <Compile Include="Tasks\task1089\Task1089.cs" />
     <Compile Include="Tasks\task108\Task108.cs" />
     <Compile Include="Tasks\task1009\Task1009.cs" />
+    <Compile Include="Tasks\task109\Task109.cs" />
     <Compile Include="Tasks\task1108\Task1108.cs" />
     <Compile Include="Tasks\task111\Task111.cs" />
     <Compile Include="Tasks\task1122\Task1122.cs" />
