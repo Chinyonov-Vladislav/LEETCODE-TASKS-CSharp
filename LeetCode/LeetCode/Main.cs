@@ -605,6 +605,7 @@ using LeetCode.Tasks.task77;
 using LeetCode.Tasks.task82;
 using LeetCode.Tasks.task113;
 using LeetCode.Tasks.task109;
+using LeetCode.Tasks.task139;
 
 namespace LeetCode
 {
@@ -1220,7 +1221,8 @@ namespace LeetCode
                 new Task77(77,"Комбинации","",Difficult.medium),
                 new Task82(82,"Удалите дубликаты из отсортированного списка II","",Difficult.medium),
                 new Task113(113,"Сумма путей II","",Difficult.medium),
-                new Task109(109,"Преобразуйте отсортированный список в двоичное дерево поиска","",Difficult.medium)
+                new Task109(109,"Преобразуйте отсортированный список в двоичное дерево поиска","",Difficult.medium),
+                new Task139(139,"Перерыв в словах","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

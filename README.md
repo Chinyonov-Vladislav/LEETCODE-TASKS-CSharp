@@ -1208,3 +1208,5 @@
 Ссылка: [https://leetcode.com/problems/path-sum-ii](https://leetcode.com/problems/path-sum-ii)  
 ✅ [Задача 109](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task109/Task109.cs) - "Convert Sorted List to Binary Search Tree"  
 Ссылка: [https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)  
+✅ [Задача 139](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task139/Task139.cs) - "Word Break"  
+Ссылка: [https://leetcode.com/problems/word-break](https://leetcode.com/problems/word-break)  
