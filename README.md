@@ -1194,3 +1194,5 @@
 Ссылка: [https://leetcode.com/problems/spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)  
 ✅ [Задача 61](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task61/Task61.cs) - "Rotate List"  
 Ссылка: [https://leetcode.com/problems/rotate-list](https://leetcode.com/problems/rotate-list)  
+✅ [Задача 64](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task64/Task64.cs) - "Minimum Path Sum"  
+Ссылка: [https://leetcode.com/problems/minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)  
