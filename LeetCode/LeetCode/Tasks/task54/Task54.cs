@@ -33,7 +33,6 @@ namespace LeetCode.Tasks.task54
                 new int[] {17,18,19,20 },
                 new int[] {21,22,23,24 },
             };
-
             printTwoDimensionalArray(matrix, "Исходная двумерная матрица");
             if (isValid(matrix))
             {

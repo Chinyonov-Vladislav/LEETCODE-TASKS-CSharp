@@ -596,6 +596,7 @@ using LeetCode.Tasks.task92;
 using LeetCode.Tasks.task47;
 using LeetCode.Tasks.task49;
 using LeetCode.Tasks.task54;
+using LeetCode.Tasks.task59;
 
 namespace LeetCode
 {
@@ -1202,13 +1203,14 @@ namespace LeetCode
                 new Task92(92,"Список с обратными ссылками II","",Difficult.medium),
                 new Task47(47,"Перестановки II","",Difficult.medium),
                 new Task49(49,"Групповые анаграммы","",Difficult.medium),
-                new Task54(54,"Спиральная матрица","",Difficult.medium)
+                new Task54(54,"Спиральная матрица","",Difficult.medium),
+                 new Task59(59,"Спиральная матрица II","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
             hardTasks = new List<InfoBasicTask>();
             sortTasksByDifficult();
-            
+
         }
         public void processProgramm()
         {
@@ -1377,7 +1379,7 @@ namespace LeetCode
         }
         private List<InfoBasicTask> sortTaskInGroupByNumber(List<InfoBasicTask> tasks)
         {
-           return tasks.OrderBy(task => task.getNumber()).ToList();
+            return tasks.OrderBy(task => task.getNumber()).ToList();
         }
         private void sortTasksByDifficult()
         {

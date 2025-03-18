@@ -1190,3 +1190,5 @@
 Ссылка: [https://leetcode.com/problems/permutations-ii](https://leetcode.com/problems/permutations-ii)  
 ✅ [Задача 54](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task54/Task54.cs) - "Spiral Matrix"  
 Ссылка: [https://leetcode.com/problems/spiral-matrix](https://leetcode.com/problems/spiral-matrix)  
+✅ [Задача 59](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task59/Task59.cs) - "Spiral Matrix II"  
+Ссылка: [https://leetcode.com/problems/spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)  
