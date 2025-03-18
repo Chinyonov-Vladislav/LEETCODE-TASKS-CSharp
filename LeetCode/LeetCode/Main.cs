@@ -597,6 +597,7 @@ using LeetCode.Tasks.task47;
 using LeetCode.Tasks.task49;
 using LeetCode.Tasks.task54;
 using LeetCode.Tasks.task59;
+using LeetCode.Tasks.task61;
 
 namespace LeetCode
 {
@@ -1204,7 +1205,8 @@ namespace LeetCode
                 new Task47(47,"Перестановки II","",Difficult.medium),
                 new Task49(49,"Групповые анаграммы","",Difficult.medium),
                 new Task54(54,"Спиральная матрица","",Difficult.medium),
-                 new Task59(59,"Спиральная матрица II","",Difficult.medium)
+                new Task59(59,"Спиральная матрица II","",Difficult.medium),
+                new Task61(61,"Поворот списка","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

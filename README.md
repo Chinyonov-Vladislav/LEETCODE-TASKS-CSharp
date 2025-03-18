@@ -1192,3 +1192,5 @@
 Ссылка: [https://leetcode.com/problems/spiral-matrix](https://leetcode.com/problems/spiral-matrix)  
 ✅ [Задача 59](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task59/Task59.cs) - "Spiral Matrix II"  
 Ссылка: [https://leetcode.com/problems/spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)  
+✅ [Задача 61](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task61/Task61.cs) - "Rotate List"  
+Ссылка: [https://leetcode.com/problems/rotate-list](https://leetcode.com/problems/rotate-list)  
