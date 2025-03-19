@@ -1212,3 +1212,5 @@
 Ссылка: [https://leetcode.com/problems/word-break](https://leetcode.com/problems/word-break)  
 ✅ [Задача 142](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task142/Task142.cs) - "Linked List Cycle II"  
 Ссылка: [https://leetcode.com/problems/linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)  
+✅ [Задача 137](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task137/Task137.cs) - "Single Number II"  
+Ссылка: [https://leetcode.com/problems/single-number-ii](https://leetcode.com/problems/single-number-ii)  
