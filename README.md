@@ -1214,3 +1214,5 @@
 Ссылка: [https://leetcode.com/problems/linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)  
 ✅ [Задача 137](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task137/Task137.cs) - "Single Number II"  
 Ссылка: [https://leetcode.com/problems/single-number-ii](https://leetcode.com/problems/single-number-ii)  
+✅ [Задача 167](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task167/Task167.cs) - "Two Sum II - Input Array Is Sorted"  
+Ссылка: [https://leetcode.com/problems/two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)  
