@@ -610,6 +610,7 @@ using LeetCode.Tasks.task137;
 using LeetCode.Tasks.task167;
 using LeetCode.Tasks.task221;
 using LeetCode.Tasks.task237;
+using LeetCode.Tasks.task227;
 
 namespace LeetCode
 {
@@ -1231,7 +1232,8 @@ namespace LeetCode
                 new Task137(137,"Одиночный Номер II","",Difficult.medium),
                 new Task167(167,"Two Sum II - Входной массив Отсортирован","",Difficult.medium),
                 new Task221(221,"Максимальная площадь","",Difficult.medium),
-                new Task237(237,"Удалить узел из связанного списка","",Difficult.medium)
+                new Task237(237,"Удалить узел из связанного списка","",Difficult.medium),
+                new Task227(227,"Базовый калькулятор II","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

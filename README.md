@@ -1220,3 +1220,5 @@
 Ссылка: [https://leetcode.com/problems/maximal-square](https://leetcode.com/problems/maximal-square)  
 ✅ [Задача 237](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task237/Task237.cs) - "Delete Node in a Linked List"  
 Ссылка: [https://leetcode.com/problems/delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list)  
+✅ [Задача 227](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task227/Task227.cs) - "Basic Calculator II"  
+Ссылка: [https://leetcode.com/problems/basic-calculator-ii](https://leetcode.com/problems/basic-calculator-ii)  
