@@ -1224,3 +1224,5 @@
 Ссылка: [https://leetcode.com/problems/basic-calculator-ii](https://leetcode.com/problems/basic-calculator-ii)  
 ✅ [Задача 229](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task229/Task229.cs) - "Majority Element II"  
 Ссылка: [https://leetcode.com/problems/majority-element-ii](https://leetcode.com/problems/majority-element-ii)  
+✅ [Задача 260](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task260/Task260.cs) - "Single Number III"  
+Ссылка: [https://leetcode.com/problems/single-number-iii](https://leetcode.com/problems/single-number-iii)  
