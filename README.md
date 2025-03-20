@@ -1226,3 +1226,5 @@
 Ссылка: [https://leetcode.com/problems/majority-element-ii](https://leetcode.com/problems/majority-element-ii)  
 ✅ [Задача 260](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task260/Task260.cs) - "Single Number III"  
 Ссылка: [https://leetcode.com/problems/single-number-iii](https://leetcode.com/problems/single-number-iii)  
+✅ [Задача 274](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task274/Task274.cs) - "H-Index"  
+Ссылка: [https://leetcode.com/problems/h-index](https://leetcode.com/problems/h-index)  
