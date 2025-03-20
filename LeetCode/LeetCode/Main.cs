@@ -353,7 +353,6 @@ using LeetCode.Tasks.task2190;
 using LeetCode.Tasks.task2194;
 using LeetCode.Tasks.task2200;
 using LeetCode.Tasks.task2206;
-using System.Management.Instrumentation;
 using LeetCode.Tasks.task2210;
 using LeetCode.Tasks.task2215;
 using LeetCode.Tasks.task2220;
@@ -609,6 +608,7 @@ using LeetCode.Tasks.task139;
 using LeetCode.Tasks.task142;
 using LeetCode.Tasks.task137;
 using LeetCode.Tasks.task167;
+using LeetCode.Tasks.task221;
 
 namespace LeetCode
 {
@@ -1228,7 +1228,8 @@ namespace LeetCode
                 new Task139(139,"Перерыв в словах","",Difficult.medium),
                 new Task142(142,"Цикл в связанном списке II","",Difficult.medium),
                 new Task137(137,"Одиночный Номер II","",Difficult.medium),
-                new Task167(167,"Two Sum II - Входной массив Отсортирован","",Difficult.medium)
+                new Task167(167,"Two Sum II - Входной массив Отсортирован","",Difficult.medium),
+                new Task221(221,"Максимальная площадь","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

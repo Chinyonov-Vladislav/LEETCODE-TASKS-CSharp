@@ -1216,3 +1216,5 @@
 Ссылка: [https://leetcode.com/problems/single-number-ii](https://leetcode.com/problems/single-number-ii)  
 ✅ [Задача 167](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task167/Task167.cs) - "Two Sum II - Input Array Is Sorted"  
 Ссылка: [https://leetcode.com/problems/two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)  
+✅ [Задача 221](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task221/Task221.cs) - "Maximal Square"  
+Ссылка: [https://leetcode.com/problems/maximal-square](https://leetcode.com/problems/maximal-square)  
