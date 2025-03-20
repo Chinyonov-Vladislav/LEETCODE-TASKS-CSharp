@@ -1228,3 +1228,5 @@
 Ссылка: [https://leetcode.com/problems/single-number-iii](https://leetcode.com/problems/single-number-iii)  
 ✅ [Задача 274](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task274/Task274.cs) - "H-Index"  
 Ссылка: [https://leetcode.com/problems/h-index](https://leetcode.com/problems/h-index)  
+✅ [Задача 287](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task287/Task287.cs) - "Find the Duplicate Number"  
+Ссылка: [https://leetcode.com/problems/find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number)  

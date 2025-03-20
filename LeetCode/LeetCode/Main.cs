@@ -614,6 +614,7 @@ using LeetCode.Tasks.task227;
 using LeetCode.Tasks.task229;
 using LeetCode.Tasks.task260;
 using LeetCode.Tasks.task274;
+using LeetCode.Tasks.task287;
 
 namespace LeetCode
 {
@@ -1239,7 +1240,8 @@ namespace LeetCode
                 new Task227(227,"Базовый калькулятор II","",Difficult.medium),
                 new Task229(229,"Элемент большинства II","",Difficult.medium),
                 new Task260(260,"Одиночный Номер III","",Difficult.medium),
-                new Task274(274,"Индекс Хирша","",Difficult.medium)
+                new Task274(274,"Индекс Хирша","",Difficult.medium),
+                new Task287(287,"Найдите дубликат номера","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
