@@ -1234,3 +1234,5 @@
 Ссылка: [https://leetcode.com/problems/count-primes](https://leetcode.com/problems/count-primes)  
 ✅ [Задача 324](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task324/Task324.cs) - "Wiggle Sort II"  
 Ссылка: [https://leetcode.com/problems/wiggle-sort-ii](https://leetcode.com/problems/wiggle-sort-ii)  
+✅ [Задача 328](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task328/Task328.cs) - "Odd Even Linked List"  
+Ссылка: [https://leetcode.com/problems/odd-even-linked-list](https://leetcode.com/problems/odd-even-linked-list)  
