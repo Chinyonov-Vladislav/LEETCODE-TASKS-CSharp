@@ -1232,3 +1232,5 @@
 Ссылка: [https://leetcode.com/problems/find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number)  
 ✅ [Задача 204](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task204/Task204.cs) - "Count Primes"  
 Ссылка: [https://leetcode.com/problems/count-primes](https://leetcode.com/problems/count-primes)  
+✅ [Задача 324](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task324/Task324.cs) - "Wiggle Sort II"  
+Ссылка: [https://leetcode.com/problems/wiggle-sort-ii](https://leetcode.com/problems/wiggle-sort-ii)  
