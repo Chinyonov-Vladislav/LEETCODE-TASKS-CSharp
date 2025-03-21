@@ -1230,3 +1230,5 @@
 Ссылка: [https://leetcode.com/problems/h-index](https://leetcode.com/problems/h-index)  
 ✅ [Задача 287](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task287/Task287.cs) - "Find the Duplicate Number"  
 Ссылка: [https://leetcode.com/problems/find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number)  
+✅ [Задача 204](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task204/Task204.cs) - "Count Primes"  
+Ссылка: [https://leetcode.com/problems/count-primes](https://leetcode.com/problems/count-primes)  
