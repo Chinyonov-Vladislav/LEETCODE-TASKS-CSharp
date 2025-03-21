@@ -1238,3 +1238,5 @@
 Ссылка: [https://leetcode.com/problems/odd-even-linked-list](https://leetcode.com/problems/odd-even-linked-list)  
 ✅ [Задача 198](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task198/Task198.cs) - "House Robber"  
 Ссылка: [https://leetcode.com/problems/house-robber](https://leetcode.com/problems/house-robber)  
+✅ [Задача 213](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task213/Task213.cs) - "House Robber II"  
+Ссылка: [https://leetcode.com/problems/house-robber-ii](https://leetcode.com/problems/house-robber-ii)  
