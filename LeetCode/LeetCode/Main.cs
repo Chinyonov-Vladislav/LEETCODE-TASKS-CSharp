@@ -620,6 +620,7 @@ using LeetCode.Tasks.task324;
 using LeetCode.Tasks.task328;
 using LeetCode.Tasks.task198;
 using LeetCode.Tasks.task213;
+using LeetCode.Tasks.task279;
 
 namespace LeetCode
 {
@@ -1251,7 +1252,8 @@ namespace LeetCode
                 new Task324(324,"Сортировка покачиванием","",Difficult.medium),
                 new Task328(328,"Нечетный четный связанный список","",Difficult.medium),
                 new Task198(198,"Грабитель домов","",Difficult.medium),
-                new Task213(213,"Грабитель домов II","",Difficult.medium)
+                new Task213(213,"Грабитель домов II","",Difficult.medium),
+                new Task279(279,"Идеальные квадраты","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

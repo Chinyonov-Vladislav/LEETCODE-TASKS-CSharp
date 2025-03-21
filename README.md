@@ -1240,3 +1240,5 @@
 Ссылка: [https://leetcode.com/problems/house-robber](https://leetcode.com/problems/house-robber)  
 ✅ [Задача 213](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task213/Task213.cs) - "House Robber II"  
 Ссылка: [https://leetcode.com/problems/house-robber-ii](https://leetcode.com/problems/house-robber-ii)  
+✅ [Задача 279](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task279/Task279.cs) - "Perfect Squares"  
+Ссылка: [https://leetcode.com/problems/perfect-squares](https://leetcode.com/problems/perfect-squares)  
