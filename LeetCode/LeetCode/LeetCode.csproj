@@ -420,6 +420,7 @@
     <Compile Include="Tasks\task287\Task287.cs" />
     <Compile Include="Tasks\task2894\Task2894.cs" />
     <Compile Include="Tasks\task2899\Task2899.cs" />
+    <Compile Include="Tasks\task289\Task289.cs" />
     <Compile Include="Tasks\task28\Task28.cs" />
     <Compile Include="Tasks\task2903\Task2903.cs" />
     <Compile Include="Tasks\task2908\Task2908.cs" />

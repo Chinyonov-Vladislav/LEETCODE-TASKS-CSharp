@@ -7,6 +7,14 @@ using System.Threading.Tasks;
 
 namespace LeetCode.Tasks.task264
 {
+    /*
+     264. Уродливое Число II
+    Некрасивое число — это положительное целое число, простые множители которого ограничены значениями 2, 3, и 5.
+    Учитывая целое число n, верните nth уродливое число.
+    Ограничения:
+        1 <= n <= 1690
+    https://leetcode.com/problems/ugly-number-ii/description/
+     */
     public class Task264 : InfoBasicTask
     {
         public Task264(int number, string name, string description, Difficult difficult) : base(number, name, description, difficult)
@@ -74,7 +82,6 @@ namespace LeetCode.Tasks.task264
                 }
                 pointer++;
             }
-            printArray(dp);
             return dp[dp.Length-1];
         }
     }

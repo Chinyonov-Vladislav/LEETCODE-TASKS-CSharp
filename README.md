@@ -1244,3 +1244,5 @@
 Ссылка: [https://leetcode.com/problems/perfect-squares](https://leetcode.com/problems/perfect-squares)  
 ✅ [Задача 264](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task264/Task264.cs) - "Ugly Number II"  
 Ссылка: [https://leetcode.com/problems/ugly-number-ii](https://leetcode.com/problems/ugly-number-ii)  
+✅ [Задача 289](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task289/Task289.cs) - "Game of Life"  
+Ссылка: [https://leetcode.com/problems/game-of-life](https://leetcode.com/problems/game-of-life)  
