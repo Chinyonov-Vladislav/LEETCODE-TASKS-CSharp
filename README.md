@@ -1242,3 +1242,5 @@
 Ссылка: [https://leetcode.com/problems/house-robber-ii](https://leetcode.com/problems/house-robber-ii)  
 ✅ [Задача 279](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task279/Task279.cs) - "Perfect Squares"  
 Ссылка: [https://leetcode.com/problems/perfect-squares](https://leetcode.com/problems/perfect-squares)  
+✅ [Задача 264](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task264/Task264.cs) - "Ugly Number II"  
+Ссылка: [https://leetcode.com/problems/ugly-number-ii](https://leetcode.com/problems/ugly-number-ii)  
