@@ -625,6 +625,7 @@ using LeetCode.Tasks.task264;
 using LeetCode.Tasks.task289;
 using LeetCode.Tasks.task300;
 using LeetCode.Tasks.task313;
+using LeetCode.Tasks.task318;
 
 namespace LeetCode
 {
@@ -1261,7 +1262,8 @@ namespace LeetCode
                 new Task264(264,"Уродливое Число II","",Difficult.medium),
                 new Task289(289,"Игра в жизнь","",Difficult.medium),
                 new Task300(300,"Самая длинная возрастающая подпоследовательность","",Difficult.medium),
-                new Task313(313,"Супер уродливое число","",Difficult.medium)
+                new Task313(313,"Супер уродливое число","",Difficult.medium),
+                new Task318(318,"Максимальное произведение длин слов","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

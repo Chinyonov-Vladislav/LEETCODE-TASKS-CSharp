@@ -1250,3 +1250,5 @@
 Ссылка: [https://leetcode.com/problems/longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence)  
 ✅ [Задача 313](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task313/Task313.cs) - "Super Ugly Number"  
 Ссылка: [https://leetcode.com/problems/super-ugly-number](https://leetcode.com/problems/super-ugly-number)  
+✅ [Задача 318](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task318/Task318.cs) - "Maximum Product of Word Lengths"  
+Ссылка: [https://leetcode.com/problems/maximum-product-of-word-lengths](https://leetcode.com/problems/maximum-product-of-word-lengths)  
