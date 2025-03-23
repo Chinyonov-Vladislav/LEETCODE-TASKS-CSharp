@@ -630,6 +630,7 @@ using LeetCode.Tasks.task343;
 using LeetCode.Tasks.task347;
 using LeetCode.Tasks.task357;
 using LeetCode.Tasks.task371;
+using LeetCode.Tasks.task382;
 
 namespace LeetCode
 {
@@ -1271,7 +1272,8 @@ namespace LeetCode
                 new Task343(343,"Разрыв целого числа","",Difficult.medium),
                 new Task347(347,"Топ K часто встречающихся элементов","",Difficult.medium),
                 new Task357(357,"Считайте числа с уникальными цифрами","",Difficult.medium),
-                new Task371(371,"Сумма двух целых чисел","",Difficult.medium)
+                new Task371(371,"Сумма двух целых чисел","",Difficult.medium),
+                new Task382(382,"Случайный узел связанного списка","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
