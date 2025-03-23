@@ -628,6 +628,7 @@ using LeetCode.Tasks.task313;
 using LeetCode.Tasks.task318;
 using LeetCode.Tasks.task343;
 using LeetCode.Tasks.task347;
+using LeetCode.Tasks.task357;
 
 namespace LeetCode
 {
@@ -1267,7 +1268,8 @@ namespace LeetCode
                 new Task313(313,"Супер уродливое число","",Difficult.medium),
                 new Task318(318,"Максимальное произведение длин слов","",Difficult.medium),
                 new Task343(343,"Разрыв целого числа","",Difficult.medium),
-                new Task347(347,"Топ K часто встречающихся элементов","",Difficult.medium)
+                new Task347(347,"Топ K часто встречающихся элементов","",Difficult.medium),
+                new Task357(357,"Считайте числа с уникальными цифрами","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
