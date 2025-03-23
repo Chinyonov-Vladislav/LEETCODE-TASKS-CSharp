@@ -1258,3 +1258,5 @@
 Ссылка: [https://leetcode.com/problems/top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements)  
 ✅ [Задача 357](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task357/Task357.cs) - "Count Numbers with Unique Digits"  
 Ссылка: [https://leetcode.com/problems/count-numbers-with-unique-digits](https://leetcode.com/problems/count-numbers-with-unique-digits)  
+✅ [Задача 371](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task371/Task371.cs) - "Sum of Two Integers"  
+Ссылка: [https://leetcode.com/problems/sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers)  
