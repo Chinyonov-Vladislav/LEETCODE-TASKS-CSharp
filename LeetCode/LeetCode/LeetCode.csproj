@@ -444,6 +444,7 @@
     <Compile Include="Tasks\task30%28not working%29\task30.cs" />
     <Compile Include="Tasks\task3000\Task3000.cs" />
     <Compile Include="Tasks\task3005\Task3005.cs" />
+    <Compile Include="Tasks\task300\Task300.cs" />
     <Compile Include="Tasks\task3010\Task3010.cs" />
     <Compile Include="Tasks\task3014\Task3014.cs" />
     <Compile Include="Tasks\task3019\Task3019.cs" />

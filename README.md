@@ -1246,3 +1246,5 @@
 Ссылка: [https://leetcode.com/problems/ugly-number-ii](https://leetcode.com/problems/ugly-number-ii)  
 ✅ [Задача 289](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task289/Task289.cs) - "Game of Life"  
 Ссылка: [https://leetcode.com/problems/game-of-life](https://leetcode.com/problems/game-of-life)  
+✅ [Задача 300](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task300/Task300.cs) - "Longest Increasing Subsequence"  
+Ссылка: [https://leetcode.com/problems/longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence)  
