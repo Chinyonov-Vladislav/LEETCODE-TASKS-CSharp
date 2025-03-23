@@ -1262,3 +1262,5 @@
 Ссылка: [https://leetcode.com/problems/sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers)  
 ✅ [Задача 382](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task382/Task382.cs) - "Linked List Random Node"  
 Ссылка: [https://leetcode.com/problems/linked-list-random-node](https://leetcode.com/problems/linked-list-random-node)  
+✅ [Задача 442](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task442/Task442.cs) - "Find All Duplicates in an Array"  
+Ссылка: [https://leetcode.com/problems/find-all-duplicates-in-an-array](https://leetcode.com/problems/find-all-duplicates-in-an-array)  
