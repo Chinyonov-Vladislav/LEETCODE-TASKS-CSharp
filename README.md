@@ -1248,3 +1248,5 @@
 Ссылка: [https://leetcode.com/problems/game-of-life](https://leetcode.com/problems/game-of-life)  
 ✅ [Задача 300](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task300/Task300.cs) - "Longest Increasing Subsequence"  
 Ссылка: [https://leetcode.com/problems/longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence)  
+✅ [Задача 313](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task313/Task313.cs) - "Super Ugly Number"  
+Ссылка: [https://leetcode.com/problems/super-ugly-number](https://leetcode.com/problems/super-ugly-number)  
