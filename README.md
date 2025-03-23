@@ -1254,3 +1254,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-product-of-word-lengths](https://leetcode.com/problems/maximum-product-of-word-lengths)  
 ✅ [Задача 343](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task343/Task343.cs) - "Integer Break"  
 Ссылка: [https://leetcode.com/problems/integer-break](https://leetcode.com/problems/integer-break)  
+✅ [Задача 347](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task347/Task347.cs) - "Top K Frequent Elements"  
+Ссылка: [https://leetcode.com/problems/top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements)  
