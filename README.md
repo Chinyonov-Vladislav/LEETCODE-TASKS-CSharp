@@ -1274,3 +1274,5 @@
 Ссылка: [https://leetcode.com/problems/validate-ip-address](https://leetcode.com/problems/validate-ip-address)  
 ✅ [Задача 355](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task355/Task355.cs) - "Design Twitter"  
 Ссылка: [https://leetcode.com/problems/design-twitter](https://leetcode.com/problems/design-twitter)  
+✅ [Задача 503](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task503/Task503.cs) - "Next Greater Element II"  
+Ссылка: [https://leetcode.com/problems/next-greater-element-ii](https://leetcode.com/problems/next-greater-element-ii)  
