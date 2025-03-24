@@ -210,7 +210,7 @@ namespace LeetCode.Basic
             }
             else if (list.Count == 1)
             {
-                Console.WriteLine($"Результат: [{list[0]}]");
+                Console.WriteLine($"{header}: [{list[0]}]");
             }
             else
             {

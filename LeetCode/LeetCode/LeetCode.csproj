@@ -544,6 +544,8 @@
     <Compile Include="Tasks\task349\Task349.cs" />
     <Compile Include="Tasks\task34\Task34.cs" />
     <Compile Include="Tasks\task350\Task350.cs" />
+    <Compile Include="Tasks\task355\Task355.cs" />
+    <Compile Include="Tasks\task355\Twitter.cs" />
     <Compile Include="Tasks\task357\Task357.cs" />
     <Compile Include="Tasks\task35\Task35.cs" />
     <Compile Include="Tasks\task367\Task367.cs" />

@@ -1272,3 +1272,5 @@
 Ссылка: [https://leetcode.com/problems/find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string)  
 ✅ [Задача 468](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task468/Task468.cs) - "Validate IP Address"  
 Ссылка: [https://leetcode.com/problems/validate-ip-address](https://leetcode.com/problems/validate-ip-address)  
+✅ [Задача 355](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task355/Task355.cs) - "Design Twitter"  
+Ссылка: [https://leetcode.com/problems/design-twitter](https://leetcode.com/problems/design-twitter)  
