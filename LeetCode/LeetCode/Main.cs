@@ -640,6 +640,7 @@ using LeetCode.Tasks.task355;
 using LeetCode.Tasks.task503;
 using LeetCode.Tasks.Task515;
 using LeetCode.Tasks.task451;
+using LeetCode.Tasks.task453;
 
 namespace LeetCode
 {
@@ -1291,7 +1292,8 @@ namespace LeetCode
                 new Task355(355,"Дизайн Твиттера","",Difficult.medium),
                 new Task503(503,"Следующий важный элемент II","",Difficult.medium),
                 new Task515(515,"Найдите наибольшее значение в каждой строке дерева","",Difficult.medium),
-                new Task451(451,"Сортировка символов по частоте","",Difficult.medium)
+                new Task451(451,"Сортировка символов по частоте","",Difficult.medium),
+                new Task453(453,"Минимальные перемещения на равные элементы массива","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
