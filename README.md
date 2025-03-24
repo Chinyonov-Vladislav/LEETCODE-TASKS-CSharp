@@ -1264,3 +1264,5 @@
 Ссылка: [https://leetcode.com/problems/linked-list-random-node](https://leetcode.com/problems/linked-list-random-node)  
 ✅ [Задача 442](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task442/Task442.cs) - "Find All Duplicates in an Array"  
 Ссылка: [https://leetcode.com/problems/find-all-duplicates-in-an-array](https://leetcode.com/problems/find-all-duplicates-in-an-array)  
+✅ [Задача 397](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task397/Task397.cs) - "Integer Replacement"  
+Ссылка: [https://leetcode.com/problems/integer-replacement](https://leetcode.com/problems/integer-replacement)  

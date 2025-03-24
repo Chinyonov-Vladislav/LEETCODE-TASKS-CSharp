@@ -632,6 +632,7 @@ using LeetCode.Tasks.task357;
 using LeetCode.Tasks.task371;
 using LeetCode.Tasks.task382;
 using LeetCode.Tasks.task442;
+using LeetCode.Tasks.task397;
 
 namespace LeetCode
 {
@@ -1275,7 +1276,8 @@ namespace LeetCode
                 new Task357(357,"Считайте числа с уникальными цифрами","",Difficult.medium),
                 new Task371(371,"Сумма двух целых чисел","",Difficult.medium),
                 new Task382(382,"Случайный узел связанного списка","",Difficult.medium),
-                new Task442(442,"Найдите все дубликаты в массиве","",Difficult.medium)
+                new Task442(442,"Найдите все дубликаты в массиве","",Difficult.medium),
+                new Task397(397,"Замена целого числа","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
