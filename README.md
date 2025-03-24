@@ -1266,3 +1266,5 @@
 Ссылка: [https://leetcode.com/problems/find-all-duplicates-in-an-array](https://leetcode.com/problems/find-all-duplicates-in-an-array)  
 ✅ [Задача 397](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task397/Task397.cs) - "Integer Replacement"  
 Ссылка: [https://leetcode.com/problems/integer-replacement](https://leetcode.com/problems/integer-replacement)  
+✅ [Задача 398](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task398/Task398.cs) - "Random Pick Index"  
+Ссылка: [https://leetcode.com/problems/random-pick-index](https://leetcode.com/problems/random-pick-index)  
