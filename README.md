@@ -1270,3 +1270,5 @@
 Ссылка: [https://leetcode.com/problems/random-pick-index](https://leetcode.com/problems/random-pick-index)  
 ✅ [Задача 438](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task438/Task438.cs) - "Find All Anagrams in a String"  
 Ссылка: [https://leetcode.com/problems/find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string)  
+✅ [Задача 468](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task468/Task468.cs) - "Validate IP Address"  
+Ссылка: [https://leetcode.com/problems/validate-ip-address](https://leetcode.com/problems/validate-ip-address)  
