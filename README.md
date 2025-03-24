@@ -1282,3 +1282,5 @@
 Ссылка: [https://leetcode.com/problems/sort-characters-by-frequency](https://leetcode.com/problems/sort-characters-by-frequency)  
 ✅ [Задача 453](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task453/Task453.cs) - "Minimum Moves to Equal Array Elements"  
 Ссылка: [https://leetcode.com/problems/minimum-moves-to-equal-array-elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements)  
+✅ [Задача 48](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task48/Task48.cs) - "Rotate Image"  
+Ссылка: [https://leetcode.com/problems/rotate-image](https://leetcode.com/problems/rotate-image)  
