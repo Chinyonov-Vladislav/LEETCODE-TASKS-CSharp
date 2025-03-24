@@ -1276,3 +1276,5 @@
 Ссылка: [https://leetcode.com/problems/design-twitter](https://leetcode.com/problems/design-twitter)  
 ✅ [Задача 503](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task503/Task503.cs) - "Next Greater Element II"  
 Ссылка: [https://leetcode.com/problems/next-greater-element-ii](https://leetcode.com/problems/next-greater-element-ii)  
+✅ [Задача 515](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task515/Task515.cs) - "Find Largest Value in Each Tree Row"  
+Ссылка: [https://leetcode.com/problems/find-largest-value-in-each-tree-row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)  

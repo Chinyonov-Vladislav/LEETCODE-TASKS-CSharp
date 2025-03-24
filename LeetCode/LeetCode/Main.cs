@@ -638,6 +638,7 @@ using LeetCode.Tasks.task438;
 using LeetCode.Tasks.task468;
 using LeetCode.Tasks.task355;
 using LeetCode.Tasks.task503;
+using LeetCode.Tasks.Task515;
 
 namespace LeetCode
 {
@@ -1287,7 +1288,8 @@ namespace LeetCode
                 new Task438(438,"Найдите все анаграммы в строке","",Difficult.medium),
                 new Task468(468,"Проверка IP-адреса","",Difficult.medium),
                 new Task355(355,"Дизайн Твиттера","",Difficult.medium),
-                new Task503(503,"Следующий важный элемент II","",Difficult.medium)
+                new Task503(503,"Следующий важный элемент II","",Difficult.medium),
+                new Task515(515,"Найдите наибольшее значение в каждой строке дерева","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
