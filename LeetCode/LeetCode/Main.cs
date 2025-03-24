@@ -634,6 +634,7 @@ using LeetCode.Tasks.task382;
 using LeetCode.Tasks.task442;
 using LeetCode.Tasks.task397;
 using LeetCode.Tasks.task398;
+using LeetCode.Tasks.task438;
 
 namespace LeetCode
 {
@@ -1279,7 +1280,8 @@ namespace LeetCode
                 new Task382(382,"Случайный узел связанного списка","",Difficult.medium),
                 new Task442(442,"Найдите все дубликаты в массиве","",Difficult.medium),
                 new Task397(397,"Замена целого числа","",Difficult.medium),
-                new Task398(398,"Индекс случайного выбора","",Difficult.medium)
+                new Task398(398,"Индекс случайного выбора","",Difficult.medium),
+                new Task438(438,"Найдите все анаграммы в строке","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

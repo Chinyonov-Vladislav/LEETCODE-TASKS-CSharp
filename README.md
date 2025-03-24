@@ -1268,3 +1268,5 @@
 Ссылка: [https://leetcode.com/problems/integer-replacement](https://leetcode.com/problems/integer-replacement)  
 ✅ [Задача 398](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task398/Task398.cs) - "Random Pick Index"  
 Ссылка: [https://leetcode.com/problems/random-pick-index](https://leetcode.com/problems/random-pick-index)  
+✅ [Задача 438](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task438/Task438.cs) - "Find All Anagrams in a String"  
+Ссылка: [https://leetcode.com/problems/find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string)  
