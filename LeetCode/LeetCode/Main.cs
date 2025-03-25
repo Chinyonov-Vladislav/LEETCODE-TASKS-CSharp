@@ -645,6 +645,7 @@ using LeetCode.Tasks.task48;
 using LeetCode.Tasks.task138;
 using LeetCode.Tasks.task15;
 using LeetCode.Tasks.task16;
+using LeetCode.Tasks;
 
 namespace LeetCode
 {
@@ -1301,7 +1302,8 @@ namespace LeetCode
                 new Task48(48,"Поворот изображения","",Difficult.medium),
                 new Task138(138,"Скопировать список со случайным указателем","",Difficult.medium),
                 new Task15(15,"3Sum","",Difficult.medium),
-                new Task16(16,"3Sum Ближайший","",Difficult.medium)
+                new Task16(16,"3Sum Ближайший","",Difficult.medium),
+                new Task18(18,"4Sum","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

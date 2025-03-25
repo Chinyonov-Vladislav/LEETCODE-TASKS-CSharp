@@ -1290,3 +1290,5 @@
 Ссылка: [https://leetcode.com/problems/3sum](https://leetcode.com/problems/3sum)  
 ✅ [Задача 16](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task16/Task16.cs) - "3Sum Closest"  
 Ссылка: [https://leetcode.com/problems/3sum-closest](https://leetcode.com/problems/3sum-closest)  
+✅ [Задача 18](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task18/Task18.cs) - "4Sum"  
+Ссылка: [https://leetcode.com/problems/4sum](https://leetcode.com/problems/4sum)  
