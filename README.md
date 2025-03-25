@@ -1296,3 +1296,5 @@
 Ссылка: [https://leetcode.com/problems/restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses)  
 ✅ [Задача 53](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task53/Task53.cs) - "Maximum Subarray"  
 Ссылка: [https://leetcode.com/problems/maximum-subarray](https://leetcode.com/problems/maximum-subarray)  
+✅ [Задача 56](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task56/Task56.cs) - "Merge Intervals"  
+Ссылка: [https://leetcode.com/problems/merge-intervals](https://leetcode.com/problems/merge-intervals)  

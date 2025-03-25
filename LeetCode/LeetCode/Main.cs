@@ -648,6 +648,7 @@ using LeetCode.Tasks.task16;
 using LeetCode.Tasks;
 using LeetCode.Tasks.task93;
 using LeetCode.Tasks.task53;
+using LeetCode.Tasks.task56;
 
 namespace LeetCode
 {
@@ -1307,7 +1308,8 @@ namespace LeetCode
                 new Task16(16,"3Sum Ближайший","",Difficult.medium),
                 new Task18(18,"4Sum","",Difficult.medium),
                 new Task93(93,"Восстановление IP-адресов","",Difficult.medium),
-                new Task53(53,"Максимальный подмассив","",Difficult.medium)
+                new Task53(53,"Максимальный подмассив","",Difficult.medium),
+                new Task56(56,"Объединение интервалов","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
