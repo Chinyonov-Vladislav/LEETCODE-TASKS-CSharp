@@ -1300,3 +1300,5 @@
 Ссылка: [https://leetcode.com/problems/merge-intervals](https://leetcode.com/problems/merge-intervals)  
 ✅ [Задача 62](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task62/Task62.cs) - "Unique Paths"  
 Ссылка: [https://leetcode.com/problems/unique-paths](https://leetcode.com/problems/unique-paths)  
+✅ [Задача 63](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task63/Task63.cs) - "Unique Paths II"  
+Ссылка: [https://leetcode.com/problems/unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)  
