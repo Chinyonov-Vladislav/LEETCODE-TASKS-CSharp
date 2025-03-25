@@ -57,6 +57,7 @@
     <Compile Include="Basic\InfoBasicTask.cs" />
     <Compile Include="Basic\ListNode.cs" />
     <Compile Include="Basic\Node.cs" />
+    <Compile Include="Basic\NodeWithRandomPointer.cs" />
     <Compile Include="Basic\TaskWithTimer.cs" />
     <Compile Include="Basic\TreeNode.cs" />
     <Compile Include="Main.cs" />
@@ -130,6 +131,7 @@
     <Compile Include="Tasks\task1380\Task1380.cs" />
     <Compile Include="Tasks\task1385\Task1385.cs" />
     <Compile Include="Tasks\task1389\Task1389.cs" />
+    <Compile Include="Tasks\task138\Task138.cs" />
     <Compile Include="Tasks\task1394\Task1394.cs" />
     <Compile Include="Tasks\task1399\Task1399.cs" />
     <Compile Include="Tasks\task139\Task139.cs" />

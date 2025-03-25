@@ -543,5 +543,20 @@ namespace LeetCode.Basic
                 }
             }
         }
+        protected void printLinkedListWithRandomPointerNode(NodeWithRandomPointer head, string header = "Исходный связанный список со случайным указателем на узел в каждом узле")
+        {
+            if (head == null)
+            {
+                Console.WriteLine("Передан пустой связанный список");
+                return;
+            }
+            int numberNode = 0;
+            while (head != null)
+            {
+                Console.WriteLine($"Текущий номер узла = {numberNode} | Значение узла = {head.val} | Значение узла, на который указывает случайный указатель текущего узла = {(head.random == null ? "Отсутсвует" : head.random.val.ToString())}");
+                head = head.next;
+                numberNode++;
+            }
+        }
     }
 }

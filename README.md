@@ -1284,3 +1284,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-moves-to-equal-array-elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements)  
 ✅ [Задача 48](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task48/Task48.cs) - "Rotate Image"  
 Ссылка: [https://leetcode.com/problems/rotate-image](https://leetcode.com/problems/rotate-image)  
+✅ [Задача 138](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task138/Task138.cs) - "Copy List with Random Pointer"  
+Ссылка: [https://leetcode.com/problems/copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)  
