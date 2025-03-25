@@ -1292,3 +1292,5 @@
 Ссылка: [https://leetcode.com/problems/3sum-closest](https://leetcode.com/problems/3sum-closest)  
 ✅ [Задача 18](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task18/Task18.cs) - "4Sum"  
 Ссылка: [https://leetcode.com/problems/4sum](https://leetcode.com/problems/4sum)  
+✅ [Задача 93](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task93/Task93.cs) - "Restore IP Addresses"  
+Ссылка: [https://leetcode.com/problems/restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses)  
