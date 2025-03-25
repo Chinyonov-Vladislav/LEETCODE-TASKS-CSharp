@@ -1288,3 +1288,5 @@
 Ссылка: [https://leetcode.com/problems/copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)  
 ✅ [Задача 15](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task15/Task15.cs) - "3Sum"  
 Ссылка: [https://leetcode.com/problems/3sum](https://leetcode.com/problems/3sum)  
+✅ [Задача 16](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task16/Task16.cs) - "3Sum Closest"  
+Ссылка: [https://leetcode.com/problems/3sum-closest](https://leetcode.com/problems/3sum-closest)  
