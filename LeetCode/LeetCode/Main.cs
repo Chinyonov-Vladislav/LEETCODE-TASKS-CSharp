@@ -650,6 +650,7 @@ using LeetCode.Tasks.task93;
 using LeetCode.Tasks.task53;
 using LeetCode.Tasks.task56;
 using LeetCode.Tasks.task63;
+using LeetCode.Tasks.task73;
 
 namespace LeetCode
 {
@@ -1311,7 +1312,8 @@ namespace LeetCode
                 new Task93(93,"Восстановление IP-адресов","",Difficult.medium),
                 new Task53(53,"Максимальный подмассив","",Difficult.medium),
                 new Task56(56,"Объединение интервалов","",Difficult.medium),
-                new Task63(63,"Уникальные пути II","",Difficult.medium)
+                new Task63(63,"Уникальные пути II","",Difficult.medium),
+                new Task73(73,"Установите нули в матрице","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

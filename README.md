@@ -1302,3 +1302,5 @@
 Ссылка: [https://leetcode.com/problems/unique-paths](https://leetcode.com/problems/unique-paths)  
 ✅ [Задача 63](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task63/Task63.cs) - "Unique Paths II"  
 Ссылка: [https://leetcode.com/problems/unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)  
+✅ [Задача 73](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task73/Task73.cs) - "Set Matrix Zeroes"  
+Ссылка: [https://leetcode.com/problems/set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)  
