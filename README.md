@@ -1298,3 +1298,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-subarray](https://leetcode.com/problems/maximum-subarray)  
 ✅ [Задача 56](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task56/Task56.cs) - "Merge Intervals"  
 Ссылка: [https://leetcode.com/problems/merge-intervals](https://leetcode.com/problems/merge-intervals)  
+✅ [Задача 62](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task62/Task62.cs) - "Unique Paths"  
+Ссылка: [https://leetcode.com/problems/unique-paths](https://leetcode.com/problems/unique-paths)  
