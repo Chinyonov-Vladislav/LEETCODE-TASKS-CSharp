@@ -1294,3 +1294,5 @@
 Ссылка: [https://leetcode.com/problems/4sum](https://leetcode.com/problems/4sum)  
 ✅ [Задача 93](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task93/Task93.cs) - "Restore IP Addresses"  
 Ссылка: [https://leetcode.com/problems/restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses)  
+✅ [Задача 53](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task53/Task53.cs) - "Maximum Subarray"  
+Ссылка: [https://leetcode.com/problems/maximum-subarray](https://leetcode.com/problems/maximum-subarray)  
