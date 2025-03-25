@@ -232,15 +232,15 @@ namespace LeetCode.Basic
                 }
             }
         }
-        protected void printIListIListInt(IList<IList<int>> list)
+        protected void printIListIListInt(IList<IList<int>> list, string header = "Исходный список списков целых чисел")
         {
             if (list.Count == 0)
             {
-                Console.WriteLine("Пустой список");
+                Console.WriteLine($"{header}: пустой список");
             }
             else if (list.Count == 1)
             {
-                Console.Write($"Результат: [");
+                Console.Write($"{header}: [");
                 for (int i = 0; i < list[0].Count; i++)
                 {
                     if (i == 0)
@@ -265,7 +265,7 @@ namespace LeetCode.Basic
                 {
                     if (i == 0)
                     {
-                        Console.Write($"Результат: [");
+                        Console.Write($"{header}: [");
                     }
                     if (list[i].Count > 1)
                     {

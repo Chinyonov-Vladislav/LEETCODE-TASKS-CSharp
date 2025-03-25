@@ -1286,3 +1286,5 @@
 Ссылка: [https://leetcode.com/problems/rotate-image](https://leetcode.com/problems/rotate-image)  
 ✅ [Задача 138](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task138/Task138.cs) - "Copy List with Random Pointer"  
 Ссылка: [https://leetcode.com/problems/copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)  
+✅ [Задача 15](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task15/Task15.cs) - "3Sum"  
+Ссылка: [https://leetcode.com/problems/3sum](https://leetcode.com/problems/3sum)  
