@@ -659,6 +659,7 @@ using LeetCode.Tasks.task143;
 using LeetCode.Tasks.task147;
 using LeetCode.Tasks.task155;
 using LeetCode.Tasks.task189;
+using LeetCode.Tasks.task236;
 
 namespace LeetCode
 {
@@ -1329,7 +1330,8 @@ namespace LeetCode
                 new Task143(143,"Изменить порядок следования списка","",Difficult.medium),
                 new Task147(147,"Сортировка связанного списка алгоритмом сортировки вставками","",Difficult.medium),
                 new Task155(155,"Минимальный стек","",Difficult.medium),
-                new Task189(189,"Повернуть массив","",Difficult.medium)
+                new Task189(189,"Повернуть массив","",Difficult.medium),
+                new Task236(236,"Наименьший общий предок бинарного дерева","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

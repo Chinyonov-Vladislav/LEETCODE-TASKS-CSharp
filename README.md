@@ -1320,3 +1320,5 @@
 Ссылка: [https://leetcode.com/problems/min-stack](https://leetcode.com/problems/min-stack)  
 ✅ [Задача 189](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task189/Task189.cs) - "Rotate Array"  
 Ссылка: [https://leetcode.com/problems/rotate-array](https://leetcode.com/problems/rotate-array)  
+✅ [Задача 236](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task236/Task236.cs) - "Lowest Common Ancestor of a Binary Tree"  
+Ссылка: [https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)  

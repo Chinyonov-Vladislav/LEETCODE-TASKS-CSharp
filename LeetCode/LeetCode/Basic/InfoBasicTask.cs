@@ -465,9 +465,9 @@ namespace LeetCode.Basic
                 }
                 else
                 {
+                    Console.WriteLine($"Значение узла= {treeNode.val} | Уровень = {currentDepth}");
                     visitedNodes.Add(treeNode);
                 }
-                Console.WriteLine($"Значение узла= {treeNode.val} | Уровень = {currentDepth}");
                 if (treeNode.left != null && !visitedNodes.Contains(treeNode.left))
                 {
                     stack.Push(treeNode);
