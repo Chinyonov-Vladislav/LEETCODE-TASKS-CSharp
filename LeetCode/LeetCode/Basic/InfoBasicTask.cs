@@ -558,5 +558,37 @@ namespace LeetCode.Basic
                 numberNode++;
             }
         }
+        protected void printTreeNodeWithPointerOnRightNode(TreeNodeWithPointerOnRightNode root, string header = "Исходное двоичное дерево с указателем на правый узел на одном уровне")
+        {
+            if (root == null)
+            {
+                Console.WriteLine($"{header}: передан пустой связанный список");
+                return;
+            }
+            Console.WriteLine(header);
+            int currentLevel = 0;
+            int currentNumberNode = 0;
+            Queue<TreeNodeWithPointerOnRightNode> queue = new Queue<TreeNodeWithPointerOnRightNode>();
+            queue.Enqueue(root);
+            while (queue.Count > 0)
+            {
+                TreeNodeWithPointerOnRightNode currentNode = queue.Dequeue();
+                Console.WriteLine($"Текущий уровень = {currentLevel} | Значение узла = {currentNode.val} | Значение правого узла на текущем уровне = {(currentNode.next == null ? "Отсутствует" : currentNode.next.val.ToString())}");
+                currentNumberNode++;
+                if (currentNumberNode == Math.Pow(2, currentLevel))
+                {
+                    currentLevel++;
+                }
+                if (currentNode.left != null)
+                {
+                    queue.Enqueue(currentNode.left);
+                }
+                if (currentNode.right != null)
+                {
+                    queue.Enqueue(currentNode.right);
+                }
+
+            }
+        }
     }
 }
