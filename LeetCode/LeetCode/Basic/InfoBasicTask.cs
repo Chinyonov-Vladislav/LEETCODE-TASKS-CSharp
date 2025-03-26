@@ -289,9 +289,13 @@ namespace LeetCode.Basic
                             }
                         }
                     }
-                    else if (list[i].Count == 1)
+                    else if (list[i].Count == 1 && i != list.Count - 1)
                     {
                         Console.Write($"[{list[i][0]}], ");
+                    }
+                    else if (list[i].Count == 1 && i == list.Count - 1)
+                    {
+                        Console.Write($"[{list[i][0]}]");
                     }
                     else
                     {

@@ -107,7 +107,6 @@ namespace LeetCode.Tasks.task117
                     {
                         nodesOfNextLevel[i].next = nodesOfNextLevel[i + 1];
                     }
-                    
                     for (int i = 0; i < nodesOfNextLevel.Count; i++)
                     {
                         queue.Enqueue(nodesOfNextLevel[i]);
