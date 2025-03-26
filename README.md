@@ -1318,3 +1318,5 @@
 Ссылка: [https://leetcode.com/problems/insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)  
 ✅ [Задача 155](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task155/Task155.cs) - "Min Stack"  
 Ссылка: [https://leetcode.com/problems/min-stack](https://leetcode.com/problems/min-stack)  
+✅ [Задача 189](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task189/Task189.cs) - "Rotate Array"  
+Ссылка: [https://leetcode.com/problems/rotate-array](https://leetcode.com/problems/rotate-array)  
