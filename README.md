@@ -1314,3 +1314,5 @@
 Ссылка: [https://leetcode.com/problems/sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)  
 ✅ [Задача 143](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task143/Task143.cs) - "Reorder List"  
 Ссылка: [https://leetcode.com/problems/reorder-list](https://leetcode.com/problems/reorder-list)  
+✅ [Задача 147](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task147/Task147.cs) - "Insertion Sort List"  
+Ссылка: [https://leetcode.com/problems/insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)  

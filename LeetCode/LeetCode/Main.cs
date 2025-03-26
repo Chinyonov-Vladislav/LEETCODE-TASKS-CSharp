@@ -656,6 +656,7 @@ using LeetCode.Tasks.task117;
 using LeetCode.Tasks.task107;
 using LeetCode.Tasks.task129;
 using LeetCode.Tasks.task143;
+using LeetCode.Tasks.task147;
 
 namespace LeetCode
 {
@@ -1323,7 +1324,8 @@ namespace LeetCode
                 new Task117(117,"Заполнение следующих указателей вправо в каждом узле II","",Difficult.medium),
                 new Task107(107,"Обход порядка на уровне бинарного дерева II","",Difficult.medium),
                 new Task129(129,"Суммируйте числа от корня к листу","",Difficult.medium),
-                new Task143(143,"Изменить порядок следования списка","",Difficult.medium)
+                new Task143(143,"Изменить порядок следования списка","",Difficult.medium),
+                new Task147(147,"Сортировка связанного списка алгоритмом сортировки вставками","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
