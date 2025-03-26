@@ -493,11 +493,18 @@ namespace LeetCode.Basic
                 Console.WriteLine(header);
                 for (int i = 0; i < nums.Length; i++)
                 {
-                    for (int j = 0; j < nums[i].Length; j++)
+                    if (nums[i].Length > 0)
                     {
-                        Console.Write(nums[i][j] + "\t");
+                        for (int j = 0; j < nums[i].Length; j++)
+                        {
+                            Console.Write(nums[i][j] + "\t");
+                        }
+                        Console.WriteLine();
                     }
-                    Console.WriteLine();
+                    else
+                    {
+                        Console.WriteLine("[]");
+                    }
                 }
             }
         }

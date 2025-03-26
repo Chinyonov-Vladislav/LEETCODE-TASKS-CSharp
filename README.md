@@ -1316,3 +1316,5 @@
 Ссылка: [https://leetcode.com/problems/reorder-list](https://leetcode.com/problems/reorder-list)  
 ✅ [Задача 147](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task147/Task147.cs) - "Insertion Sort List"  
 Ссылка: [https://leetcode.com/problems/insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)  
+✅ [Задача 155](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task155/Task155.cs) - "Min Stack"  
+Ссылка: [https://leetcode.com/problems/min-stack](https://leetcode.com/problems/min-stack)  
