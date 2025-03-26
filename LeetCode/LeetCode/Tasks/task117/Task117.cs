@@ -5,11 +5,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LeetCode.Tasks.task116
+namespace LeetCode.Tasks.task117
 {
     /*
-     116. Заполнение следующих указателей вправо в каждом узле
-    Вам дано идеальное двоичное дерево, в котором все листья находятся на одном уровне, а у каждого родителя есть два ребёнка. Двоичное дерево определяется следующим образом:
+     117. Заполнение следующих указателей вправо в каждом узле II
+    Дано бинарное дерево
         структура Node {
          int val;
          Node *left;
@@ -19,19 +19,19 @@ namespace LeetCode.Tasks.task116
     Заполните каждый следующий указатель, чтобы он указывал на следующий правый узел. Если следующего правого узла нет, следующий указатель должен быть установлен на NULL.
     Изначально всем следующим указателям присваивается значение NULL.
     Ограничения:
-        Количество узлов в дереве находится в диапазоне [0, 212 - 1].
-        -1000 <= Node.val <= 1000
-    https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/
+        Количество узлов в дереве находится в диапазоне [0, 6000].
+        -100 <= Node.val <= 100
+    https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/
      */
-    public class Task116 : InfoBasicTask
+    public class Task117 : InfoBasicTask
     {
-        public Task116(int number, string name, string description, Difficult difficult) : base(number, name, description, difficult)
+        public Task117(int number, string name, string description, Difficult difficult) : base(number, name, description, difficult)
         {
         }
 
         public override void execute()
         {
-            TreeNodeWithPointerOnRightNode root = new TreeNodeWithPointerOnRightNode(1, new TreeNodeWithPointerOnRightNode(2, new TreeNodeWithPointerOnRightNode(4), new TreeNodeWithPointerOnRightNode(5),null), new TreeNodeWithPointerOnRightNode(3, new TreeNodeWithPointerOnRightNode(6), new TreeNodeWithPointerOnRightNode(7), null), null);
+            TreeNodeWithPointerOnRightNode root = new TreeNodeWithPointerOnRightNode(1, new TreeNodeWithPointerOnRightNode(2, new TreeNodeWithPointerOnRightNode(4), new TreeNodeWithPointerOnRightNode(5), null), new TreeNodeWithPointerOnRightNode(3, null, new TreeNodeWithPointerOnRightNode(7), null), null);
             printTreeNodeWithPointerOnRightNode(root);
             if (isValid(root))
             {
@@ -39,7 +39,7 @@ namespace LeetCode.Tasks.task116
                 printTreeNodeWithPointerOnRightNode(result, "Результирующее двоичное дерево с указателем на правый узел на одном уровне");
             }
             else
-            { 
+            {
                 printInfoNotValidData();
             }
         }
@@ -51,9 +51,9 @@ namespace LeetCode.Tasks.task116
         private bool isValid(TreeNodeWithPointerOnRightNode root)
         {
             int lowLimitCountNodes = 0;
-            int highLimitCountNodes = (int)Math.Pow(2, 12) - 1;
-            int lowLimitValueNode = -1000;
-            int highLimitValueNode = 1000;
+            int highLimitCountNodes = 6000;
+            int lowLimitValueNode = -100;
+            int highLimitValueNode = 100;
             int countNodes = 0;
             Queue<TreeNodeWithPointerOnRightNode> queue = new Queue<TreeNodeWithPointerOnRightNode>();
             queue.Enqueue(root);
@@ -86,40 +86,34 @@ namespace LeetCode.Tasks.task116
             {
                 return root;
             }
-            List<TreeNodeWithPointerOnRightNode> nodesOfCurrentLevel = new List<TreeNodeWithPointerOnRightNode>();
-            int currentLevel = 0;
+            List<TreeNodeWithPointerOnRightNode> nodesOfNextLevel = new List<TreeNodeWithPointerOnRightNode>();
             TreeNodeWithPointerOnRightNode dummyHead = root;
             Queue<TreeNodeWithPointerOnRightNode> queue = new Queue<TreeNodeWithPointerOnRightNode>();
             queue.Enqueue(root);
             while (queue.Count > 0)
             {
                 TreeNodeWithPointerOnRightNode currentNode = queue.Dequeue();
-                nodesOfCurrentLevel.Add(currentNode);
-                if (nodesOfCurrentLevel.Count == Math.Pow(2, currentLevel))
-                {
-                    for (int i = 0; i < nodesOfCurrentLevel.Count; i++)
-                    {
-                        if (i == nodesOfCurrentLevel.Count - 1)
-                        {
-                            nodesOfCurrentLevel[i].next = null;
-                        }
-                        else
-                        {
-                            nodesOfCurrentLevel[i].next = nodesOfCurrentLevel[i+1];
-                        }
-                    }
-                    nodesOfCurrentLevel.Clear();
-                    currentLevel++;
-                }
                 if (currentNode.left != null)
                 {
-                    queue.Enqueue(currentNode.left);
+                    nodesOfNextLevel.Add(currentNode.left);
                 }
                 if (currentNode.right != null)
-                {
-                    queue.Enqueue(currentNode.right);
+                { 
+                    nodesOfNextLevel.Add(currentNode.right);
                 }
-                
+                if (queue.Count == 0)
+                {
+                    for (int i = 0; i < nodesOfNextLevel.Count-1; i++)
+                    {
+                        nodesOfNextLevel[i].next = nodesOfNextLevel[i + 1];
+                    }
+                    
+                    for (int i = 0; i < nodesOfNextLevel.Count; i++)
+                    {
+                        queue.Enqueue(nodesOfNextLevel[i]);
+                    }
+                    nodesOfNextLevel.Clear();
+                }
             }
             return dummyHead;
         }

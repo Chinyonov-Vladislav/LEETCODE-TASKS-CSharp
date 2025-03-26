@@ -567,27 +567,35 @@ namespace LeetCode.Basic
             }
             Console.WriteLine(header);
             int currentLevel = 0;
-            int currentNumberNode = 0;
+            List<TreeNodeWithPointerOnRightNode> nodesOfNextLevel = new List<TreeNodeWithPointerOnRightNode>();
             Queue<TreeNodeWithPointerOnRightNode> queue = new Queue<TreeNodeWithPointerOnRightNode>();
             queue.Enqueue(root);
             while (queue.Count > 0)
             {
                 TreeNodeWithPointerOnRightNode currentNode = queue.Dequeue();
-                Console.WriteLine($"Текущий уровень = {currentLevel} | Значение узла = {currentNode.val} | Значение правого узла на текущем уровне = {(currentNode.next == null ? "Отсутствует" : currentNode.next.val.ToString())}");
-                currentNumberNode++;
-                if (currentNumberNode == Math.Pow(2, currentLevel))
-                {
-                    currentLevel++;
-                }
+                Console.WriteLine($"Текущий уровень в дереве = {currentLevel} | Значение узла = {currentNode.val} | Значение правого узла на текущем уровне = {(currentNode.next == null ? "Отсутствует" : currentNode.next.val.ToString())}");
                 if (currentNode.left != null)
                 {
-                    queue.Enqueue(currentNode.left);
+                    nodesOfNextLevel.Add(currentNode.left);
                 }
                 if (currentNode.right != null)
                 {
-                    queue.Enqueue(currentNode.right);
+                    nodesOfNextLevel.Add(currentNode.right);
                 }
+                if (queue.Count == 0)
+                {
+                    for (int i = 0; i < nodesOfNextLevel.Count - 1; i++)
+                    {
+                        nodesOfNextLevel[i].next = nodesOfNextLevel[i + 1];
+                    }
 
+                    for (int i = 0; i < nodesOfNextLevel.Count; i++)
+                    {
+                        queue.Enqueue(nodesOfNextLevel[i]);
+                    }
+                    nodesOfNextLevel.Clear();
+                    currentLevel++;
+                }
             }
         }
     }

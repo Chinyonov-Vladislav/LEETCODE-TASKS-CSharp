@@ -1306,3 +1306,5 @@
 Ссылка: [https://leetcode.com/problems/set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)  
 ✅ [Задача 116](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task116/Task116.cs) - "Populating Next Right Pointers in Each Node"  
 Ссылка: [https://leetcode.com/problems/populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)  
+✅ [Задача 117](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task117/Task117.cs) - "Populating Next Right Pointers in Each Node II"  
+Ссылка: [https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)  
