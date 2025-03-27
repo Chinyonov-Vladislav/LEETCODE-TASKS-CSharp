@@ -1328,3 +1328,5 @@
 Ссылка: [https://leetcode.com/problems/edit-distance](https://leetcode.com/problems/edit-distance)  
 ✅ [Задача 423](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task423/Task423.cs) - "Reconstruct Original Digits from English"  
 Ссылка: [https://leetcode.com/problems/reconstruct-original-digits-from-english](https://leetcode.com/problems/reconstruct-original-digits-from-english)  
+✅ [Задача 498](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task498/Task498.cs) - "Diagonal Traverse"  
+Ссылка: [https://leetcode.com/problems/diagonal-traverse](https://leetcode.com/problems/diagonal-traverse)  
