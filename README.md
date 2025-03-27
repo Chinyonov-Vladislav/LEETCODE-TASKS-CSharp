@@ -1324,3 +1324,5 @@
 Ссылка: [https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)  
 ✅ [Задача 319](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task319/Task319.cs) - "Bulb Switcher"  
 Ссылка: [https://leetcode.com/problems/bulb-switcher](https://leetcode.com/problems/bulb-switcher)  
+✅ [Задача 72](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task72/Task72.cs) - "Edit Distance"  
+Ссылка: [https://leetcode.com/problems/edit-distance](https://leetcode.com/problems/edit-distance)  

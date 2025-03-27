@@ -661,6 +661,7 @@ using LeetCode.Tasks.task155;
 using LeetCode.Tasks.task189;
 using LeetCode.Tasks.task236;
 using LeetCode.Tasks.task319;
+using LeetCode.Tasks.task72;
 
 namespace LeetCode
 {
@@ -1333,7 +1334,8 @@ namespace LeetCode
                 new Task155(155,"Минимальный стек","",Difficult.medium),
                 new Task189(189,"Повернуть массив","",Difficult.medium),
                 new Task236(236,"Наименьший общий предок бинарного дерева","",Difficult.medium),
-                new Task319(319, "Переключатель ламп накаливания","",Difficult.medium)
+                new Task319(319, "Переключатель ламп накаливания","",Difficult.medium),
+                new Task72(72,"Редакционное расстояние","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
