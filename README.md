@@ -1326,3 +1326,5 @@
 Ссылка: [https://leetcode.com/problems/bulb-switcher](https://leetcode.com/problems/bulb-switcher)  
 ✅ [Задача 72](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task72/Task72.cs) - "Edit Distance"  
 Ссылка: [https://leetcode.com/problems/edit-distance](https://leetcode.com/problems/edit-distance)  
+✅ [Задача 423](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task423/Task423.cs) - "Reconstruct Original Digits from English"  
+Ссылка: [https://leetcode.com/problems/reconstruct-original-digits-from-english](https://leetcode.com/problems/reconstruct-original-digits-from-english)  
