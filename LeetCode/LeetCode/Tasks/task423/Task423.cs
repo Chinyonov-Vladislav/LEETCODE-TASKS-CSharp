@@ -44,7 +44,7 @@ namespace LeetCode.Tasks.task423
         private bool isValid(string s)
         {
             int lowLimit = 1;
-            int highLimit = (int)Math.Pow(10,5);
+            int highLimit = (int)Math.Pow(10, 5);
             if (s.Length < lowLimit || s.Length > highLimit)
             {
                 return false;
@@ -72,7 +72,8 @@ namespace LeetCode.Tasks.task423
                 { 'o', 1 },
                 { 't', 3 },
                 { 'f', 5 },
-                { 's', 7 }
+                { 's', 7 },
+                 { 'i', 9 }
             };
             foreach (var pair in dict)
             {
@@ -106,18 +107,15 @@ namespace LeetCode.Tasks.task423
                     case 's':
                         str = "seven";
                         break;
+                    case 'i':
+                        str = "nine";
+                        break;
                 }
                 int count = freq[pair.Key - 'a'];
                 foreach (char c in str)
                 {
                     freq[c - 'a'] -= count;
                 }
-            }
-            int countNine = freq['n' - 'a'] / 2;
-            string strNine = "nine";
-            foreach (char c in strNine)
-            {
-                freq[c - 'a'] -= countNine;
             }
             foreach (int val in freq)
             {
@@ -146,7 +144,8 @@ namespace LeetCode.Tasks.task423
                 { 'o', 1 },
                 { 't', 3 },
                 { 'f', 5 },
-                { 's', 7 }
+                { 's', 7 },
+                { 'i', 9 }
             };
             foreach (var pair in dict)
             {
@@ -180,6 +179,9 @@ namespace LeetCode.Tasks.task423
                     case 's':
                         str = "seven";
                         break;
+                    case 'i':
+                        str = "nine";
+                        break;
                 }
                 int count = freq[pair.Key - 'a'];
                 freqValue[pair.Value] = count;
@@ -188,8 +190,6 @@ namespace LeetCode.Tasks.task423
                     freq[c - 'a'] -= count;
                 }
             }
-            int countNine = freq['n' - 'a'];
-            freqValue[9] = countNine / 2;
             StringBuilder sb = new StringBuilder();
             for (int i = 0; i < freqValue.Length; i++)
             {
