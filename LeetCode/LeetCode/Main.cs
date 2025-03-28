@@ -667,6 +667,7 @@ using LeetCode.Tasks.task498;
 using LeetCode.Tasks.task2075;
 using LeetCode.Tasks.task508;
 using LeetCode.Tasks.task454;
+using LeetCode.Tasks.task539;
 
 namespace LeetCode
 {
@@ -1345,7 +1346,8 @@ namespace LeetCode
                 new Task498(498,"Диагональный обход матрицы","",Difficult.medium),
                 new Task2075(2075,"Расшифруйте наклонный текст","",Difficult.medium),
                 new Task508(508,"Наиболее часто встречающаяся сумма поддеревьев","",Difficult.medium),
-                new Task454(454,"4Сум II","",Difficult.medium)
+                new Task454(454,"4Сум II","",Difficult.medium),
+                new Task539(539,"Минимальная разница во времени","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
