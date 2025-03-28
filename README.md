@@ -1332,3 +1332,5 @@
 Ссылка: [https://leetcode.com/problems/diagonal-traverse](https://leetcode.com/problems/diagonal-traverse)  
 ✅ [Задача 2075](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2075/Task2075.cs) - "Decode the Slanted Ciphertext"  
 Ссылка: [https://leetcode.com/problems/decode-the-slanted-ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext)  
+✅ [Задача 508](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task508/Task508.cs) - "Most Frequent Subtree Sum"  
+Ссылка: [https://leetcode.com/problems/most-frequent-subtree-sum](https://leetcode.com/problems/most-frequent-subtree-sum)  
