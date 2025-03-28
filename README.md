@@ -1334,3 +1334,5 @@
 Ссылка: [https://leetcode.com/problems/decode-the-slanted-ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext)  
 ✅ [Задача 508](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task508/Task508.cs) - "Most Frequent Subtree Sum"  
 Ссылка: [https://leetcode.com/problems/most-frequent-subtree-sum](https://leetcode.com/problems/most-frequent-subtree-sum)  
+✅ [Задача 454](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task454/Task454.cs) - "4Sum II"  
+Ссылка: [https://leetcode.com/problems/4sum-ii](https://leetcode.com/problems/4sum-ii)  
