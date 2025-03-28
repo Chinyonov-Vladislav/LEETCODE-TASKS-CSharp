@@ -664,6 +664,7 @@ using LeetCode.Tasks.task319;
 using LeetCode.Tasks.task72;
 using LeetCode.Tasks.task423;
 using LeetCode.Tasks.task498;
+using LeetCode.Tasks.task2075;
 
 namespace LeetCode
 {
@@ -1339,7 +1340,8 @@ namespace LeetCode
                 new Task319(319, "Переключатель ламп накаливания","",Difficult.medium),
                 new Task72(72,"Редакционное расстояние","",Difficult.medium),
                 new Task423(423,"Восстановите исходные цифры с английского","",Difficult.medium),
-                new Task498(498,"Диагональный обход матрицы","",Difficult.medium)
+                new Task498(498,"Диагональный обход матрицы","",Difficult.medium),
+                new Task2075(2075,"Расшифруйте наклонный текст","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

@@ -1330,3 +1330,5 @@
 Ссылка: [https://leetcode.com/problems/reconstruct-original-digits-from-english](https://leetcode.com/problems/reconstruct-original-digits-from-english)  
 ✅ [Задача 498](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task498/Task498.cs) - "Diagonal Traverse"  
 Ссылка: [https://leetcode.com/problems/diagonal-traverse](https://leetcode.com/problems/diagonal-traverse)  
+✅ [Задача 2075](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task2075/Task2075.cs) - "Decode the Slanted Ciphertext"  
+Ссылка: [https://leetcode.com/problems/decode-the-slanted-ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext)  
