@@ -1338,3 +1338,5 @@
 Ссылка: [https://leetcode.com/problems/4sum-ii](https://leetcode.com/problems/4sum-ii)  
 ✅ [Задача 539](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task539/Task539.cs) - "Minimum Time Difference"  
 Ссылка: [https://leetcode.com/problems/minimum-time-difference](https://leetcode.com/problems/minimum-time-difference)  
+✅ [Задача 540](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task540/Task540.cs) - "Single Element in a Sorted Array"  
+Ссылка: [https://leetcode.com/problems/single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array)  
