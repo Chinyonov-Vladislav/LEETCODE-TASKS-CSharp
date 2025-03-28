@@ -1340,3 +1340,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-time-difference](https://leetcode.com/problems/minimum-time-difference)  
 ✅ [Задача 540](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task540/Task540.cs) - "Single Element in a Sorted Array"  
 Ссылка: [https://leetcode.com/problems/single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array)  
+✅ [Задача 542](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task542/Task542.cs) - "01 Matrix"  
+Ссылка: [https://leetcode.com/problems/01-matrix](https://leetcode.com/problems/01-matrix)  

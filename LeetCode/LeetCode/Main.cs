@@ -669,6 +669,7 @@ using LeetCode.Tasks.task508;
 using LeetCode.Tasks.task454;
 using LeetCode.Tasks.task539;
 using LeetCode.Tasks.task540;
+using LeetCode.Tasks.task542;
 
 namespace LeetCode
 {
@@ -1349,7 +1350,8 @@ namespace LeetCode
                 new Task508(508,"Наиболее часто встречающаяся сумма поддеревьев","",Difficult.medium),
                 new Task454(454,"4Сум II","",Difficult.medium),
                 new Task539(539,"Минимальная разница во времени","",Difficult.medium),
-                new Task540(540,"Одиночный элемент в отсортированном массиве","",Difficult.medium)
+                new Task540(540,"Одиночный элемент в отсортированном массиве","",Difficult.medium),
+                new Task542(542,"01 Матрица","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
