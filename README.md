@@ -1342,3 +1342,5 @@
 Ссылка: [https://leetcode.com/problems/single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array)  
 ✅ [Задача 542](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task542/Task542.cs) - "01 Matrix"  
 Ссылка: [https://leetcode.com/problems/01-matrix](https://leetcode.com/problems/01-matrix)  
+✅ [Задача 583](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task583/Task583.cs) - "Delete Operation for Two Strings"  
+Ссылка: [https://leetcode.com/problems/delete-operation-for-two-strings](https://leetcode.com/problems/delete-operation-for-two-strings)  
