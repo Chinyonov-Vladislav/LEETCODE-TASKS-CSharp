@@ -671,6 +671,7 @@ using LeetCode.Tasks.task539;
 using LeetCode.Tasks.task540;
 using LeetCode.Tasks.task542;
 using LeetCode.Tasks.task583;
+using LeetCode.Tasks.task567;
 
 namespace LeetCode
 {
@@ -1353,7 +1354,8 @@ namespace LeetCode
                 new Task539(539,"Минимальная разница во времени","",Difficult.medium),
                 new Task540(540,"Одиночный элемент в отсортированном массиве","",Difficult.medium),
                 new Task542(542,"01 Матрица","",Difficult.medium),
-                new Task583(583,"Операция удаления для двух строк","",Difficult.medium)
+                new Task583(583,"Операция удаления для двух строк","",Difficult.medium),
+                new Task567(567,"","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

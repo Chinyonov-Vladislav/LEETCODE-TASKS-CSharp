@@ -1344,3 +1344,5 @@
 Ссылка: [https://leetcode.com/problems/01-matrix](https://leetcode.com/problems/01-matrix)  
 ✅ [Задача 583](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task583/Task583.cs) - "Delete Operation for Two Strings"  
 Ссылка: [https://leetcode.com/problems/delete-operation-for-two-strings](https://leetcode.com/problems/delete-operation-for-two-strings)  
+✅ [Задача 567](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task567/Task567.cs) - "Permutation in String"  
+Ссылка: [https://leetcode.com/problems/permutation-in-string](https://leetcode.com/problems/permutation-in-string)  
