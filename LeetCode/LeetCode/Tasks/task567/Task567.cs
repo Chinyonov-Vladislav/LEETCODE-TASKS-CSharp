@@ -8,8 +8,18 @@ using System.Threading.Tasks;
 
 namespace LeetCode.Tasks.task567
 {
+    /*
+     567. Перестановка в строке
+    Даны две строки s1 и s2, верните true если s2 содержит перестановкуs1 или false в противном случае.
+    Другими словами, верните true если одна из перестановок s1 является подстрокой s2.
+    Ограничения:
+        1 <= s1.length, s2.length <= 10^4
+        s1 и s2 состоят из строчных английских букв.
+    https://leetcode.com/problems/permutation-in-string/description/
+     */
     public class Task567 : InfoBasicTask
     {
+        
         public Task567(int number, string name, string description, Difficult difficult) : base(number, name, description, difficult)
         {
         }

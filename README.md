@@ -1346,3 +1346,5 @@
 Ссылка: [https://leetcode.com/problems/delete-operation-for-two-strings](https://leetcode.com/problems/delete-operation-for-two-strings)  
 ✅ [Задача 567](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task567/Task567.cs) - "Permutation in String"  
 Ссылка: [https://leetcode.com/problems/permutation-in-string](https://leetcode.com/problems/permutation-in-string)  
+✅ [Задача 593](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task593/Task593.cs) - "Valid Square"  
+Ссылка: [https://leetcode.com/problems/valid-square](https://leetcode.com/problems/valid-square)  
