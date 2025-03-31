@@ -1354,3 +1354,5 @@
 Ссылка: [https://leetcode.com/problems/sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers)  
 ✅ [Задача 678](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task678/Task678.cs) - "Valid Parenthesis String"  
 Ссылка: [https://leetcode.com/problems/valid-parenthesis-string](https://leetcode.com/problems/valid-parenthesis-string)  
+✅ [Задача 692](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task692/Task692.cs) - "Top K Frequent Words"  
+Ссылка: [https://leetcode.com/problems/top-k-frequent-words](https://leetcode.com/problems/top-k-frequent-words)  
