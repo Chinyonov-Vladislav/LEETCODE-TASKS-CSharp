@@ -1358,3 +1358,5 @@
 Ссылка: [https://leetcode.com/problems/top-k-frequent-words](https://leetcode.com/problems/top-k-frequent-words)  
 ✅ [Задача 524](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task524/Task524.cs) - "Longest Word in Dictionary through Deleting"  
 Ссылка: [https://leetcode.com/problems/longest-word-in-dictionary-through-deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting)  
+✅ [Задача 556](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task556/Task556.cs) - "Next Greater Element III"  
+Ссылка: [https://leetcode.com/problems/next-greater-element-iii](https://leetcode.com/problems/next-greater-element-iii)  
