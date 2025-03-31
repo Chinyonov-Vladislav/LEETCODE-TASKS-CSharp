@@ -1360,3 +1360,5 @@
 Ссылка: [https://leetcode.com/problems/longest-word-in-dictionary-through-deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting)  
 ✅ [Задача 556](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task556/Task556.cs) - "Next Greater Element III"  
 Ссылка: [https://leetcode.com/problems/next-greater-element-iii](https://leetcode.com/problems/next-greater-element-iii)  
+✅ [Задача 606](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task606/Task606.cs) - "Construct String from Binary Tree"  
+Ссылка: [https://leetcode.com/problems/construct-string-from-binary-tree](https://leetcode.com/problems/construct-string-from-binary-tree)  
