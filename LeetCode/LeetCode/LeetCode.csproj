@@ -625,6 +625,7 @@
     <Compile Include="Tasks\Task515\Task515.cs" />
     <Compile Include="Tasks\task520\Task520.cs" />
     <Compile Include="Tasks\task521\Task521.cs" />
+    <Compile Include="Tasks\task524\Task524.cs" />
     <Compile Include="Tasks\task539\Task539.cs" />
     <Compile Include="Tasks\task53\Task53.cs" />
     <Compile Include="Tasks\task540\Task540.cs" />

@@ -1356,3 +1356,5 @@
 Ссылка: [https://leetcode.com/problems/valid-parenthesis-string](https://leetcode.com/problems/valid-parenthesis-string)  
 ✅ [Задача 692](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task692/Task692.cs) - "Top K Frequent Words"  
 Ссылка: [https://leetcode.com/problems/top-k-frequent-words](https://leetcode.com/problems/top-k-frequent-words)  
+✅ [Задача 524](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task524/Task524.cs) - "Longest Word in Dictionary through Deleting"  
+Ссылка: [https://leetcode.com/problems/longest-word-in-dictionary-through-deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting)  

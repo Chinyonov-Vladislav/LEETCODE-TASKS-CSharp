@@ -677,6 +677,7 @@ using LeetCode.Tasks.task611;
 using LeetCode.Tasks.task633;
 using LeetCode.Tasks.task678;
 using LeetCode.Tasks.task692;
+using LeetCode.Tasks.task524;
 
 namespace LeetCode
 {
@@ -1365,7 +1366,8 @@ namespace LeetCode
                 new Task611(611,"Количество действительных треугольников","",Difficult.medium),
                 new Task633(633,"Сумма квадратных чисел","",Difficult.medium),
                 new Task678(678,"Допустимая строка в круглых скобках","",Difficult.medium),
-                new Task692(692,"Топ-K часто встречающихся слов","",Difficult.medium)
+                new Task692(692,"Топ-K часто встречающихся слов","",Difficult.medium),
+                new Task524(524,"Самое длинное слово в словаре из-за удаления","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
