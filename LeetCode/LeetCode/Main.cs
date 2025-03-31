@@ -675,6 +675,7 @@ using LeetCode.Tasks.task567;
 using LeetCode.Tasks.task593;
 using LeetCode.Tasks.task611;
 using LeetCode.Tasks.task633;
+using LeetCode.Tasks.task678;
 
 namespace LeetCode
 {
@@ -1361,7 +1362,8 @@ namespace LeetCode
                 new Task567(567,"Перестановка в строке","",Difficult.medium),
                 new Task593(593,"Действительный квадрат","",Difficult.medium),
                 new Task611(611,"Количество действительных треугольников","",Difficult.medium),
-                new Task633(633,"Сумма квадратных чисел","",Difficult.medium)
+                new Task633(633,"Сумма квадратных чисел","",Difficult.medium),
+                new Task678(678,"Допустимая строка в круглых скобках","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

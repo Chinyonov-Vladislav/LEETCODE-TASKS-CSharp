@@ -1352,3 +1352,5 @@
 Ссылка: [https://leetcode.com/problems/valid-triangle-number](https://leetcode.com/problems/valid-triangle-number)  
 ✅ [Задача 633](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task633/Task633.cs) - "Sum of Square Numbers"  
 Ссылка: [https://leetcode.com/problems/sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers)  
+✅ [Задача 678](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task678/Task678.cs) - "Valid Parenthesis String"  
+Ссылка: [https://leetcode.com/problems/valid-parenthesis-string](https://leetcode.com/problems/valid-parenthesis-string)  
