@@ -1350,3 +1350,5 @@
 Ссылка: [https://leetcode.com/problems/valid-square](https://leetcode.com/problems/valid-square)  
 ✅ [Задача 611](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task611/Task611.cs) - "Valid Triangle Number"  
 Ссылка: [https://leetcode.com/problems/valid-triangle-number](https://leetcode.com/problems/valid-triangle-number)  
+✅ [Задача 633](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task633/Task633.cs) - "Sum of Square Numbers"  
+Ссылка: [https://leetcode.com/problems/sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers)  
