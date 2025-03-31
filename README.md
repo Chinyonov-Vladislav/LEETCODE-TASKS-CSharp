@@ -1348,3 +1348,5 @@
 Ссылка: [https://leetcode.com/problems/permutation-in-string](https://leetcode.com/problems/permutation-in-string)  
 ✅ [Задача 593](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task593/Task593.cs) - "Valid Square"  
 Ссылка: [https://leetcode.com/problems/valid-square](https://leetcode.com/problems/valid-square)  
+✅ [Задача 611](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task611/Task611.cs) - "Valid Triangle Number"  
+Ссылка: [https://leetcode.com/problems/valid-triangle-number](https://leetcode.com/problems/valid-triangle-number)  
