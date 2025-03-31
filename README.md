@@ -1362,3 +1362,5 @@
 Ссылка: [https://leetcode.com/problems/next-greater-element-iii](https://leetcode.com/problems/next-greater-element-iii)  
 ✅ [Задача 606](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task606/Task606.cs) - "Construct String from Binary Tree"  
 Ссылка: [https://leetcode.com/problems/construct-string-from-binary-tree](https://leetcode.com/problems/construct-string-from-binary-tree)  
+✅ [Задача 686](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task686/Task686.cs) - "Repeated String Match"  
+Ссылка: [https://leetcode.com/problems/repeated-string-match](https://leetcode.com/problems/repeated-string-match)  
