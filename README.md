@@ -1372,3 +1372,5 @@
 Ссылка: [https://leetcode.com/problems/subarray-product-less-than-k](https://leetcode.com/problems/subarray-product-less-than-k)  
 ✅ [Задача 738](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task738/Task738.cs) - "Monotone Increasing Digits"  
 Ссылка: [https://leetcode.com/problems/monotone-increasing-digits](https://leetcode.com/problems/monotone-increasing-digits)  
+✅ [Задача 754](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task754/Task754.cs) - "Reach a Number"  
+Ссылка: [https://leetcode.com/problems/reach-a-number](https://leetcode.com/problems/reach-a-number)  
