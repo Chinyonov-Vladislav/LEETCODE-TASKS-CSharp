@@ -1368,3 +1368,5 @@
 Ссылка: [https://leetcode.com/problems/longest-univalue-path](https://leetcode.com/problems/longest-univalue-path)  
 ✅ [Задача 695](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task695/Task695.cs) - "Max Area of Island"  
 Ссылка: [https://leetcode.com/problems/max-area-of-island](https://leetcode.com/problems/max-area-of-island)  
+✅ [Задача 713](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task713/Task713.cs) - "Subarray Product Less Than K"  
+Ссылка: [https://leetcode.com/problems/subarray-product-less-than-k](https://leetcode.com/problems/subarray-product-less-than-k)  
