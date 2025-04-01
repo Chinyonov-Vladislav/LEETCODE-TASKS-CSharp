@@ -16,18 +16,13 @@ namespace LeetCode.Tasks.task729
 
         public bool Book(int startTime, int endTime)
         {
-            endTime--;
             for (int i = 0; i < times.Count; i++)
             {
                 if (startTime >= times[i][0] && startTime < times[i][1] && endTime >= times[i][0] && endTime < times[i][1])
                 {
                     return false;
                 }
-                if (startTime <= times[i][0] && endTime >= times[i][1])
-                {
-                    return false;
-                }
-                if (startTime <= times[i][0] && endTime >= times[i][0] && endTime < times[i][1])
+                if (startTime <= times[i][0] && endTime > times[i][0])
                 {
                     return false;
                 }
@@ -36,7 +31,7 @@ namespace LeetCode.Tasks.task729
                     return false;
                 }
             }
-            times.Add(new int[] { startTime, endTime+1 });
+            times.Add(new int[] { startTime, endTime });
             return true;
         }
     }
