@@ -126,36 +126,47 @@ namespace LeetCode.Basic
                 }
             }
         }
-        protected void printArray(string[] chars, string headerStr = "Исходный массив строк: ")
+        protected void printArray(string[] strings, string headerStr = "Исходный массив строк: ", bool inline = true)
         {
-            if (chars == null)
+            if (strings == null)
             {
                 Console.WriteLine("Отсутствует объект массива");
             }
-            else if (chars.Length == 0)
+            else if (strings.Length == 0)
             {
                 Console.WriteLine("Массив символов строки пуст");
             }
-            else if (chars.Length == 1)
+            else if (strings.Length == 1)
             {
-                Console.Write($"{headerStr}[{chars[0]}]\n");
+                Console.Write($"{headerStr}[{strings[0]}]\n");
             }
             else
             {
-                Console.Write(headerStr);
-                for (int i = 0; i < chars.Length; i++)
+                if (inline)
                 {
-                    if (i == 0)
+                    Console.Write(headerStr);
+                    for (int i = 0; i < strings.Length; i++)
                     {
-                        Console.Write($"[{chars[i]}, ");
+                        if (i == 0)
+                        {
+                            Console.Write($"[{strings[i]}, ");
+                        }
+                        else if (i == strings.Length - 1)
+                        {
+                            Console.Write($"{strings[i]}]\n");
+                        }
+                        else
+                        {
+                            Console.Write($"{strings[i]}, ");
+                        }
                     }
-                    else if (i == chars.Length - 1)
+                }
+                else
+                {
+                    Console.WriteLine(headerStr);
+                    for (int i = 0; i < strings.Length; i++)
                     {
-                        Console.Write($"{chars[i]}]\n");
-                    }
-                    else
-                    {
-                        Console.Write($"{chars[i]}, ");
+                        Console.WriteLine($"[{strings[i]}]");
                     }
                 }
             }

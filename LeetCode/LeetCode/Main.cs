@@ -687,6 +687,7 @@ using LeetCode.Tasks.task695;
 using LeetCode.Tasks.task713;
 using LeetCode.Tasks.task738;
 using LeetCode.Tasks.task754;
+using LeetCode.Tasks.task794;
 
 namespace LeetCode
 {
@@ -1384,7 +1385,8 @@ namespace LeetCode
                 new Task695(695,"Максимальная площадь острова","",Difficult.medium),
                 new Task713(713,"Произведение подмассивов меньше K","",Difficult.medium),
                 new Task738(738,"Монотонно увеличивающиеся цифры","",Difficult.medium),
-                new Task754(754,"Достичь номера","",Difficult.medium)
+                new Task754(754,"Достичь номера","",Difficult.medium),
+                new Task794(794,"Допустимое состояние игры в крестики-нолики","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
