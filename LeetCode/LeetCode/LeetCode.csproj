@@ -693,6 +693,8 @@
     <Compile Include="Tasks\task713\Task713.cs" />
     <Compile Include="Tasks\task724\Task724.cs" />
     <Compile Include="Tasks\task728\Task728.cs" />
+    <Compile Include="Tasks\task729\MyCalendar.cs" />
+    <Compile Include="Tasks\task729\Task729.cs" />
     <Compile Include="Tasks\task72\Task72.cs" />
     <Compile Include="Tasks\task733\Task733.cs" />
     <Compile Include="Tasks\task738\Task738.cs" />
