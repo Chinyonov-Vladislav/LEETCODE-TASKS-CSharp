@@ -1376,3 +1376,5 @@
 Ссылка: [https://leetcode.com/problems/reach-a-number](https://leetcode.com/problems/reach-a-number)  
 ✅ [Задача 794](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task794/Task794.cs) - "Valid Tic-Tac-Toe State"  
 Ссылка: [https://leetcode.com/problems/valid-tic-tac-toe-state](https://leetcode.com/problems/valid-tic-tac-toe-state)  
+✅ [Задача 788](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task788/Task788.cs) - "Rotated Digits"  
+Ссылка: [https://leetcode.com/problems/rotated-digits](https://leetcode.com/problems/rotated-digits)  
