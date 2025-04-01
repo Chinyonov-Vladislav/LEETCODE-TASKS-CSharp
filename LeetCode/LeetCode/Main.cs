@@ -682,6 +682,8 @@ using LeetCode.Tasks.task556;
 using LeetCode.Tasks.task606;
 using LeetCode.Tasks.task686;
 using LeetCode.Tasks.task687;
+using LeetCode.Tasks.task18;
+using LeetCode.Tasks.task695;
 
 namespace LeetCode
 {
@@ -1375,7 +1377,8 @@ namespace LeetCode
                 new Task556(556,"Следующий больший элемент III","",Difficult.medium),
                 new Task606(606,"Постройте строку из двоичного дерева","",Difficult.medium),
                 new Task686(686,"Повторное совпадение строк","",Difficult.medium),
-                new Task687(687,"Самый длинный одномерный путь","",Difficult.medium)
+                new Task687(687,"Самый длинный одномерный путь","",Difficult.medium),
+                new Task695(695,"Максимальная площадь острова","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

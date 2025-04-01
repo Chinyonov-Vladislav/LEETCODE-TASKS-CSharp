@@ -65,7 +65,7 @@ namespace LeetCode.Tasks.task48
                 }
                 foreach (int item in row)
                 {
-                    if (item < lowLimitCellValue || item > lowLimitCellValue)
+                    if (item < lowLimitCellValue || item > highLimitCellValue)
                     {
                         return false;
                     }

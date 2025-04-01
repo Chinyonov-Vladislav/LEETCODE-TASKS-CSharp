@@ -1366,3 +1366,5 @@
 Ссылка: [https://leetcode.com/problems/repeated-string-match](https://leetcode.com/problems/repeated-string-match)  
 ✅ [Задача 687](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task687/Task687.cs) - "Longest Univalue Path"  
 Ссылка: [https://leetcode.com/problems/longest-univalue-path](https://leetcode.com/problems/longest-univalue-path)  
+✅ [Задача 695](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task695/Task695.cs) - "Max Area of Island"  
+Ссылка: [https://leetcode.com/problems/max-area-of-island](https://leetcode.com/problems/max-area-of-island)  

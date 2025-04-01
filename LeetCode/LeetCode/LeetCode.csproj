@@ -216,7 +216,6 @@
     <Compile Include="Tasks\task1796\Task1796.cs" />
     <Compile Include="Tasks\task1799\Task1799.cs" />
     <Compile Include="Tasks\task17\Task17.cs" />
-    <Compile Include="Tasks\Task18.cs" />
     <Compile Include="Tasks\task1800\Task1800.cs" />
     <Compile Include="Tasks\task1805\Task1805.cs" />
     <Compile Include="Tasks\task1812\Task1812.cs" />
@@ -232,6 +231,7 @@
     <Compile Include="Tasks\Task1886\Task1886.cs" />
     <Compile Include="Tasks\task1897\Task1897.cs" />
     <Compile Include="Tasks\task189\Task189.cs" />
+    <Compile Include="Tasks\task18\Task18.cs" />
     <Compile Include="Tasks\task1903\Task1903.cs" />
     <Compile Include="Tasks\task1909\Task1909.cs" />
     <Compile Include="Tasks\task190\Task190.cs" />
@@ -679,6 +679,7 @@
     <Compile Include="Tasks\task687\Task687.cs" />
     <Compile Include="Tasks\task692\Task692.cs" />
     <Compile Include="Tasks\task693\Task693.cs" />
+    <Compile Include="Tasks\task695\Task695.cs" />
     <Compile Include="Tasks\task697\Task697.cs" />
     <Compile Include="Tasks\task69\Task69.cs" />
     <Compile Include="Tasks\task6\Task6.cs" />

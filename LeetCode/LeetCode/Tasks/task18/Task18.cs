@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LeetCode.Tasks
+namespace LeetCode.Tasks.task18
 {
     /*
      18. 4Sum
