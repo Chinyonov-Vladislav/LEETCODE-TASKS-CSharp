@@ -1370,3 +1370,5 @@
 Ссылка: [https://leetcode.com/problems/max-area-of-island](https://leetcode.com/problems/max-area-of-island)  
 ✅ [Задача 713](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task713/Task713.cs) - "Subarray Product Less Than K"  
 Ссылка: [https://leetcode.com/problems/subarray-product-less-than-k](https://leetcode.com/problems/subarray-product-less-than-k)  
+✅ [Задача 738](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task738/Task738.cs) - "Monotone Increasing Digits"  
+Ссылка: [https://leetcode.com/problems/monotone-increasing-digits](https://leetcode.com/problems/monotone-increasing-digits)  
