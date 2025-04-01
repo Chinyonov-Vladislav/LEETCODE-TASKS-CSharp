@@ -1364,3 +1364,5 @@
 Ссылка: [https://leetcode.com/problems/construct-string-from-binary-tree](https://leetcode.com/problems/construct-string-from-binary-tree)  
 ✅ [Задача 686](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task686/Task686.cs) - "Repeated String Match"  
 Ссылка: [https://leetcode.com/problems/repeated-string-match](https://leetcode.com/problems/repeated-string-match)  
+✅ [Задача 687](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task687/Task687.cs) - "Longest Univalue Path"  
+Ссылка: [https://leetcode.com/problems/longest-univalue-path](https://leetcode.com/problems/longest-univalue-path)  
