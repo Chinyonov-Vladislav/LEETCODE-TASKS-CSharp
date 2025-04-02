@@ -519,6 +519,34 @@ namespace LeetCode.Basic
                 }
             }
         }
+
+        protected void printTwoDimensionalArray(string[][] strings, string header)
+        {
+            if (strings.LongLength == 0)
+            {
+                Console.WriteLine("Пустой двумерный массив");
+            }
+            else
+            {
+                Console.WriteLine(header);
+                for (int i = 0; i < strings.Length; i++)
+                {
+                    if (strings[i].Length > 0)
+                    {
+                        for (int j = 0; j < strings[i].Length; j++)
+                        {
+                            Console.Write(strings[i][j] + "\t");
+                        }
+                        Console.WriteLine();
+                    }
+                    else
+                    {
+                        Console.WriteLine("[]");
+                    }
+                }
+            }
+        }
+
         protected void printTwoDimensionalArray(char[][] nums, string header = "Двумерная матрица символов")
         {
             if (nums.LongLength == 0)

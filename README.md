@@ -1382,3 +1382,5 @@
 Ссылка: [https://leetcode.com/problems/my-calendar-i](https://leetcode.com/problems/my-calendar-i)  
 ✅ [Задача 624](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task624/Task624.cs) - "Maximum Distance in Arrays"  
 Ссылка: [https://leetcode.com/problems/maximum-distance-in-arrays](https://leetcode.com/problems/maximum-distance-in-arrays)  
+✅ [Задача 676](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task676/Task676.cs) - "Implement Magic Dictionary"  
+Ссылка: [https://leetcode.com/problems/implement-magic-dictionary](https://leetcode.com/problems/implement-magic-dictionary)  
