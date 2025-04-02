@@ -690,6 +690,7 @@ using LeetCode.Tasks.task754;
 using LeetCode.Tasks.task794;
 using LeetCode.Tasks.task788;
 using LeetCode.Tasks.task729;
+using LeetCode.Tasks.task624;
 
 namespace LeetCode
 {
@@ -1390,7 +1391,8 @@ namespace LeetCode
                 new Task754(754,"Достичь номера","",Difficult.medium),
                 new Task794(794,"Допустимое состояние игры в крестики-нолики","",Difficult.medium),
                 new Task788(788,"Повернутые цифры","",Difficult.medium),
-                new Task729(729,"Мой календарь I","",Difficult.medium)
+                new Task729(729,"Мой календарь I","",Difficult.medium),
+                new Task624(624,"Максимальное расстояние в массивах","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

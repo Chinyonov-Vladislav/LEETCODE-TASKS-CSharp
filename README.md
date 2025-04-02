@@ -1380,3 +1380,5 @@
 Ссылка: [https://leetcode.com/problems/rotated-digits](https://leetcode.com/problems/rotated-digits)  
 ✅ [Задача 729](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task729/Task729.cs) - "My Calendar I"  
 Ссылка: [https://leetcode.com/problems/my-calendar-i](https://leetcode.com/problems/my-calendar-i)  
+✅ [Задача 624](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task624/Task624.cs) - "Maximum Distance in Arrays"  
+Ссылка: [https://leetcode.com/problems/maximum-distance-in-arrays](https://leetcode.com/problems/maximum-distance-in-arrays)  
