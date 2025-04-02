@@ -648,5 +648,31 @@ namespace LeetCode.Basic
                 }
             }
         }
+        protected void printArrayKeyValuePair(KeyValuePair<string, int?>[] arr, string header = "Массив пар ключ-значение, где ключ - строка, а значение - целое число или null")
+        {
+            Console.Write($"{header}: ");
+            if (arr.Length == 0)
+            {
+                Console.Write("пустой двумерный массив\n");
+            }
+            else
+            {
+                for (int i = 0; i < arr.Length; i++)
+                {
+                    if (i == 0)
+                    {
+                        Console.Write($"[({arr[i].Key},{arr[i].Value}), ");
+                    }
+                    else if (i == arr.Length - 1)
+                    {
+                        Console.Write($"({arr[i].Key},{arr[i].Value})]\n");
+                    }
+                    else
+                    {
+                        Console.Write($"({arr[i].Key},{arr[i].Value}), ");
+                    }
+                }
+            }
+        }
     }
 }

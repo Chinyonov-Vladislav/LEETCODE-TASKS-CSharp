@@ -674,6 +674,8 @@
     <Compile Include="Tasks\task674\Task674.cs" />
     <Compile Include="Tasks\task676\MagicDictionary.cs" />
     <Compile Include="Tasks\task676\Task676.cs" />
+    <Compile Include="Tasks\task677\MapSum.cs" />
+    <Compile Include="Tasks\task677\Task677.cs" />
     <Compile Include="Tasks\task678\Task678.cs" />
     <Compile Include="Tasks\task67\Task67.cs" />
     <Compile Include="Tasks\task680\Task680.cs" />

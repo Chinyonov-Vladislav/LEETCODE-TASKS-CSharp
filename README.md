@@ -1384,3 +1384,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-distance-in-arrays](https://leetcode.com/problems/maximum-distance-in-arrays)  
 ✅ [Задача 676](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task676/Task676.cs) - "Implement Magic Dictionary"  
 Ссылка: [https://leetcode.com/problems/implement-magic-dictionary](https://leetcode.com/problems/implement-magic-dictionary)  
+✅ [Задача 677](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task677/Task677.cs) - "Map Sum Pairs"  
+Ссылка: [https://leetcode.com/problems/map-sum-pairs](https://leetcode.com/problems/map-sum-pairs)  
