@@ -687,5 +687,107 @@ namespace LeetCode.Basic
                 }
             }
         }
+
+        // вывод бинарного дерева через списки
+        protected void printBinaryTreeUsingList(TreeNode root, string header = "Бинарное дерево")
+        {
+            IList<IList<string>> res = printTree(root);
+            printIListIListString(res, false, header);
+        }
+        private IList<IList<string>> printTree(TreeNode root)
+        {
+            int height = findHeightOfTreeNode(root);
+            int countRows = height + 1;
+            int countColumns = (int)Math.Pow(2, height + 1) - 1;
+            IList<IList<string>> result = new List<IList<string>>();
+            for (int indexRow = 0; indexRow < countRows; indexRow++)
+            {
+                result.Add(new List<string>());
+                for (int indexColumn = 0; indexColumn < countColumns; indexColumn++)
+                {
+                    result[indexRow].Add("");
+                }
+            }
+            HashSet<TreeNode> visitedNodes = new HashSet<TreeNode>();
+            Stack<Tuple<TreeNode, int[]>> stack = new Stack<Tuple<TreeNode, int[]>>();
+            stack.Push(new Tuple<TreeNode, int[]>(root, null));
+            while (stack.Count > 0)
+            {
+                Tuple<TreeNode, int[]> currentNodeFromStack = stack.Pop();
+                int currentRowPosition = 0;
+                int currentColumnPosition = 0;
+                if (currentNodeFromStack.Item2 == null)
+                {
+                    currentRowPosition = 0;
+                    currentColumnPosition = (countColumns - 1) / 2;
+                }
+                else
+                {
+                    if (currentNodeFromStack.Item2[2] == -1) // левый потомок
+                    {
+                        currentRowPosition = currentNodeFromStack.Item2[0] + 1;
+                        currentColumnPosition = currentNodeFromStack.Item2[1] - (int)Math.Pow(2, height - currentNodeFromStack.Item2[0] - 1);
+                    }
+                    else // правый потомок
+                    {
+                        currentRowPosition = currentNodeFromStack.Item2[0] + 1;
+                        currentColumnPosition = currentNodeFromStack.Item2[1] + (int)Math.Pow(2, height - currentNodeFromStack.Item2[0] - 1);
+                    }
+                }
+                if (!visitedNodes.Contains(currentNodeFromStack.Item1))
+                {
+                    result[currentRowPosition][currentColumnPosition] = $"{currentNodeFromStack.Item1.val}";
+                    visitedNodes.Add(currentNodeFromStack.Item1);
+                }
+                if (currentNodeFromStack.Item1.left != null && !visitedNodes.Contains(currentNodeFromStack.Item1.left))
+                {
+                    stack.Push(currentNodeFromStack);
+                    stack.Push(new Tuple<TreeNode, int[]>(currentNodeFromStack.Item1.left, new int[] { currentRowPosition, currentColumnPosition, -1 }));
+                }
+                else if (currentNodeFromStack.Item1.right != null && !visitedNodes.Contains(currentNodeFromStack.Item1.right))
+                {
+                    stack.Push(currentNodeFromStack);
+                    stack.Push(new Tuple<TreeNode, int[]>(currentNodeFromStack.Item1.right, new int[] { currentRowPosition, currentColumnPosition, 1 }));
+                }
+            }
+            return result;
+        }
+        private int findHeightOfTreeNode(TreeNode root)
+        {
+            int max = 0;
+            int currentDepth = 0;
+            List<TreeNode> visitedNodes = new List<TreeNode>();
+            Stack<TreeNode> stack = new Stack<TreeNode>();
+            stack.Push(root);
+            while (stack.Count > 0)
+            {
+                TreeNode treeNode = stack.Pop();
+                if (visitedNodes.Contains(treeNode))
+                {
+                    currentDepth--;
+                }
+                else
+                {
+                    if (currentDepth > max)
+                    {
+                        max = currentDepth;
+                    }
+                    visitedNodes.Add(treeNode);
+                }
+                if (treeNode.left != null && !visitedNodes.Contains(treeNode.left))
+                {
+                    stack.Push(treeNode);
+                    stack.Push(treeNode.left);
+                    currentDepth++;
+                }
+                else if (treeNode.right != null && !visitedNodes.Contains(treeNode.right))
+                {
+                    stack.Push(treeNode);
+                    stack.Push(treeNode.right);
+                    currentDepth++;
+                }
+            }
+            return max;
+        }
     }
 }

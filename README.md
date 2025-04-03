@@ -1392,3 +1392,5 @@
 Ссылка: [https://leetcode.com/problems/print-binary-tree](https://leetcode.com/problems/print-binary-tree)  
 ✅ [Задача 650](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task650/Task650.cs) - "2 Keys Keyboard"  
 Ссылка: [https://leetcode.com/problems/2-keys-keyboard](https://leetcode.com/problems/2-keys-keyboard)  
+✅ [Задача 654](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task654/Task654.cs) - "Maximum Binary Tree"  
+Ссылка: [https://leetcode.com/problems/maximum-binary-tree](https://leetcode.com/problems/maximum-binary-tree)  
