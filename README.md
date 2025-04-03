@@ -1396,3 +1396,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-binary-tree](https://leetcode.com/problems/maximum-binary-tree)  
 ✅ [Задача 662](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task662/Task662.cs) - "Maximum Width of Binary Tree"  
 Ссылка: [https://leetcode.com/problems/maximum-width-of-binary-tree](https://leetcode.com/problems/maximum-width-of-binary-tree)  
+✅ [Задача 720](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task720/Task720.cs) - "Longest Word in Dictionary"  
+Ссылка: [https://leetcode.com/problems/longest-word-in-dictionary](https://leetcode.com/problems/longest-word-in-dictionary)  
