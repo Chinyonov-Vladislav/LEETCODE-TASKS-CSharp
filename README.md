@@ -1394,3 +1394,5 @@
 Ссылка: [https://leetcode.com/problems/2-keys-keyboard](https://leetcode.com/problems/2-keys-keyboard)  
 ✅ [Задача 654](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task654/Task654.cs) - "Maximum Binary Tree"  
 Ссылка: [https://leetcode.com/problems/maximum-binary-tree](https://leetcode.com/problems/maximum-binary-tree)  
+✅ [Задача 662](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task662/Task662.cs) - "Maximum Width of Binary Tree"  
+Ссылка: [https://leetcode.com/problems/maximum-width-of-binary-tree](https://leetcode.com/problems/maximum-width-of-binary-tree)  

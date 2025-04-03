@@ -673,6 +673,7 @@
     <Compile Include="Tasks\task655\Task655.cs" />
     <Compile Include="Tasks\task657\Task657.cs" />
     <Compile Include="Tasks\task661\Task661.cs" />
+    <Compile Include="Tasks\task662\Task662.cs" />
     <Compile Include="Tasks\task66\Task66.cs" />
     <Compile Include="Tasks\task671\Task671.cs" />
     <Compile Include="Tasks\task674\Task674.cs" />
