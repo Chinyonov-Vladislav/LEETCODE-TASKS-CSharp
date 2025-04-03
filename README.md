@@ -1388,3 +1388,5 @@
 Ссылка: [https://leetcode.com/problems/map-sum-pairs](https://leetcode.com/problems/map-sum-pairs)  
 ✅ [Задача 592](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task592/Task592.cs) - "Fraction Addition and Subtraction"  
 Ссылка: [https://leetcode.com/problems/fraction-addition-and-subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction)  
+✅ [Задача 655](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task655/Task655.cs) - "Print Binary Tree"  
+Ссылка: [https://leetcode.com/problems/print-binary-tree](https://leetcode.com/problems/print-binary-tree)  

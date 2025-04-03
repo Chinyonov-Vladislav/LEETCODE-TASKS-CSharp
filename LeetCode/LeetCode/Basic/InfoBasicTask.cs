@@ -320,7 +320,7 @@ namespace LeetCode.Basic
             }
         }
 
-        protected void printIListIListString(IList<IList<string>> list)
+        protected void printIListIListString(IList<IList<string>> list, bool inline = true, string header = "Результат")
         {
             if (list.Count == 0)
             {
@@ -328,7 +328,7 @@ namespace LeetCode.Basic
             }
             else if (list.Count == 1)
             {
-                Console.WriteLine($"Результат: [");
+                Console.WriteLine($"{header}: [");
                 for (int i = 0; i < list[0].Count; i++)
                 {
                     if (i == 0)
@@ -348,12 +348,25 @@ namespace LeetCode.Basic
             }
             else
             {
-
                 for (int i = 0; i < list.Count; i++)
                 {
+                    if (!inline)
+                    {
+                        if (i > 0)
+                        {
+                            Console.WriteLine();
+                        }
+                    }
                     if (i == 0)
                     {
-                        Console.Write($"Результат: [");
+                        if (inline)
+                        {
+                            Console.Write($"{header}: [");
+                        }
+                        else
+                        {
+                            Console.Write($"{header}\n[");
+                        }
                     }
                     if (list[i].Count > 1)
                     {

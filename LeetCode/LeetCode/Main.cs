@@ -694,6 +694,7 @@ using LeetCode.Tasks.task624;
 using LeetCode.Tasks.task676;
 using LeetCode.Tasks.task677;
 using LeetCode.Tasks.task592;
+using LeetCode.Tasks.task655;
 
 namespace LeetCode
 {
@@ -1398,7 +1399,8 @@ namespace LeetCode
                 new Task624(624,"Максимальное расстояние в массивах","",Difficult.medium),
                 new Task676(676,"Реализовать магический словарь","",Difficult.medium),
                 new Task677(677,"Пары сумм карт","",Difficult.medium),
-                new Task592(592,"Сложение и вычитание дробей","",Difficult.medium)
+                new Task592(592,"Сложение и вычитание дробей","",Difficult.medium),
+                new Task655(655,"Вывести двоичное дерево","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
