@@ -1390,3 +1390,5 @@
 Ссылка: [https://leetcode.com/problems/fraction-addition-and-subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction)  
 ✅ [Задача 655](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task655/Task655.cs) - "Print Binary Tree"  
 Ссылка: [https://leetcode.com/problems/print-binary-tree](https://leetcode.com/problems/print-binary-tree)  
+✅ [Задача 650](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task650/Task650.cs) - "2 Keys Keyboard"  
+Ссылка: [https://leetcode.com/problems/2-keys-keyboard](https://leetcode.com/problems/2-keys-keyboard)  
