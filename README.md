@@ -1386,3 +1386,5 @@
 Ссылка: [https://leetcode.com/problems/implement-magic-dictionary](https://leetcode.com/problems/implement-magic-dictionary)  
 ✅ [Задача 677](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task677/Task677.cs) - "Map Sum Pairs"  
 Ссылка: [https://leetcode.com/problems/map-sum-pairs](https://leetcode.com/problems/map-sum-pairs)  
+✅ [Задача 592](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task592/Task592.cs) - "Fraction Addition and Subtraction"  
+Ссылка: [https://leetcode.com/problems/fraction-addition-and-subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction)  
