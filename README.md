@@ -1402,3 +1402,5 @@
 Ссылка: [https://leetcode.com/problems/partition-labels](https://leetcode.com/problems/partition-labels)  
 ✅ [Задача 784](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task784/Task784.cs) - "Letter Case Permutation"  
 Ссылка: [https://leetcode.com/problems/letter-case-permutation](https://leetcode.com/problems/letter-case-permutation)  
+✅ [Задача 814](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task814/Task814.cs) - "Binary Tree Pruning"  
+Ссылка: [https://leetcode.com/problems/binary-tree-pruning](https://leetcode.com/problems/binary-tree-pruning)  
