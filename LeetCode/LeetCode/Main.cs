@@ -702,6 +702,7 @@ using LeetCode.Tasks.task720;
 using LeetCode.Tasks.task763;
 using LeetCode.Tasks.task784;
 using LeetCode.Tasks.task814;
+using LeetCode.Tasks.task890;
 
 namespace LeetCode
 {
@@ -1414,7 +1415,8 @@ namespace LeetCode
                 new Task720(720,"Самое длинное слово в словаре","",Difficult.medium),
                 new Task763(763,"Метки разделов","",Difficult.medium),
                 new Task784(784,"Перестановка регистров букв","",Difficult.medium),
-                new Task814(814,"Обрезка бинарного дерева","",Difficult.medium)
+                new Task814(814,"Обрезка бинарного дерева","",Difficult.medium),
+                new Task890(890,"Найдите и замените шаблон","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
