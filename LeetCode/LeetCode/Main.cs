@@ -700,6 +700,7 @@ using LeetCode.Tasks.task654;
 using LeetCode.Tasks.task662;
 using LeetCode.Tasks.task720;
 using LeetCode.Tasks.task763;
+using LeetCode.Tasks.task784;
 
 namespace LeetCode
 {
@@ -1410,7 +1411,8 @@ namespace LeetCode
                 new Task654(654,"Максимальное двоичное дерево","",Difficult.medium),
                 new Task662(662,"Максимальная ширина двоичного дерева","",Difficult.medium),
                 new Task720(720,"Самое длинное слово в словаре","",Difficult.medium),
-                new Task763(763,"Метки разделов","",Difficult.medium)
+                new Task763(763,"Метки разделов","",Difficult.medium),
+                new Task784(784,"Перестановка регистров букв","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

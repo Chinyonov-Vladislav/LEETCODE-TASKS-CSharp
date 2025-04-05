@@ -1400,3 +1400,5 @@
 Ссылка: [https://leetcode.com/problems/longest-word-in-dictionary](https://leetcode.com/problems/longest-word-in-dictionary)  
 ✅ [Задача 763](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task763/Task763.cs) - "Partition Labels"  
 Ссылка: [https://leetcode.com/problems/partition-labels](https://leetcode.com/problems/partition-labels)  
+✅ [Задача 784](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task784/Task784.cs) - "Letter Case Permutation"  
+Ссылка: [https://leetcode.com/problems/letter-case-permutation](https://leetcode.com/problems/letter-case-permutation)  
