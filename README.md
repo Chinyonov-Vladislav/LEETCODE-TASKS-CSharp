@@ -1406,3 +1406,5 @@
 Ссылка: [https://leetcode.com/problems/binary-tree-pruning](https://leetcode.com/problems/binary-tree-pruning)  
 ✅ [Задача 890](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task890/Task890.cs) - "Find and Replace Pattern"  
 Ссылка: [https://leetcode.com/problems/find-and-replace-pattern](https://leetcode.com/problems/find-and-replace-pattern)  
+✅ [Задача 809](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task809/Task809.cs) - "Expressive Words"  
+Ссылка: [https://leetcode.com/problems/expressive-words](https://leetcode.com/problems/expressive-words)  
