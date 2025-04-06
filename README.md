@@ -1408,3 +1408,5 @@
 Ссылка: [https://leetcode.com/problems/find-and-replace-pattern](https://leetcode.com/problems/find-and-replace-pattern)  
 ✅ [Задача 809](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task809/Task809.cs) - "Expressive Words"  
 Ссылка: [https://leetcode.com/problems/expressive-words](https://leetcode.com/problems/expressive-words)  
+✅ [Задача 791](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task791/Task791.cs) - "Custom Sort String"  
+Ссылка: [https://leetcode.com/problems/custom-sort-string](https://leetcode.com/problems/custom-sort-string)  

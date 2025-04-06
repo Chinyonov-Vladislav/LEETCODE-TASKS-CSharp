@@ -704,6 +704,7 @@ using LeetCode.Tasks.task784;
 using LeetCode.Tasks.task814;
 using LeetCode.Tasks.task890;
 using LeetCode.Tasks.task809;
+using LeetCode.Tasks.task791;
 
 namespace LeetCode
 {
@@ -1418,7 +1419,8 @@ namespace LeetCode
                 new Task784(784,"Перестановка регистров букв","",Difficult.medium),
                 new Task814(814,"Обрезка бинарного дерева","",Difficult.medium),
                 new Task890(890,"Найдите и замените шаблон","",Difficult.medium),
-                new Task809(809,"Выразительные слова","",Difficult.medium)
+                new Task809(809,"Выразительные слова","",Difficult.medium),
+                new Task791(791,"Пользовательская cортировка строки","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
