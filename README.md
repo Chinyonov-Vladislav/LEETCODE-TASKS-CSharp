@@ -1412,3 +1412,5 @@
 Ссылка: [https://leetcode.com/problems/custom-sort-string](https://leetcode.com/problems/custom-sort-string)  
 ✅ [Задача 712](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task712/Task712.cs) - "Minimum ASCII Delete Sum for Two Strings"  
 Ссылка: [https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings)  
+✅ [Задача 718](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task718/Task718.cs) - "Maximum Length of Repeated Subarray"  
+Ссылка: [https://leetcode.com/problems/maximum-length-of-repeated-subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray)  
