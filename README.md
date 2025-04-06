@@ -1410,3 +1410,5 @@
 Ссылка: [https://leetcode.com/problems/expressive-words](https://leetcode.com/problems/expressive-words)  
 ✅ [Задача 791](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task791/Task791.cs) - "Custom Sort String"  
 Ссылка: [https://leetcode.com/problems/custom-sort-string](https://leetcode.com/problems/custom-sort-string)  
+✅ [Задача 712](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task712/Task712.cs) - "Minimum ASCII Delete Sum for Two Strings"  
+Ссылка: [https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings)  
