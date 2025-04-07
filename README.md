@@ -1420,3 +1420,5 @@
 Ссылка: [https://leetcode.com/problems/find-and-replace-in-string](https://leetcode.com/problems/find-and-replace-in-string)  
 ✅ [Задача 840](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task840/Task840.cs) - "Magic Squares In Grid"  
 Ссылка: [https://leetcode.com/problems/magic-squares-in-grid](https://leetcode.com/problems/magic-squares-in-grid)  
+✅ [Задача 764](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task764/Task764.cs) - "Largest Plus Sign"  
+Ссылка: [https://leetcode.com/problems/largest-plus-sign](https://leetcode.com/problems/largest-plus-sign)  

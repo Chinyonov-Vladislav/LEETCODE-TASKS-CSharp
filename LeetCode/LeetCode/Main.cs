@@ -710,6 +710,7 @@ using LeetCode.Tasks.task718;
 using LeetCode.Tasks.task725;
 using LeetCode.Tasks.task833;
 using LeetCode.Tasks.task840;
+using LeetCode.Tasks.task764;
 
 namespace LeetCode
 {
@@ -1430,7 +1431,8 @@ namespace LeetCode
                 new Task718(718,"Максимальная длина повторяющегося подмассива","",Difficult.medium),
                 new Task725(725,"Разделить связанный список на части","",Difficult.medium),
                 new Task833(833,"Найдите и замените в строке","",Difficult.medium),
-                new Task840(840,"Магические квадраты в сетке","",Difficult.medium)
+                new Task840(840,"Магические квадраты в сетке","",Difficult.medium),
+                new Task764(764,"Самый большой знак плюс","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
