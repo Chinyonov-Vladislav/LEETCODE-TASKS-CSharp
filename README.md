@@ -1422,3 +1422,5 @@
 Ссылка: [https://leetcode.com/problems/magic-squares-in-grid](https://leetcode.com/problems/magic-squares-in-grid)  
 ✅ [Задача 764](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task764/Task764.cs) - "Largest Plus Sign"  
 Ссылка: [https://leetcode.com/problems/largest-plus-sign](https://leetcode.com/problems/largest-plus-sign)  
+✅ [Задача 811](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task811/Task811.cs) - "Subdomain Visit Count"  
+Ссылка: [https://leetcode.com/problems/subdomain-visit-count](https://leetcode.com/problems/subdomain-visit-count)  
