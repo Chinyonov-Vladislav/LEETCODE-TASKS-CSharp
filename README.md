@@ -1416,3 +1416,5 @@
 Ссылка: [https://leetcode.com/problems/maximum-length-of-repeated-subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray)  
 ✅ [Задача 725](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task725/Task725.cs) - "Split Linked List in Parts"  
 Ссылка: [https://leetcode.com/problems/split-linked-list-in-parts](https://leetcode.com/problems/split-linked-list-in-parts)  
+✅ [Задача 833](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task833/Task833.cs) - "Find And Replace in String"  
+Ссылка: [https://leetcode.com/problems/find-and-replace-in-string](https://leetcode.com/problems/find-and-replace-in-string)  
