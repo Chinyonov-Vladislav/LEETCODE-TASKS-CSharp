@@ -709,6 +709,7 @@ using LeetCode.Tasks.task712;
 using LeetCode.Tasks.task718;
 using LeetCode.Tasks.task725;
 using LeetCode.Tasks.task833;
+using LeetCode.Tasks.task840;
 
 namespace LeetCode
 {
@@ -1428,7 +1429,8 @@ namespace LeetCode
                 new Task712(712,"Минимальная сумма удаления в формате ASCII для двух строк","",Difficult.medium),
                 new Task718(718,"Максимальная длина повторяющегося подмассива","",Difficult.medium),
                 new Task725(725,"Разделить связанный список на части","",Difficult.medium),
-                new Task833(833,"Найдите и замените в строке","",Difficult.medium)
+                new Task833(833,"Найдите и замените в строке","",Difficult.medium),
+                new Task840(840,"Магические квадраты в сетке","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

@@ -1418,3 +1418,5 @@
 Ссылка: [https://leetcode.com/problems/split-linked-list-in-parts](https://leetcode.com/problems/split-linked-list-in-parts)  
 ✅ [Задача 833](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task833/Task833.cs) - "Find And Replace in String"  
 Ссылка: [https://leetcode.com/problems/find-and-replace-in-string](https://leetcode.com/problems/find-and-replace-in-string)  
+✅ [Задача 840](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task840/Task840.cs) - "Magic Squares In Grid"  
+Ссылка: [https://leetcode.com/problems/magic-squares-in-grid](https://leetcode.com/problems/magic-squares-in-grid)  
