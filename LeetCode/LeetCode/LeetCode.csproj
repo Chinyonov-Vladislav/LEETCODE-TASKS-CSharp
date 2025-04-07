@@ -705,6 +705,7 @@
     <Compile Include="Tasks\task718\Task718.cs" />
     <Compile Include="Tasks\task720\Task720.cs" />
     <Compile Include="Tasks\task724\Task724.cs" />
+    <Compile Include="Tasks\task725\Task725.cs" />
     <Compile Include="Tasks\task728\Task728.cs" />
     <Compile Include="Tasks\task729\MyCalendar.cs" />
     <Compile Include="Tasks\task729\Task729.cs" />

@@ -1414,3 +1414,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings)  
 ✅ [Задача 718](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task718/Task718.cs) - "Maximum Length of Repeated Subarray"  
 Ссылка: [https://leetcode.com/problems/maximum-length-of-repeated-subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray)  
+✅ [Задача 725](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task725/Task725.cs) - "Split Linked List in Parts"  
+Ссылка: [https://leetcode.com/problems/split-linked-list-in-parts](https://leetcode.com/problems/split-linked-list-in-parts)  
