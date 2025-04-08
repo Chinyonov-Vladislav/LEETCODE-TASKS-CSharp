@@ -1432,3 +1432,5 @@
 Ссылка: [https://leetcode.com/problems/image-overlap](https://leetcode.com/problems/image-overlap)  
 ✅ [Задача 841](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task841/Task841.cs) - "Keys and Rooms"  
 Ссылка: [https://leetcode.com/problems/keys-and-rooms](https://leetcode.com/problems/keys-and-rooms)  
+✅ [Задача 848](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task848/Task848.cs) - "Shifting Letters"  
+Ссылка: [https://leetcode.com/problems/shifting-letters](https://leetcode.com/problems/shifting-letters)  
