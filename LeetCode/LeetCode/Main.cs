@@ -713,6 +713,7 @@ using LeetCode.Tasks.task840;
 using LeetCode.Tasks.task764;
 using LeetCode.Tasks.task811;
 using LeetCode.Tasks.task817;
+using LeetCode.Tasks.task820;
 
 namespace LeetCode
 {
@@ -1436,7 +1437,8 @@ namespace LeetCode
                 new Task840(840,"Магические квадраты в сетке","",Difficult.medium),
                 new Task764(764,"Самый большой знак плюс","",Difficult.medium),
                 new Task811(811,"Количество посещений поддомена","",Difficult.medium),
-                new Task817(817,"Компоненты связанного списка","",Difficult.medium)
+                new Task817(817,"Компоненты связанного списка","",Difficult.medium),
+                new Task820(820,"Краткая кодировка слов","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

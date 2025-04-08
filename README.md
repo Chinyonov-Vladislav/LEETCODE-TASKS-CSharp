@@ -1426,3 +1426,5 @@
 Ссылка: [https://leetcode.com/problems/subdomain-visit-count](https://leetcode.com/problems/subdomain-visit-count)  
 ✅ [Задача 817](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task817/Task817.cs) - "Linked List Components"  
 Ссылка: [https://leetcode.com/problems/linked-list-components](https://leetcode.com/problems/linked-list-components)  
+✅ [Задача 820](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task820/Task820.cs) - "Short Encoding of Words"  
+Ссылка: [https://leetcode.com/problems/short-encoding-of-words](https://leetcode.com/problems/short-encoding-of-words)  
