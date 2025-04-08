@@ -715,6 +715,7 @@ using LeetCode.Tasks.task811;
 using LeetCode.Tasks.task817;
 using LeetCode.Tasks.task820;
 using LeetCode.Tasks.task835;
+using LeetCode.Tasks.task841;
 
 namespace LeetCode
 {
@@ -1440,7 +1441,8 @@ namespace LeetCode
                 new Task811(811,"Количество посещений поддомена","",Difficult.medium),
                 new Task817(817,"Компоненты связанного списка","",Difficult.medium),
                 new Task820(820,"Краткая кодировка слов","",Difficult.medium),
-                new Task835(835,"Наложение изображений","",Difficult.medium)
+                new Task835(835,"Наложение изображений","",Difficult.medium),
+                new Task841(841,"Ключи и комнаты","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

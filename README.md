@@ -1430,3 +1430,5 @@
 Ссылка: [https://leetcode.com/problems/short-encoding-of-words](https://leetcode.com/problems/short-encoding-of-words)  
 ✅ [Задача 835](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task835/Task835.cs) - "Image Overlap"  
 Ссылка: [https://leetcode.com/problems/image-overlap](https://leetcode.com/problems/image-overlap)  
+✅ [Задача 841](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task841/Task841.cs) - "Keys and Rooms"  
+Ссылка: [https://leetcode.com/problems/keys-and-rooms](https://leetcode.com/problems/keys-and-rooms)  
