@@ -1424,3 +1424,5 @@
 Ссылка: [https://leetcode.com/problems/largest-plus-sign](https://leetcode.com/problems/largest-plus-sign)  
 ✅ [Задача 811](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task811/Task811.cs) - "Subdomain Visit Count"  
 Ссылка: [https://leetcode.com/problems/subdomain-visit-count](https://leetcode.com/problems/subdomain-visit-count)  
+✅ [Задача 817](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task817/Task817.cs) - "Linked List Components"  
+Ссылка: [https://leetcode.com/problems/linked-list-components](https://leetcode.com/problems/linked-list-components)  
