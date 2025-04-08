@@ -1434,3 +1434,5 @@
 Ссылка: [https://leetcode.com/problems/keys-and-rooms](https://leetcode.com/problems/keys-and-rooms)  
 ✅ [Задача 848](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task848/Task848.cs) - "Shifting Letters"  
 Ссылка: [https://leetcode.com/problems/shifting-letters](https://leetcode.com/problems/shifting-letters)  
+✅ [Задача 852](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task852/Task852.cs) - "Peak Index in a Mountain Array"  
+Ссылка: [https://leetcode.com/problems/peak-index-in-a-mountain-array](https://leetcode.com/problems/peak-index-in-a-mountain-array)  
