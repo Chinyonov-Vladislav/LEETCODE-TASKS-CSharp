@@ -1428,3 +1428,5 @@
 Ссылка: [https://leetcode.com/problems/linked-list-components](https://leetcode.com/problems/linked-list-components)  
 ✅ [Задача 820](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task820/Task820.cs) - "Short Encoding of Words"  
 Ссылка: [https://leetcode.com/problems/short-encoding-of-words](https://leetcode.com/problems/short-encoding-of-words)  
+✅ [Задача 835](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task835/Task835.cs) - "Image Overlap"  
+Ссылка: [https://leetcode.com/problems/image-overlap](https://leetcode.com/problems/image-overlap)  
