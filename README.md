@@ -1446,3 +1446,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum)  
 ✅ [Задача 240](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task240/Task240.cs) - "Search a 2D Matrix II"  
 Ссылка: [https://leetcode.com/problems/search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii)  
+✅ [Задача 304](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task304/Task304.cs) - "Range Sum Query 2D - Immutable"  
+Ссылка: [https://leetcode.com/problems/range-sum-query-2d-immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)  
