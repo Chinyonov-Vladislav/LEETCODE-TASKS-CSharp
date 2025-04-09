@@ -1444,3 +1444,5 @@
 Ссылка: [https://leetcode.com/problems/binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view)  
 ✅ [Задача 209](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task209/Task209.cs) - "Minimum Size Subarray Sum"  
 Ссылка: [https://leetcode.com/problems/minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum)  
+✅ [Задача 240](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task240/Task240.cs) - "Search a 2D Matrix II"  
+Ссылка: [https://leetcode.com/problems/search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii)  

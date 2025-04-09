@@ -722,6 +722,7 @@ using LeetCode.Tasks.task172;
 using LeetCode.Tasks.task187;
 using LeetCode.Tasks.task199;
 using LeetCode.Tasks.task209;
+using LeetCode.Tasks.task240;
 
 namespace LeetCode
 {
@@ -1454,7 +1455,8 @@ namespace LeetCode
                 new Task172(172,"Факториальные конечные нули","",Difficult.medium),
                 new Task187(187,"Повторяющиеся последовательности ДНК","",Difficult.medium),
                 new Task199(199,"Вид двоичного дерева справа","",Difficult.medium),
-                new Task209(209,"Сумма подмассива минимального размера","",Difficult.medium)
+                new Task209(209,"Сумма подмассива минимального размера","",Difficult.medium),
+                new Task240(240,"Поиск в 2D-матрице II","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
