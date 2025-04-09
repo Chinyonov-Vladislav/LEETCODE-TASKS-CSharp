@@ -718,6 +718,7 @@ using LeetCode.Tasks.task835;
 using LeetCode.Tasks.task841;
 using LeetCode.Tasks.task848;
 using LeetCode.Tasks.task852;
+using LeetCode.Tasks.task172;
 
 namespace LeetCode
 {
@@ -1446,7 +1447,8 @@ namespace LeetCode
                 new Task835(835,"Наложение изображений","",Difficult.medium),
                 new Task841(841,"Ключи и комнаты","",Difficult.medium),
                 new Task848(848,"Смещение букв","",Difficult.medium),
-                new Task852(852,"Индекс пика в горном массиве","",Difficult.medium)
+                new Task852(852,"Индекс пика в горном массиве","",Difficult.medium),
+                new Task172(172,"Факториальные конечные нули","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

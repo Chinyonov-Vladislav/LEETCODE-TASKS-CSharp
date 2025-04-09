@@ -1436,3 +1436,5 @@
 Ссылка: [https://leetcode.com/problems/shifting-letters](https://leetcode.com/problems/shifting-letters)  
 ✅ [Задача 852](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task852/Task852.cs) - "Peak Index in a Mountain Array"  
 Ссылка: [https://leetcode.com/problems/peak-index-in-a-mountain-array](https://leetcode.com/problems/peak-index-in-a-mountain-array)  
+✅ [Задача 172](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task172/Task172.cs) - "Factorial Trailing Zeroes"  
+Ссылка: [https://leetcode.com/problems/factorial-trailing-zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)  
