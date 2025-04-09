@@ -1440,3 +1440,5 @@
 Ссылка: [https://leetcode.com/problems/factorial-trailing-zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)  
 ✅ [Задача 187](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task187/Task187.cs) - "Repeated DNA Sequences"  
 Ссылка: [https://leetcode.com/problems/repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences)  
+✅ [Задача 199](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task199/Task199.cs) - "Binary Tree Right Side View"  
+Ссылка: [https://leetcode.com/problems/binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view)  
