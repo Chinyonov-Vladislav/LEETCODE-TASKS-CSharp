@@ -1438,3 +1438,5 @@
 Ссылка: [https://leetcode.com/problems/peak-index-in-a-mountain-array](https://leetcode.com/problems/peak-index-in-a-mountain-array)  
 ✅ [Задача 172](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task172/Task172.cs) - "Factorial Trailing Zeroes"  
 Ссылка: [https://leetcode.com/problems/factorial-trailing-zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)  
+✅ [Задача 187](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task187/Task187.cs) - "Repeated DNA Sequences"  
+Ссылка: [https://leetcode.com/problems/repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences)  

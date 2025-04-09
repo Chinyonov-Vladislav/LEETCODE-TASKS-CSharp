@@ -228,6 +228,7 @@
     <Compile Include="Tasks\task1848\Task1848.cs" />
     <Compile Include="Tasks\task1859\Task1859.cs" />
     <Compile Include="Tasks\task1876\Task1876.cs" />
+    <Compile Include="Tasks\task187\Task187.cs" />
     <Compile Include="Tasks\task1880\Task1880.cs" />
     <Compile Include="Tasks\Task1886\Task1886.cs" />
     <Compile Include="Tasks\task1897\Task1897.cs" />
