@@ -1442,3 +1442,5 @@
 Ссылка: [https://leetcode.com/problems/repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences)  
 ✅ [Задача 199](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task199/Task199.cs) - "Binary Tree Right Side View"  
 Ссылка: [https://leetcode.com/problems/binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view)  
+✅ [Задача 209](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task209/Task209.cs) - "Minimum Size Subarray Sum"  
+Ссылка: [https://leetcode.com/problems/minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum)  

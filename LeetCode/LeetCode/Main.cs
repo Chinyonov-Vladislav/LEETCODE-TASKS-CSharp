@@ -721,6 +721,7 @@ using LeetCode.Tasks.task852;
 using LeetCode.Tasks.task172;
 using LeetCode.Tasks.task187;
 using LeetCode.Tasks.task199;
+using LeetCode.Tasks.task209;
 
 namespace LeetCode
 {
@@ -1452,7 +1453,8 @@ namespace LeetCode
                 new Task852(852,"Индекс пика в горном массиве","",Difficult.medium),
                 new Task172(172,"Факториальные конечные нули","",Difficult.medium),
                 new Task187(187,"Повторяющиеся последовательности ДНК","",Difficult.medium),
-                new Task199(199,"Вид двоичного дерева справа","",Difficult.medium)
+                new Task199(199,"Вид двоичного дерева справа","",Difficult.medium),
+                new Task209(209,"Сумма подмассива минимального размера","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
