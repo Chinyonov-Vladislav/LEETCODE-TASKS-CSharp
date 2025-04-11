@@ -731,6 +731,7 @@ using LeetCode.Tasks.task478;
 using LeetCode.Tasks.task513;
 using LeetCode.Tasks.task647;
 using LeetCode.Tasks.task767;
+using LeetCode.Tasks.task102;
 
 namespace LeetCode
 {
@@ -1472,7 +1473,8 @@ namespace LeetCode
                 new Task478(478,"Сгенерируйте случайную точку в окружности","",Difficult.medium),
                 new Task513(513,"Найдите значение дерева в нижнем левом углу","",Difficult.medium),
                 new Task647(647,"Палиндромные подстроки","",Difficult.medium),
-                new Task767(767,"Реорганизовать строку","",Difficult.medium)
+                new Task767(767,"Реорганизовать строку","",Difficult.medium),
+                new Task102(102,"Обход бинарного дерева по уровням","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

@@ -1462,3 +1462,5 @@
 Ссылка: [https://leetcode.com/problems/palindromic-substrings](https://leetcode.com/problems/palindromic-substrings)  
 ✅ [Задача 767](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task767/Task767.cs) - "Reorganize String"  
 Ссылка: [https://leetcode.com/problems/reorganize-string](https://leetcode.com/problems/reorganize-string)  
+✅ [Задача 102](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task102/Task102.cs) - "Binary Tree Level Order Traversal"  
+Ссылка: [https://leetcode.com/problems/binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)  
