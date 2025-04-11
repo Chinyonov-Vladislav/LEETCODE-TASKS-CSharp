@@ -1456,3 +1456,5 @@
 Ссылка: [https://leetcode.com/problems/path-sum-iii](https://leetcode.com/problems/path-sum-iii)  
 ✅ [Задача 478](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task478/Task478.cs) - "Generate Random Point in a Circle"  
 Ссылка: [https://leetcode.com/problems/generate-random-point-in-a-circle](https://leetcode.com/problems/generate-random-point-in-a-circle)  
+✅ [Задача 513](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task513/Task513.cs) - "Find Bottom Left Tree Value"  
+Ссылка: [https://leetcode.com/problems/find-bottom-left-tree-value](https://leetcode.com/problems/find-bottom-left-tree-value)  

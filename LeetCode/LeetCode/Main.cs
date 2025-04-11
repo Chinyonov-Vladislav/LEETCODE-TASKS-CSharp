@@ -728,6 +728,7 @@ using LeetCode.Tasks.task413;
 using LeetCode.Tasks.task429;
 using LeetCode.Tasks.task437;
 using LeetCode.Tasks.task478;
+using LeetCode.Tasks.task513;
 
 namespace LeetCode
 {
@@ -1466,7 +1467,8 @@ namespace LeetCode
                 new Task413(413,"Арифметические срезы","",Difficult.medium),
                 new Task429(429,"Обход порядка на уровне N-арного дерева","",Difficult.medium),
                 new Task437(437,"Сумма путей III","",Difficult.medium),
-                new Task478(478,"Сгенерируйте случайную точку в окружности","",Difficult.medium)
+                new Task478(478,"Сгенерируйте случайную точку в окружности","",Difficult.medium),
+                new Task513(513,"Найдите значение дерева в нижнем левом углу","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
