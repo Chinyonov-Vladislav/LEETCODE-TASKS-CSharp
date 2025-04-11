@@ -1452,3 +1452,5 @@
 Ссылка: [https://leetcode.com/problems/arithmetic-slices](https://leetcode.com/problems/arithmetic-slices)  
 ✅ [Задача 429](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task429/Task429.cs) - "N-ary Tree Level Order Traversal"  
 Ссылка: [https://leetcode.com/problems/n-ary-tree-level-order-traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)  
+✅ [Задача 437](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task437/Task437.cs) - "Path Sum III"  
+Ссылка: [https://leetcode.com/problems/path-sum-iii](https://leetcode.com/problems/path-sum-iii)  
