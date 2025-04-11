@@ -7,6 +7,15 @@ using System.Threading.Tasks;
 
 namespace LeetCode.Tasks.task767
 {
+    /*
+     767. Реорганизовать строку
+    Дана строка s. Переставьте символы в s, чтобы любые два соседних символа не совпадали.
+    Верните любую возможную перестановку s или верните "" , если это невозможно.
+    Ограничения:
+        1 <= s.length <= 500
+        s состоит из строчных английских букв.
+    https://leetcode.com/problems/reorganize-string/description/
+     */
     public class Task767 : InfoBasicTask
     {
         public Task767(int number, string name, string description, Difficult difficult) : base(number, name, description, difficult)

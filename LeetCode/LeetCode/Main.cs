@@ -1472,13 +1472,12 @@ namespace LeetCode
                 new Task478(478,"Сгенерируйте случайную точку в окружности","",Difficult.medium),
                 new Task513(513,"Найдите значение дерева в нижнем левом углу","",Difficult.medium),
                 new Task647(647,"Палиндромные подстроки","",Difficult.medium),
-                new Task767(767,"","",Difficult.medium)
+                new Task767(767,"Реорганизовать строку","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
             hardTasks = new List<InfoBasicTask>();
             sortTasksByDifficult();
-
         }
         public void processProgramm()
         {
