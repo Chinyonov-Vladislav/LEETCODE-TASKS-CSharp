@@ -1450,3 +1450,5 @@
 Ссылка: [https://leetcode.com/problems/range-sum-query-2d-immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)  
 ✅ [Задача 413](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task413/Task413.cs) - "Arithmetic Slices"  
 Ссылка: [https://leetcode.com/problems/arithmetic-slices](https://leetcode.com/problems/arithmetic-slices)  
+✅ [Задача 429](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task429/Task429.cs) - "N-ary Tree Level Order Traversal"  
+Ссылка: [https://leetcode.com/problems/n-ary-tree-level-order-traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)  

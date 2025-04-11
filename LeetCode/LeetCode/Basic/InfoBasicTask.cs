@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 
 namespace LeetCode.Basic
 {
@@ -694,6 +695,8 @@ namespace LeetCode.Basic
             IList<IList<string>> res = printTree(root);
             printIListIListString(res, false, header);
         }
+
+
         private IList<IList<string>> printTree(TreeNode root)
         {
             int height = findHeightOfTreeNode(root);
@@ -752,6 +755,29 @@ namespace LeetCode.Basic
             }
             return result;
         }
+
+        protected void printN_aryTree(Node node,string header = "Исходное N-арное дерево",bool isFirstCall = true, int depth = 0, string path = "0")
+        {
+            if (node == null)
+            {
+                Console.WriteLine("Отсутствует корень N-арного дерева");
+            }
+            if (isFirstCall)
+            {
+                Console.WriteLine(header);
+            }
+
+            Console.WriteLine($"{new string(' ', depth * 2)}[{path}] {node.val}");
+
+            if (node.children != null)
+            {
+                for (int i = 0; i < node.children.Count; i++)
+                {
+                    printN_aryTree(node.children[i], header, false, depth + 1, path + "." + i);
+                }
+            }
+        }
+
         private int findHeightOfTreeNode(TreeNode root)
         {
             int max = 0;
