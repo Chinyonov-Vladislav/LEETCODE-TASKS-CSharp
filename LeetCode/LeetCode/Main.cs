@@ -724,6 +724,7 @@ using LeetCode.Tasks.task199;
 using LeetCode.Tasks.task209;
 using LeetCode.Tasks.task240;
 using LeetCode.Tasks.task304;
+using LeetCode.Tasks.task413;
 
 namespace LeetCode
 {
@@ -1458,7 +1459,8 @@ namespace LeetCode
                 new Task199(199,"Вид двоичного дерева справа","",Difficult.medium),
                 new Task209(209,"Сумма подмассива минимального размера","",Difficult.medium),
                 new Task240(240,"Поиск в 2D-матрице II","",Difficult.medium),
-                new Task304(304,"Запрос суммы диапазона 2D - неизменяемый","",Difficult.medium)
+                new Task304(304,"Запрос суммы диапазона 2D - неизменяемый","",Difficult.medium),
+                new Task413(413,"Арифметические срезы","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

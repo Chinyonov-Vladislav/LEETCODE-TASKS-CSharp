@@ -1448,3 +1448,5 @@
 Ссылка: [https://leetcode.com/problems/search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii)  
 ✅ [Задача 304](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task304/Task304.cs) - "Range Sum Query 2D - Immutable"  
 Ссылка: [https://leetcode.com/problems/range-sum-query-2d-immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)  
+✅ [Задача 413](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task413/Task413.cs) - "Arithmetic Slices"  
+Ссылка: [https://leetcode.com/problems/arithmetic-slices](https://leetcode.com/problems/arithmetic-slices)  
