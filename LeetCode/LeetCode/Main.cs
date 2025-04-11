@@ -727,6 +727,7 @@ using LeetCode.Tasks.task304;
 using LeetCode.Tasks.task413;
 using LeetCode.Tasks.task429;
 using LeetCode.Tasks.task437;
+using LeetCode.Tasks.task478;
 
 namespace LeetCode
 {
@@ -1464,7 +1465,8 @@ namespace LeetCode
                 new Task304(304,"Запрос суммы диапазона 2D - неизменяемый","",Difficult.medium),
                 new Task413(413,"Арифметические срезы","",Difficult.medium),
                 new Task429(429,"Обход порядка на уровне N-арного дерева","",Difficult.medium),
-                new Task437(437,"Сумма путей III","",Difficult.medium)
+                new Task437(437,"Сумма путей III","",Difficult.medium),
+                new Task478(478,"Сгенерируйте случайную точку в окружности","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

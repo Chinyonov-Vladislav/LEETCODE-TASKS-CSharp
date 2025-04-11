@@ -1454,3 +1454,5 @@
 Ссылка: [https://leetcode.com/problems/n-ary-tree-level-order-traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)  
 ✅ [Задача 437](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task437/Task437.cs) - "Path Sum III"  
 Ссылка: [https://leetcode.com/problems/path-sum-iii](https://leetcode.com/problems/path-sum-iii)  
+✅ [Задача 478](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task478/Task478.cs) - "Generate Random Point in a Circle"  
+Ссылка: [https://leetcode.com/problems/generate-random-point-in-a-circle](https://leetcode.com/problems/generate-random-point-in-a-circle)  

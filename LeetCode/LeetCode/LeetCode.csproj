@@ -616,6 +616,8 @@
     <Compile Include="Tasks\task468\Task468.cs" />
     <Compile Include="Tasks\task46\Task46.cs" />
     <Compile Include="Tasks\task476\Task476.cs" />
+    <Compile Include="Tasks\task478\Solution.cs" />
+    <Compile Include="Tasks\task478\Task478.cs" />
     <Compile Include="Tasks\task47\Task47.cs" />
     <Compile Include="Tasks\task482\Task482.cs" />
     <Compile Include="Tasks\task485\Task485.cs" />
