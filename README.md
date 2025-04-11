@@ -1458,3 +1458,5 @@
 Ссылка: [https://leetcode.com/problems/generate-random-point-in-a-circle](https://leetcode.com/problems/generate-random-point-in-a-circle)  
 ✅ [Задача 513](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task513/Task513.cs) - "Find Bottom Left Tree Value"  
 Ссылка: [https://leetcode.com/problems/find-bottom-left-tree-value](https://leetcode.com/problems/find-bottom-left-tree-value)  
+✅ [Задача 647](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task647/Task647.cs) - "Palindromic Substrings"  
+Ссылка: [https://leetcode.com/problems/palindromic-substrings](https://leetcode.com/problems/palindromic-substrings)  
