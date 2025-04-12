@@ -4,21 +4,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Xml.Linq;
 
-namespace LeetCode.Tasks.task102
+namespace LeetCode.Tasks.task103
 {
     /*
-     102. Обход бинарного дерева по уровням
-    Учитывая root двоичного дерева, верните последовательность обхода его узлов в порядке уровней. (т. е. слева направо, уровень за уровнем).
+     103. Обход бинарного дерева по уровням в зигзагообразном стиле
+    Учитывая root двоичного дерева, верните зигзагообразный порядок обхода его узлов по уровням. (то есть слева направо, затем справа налево для следующего уровня и чередуя между ними).
     Ограничения:
         Количество узлов в дереве находится в диапазоне [0, 2000].
-        -1000 <= Node.val <= 1000
-    https://leetcode.com/problems/binary-tree-level-order-traversal/description/
+        -100 <= Node.val <= 100
+    https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
      */
-    public class Task102 : InfoBasicTask
+    public class Task103 : InfoBasicTask
     {
-        public Task102(int number, string name, string description, Difficult difficult) : base(number, name, description, difficult)
+        public Task103(int number, string name, string description, Difficult difficult) : base(number, name, description, difficult)
         {
         }
 
@@ -28,8 +27,8 @@ namespace LeetCode.Tasks.task102
             printBinaryTreeUsingList(root);
             if (isValid(root))
             {
-                IList<IList<int>> result = levelOrder(root);
-                printIListIListInt(result, "Значение узлов дерева по уровням");
+                IList<IList<int>> result = zigzagLevelOrder(root);
+                printIListIListInt(result, "Значение узлов дерева по уровням в зигзагообразном виде (четные уровни - слева направо, нечетные уровни - справо налево)");
             }
             else
             {
@@ -45,8 +44,8 @@ namespace LeetCode.Tasks.task102
         {
             int lowLimitCountNodes = 0;
             int highLimitCountNodes = 2000;
-            int lowLimitValueNode = -1000;
-            int highLimitValueNode = 1000;
+            int lowLimitValueNode = -100;
+            int highLimitValueNode = 100;
             int countNodes = 0;
             if (root != null)
             {
@@ -76,13 +75,14 @@ namespace LeetCode.Tasks.task102
             }
             return true;
         }
-        private IList<IList<int>> levelOrder(TreeNode root)
+        private IList<IList<int>> zigzagLevelOrder(TreeNode root)
         {
             IList<IList<int>> result = new List<IList<int>>();
             if (root == null)
             {
                 return result;
             }
+            int numberLevel = 0;
             List<TreeNode> nodesOfCurrentLevel = new List<TreeNode>();
             Queue<TreeNode> queue = new Queue<TreeNode>();
             queue.Enqueue(root);
@@ -105,7 +105,13 @@ namespace LeetCode.Tasks.task102
                             queue.Enqueue(node.right);
                         }
                     }
+                    
                     nodesOfCurrentLevel.Clear();
+                    if (numberLevel % 2 != 0)
+                    {
+                        vals.Reverse();
+                    }
+                    numberLevel++;
                     result.Add(vals);
                 }
             }
