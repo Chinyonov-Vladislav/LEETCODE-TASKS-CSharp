@@ -1474,3 +1474,5 @@
 Ссылка: [https://leetcode.com/problems/binary-search-tree-iterator](https://leetcode.com/problems/binary-search-tree-iterator)  
 ✅ [Задача 215](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task215/Task215.cs) - "Kth Largest Element in an Array"  
 Ссылка: [https://leetcode.com/problems/kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array)  
+✅ [Задача 216](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task216/Task216.cs) - "Combination Sum III"  
+Ссылка: [https://leetcode.com/problems/combination-sum-iii](https://leetcode.com/problems/combination-sum-iii)  

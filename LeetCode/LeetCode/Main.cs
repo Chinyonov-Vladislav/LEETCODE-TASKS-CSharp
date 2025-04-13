@@ -737,6 +737,7 @@ using LeetCode.Tasks.task921;
 using LeetCode.Tasks.task153;
 using LeetCode.Tasks.task173;
 using LeetCode.Tasks.task215;
+using LeetCode.Tasks.task216;
 
 namespace LeetCode
 {
@@ -1484,7 +1485,8 @@ namespace LeetCode
                 new Task921(921,"Минимальное добавление, чтобы сделать круглые скобки допустимыми","",Difficult.medium),
                 new Task153(153,"Найдите минимум в повернутом отсортированном массиве","",Difficult.medium),
                 new Task173(173,"Итератор бинарного дерева поиска","",Difficult.medium),
-                new Task215(215,"K-й по величине элемент в массиве","",Difficult.medium)
+                new Task215(215,"K-й по величине элемент в массиве","",Difficult.medium),
+                new Task216(216,"Сумма комбинации III","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
