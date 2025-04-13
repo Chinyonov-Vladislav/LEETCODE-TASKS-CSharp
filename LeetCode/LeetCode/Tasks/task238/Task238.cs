@@ -30,7 +30,6 @@ namespace LeetCode.Tasks.task238
             printArray(nums);
             if (isValid(nums))
             {
-                printArray(nums);
                 int[] answer = productExceptSelf(nums);
                 printArray(answer, "Массив произведения элементов на остальных позициях, кроме текущей: ");
             }
