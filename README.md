@@ -1472,3 +1472,5 @@
 Ссылка: [https://leetcode.com/problems/find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)  
 ✅ [Задача 173](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task173/Task173.cs) - "Binary Search Tree Iterator"  
 Ссылка: [https://leetcode.com/problems/binary-search-tree-iterator](https://leetcode.com/problems/binary-search-tree-iterator)  
+✅ [Задача 215](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task215/Task215.cs) - "Kth Largest Element in an Array"  
+Ссылка: [https://leetcode.com/problems/kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array)  
