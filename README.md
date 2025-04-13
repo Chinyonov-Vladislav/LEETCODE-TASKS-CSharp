@@ -1468,3 +1468,5 @@
 Ссылка: [https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)  
 ✅ [Задача 921](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task921/Task921.cs) - "Minimum Add to Make Parentheses Valid"  
 Ссылка: [https://leetcode.com/problems/minimum-add-to-make-parentheses-valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)  
+✅ [Задача 153](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task153/Task153.cs) - "Find Minimum in Rotated Sorted Array"  
+Ссылка: [https://leetcode.com/problems/find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)  
