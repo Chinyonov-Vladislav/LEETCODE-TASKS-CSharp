@@ -1466,3 +1466,5 @@
 Ссылка: [https://leetcode.com/problems/binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)  
 ✅ [Задача 103](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task103/Task103.cs) - "Binary Tree Zigzag Level Order Traversal"  
 Ссылка: [https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)  
+✅ [Задача 921](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task921/Task921.cs) - "Minimum Add to Make Parentheses Valid"  
+Ссылка: [https://leetcode.com/problems/minimum-add-to-make-parentheses-valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)  

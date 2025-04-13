@@ -733,6 +733,7 @@ using LeetCode.Tasks.task647;
 using LeetCode.Tasks.task767;
 using LeetCode.Tasks.task102;
 using LeetCode.Tasks.task103;
+using LeetCode.Tasks.task921;
 
 namespace LeetCode
 {
@@ -1476,7 +1477,8 @@ namespace LeetCode
                 new Task647(647,"Палиндромные подстроки","",Difficult.medium),
                 new Task767(767,"Реорганизовать строку","",Difficult.medium),
                 new Task102(102,"Обход бинарного дерева по уровням","",Difficult.medium),
-                new Task103(103,"Обход бинарного дерева по уровням в зигзагообразном стиле","",Difficult.medium)
+                new Task103(103,"Обход бинарного дерева по уровням в зигзагообразном стиле","",Difficult.medium),
+                new Task921(921,"Минимальное добавление, чтобы сделать круглые скобки допустимыми","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
