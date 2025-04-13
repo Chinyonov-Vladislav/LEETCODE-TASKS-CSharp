@@ -32,7 +32,7 @@ namespace LeetCode.Tasks.task153
 
         public override void execute()
         {
-            int[] nums = new int[] { 3, 1, 2, 0 };
+            int[] nums = new int[] { 3, 1, 2 };
             printArray(nums);
             if (isValid(nums))
             {

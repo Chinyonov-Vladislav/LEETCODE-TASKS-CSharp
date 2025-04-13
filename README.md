@@ -1470,3 +1470,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-add-to-make-parentheses-valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)  
 ✅ [Задача 153](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task153/Task153.cs) - "Find Minimum in Rotated Sorted Array"  
 Ссылка: [https://leetcode.com/problems/find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)  
+✅ [Задача 173](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task173/Task173.cs) - "Binary Search Tree Iterator"  
+Ссылка: [https://leetcode.com/problems/binary-search-tree-iterator](https://leetcode.com/problems/binary-search-tree-iterator)  
