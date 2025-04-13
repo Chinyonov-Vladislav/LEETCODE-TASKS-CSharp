@@ -738,6 +738,7 @@ using LeetCode.Tasks.task153;
 using LeetCode.Tasks.task173;
 using LeetCode.Tasks.task215;
 using LeetCode.Tasks.task216;
+using LeetCode.Tasks.task238;
 
 namespace LeetCode
 {
@@ -1486,7 +1487,8 @@ namespace LeetCode
                 new Task153(153,"Найдите минимум в повернутом отсортированном массиве","",Difficult.medium),
                 new Task173(173,"Итератор бинарного дерева поиска","",Difficult.medium),
                 new Task215(215,"K-й по величине элемент в массиве","",Difficult.medium),
-                new Task216(216,"Сумма комбинации III","",Difficult.medium)
+                new Task216(216,"Сумма комбинации III","",Difficult.medium),
+                new Task238(238,"Произведение элементов массива, кроме текущег","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

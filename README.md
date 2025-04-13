@@ -1476,3 +1476,5 @@
 Ссылка: [https://leetcode.com/problems/kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array)  
 ✅ [Задача 216](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task216/Task216.cs) - "Combination Sum III"  
 Ссылка: [https://leetcode.com/problems/combination-sum-iii](https://leetcode.com/problems/combination-sum-iii)  
+✅ [Задача 238](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task238/Task238.cs) - "Product of Array Except Self"  
+Ссылка: [https://leetcode.com/problems/product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self)  
