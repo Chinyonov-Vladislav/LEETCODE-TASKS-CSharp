@@ -739,6 +739,7 @@ using LeetCode.Tasks.task173;
 using LeetCode.Tasks.task215;
 using LeetCode.Tasks.task216;
 using LeetCode.Tasks.task238;
+using LeetCode.Tasks.task396;
 
 namespace LeetCode
 {
@@ -1488,7 +1489,8 @@ namespace LeetCode
                 new Task173(173,"Итератор бинарного дерева поиска","",Difficult.medium),
                 new Task215(215,"K-й по величине элемент в массиве","",Difficult.medium),
                 new Task216(216,"Сумма комбинации III","",Difficult.medium),
-                new Task238(238,"Произведение элементов массива, кроме текущег","",Difficult.medium)
+                new Task238(238,"Произведение элементов массива, кроме текущег","",Difficult.medium),
+                new Task396(396,"Функция поворота","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();

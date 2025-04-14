@@ -1478,3 +1478,5 @@
 Ссылка: [https://leetcode.com/problems/combination-sum-iii](https://leetcode.com/problems/combination-sum-iii)  
 ✅ [Задача 238](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task238/Task238.cs) - "Product of Array Except Self"  
 Ссылка: [https://leetcode.com/problems/product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self)  
+✅ [Задача 396](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task396/Task396.cs) - "Rotate Function"  
+Ссылка: [https://leetcode.com/problems/rotate-function](https://leetcode.com/problems/rotate-function)  
