@@ -1484,3 +1484,5 @@
 Ссылка: [https://leetcode.com/problems/string-compression](https://leetcode.com/problems/string-compression)  
 ✅ [Задача 430](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task430/Task430.cs) - "Flatten a Multilevel Doubly Linked List"  
 Ссылка: [https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list)  
+✅ [Задача 462](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task462/Task462.cs) - "Minimum Moves to Equal Array Elements II"  
+Ссылка: [https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)  
