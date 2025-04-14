@@ -1480,3 +1480,5 @@
 Ссылка: [https://leetcode.com/problems/product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self)  
 ✅ [Задача 396](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task396/Task396.cs) - "Rotate Function"  
 Ссылка: [https://leetcode.com/problems/rotate-function](https://leetcode.com/problems/rotate-function)  
+✅ [Задача 443](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task443/Task443.cs) - "String Compression"  
+Ссылка: [https://leetcode.com/problems/string-compression](https://leetcode.com/problems/string-compression)  
