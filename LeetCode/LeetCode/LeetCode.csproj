@@ -61,6 +61,7 @@
     <Compile Include="Basic\NodeWithRandomPointer.cs" />
     <Compile Include="Basic\TaskWithTimer.cs" />
     <Compile Include="Basic\TreeNode.cs" />
+    <Compile Include="Basic\TwoDirectionalNodeWithChildrens.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -607,6 +608,7 @@
     <Compile Include="Tasks\task412\Task412.cs" />
     <Compile Include="Tasks\task423\Task423.cs" />
     <Compile Include="Tasks\task429\Task429.cs" />
+    <Compile Include="Tasks\task430\Task430.cs" />
     <Compile Include="Tasks\task434\Task434.cs" />
     <Compile Include="Tasks\task437\Task437.cs" />
     <Compile Include="Tasks\task438\Task438.cs" />

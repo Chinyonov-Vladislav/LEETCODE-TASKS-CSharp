@@ -1482,3 +1482,5 @@
 Ссылка: [https://leetcode.com/problems/rotate-function](https://leetcode.com/problems/rotate-function)  
 ✅ [Задача 443](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task443/Task443.cs) - "String Compression"  
 Ссылка: [https://leetcode.com/problems/string-compression](https://leetcode.com/problems/string-compression)  
+✅ [Задача 430](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task430/Task430.cs) - "Flatten a Multilevel Doubly Linked List"  
+Ссылка: [https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list)  

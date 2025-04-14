@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Xml.Linq;
 
 namespace LeetCode.Basic
 {
@@ -10,7 +11,7 @@ namespace LeetCode.Basic
         private string name;
         private string description;
         private Difficult difficult;
-        public InfoBasicTask(int number,string name, string description, Difficult difficult)
+        public InfoBasicTask(int number, string name, string description, Difficult difficult)
         {
             this.number = number;
             this.name = name;
@@ -25,10 +26,12 @@ namespace LeetCode.Basic
         {
             return number;
         }
-        public string getName() {
+        public string getName()
+        {
             return name;
         }
-        public string getDescription() {
+        public string getDescription()
+        {
             return description;
         }
         public abstract void execute();
@@ -38,7 +41,7 @@ namespace LeetCode.Basic
         {
             Console.WriteLine("Исходные данные не валидны!");
         }
-        protected void printValuesFromListNode(ListNode listNode, int numberCurrentNode=0)
+        protected void printValuesFromListNode(ListNode listNode, int numberCurrentNode = 0)
         {
             if (listNode == null && numberCurrentNode == 0)
             {
@@ -272,7 +275,7 @@ namespace LeetCode.Basic
             }
             else
             {
-                
+
                 for (int i = 0; i < list.Count; i++)
                 {
                     if (i == 0)
@@ -313,7 +316,7 @@ namespace LeetCode.Basic
                     {
                         Console.Write("[]");
                     }
-                    if (i == list.Count-1)
+                    if (i == list.Count - 1)
                     {
                         Console.Write($"]\n");
                     }
@@ -756,7 +759,7 @@ namespace LeetCode.Basic
             return result;
         }
 
-        protected void printN_aryTree(Node node,string header = "Исходное N-арное дерево",bool isFirstCall = true, int depth = 0, string path = "0")
+        protected void printN_aryTree(Node node, string header = "Исходное N-арное дерево", bool isFirstCall = true, int depth = 0, string path = "0")
         {
             if (node == null)
             {
@@ -778,6 +781,60 @@ namespace LeetCode.Basic
             }
         }
 
+        protected void printTreeNodeWithTwoDirectionalConnection(TwoDirectionalNodeWithChildrens root, string header = "Исходный двунаправленный связанный список")
+        {
+            List<List<int>> values = new List<List<int>>();
+            if (root == null)
+            {
+                Console.WriteLine("Двунаправленный связанный список отсутствует");
+                return;
+            }
+            Console.WriteLine($"{header}");
+            Queue<Tuple<TwoDirectionalNodeWithChildrens, int>> queue = new Queue<Tuple<TwoDirectionalNodeWithChildrens, int>>();
+            Stack<Tuple<TwoDirectionalNodeWithChildrens, int>> stack = new Stack<Tuple<TwoDirectionalNodeWithChildrens, int>>();
+            int maxLevel = 0;
+            stack.Push(new Tuple<TwoDirectionalNodeWithChildrens, int>(root, 0));
+            while (stack.Count > 0)
+            {
+                Tuple<TwoDirectionalNodeWithChildrens, int> current = stack.Pop();
+                queue.Enqueue(current);
+                if (current.Item2 > maxLevel)
+                {
+                    maxLevel = current.Item2;
+                }
+                if (current.Item1.next != null)
+                {
+                    Tuple<TwoDirectionalNodeWithChildrens, int> next = new Tuple<TwoDirectionalNodeWithChildrens, int>(current.Item1.next, current.Item2);
+                    stack.Push(next);
+                }
+                if (current.Item1.child != null)
+                {
+                    Tuple<TwoDirectionalNodeWithChildrens, int> child = new Tuple<TwoDirectionalNodeWithChildrens, int>(current.Item1.child, current.Item2+1);
+                    stack.Push(child);
+                }
+            }
+            for (int i = 0; i <= maxLevel; i++)
+            {
+                values.Add(new List<int>());
+            }
+            while (queue.Count > 0)
+            {
+                Tuple<TwoDirectionalNodeWithChildrens, int> current = queue.Dequeue();
+                values[current.Item2].Add(current.Item1.val);
+            }
+            for (int i = 0; i < values.Count; i++)
+            {
+                for (int j = 0; j < values[i].Count; j++)
+                {
+                    Console.Write($"{values[i][j]}---");
+                }
+                Console.Write($"NULL\n");
+                if (i != values.Count - 1)
+                {
+                    Console.WriteLine("|");
+                }
+            }
+        }
         private int findHeightOfTreeNode(TreeNode root)
         {
             int max = 0;

@@ -741,6 +741,7 @@ using LeetCode.Tasks.task216;
 using LeetCode.Tasks.task238;
 using LeetCode.Tasks.task396;
 using LeetCode.Tasks.task443;
+using LeetCode.Tasks.task430;
 
 namespace LeetCode
 {
@@ -1492,7 +1493,8 @@ namespace LeetCode
                 new Task216(216,"Сумма комбинации III","",Difficult.medium),
                 new Task238(238,"Произведение элементов массива, кроме текущег","",Difficult.medium),
                 new Task396(396,"Функция поворота","",Difficult.medium),
-                new Task443(443,"Сжатие строки","",Difficult.medium)
+                new Task443(443,"Сжатие строки","",Difficult.medium),
+                new Task430(430,"Сгладьте многоуровневый двусвязный список","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
