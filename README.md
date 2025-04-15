@@ -1488,3 +1488,5 @@
 Ссылка: [https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)  
 ✅ [Задача 525](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task525/Task525.cs) - "Contiguous Array"  
 Ссылка: [https://leetcode.com/problems/contiguous-array](https://leetcode.com/problems/contiguous-array)  
+✅ [Задача 560](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task560/Task560.cs) - "Subarray Sum Equals K"  
+Ссылка: [https://leetcode.com/problems/subarray-sum-equals-k](https://leetcode.com/problems/subarray-sum-equals-k)  

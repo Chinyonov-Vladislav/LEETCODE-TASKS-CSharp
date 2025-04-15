@@ -744,6 +744,7 @@ using LeetCode.Tasks.task443;
 using LeetCode.Tasks.task430;
 using LeetCode.Tasks.task462;
 using LeetCode.Tasks.task525;
+using LeetCode.Tasks.task560;
 
 namespace LeetCode
 {
@@ -1498,7 +1499,8 @@ namespace LeetCode
                 new Task443(443,"Сжатие строки","",Difficult.medium),
                 new Task430(430,"Сгладьте многоуровневый двусвязный список","",Difficult.medium),
                 new Task462(462,"Минимальные перемещения до равных элементов массива II","",Difficult.medium),
-                new Task525(525,"Непрерывный массив","",Difficult.medium)
+                new Task525(525,"Непрерывный массив","",Difficult.medium),
+                new Task560(560,"Сумма подмассива равна K","",Difficult.medium)
             };
             easyTasks = new List<InfoBasicTask>();
             mediumTasks = new List<InfoBasicTask>();
