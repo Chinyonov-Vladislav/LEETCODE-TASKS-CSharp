@@ -1486,3 +1486,5 @@
 Ссылка: [https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list)  
 ✅ [Задача 462](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task462/Task462.cs) - "Minimum Moves to Equal Array Elements II"  
 Ссылка: [https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)  
+✅ [Задача 525](https://github.com/Chinyonov-Vladislav/LEETCODE-TASKS-CSharp/blob/main/LeetCode/LeetCode/Tasks/task525/Task525.cs) - "Contiguous Array"  
+Ссылка: [https://leetcode.com/problems/contiguous-array](https://leetcode.com/problems/contiguous-array)  
